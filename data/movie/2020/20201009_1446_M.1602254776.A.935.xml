@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">hvhiiavjqmp (小魏)</metadata>
+      <metadata name="post_id">M.1602254776.A.935</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片 異型?</metadata>
+   </teiHeader>
+   <text>
+      <body author="hvhiiavjqmp (小魏)">
+         <s>
+            <w type="VE">請問</w>
+            <w type="Nep">這</w>
+            <w type="SHI">是</w>
+            <w type="Nep">哪</w>
+            <w type="Neu">一</w>
+            <w type="Nf">集</w>
+            <w type="Na">異形</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Nh">我</w>
+            <w type="D">沒有</w>
+            <w type="VC">看過</w>
+            <w type="Nep">這</w>
+            <w type="Neu">一</w>
+            <w type="Nf">集</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="VC">看</w>
+            <w type="D">不</w>
+            <w type="VG">像</w>
+            <w type="SHI">是</w>
+            <w type="D">亂</w>
+            <w type="VC">搞</w>
+            <w type="T">的</w>
+            <w type="Cbb">因為</w>
+            <w type="Ncd">前面</w>
+            <w type="V_2">有</w>
+            <w type="Nb">褔斯</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=</w>
+            <w type="FW">Q0tIu7</w>
+            <w type="FW">zv</w>
+            <w type="DASHCATEGORY">Qcw</w>
+         </s>
+      </body>
+      <title author="hvhiiavjqmp (小魏)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問</w>
+            <w type="Na">片 </w>
+            <w type="Na">異型</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </title>
+      <comment author="Goldpaper" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="SHI">是</w>
+            <w type="Na">異形</w>
+            <w type="Neu">40</w>
+            <w type="Nf">週年</w>
+            <w type="DE">的</w>
+            <w type="Na">短片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">其他</w>
+            <w type="Nf">部</w>
+         </s>
+      </comment>
+      <comment author="armorblocks" c_type="neu">
+         <s>
+            <w type="Neu">40</w>
+            <w type="Nf">週年</w>
+            <w type="Na">紀念</w>
+            <w type="Na">短片</w>
+         </s>
+      </comment>
+      <comment author="flac" c_type="neg">
+         <s>
+            <w type="Na">形</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

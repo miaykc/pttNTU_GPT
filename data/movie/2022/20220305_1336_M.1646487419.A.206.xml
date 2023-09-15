@@ -1,0 +1,845 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">hvariables (Speculative Male)</metadata>
+      <metadata name="post_id">M.1646487419.A.206</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 《茲山魚譜》青龍獎最強片登台</metadata>
+   </teiHeader>
+   <text>
+      <body author="hvariables (Speculative Male)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.chinatimes.com/newspapers/20220305001123</w>
+            <w type="DASHCATEGORY">-260112</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">chdtv</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">茲山</w>
+            <w type="Na">魚譜</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Nb">青龍獎</w>
+            <w type="Dfa">最強</w>
+            <w type="Na">片</w>
+            <w type="VA">登台</w>
+         </s>
+         <s>
+            <w type="Neu">04</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10 2022/03/05</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">中國時報</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">李承陽</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//images.chinatimes.com/newsphoto/2022</w>
+            <w type="FW">-03</w>
+            <w type="DASHCATEGORY">-05/1024/BD0300_P_01_02.jpg</w>
+         </s>
+         <s>
+            <w type="Nc">韓</w>
+            <w type="Na">演員</w>
+            <w type="Nb">薛耿求</w>
+            <w type="VJ">憑藉</w>
+            <w type="Na">電影</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">茲山</w>
+            <w type="Na">魚譜</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Neu">三</w>
+            <w type="Nf">度</w>
+            <w type="VG">封</w>
+            <w type="Nc">韓國</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nb">青龍獎</w>
+            <w type="Na">影帝</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nb">捷傑</w>
+            <w type="VD">提供</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//images.chinatimes.com/newsphoto/2022</w>
+            <w type="FW">-03</w>
+            <w type="DASHCATEGORY">-05/1024/BD0300_P_01_03.jpg</w>
+         </s>
+         <s>
+            <w type="Nb">王渝萱</w>
+            <w type="P">因</w>
+            <w type="VC">演出</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">該死</w>
+            <w type="DE">的</w>
+            <w type="Nb">阿修羅</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VC">拿下</w>
+            <w type="Nb">金馬獎</w>
+            <w type="A">最佳</w>
+            <w type="Na">女</w>
+            <w type="Na">配角</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">希望</w>
+            <w type="Na">行銷</w>
+            <w type="VD">提供</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//images.chinatimes.com/newsphoto/2022</w>
+            <w type="FW">-03</w>
+            <w type="DASHCATEGORY">-05/1024/BD0300_P_01_04.jpg</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nv">接棒</w>
+            <w type="Na">家族</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="P">由</w>
+            <w type="Nc">日本</w>
+            <w type="VH">知名</w>
+            <w type="Na">演員</w>
+            <w type="Nb">田中圭</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Ncd">左</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">永野芽郁</w>
+            <w type="VC">主演</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">車庫</w>
+            <w type="VD">提供</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">史詩級</w>
+            <w type="Nc">韓國</w>
+            <w type="Na">歷史</w>
+            <w type="Na">大片</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">茲山</w>
+            <w type="Na">魚譜</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Nc">全球</w>
+            <w type="Na">影展</w>
+            <w type="Ncd">上</w>
+            <w type="VCL">狂掃</w>
+            <w type="Neu">14</w>
+            <w type="Nf">項</w>
+            <w type="Na">大獎</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="Na">斬獲</w>
+            <w type="Neu">第42</w>
+            <w type="Nf">屆</w>
+            <w type="Nc">韓國</w>
+            <w type="Na">青龍</w>
+         </s>
+         <s>
+            <w type="Na">獎</w>
+            <w type="A">最佳</w>
+            <w type="Na">劇本</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="A">最佳</w>
+            <w type="Na">男</w>
+            <w type="Na">主角</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="A">最佳</w>
+            <w type="Na">攝影</w>
+            <w type="Caa">與</w>
+            <w type="Na">燈光</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="A">最佳</w>
+            <w type="VC">剪接</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="A">最佳</w>
+            <w type="Na">音樂</w>
+            <w type="Neu">5</w>
+            <w type="VH">大</w>
+            <w type="Na">獎項</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">以及</w>
+            <w type="Neu">第57</w>
+            <w type="Nf">屆</w>
+         </s>
+         <s>
+            <w type="Nc">韓國</w>
+            <w type="Neu">百</w>
+            <w type="VE">想</w>
+            <w type="Na">藝術</w>
+            <w type="Na">大賞</w>
+            <w type="Na">電影</w>
+            <w type="Na">部門</w>
+            <w type="Na">大賞</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="P">於</w>
+            <w type="Nc">全球</w>
+            <w type="Na">票房</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VC">吸</w>
+            <w type="Na">金</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VJ">高達</w>
+            <w type="Neu">32億</w>
+            <w type="Na">韓元</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Da">約</w>
+            <w type="Neu">7400萬</w>
+            <w type="Na">台幣</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">成為</w>
+            <w type="Nc">韓國</w>
+            <w type="Na">年度</w>
+            <w type="Nc">本土</w>
+            <w type="Na">賣座片</w>
+            <w type="DE">之</w>
+            <w type="Neu">一</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">電影</w>
+            <w type="D">將</w>
+            <w type="P">於</w>
+            <w type="Nd">3月</w>
+            <w type="Nd">11日</w>
+            <w type="P">在</w>
+            <w type="Nc">台</w>
+            <w type="VAC">上映</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">茲山魚譜</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">故事</w>
+            <w type="Na">背景</w>
+            <w type="VA">聚焦</w>
+            <w type="P">於</w>
+            <w type="Nc">朝鮮王朝</w>
+            <w type="Nd">後期</w>
+            <w type="Na">文臣</w>
+            <w type="Nb">丁若銓</w>
+            <w type="DE">的</w>
+            <w type="VH">真實</w>
+            <w type="Na">人生</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">講述</w>
+            <w type="Nd">西元</w>
+            <w type="Neu">1801年</w>
+            <w type="VH">年幼</w>
+         </s>
+         <s>
+            <w type="DE">的</w>
+            <w type="Nc">朝鮮</w>
+            <w type="Nb">純祖</w>
+            <w type="VA">繼位</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">曾祖母</w>
+            <w type="Nb">貞純</w>
+            <w type="Na">王后</w>
+            <w type="VA">垂簾聽政</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">發動</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nd">辛酉</w>
+            <w type="VC">迫害</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">於</w>
+            <w type="Nc">朝鮮</w>
+            <w type="Neqa">全</w>
+            <w type="Na">境</w>
+            <w type="VC">掃蕩</w>
+            <w type="Na">西學</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Na">學者</w>
+            <w type="Nb">丁若銓</w>
+            <w type="Cbb">因而</w>
+            <w type="P">遭受</w>
+            <w type="VC">迫害</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">被</w>
+            <w type="VC">流放</w>
+            <w type="P">至</w>
+            <w type="Nc">黑山島</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">茲山</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">長期</w>
+            <w type="VCL">深</w>
+            <w type="VCL">居</w>
+            <w type="Nc">內陸</w>
+            <w type="DE">的</w>
+            <w type="Nb">丁若銓</w>
+            <w type="D">漸漸</w>
+            <w type="VC">發展出</w>
+            <w type="P">對</w>
+            <w type="Na">魚類</w>
+            <w type="DE">的</w>
+            <w type="Na">興趣</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Ncd">那裡</w>
+            <w type="VC">遇見</w>
+            <w type="VH">好學</w>
+            <w type="Cbb">而</w>
+            <w type="Nc">家</w>
+            <w type="VH">貧</w>
+            <w type="VH">少</w>
+            <w type="Na">書</w>
+            <w type="DE">的</w>
+            <w type="Na">漁民</w>
+            <w type="Nb">昌大</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">丁若銓</w>
+            <w type="VK">驚訝</w>
+            <w type="P">於</w>
+            <w type="VH">昌大</w>
+            <w type="VH">廣泛</w>
+            <w type="DE">的</w>
+            <w type="Na">海洋</w>
+            <w type="Na">知識</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">決定</w>
+            <w type="P">以</w>
+            <w type="Nh">自身</w>
+            <w type="DE">的</w>
+            <w type="Na">學識</w>
+            <w type="VG">作為</w>
+            <w type="VC">交換</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">邀請</w>
+            <w type="Nh">他</w>
+            <w type="VC">協助</w>
+            <w type="VC">完成</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nd">茲</w>
+         </s>
+         <s>
+            <w type="Na">山魚</w>
+            <w type="Na">譜</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Neu">一</w>
+            <w type="Nf">段</w>
+            <w type="D">亦</w>
+            <w type="Na">師</w>
+            <w type="D">亦</w>
+            <w type="Na">友</w>
+            <w type="DE">的</w>
+            <w type="VH">動人</w>
+            <w type="Na">情誼</w>
+            <w type="D">就此</w>
+            <w type="VH">萌芽</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">對於</w>
+            <w type="Na">知識</w>
+            <w type="VC">傳衍</w>
+            <w type="DE">的</w>
+            <w type="Na">熱情</w>
+            <w type="Caa">與</w>
+            <w type="Na">渴望</w>
+            <w type="VK">促成</w>
+            <w type="Di">了</w>
+            <w type="Na">一</w>
+            <w type="Na">代</w>
+            <w type="Na">史</w>
+         </s>
+         <s>
+            <w type="Na">書</w>
+            <w type="DE">的</w>
+            <w type="Nv">誕生</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">該死</w>
+            <w type="DE">的</w>
+            <w type="Nb">阿修羅</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">金獎</w>
+            <w type="Na">卡司</w>
+            <w type="VB">加持</w>
+         </s>
+         <s>
+            <w type="Nes">另</w>
+            <w type="Neu">1</w>
+            <w type="Nf">部</w>
+            <w type="VJ">來自</w>
+            <w type="Nc">台灣</w>
+            <w type="DE">的</w>
+            <w type="Na">影展</w>
+            <w type="Na">佳片</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">該死</w>
+            <w type="DE">的</w>
+            <w type="Nb">阿修羅</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="D">也</w>
+            <w type="D">將</w>
+            <w type="P">在</w>
+            <w type="Nd">3月</w>
+            <w type="Nd">11日</w>
+            <w type="VAC">上映</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">電影</w>
+            <w type="VC">找來</w>
+            <w type="Nb">金獎</w>
+            <w type="Na">卡司</w>
+            <w type="VC">加持</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">豪華</w>
+            <w type="Na">演員</w>
+            <w type="Na">陣容</w>
+            <w type="VAC">集結</w>
+            <w type="Na">金馬</w>
+            <w type="Na">影帝</w>
+            <w type="Nb">莫子儀</w>
+            <w type="VC">飾演</w>
+            <w type="Na">專題</w>
+            <w type="Na">記者</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">金鐘</w>
+            <w type="Na">視后</w>
+            <w type="Nb">黃姵嘉</w>
+            <w type="VC">飾演</w>
+            <w type="VH">受害</w>
+            <w type="Na">者</w>
+            <w type="Na">家屬</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VCL">入</w>
+         </s>
+         <s>
+            <w type="VC">圍</w>
+            <w type="Nb">金馬獎</w>
+            <w type="A">最佳</w>
+            <w type="VH">新</w>
+            <w type="Na">演員</w>
+            <w type="DE">的</w>
+            <w type="Nb">黃聖球</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="D">曾</w>
+            <w type="VJ">榮獲</w>
+            <w type="Nb">金馬獎</w>
+            <w type="A">最佳</w>
+            <w type="Na">女</w>
+            <w type="Na">配角</w>
+            <w type="DE">的</w>
+            <w type="Nb">張詩盈</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">丁寧</w>
+            <w type="Caa">以及</w>
+            <w type="Nb">金穗獎</w>
+            <w type="A">最佳</w>
+         </s>
+         <s>
+            <w type="Na">演員</w>
+            <w type="DE">的</w>
+            <w type="Nb">賴澔哲</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">主演</w>
+            <w type="Nb">王渝萱</w>
+            <w type="Dfa">更</w>
+            <w type="P">憑</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">該死</w>
+            <w type="DE">的</w>
+            <w type="Nb">阿修羅</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="D">一舉</w>
+            <w type="VC">拿下</w>
+            <w type="Nd">去年</w>
+            <w type="Nb">金馬獎</w>
+            <w type="A">最佳</w>
+            <w type="Na">女</w>
+            <w type="Na">配角</w>
+            <w type="Na">獎</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="SHI">是</w>
+         </s>
+         <s>
+            <w type="Na">含金量</w>
+            <w type="VH">超高</w>
+            <w type="DE">的</w>
+            <w type="VH">堅強</w>
+            <w type="Na">演員</w>
+            <w type="Na">陣容群</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">該死</w>
+            <w type="DE">的</w>
+            <w type="Nb">阿修羅</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Nd">去年</w>
+            <w type="D">一舉</w>
+            <w type="VJ">入圍</w>
+            <w type="Neu">第58</w>
+            <w type="Nf">屆</w>
+            <w type="Nb">金馬獎</w>
+            <w type="A">最佳</w>
+            <w type="Na">原著</w>
+            <w type="Na">劇本</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="A">最佳</w>
+            <w type="Na">女</w>
+            <w type="Na">配角</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="A">最佳</w>
+            <w type="VH">新</w>
+            <w type="Na">演員</w>
+            <w type="Na">獎</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">導演</w>
+            <w type="Nb">樓一安</w>
+            <w type="P">受</w>
+            <w type="VE">報導</w>
+            <w type="Na">文學</w>
+            <w type="VC">啟發</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">雖</w>
+            <w type="P">以</w>
+            <w type="D">隨機</w>
+            <w type="VA">殺人</w>
+            <w type="VI">為</w>
+            <w type="Na">引</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">卻</w>
+            <w type="D">不</w>
+            <w type="P">對</w>
+            <w type="VC">加害</w>
+            <w type="Na">者</w>
+            <w type="Caa">或</w>
+            <w type="P">被</w>
+            <w type="VC">害</w>
+            <w type="Na">者</w>
+            <w type="VC">妄下</w>
+            <w type="Na">批判</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">透</w>
+         </s>
+         <s>
+            <w type="VCL">過</w>
+            <w type="VA">敘事</w>
+            <w type="Na">觀點</w>
+            <w type="Caa">與</w>
+            <w type="Na">人物</w>
+            <w type="Na">機緣</w>
+            <w type="VC">轉換</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">將</w>
+            <w type="VH">冷血</w>
+            <w type="Na">殺人魔</w>
+            <w type="VG">還原為</w>
+            <w type="Na">人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">多</w>
+            <w type="Na">線</w>
+            <w type="VA">敘事</w>
+            <w type="DE">的</w>
+            <w type="VE">安排</w>
+            <w type="Caa">及</w>
+            <w type="VA">反轉</w>
+            <w type="DE">的</w>
+            <w type="Na">觀點</w>
+            <w type="VH">值得</w>
+         </s>
+         <s>
+            <w type="Na">觀眾</w>
+            <w type="VA">玩味</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VB">接棒</w>
+            <w type="Na">家族</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Nc">日本</w>
+            <w type="VD">賣</w>
+            <w type="VC">破</w>
+            <w type="Neu">4億</w>
+            <w type="Na">台幣</w>
+         </s>
+         <s>
+            <w type="Nes">同</w>
+            <w type="Nf">檔</w>
+            <w type="VH">好</w>
+            <w type="Na">片</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="VJ">獲</w>
+            <w type="Neu">第45</w>
+            <w type="Nf">屆</w>
+            <w type="Nc">日本</w>
+            <w type="Na">電影</w>
+            <w type="Nb">奧斯卡</w>
+            <w type="VH">優秀</w>
+            <w type="Na">女</w>
+            <w type="Na">主角</w>
+            <w type="Na">獎</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VH">優秀</w>
+            <w type="Na">女</w>
+            <w type="Na">配角</w>
+            <w type="Na">獎</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VB">接棒</w>
+            <w type="Na">家族</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">找</w>
+         </s>
+         <s>
+            <w type="D">來</w>
+            <w type="VH">當紅</w>
+            <w type="Na">女星</w>
+            <w type="Nb">永野芽郁</w>
+            <w type="VC">飾演</w>
+            <w type="Na">女</w>
+            <w type="Na">主角</w>
+            <w type="Nb">優子</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VH">知名</w>
+            <w type="Na">男星</w>
+            <w type="Nb">田中圭</w>
+            <w type="VC">飾演</w>
+            <w type="Nb">優子</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nd">現在</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="DE">的</w>
+            <w type="Na">繼父</w>
+            <w type="Nb">森宮</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">日</w>
+         </s>
+         <s>
+            <w type="Na">劇</w>
+            <w type="Na">女神</w>
+            <w type="Nb">石原聰美</w>
+            <w type="VC">飾演</w>
+            <w type="VC">換</w>
+            <w type="Di">過</w>
+            <w type="Neqa">許多</w>
+            <w type="Na">伴侶</w>
+            <w type="DE">的</w>
+            <w type="Na">母親</w>
+            <w type="Nb">梨花</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">電影</w>
+            <w type="P">在</w>
+            <w type="Nc">日本</w>
+            <w type="VAC">上映</w>
+            <w type="Neu">10</w>
+            <w type="Nf">周</w>
+            <w type="VJ">擁有</w>
+            <w type="Da">將近</w>
+            <w type="Neu">130萬</w>
+            <w type="Na">人次</w>
+         </s>
+         <s>
+            <w type="VC">觀影</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">票房</w>
+            <w type="VD">賣破</w>
+            <w type="Neu">17億</w>
+            <w type="Na">日幣</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Da">約</w>
+            <w type="Neu">4.1億</w>
+            <w type="Na">台幣</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">#</w>
+            <w type="VA">敘事</w>
+            <w type="FW"> #</w>
+            <w type="Nc">韓國</w>
+            <w type="FW"> #</w>
+            <w type="A">最佳</w>
+            <w type="FW"> #</w>
+            <w type="Nb">阿修羅</w>
+            <w type="FW"> #</w>
+            <w type="Na">演員</w>
+         </s>
+         <s>
+            <w type="Na">佛</w>
+            <w type="D">沒</w>
+            <w type="VE">說</w>
+            <w type="A">小乘</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">大乘</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nb">上座部</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">馬哈希</w>
+            <w type="Na">尊者</w>
+            <w type="Nb">帝釋</w>
+            <w type="D">所問經</w>
+            <w type="VE">講記</w>
+            <w type="Neu">77</w>
+            <w type="Nf">頁</w>
+            <w type="VC">拆穿</w>
+            <w type="VH">假</w>
+            <w type="Na">佛法</w>
+            <w type="Nb">大乘</w>
+            <w type="DE">的</w>
+            <w type="Na">騙局</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">上座部</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">明昆</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="A">南傳</w>
+            <w type="Na">菩薩道</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="SHI">是</w>
+            <w type="Nb">真</w>
+            <w type="Nb">釋迦牟尼佛</w>
+            <w type="DE">的</w>
+            <w type="Na">菩薩</w>
+            <w type="VH">成佛</w>
+            <w type="DE">之</w>
+            <w type="Na">道</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">大乘</w>
+            <w type="SHI">是</w>
+            <w type="VH">假</w>
+            <w type="Na">菩薩</w>
+            <w type="VH">成佛</w>
+            <w type="DE">之</w>
+            <w type="Na">道</w>
+         </s>
+         <s>
+            <w type="Nb">妙法蓮華經</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">華嚴經</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">心經</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">金剛經</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">梵網經</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">菩薩</w>
+            <w type="VC">戒</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">圓覺經</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">楞嚴經</w>
+            <w type="SHI">是</w>
+            <w type="Nb">大乘</w>
+            <w type="VH">假</w>
+            <w type="Na">佛經</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">阿彌陀佛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">藥師佛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">大日</w>
+            <w type="Nb">如來</w>
+            <w type="SHI">是</w>
+            <w type="Nb">大乘</w>
+            <w type="VH">假</w>
+            <w type="Na">佛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE">      </w>
+            <w type="Nb">觀世音</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">維摩詰 </w>
+            <w type="Nb">龍樹</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">地藏王</w>
+            <w type="SHI">是</w>
+            <w type="Nb">大乘</w>
+            <w type="VH">假</w>
+            <w type="Na">菩薩</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.ptt.cc/bbs/soul/M.1584460614</w>
+            <w type="PERIODCATEGORY">.A.E88</w>
+            <w type="FW">.</w>
+            <w type="FW">html</w>
+         </s>
+         <s>
+            <w type="Nb">上座部</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">目犍連</w>
+            <w type="Nb">子</w>
+            <w type="Nb">帝須</w>
+            <w type="P">和</w>
+            <w type="Nep">那</w>
+            <w type="D">先</w>
+            <w type="VHC">破</w>
+            <w type="Na">偽經</w>
+            <w type="Nb">大乘</w>
+            <w type="Nc">十方</w>
+            <w type="Nes">諸</w>
+            <w type="Na">佛</w>
+         </s>
+      </body>
+      <title author="hvariables (Speculative Male)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">茲山</w>
+            <w type="Na">魚譜</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Nb">青龍獎</w>
+            <w type="Na">最強片</w>
+            <w type="VA">登台</w>
+         </s>
+      </title>
+      <comment author="msa8529" c_type="pos">
+         <s>
+            <w type="VE">想</w>
+            <w type="VC">看</w>
+            <w type="Nb">茲山</w>
+            <w type="Na">魚譜</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

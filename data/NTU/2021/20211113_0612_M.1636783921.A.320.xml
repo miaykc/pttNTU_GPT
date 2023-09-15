@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ann141414 (小安)</metadata>
+      <metadata name="post_id">M.1636783921.A.320</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] OLED</metadata>
+   </teiHeader>
+   <text>
+      <body author="ann141414 (小安)">
+         <s>
+            <w type="Dfa">好</w>
+            <w type="VE">想</w>
+            <w type="VC">買</w>
+            <w type="FW">OLED</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/TPPaMd</w>
+            <w type="FW">P.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/f</w>
+            <w type="FW">UCmiTe.jpg</w>
+         </s>
+      </body>
+      <title author="ann141414 (小安)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> OLED</w>
+         </s>
+      </title>
+      <comment author="cuteSquirrel" c_type="neu">
+         <s>
+            <w type="Dk">那</w>
+            <w type="FW">MiniLED</w>
+            <w type="D">可以</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="hippo130" c_type="neg">
+         <s>
+            <w type="Na">面板</w>
+            <w type="Neu">三</w>
+            <w type="I">喵</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

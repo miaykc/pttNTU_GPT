@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">wu0h96 (喜感)</metadata>
+      <metadata name="post_id">M.1658130415.A.CA9</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈票] 《等女孩戀愛時》特映 今天</metadata>
+   </teiHeader>
+   <text>
+      <body author="wu0h96 (喜感)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/jf</w>
+            <w type="FW">Xjd</w>
+            <w type="FW">AJ.jpg</w>
+         </s>
+         <s>
+            <w type="Na">片名</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="P">當</w>
+            <w type="Na">女孩</w>
+            <w type="VH">戀愛</w>
+            <w type="Ng">時</w>
+         </s>
+         <s>
+            <w type="Na">地點</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">哈拉</w>
+            <w type="Nc">影城</w>
+         </s>
+         <s>
+            <w type="Na">日期</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">7/18</w>
+            <w type="Neu">(</w>
+            <w type="Neu">一</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> 19</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">30</w>
+         </s>
+         <s>
+            <w type="Na">張數</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">2</w>
+         </s>
+         <s>
+            <w type="Da">只</w>
+            <w type="VK">需要</w>
+            <w type="VH">出現</w>
+            <w type="P">在</w>
+            <w type="Nc">現場</w>
+            <w type="FW">～</w>
+         </s>
+      </body>
+      <title author="wu0h96 (喜感)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Cab">等</w>
+            <w type="Na">女孩</w>
+            <w type="VH">戀愛</w>
+            <w type="Ng">時</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VA">特映</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">今天</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

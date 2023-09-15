@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Ginpunch (南城阿鬼)</metadata>
+      <metadata name="post_id">M.1578074264.A.BC0</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 明天要書評報告書還沒有看完怎麼辦</metadata>
+   </teiHeader>
+   <text>
+      <body author="Ginpunch (南城阿鬼)">
+         <s>
+            <w type="P">如</w>
+            <w type="Na">題</w>
+         </s>
+         <s>
+            <w type="Nd">明天</w>
+            <w type="D">要</w>
+            <w type="VD">交</w>
+            <w type="Na">書評</w>
+            <w type="Na">報告</w>
+            <w type="Caa">還</w>
+            <w type="V_2">有</w>
+            <w type="D">口頭</w>
+            <w type="VE">報告</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="Nh">我</w>
+            <w type="Cbb">連</w>
+            <w type="Na">書</w>
+            <w type="D">都</w>
+            <w type="D">還</w>
+            <w type="VC">看</w>
+            <w type="D">不</w>
+            <w type="VC">完</w>
+         </s>
+         <s>
+            <w type="D">該</w>
+            <w type="VH">怎麼辦</w>
+            <w type="FW">ㄚ</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="Nc">線</w>
+            <w type="Cab">等</w>
+            <w type="VH"> 急</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/jHznip</w>
+            <w type="Neu">7.gif</w>
+         </s>
+      </body>
+      <title author="Ginpunch (南城阿鬼)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">明天</w>
+            <w type="VC">要</w>
+            <w type="Na">書評</w>
+            <w type="Na">報告書</w>
+            <w type="D">還</w>
+            <w type="D">沒有</w>
+            <w type="VC">看完</w>
+            <w type="VH">怎麼辦</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

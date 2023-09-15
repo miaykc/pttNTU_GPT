@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">arsl400 (dark hatter)</metadata>
+      <metadata name="post_id">M.1586578185.A.5B3</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[負雷] 魔髮精靈唱遊世界:兒童薩諾斯</metadata>
+   </teiHeader>
+   <text>
+      <body author="arsl400 (dark hatter)">
+         <s>
+            <w type="Nc">夢工廠</w>
+            <w type="Nd">最近</w>
+            <w type="D">真的</w>
+            <w type="D">快</w>
+            <w type="VJ">沒</w>
+            <w type="Na">梗</w>
+            <w type="T">了</w>
+         </s>
+         <s>
+            <w type="VH">幼稚</w>
+            <w type="DE">的</w>
+            <w type="Na">流行歌</w>
+            <w type="D">重複</w>
+            <w type="VH">出現</w>
+         </s>
+         <s>
+            <w type="D">根本</w>
+            <w type="VJ">沒</w>
+            <w type="Na">劇情</w>
+         </s>
+         <s>
+            <w type="VC">蒐集</w>
+            <w type="Neu">六</w>
+            <w type="Nf">條</w>
+            <w type="Na">弦</w>
+            <w type="D">根本</w>
+            <w type="Nb">薩諾斯</w>
+         </s>
+      </body>
+      <title author="arsl400 (dark hatter)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VJ">負</w>
+            <w type="Na">雷</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">魔髮</w>
+            <w type="Na">精靈</w>
+            <w type="VCL">唱</w>
+            <w type="VCL">遊</w>
+            <w type="Nc">世界</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Na">兒童</w>
+            <w type="Nb">薩諾斯</w>
+         </s>
+      </title>
+      <comment author="rightwheel" c_type="neu">
+         <s>
+            <w type="I">喔</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="NX9999" c_type="pos">
+         <s>
+            <w type="D">真的</w>
+         </s>
+      </comment>
+      <comment author="nojoe" c_type="pos">
+         <s>
+            <w type="Nb">米婭</w>
+            <w type="DE">的</w>
+            <w type="Na">精靈</w>
+            <w type="Na">王國</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="P">給</w>
+            <w type="Na">小朋友</w>
+            <w type="VC">看</w>
+            <w type="DE">得</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

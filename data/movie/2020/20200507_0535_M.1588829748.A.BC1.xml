@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">joycefox (小狐狸)</metadata>
+      <metadata name="post_id">M.1588829748.A.BC1</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[  雷] 無題</metadata>
+   </teiHeader>
+   <text>
+      <body author="joycefox (小狐狸)">
+         <s>
+            <w type="Nb">雷文</w>
+            <w type="VH">防</w>
+            <w type="Na">雷</w>
+            <w type="Na">資訊頁</w>
+         </s>
+         <s>
+            <w type="FW">~~~~~~~~~~~~~~~~~~~</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">雷文 </w>
+            <w type="Na">主文</w>
+            <w type="Na">分隔線</w>
+            <w type="FW"> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</w>
+         </s>
+      </body>
+      <title author="joycefox (小狐狸)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="WHITESPACE">  </w>
+            <w type="Nb">雷</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">無</w>
+            <w type="Na">題</w>
+         </s>
+      </title>
+      <comment author="Ga1axyNote7" c_type="neg">
+         <s>
+            <w type="VH">好好笑</w>
+            <w type="T">喔</w>
+            <w type="VHC">笑死</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="Ga1axyNote7" c_type="neg">
+         <s>
+            <w type="Na">幽默感</w>
+            <w type="D">真</w>
+            <w type="VH">多</w>
+         </s>
+      </comment>
+      <comment author="VOT1077" c_type="pos">
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="VH">大大無私</w>
+            <w type="DE">地</w>
+            <w type="VJ">分享</w>
+         </s>
+      </comment>
+      <comment author="sirius65482" c_type="neg">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">片</w>
+            <w type="VH">好看</w>
+         </s>
+      </comment>
+      <comment author="a110016" c_type="neg">
+         <s>
+            <w type="VK">喜歡</w>
+            <w type="Nh">你</w>
+            <w type="VHC">溫暖</w>
+            <w type="DE">的</w>
+            <w type="Na">文字</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">洋溢</w>
+            <w type="Di">著</w>
+            <w type="VH">滿滿</w>
+            <w type="DE">的</w>
+            <w type="VH">幸福</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+      <comment author="gogin" c_type="neg">
+         <s>
+            <w type="VL">好</w>
+            <w type="Na">雷</w>
+         </s>
+      </comment>
+      <comment author="Neps" c_type="neg">
+         <s>
+            <w type="VH">爆雷</w>
+            <w type="T">了</w>
+            <w type="T">啦</w>
+         </s>
+      </comment>
+      <comment author="PttGod" c_type="neg">
+         <s>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

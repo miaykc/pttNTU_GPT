@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">xhakiboo (xhakiboo)</metadata>
+      <metadata name="post_id">M.1585415496.A.420</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 你跟我說這個 我有什麼辦法</metadata>
+   </teiHeader>
+   <text>
+      <body author="xhakiboo (xhakiboo)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/aFdJDr1</w>
+            <w type="PERIODCATEGORY">.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Ndki4ig.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/XQhg</w>
+            <w type="FW">Sy</w>
+            <w type="FW">D.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/mU2tPwI.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/8</w>
+            <w type="FW">XjFtCW.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/W4Z2</w>
+            <w type="FW">kh</w>
+            <w type="FW">N.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/k</w>
+            <w type="FW">S1</w>
+            <w type="FW">yKw</w>
+            <w type="Neu">7</w>
+            <w type="FW">.jpg</w>
+         </s>
+      </body>
+      <title author="xhakiboo (xhakiboo)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">你</w>
+            <w type="P">跟</w>
+            <w type="Nh">我</w>
+            <w type="VE">說</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="V_2">有</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">辦法</w>
+         </s>
+      </title>
+      <comment author="cwh0105" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="Nb">大西沙織</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

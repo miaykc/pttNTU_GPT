@@ -1,0 +1,607 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">pttmovielove (菲林萬歲)</metadata>
+      <metadata name="post_id">M.1593665766.A.7CF</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[影評] 謀財真要命《死因無可疑》黃秋生 林嘉欣</metadata>
+   </teiHeader>
+   <text>
+      <body author="pttmovielove (菲林萬歲)">
+         <s>
+            <w type="VB">謀財</w>
+            <w type="D">真</w>
+            <w type="VH">要命</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">死因</w>
+            <w type="D">無</w>
+            <w type="VH">可疑</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//mypaper.pchome.com.tw/jolie</w>
+            <w type="Neu">064</w>
+            <w type="FW">/post/1380347613</w>
+            <w type="WHITESPACE">   </w>
+            <w type="Nb">喬伊</w>
+            <w type="Na">電影</w>
+            <w type="Na">隨想</w>
+         </s>
+         <s>
+            <w type="Nb">喬伊</w>
+         </s>
+         <s>
+            <w type="Na">導演</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">袁劍偉</w>
+         </s>
+         <s>
+            <w type="VC">主演</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">黄秋生</w>
+            <w type="FW"> / </w>
+            <w type="Nb">林嘉欣</w>
+            <w type="FW"> / </w>
+            <w type="Nb">陳家樂</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">廖啟智</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">歐陽偉豪</w>
+         </s>
+         <s>
+            <w type="Na">死因</w>
+            <w type="D">無</w>
+            <w type="VH">可疑</w>
+            <w type="VC">描述</w>
+            <w type="VC">描述</w>
+            <w type="Nb">陳家樂</w>
+            <w type="VC">飾演</w>
+            <w type="Neu">一</w>
+            <w type="Nf">名</w>
+            <w type="Na">保險員</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">經常</w>
+            <w type="VC">遇到</w>
+            <w type="Neu">一</w>
+            <w type="Nf">對</w>
+            <w type="VK">奇怪</w>
+            <w type="DE">的</w>
+            <w type="Na">夫妻</w>
+            <w type="P">以</w>
+            <w type="Nes">各</w>
+            <w type="Nf">種</w>
+            <w type="Na">方式</w>
+            <w type="D">要</w>
+            <w type="VH">保險</w>
+         </s>
+         <s>
+            <w type="Na">金</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">不久</w>
+            <w type="VE">發現</w>
+            <w type="V_2">有</w>
+            <w type="Nf">些</w>
+            <w type="Na">人</w>
+            <w type="D">忽然</w>
+            <w type="VH">失蹤</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="VG">成為</w>
+            <w type="Nep">這</w>
+            <w type="Nf">對</w>
+            <w type="Na">夫妻</w>
+            <w type="Nes">下</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">目標</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">根據</w>
+            <w type="Nb">貴志祐介</w>
+            <w type="Na">經典</w>
+            <w type="VH">暢銷</w>
+            <w type="Na">小說</w>
+            <w type="VH">黑暗</w>
+            <w type="DE">之</w>
+            <w type="Nc">家</w>
+            <w type="VC">改編</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">之前</w>
+            <w type="P">被</w>
+            <w type="VC">拍</w>
+            <w type="Di">過</w>
+            <w type="Nc">日</w>
+            <w type="Nc">韓</w>
+            <w type="Na">版本</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">版本</w>
+            <w type="Na">故事</w>
+            <w type="Dfa">比較</w>
+            <w type="VH">接近</w>
+         </s>
+         <s>
+            <w type="Na">韓版</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">同樣</w>
+            <w type="VE">交代</w>
+            <w type="Na">男</w>
+            <w type="Na">主角</w>
+            <w type="Nd">小時候</w>
+            <w type="Cbb">因為</w>
+            <w type="Na">哥哥</w>
+            <w type="VJ">遭到</w>
+            <w type="VC">霸凌</w>
+            <w type="D">沒</w>
+            <w type="VC">伸出</w>
+            <w type="Na">援手</w>
+            <w type="Cbb">因此</w>
+            <w type="Na">哥哥</w>
+            <w type="VA">自殺</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">弟弟</w>
+            <w type="VA">自責</w>
+            <w type="VH">不已</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">從此</w>
+            <w type="D">盡量</w>
+            <w type="VH">樂心</w>
+            <w type="VA">助人</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="VC">看過</w>
+            <w type="Na">小說</w>
+            <w type="Caa">或者</w>
+            <w type="SHI">是</w>
+            <w type="Na">電影</w>
+            <w type="D">大概</w>
+            <w type="D">可</w>
+            <w type="VK">知</w>
+            <w type="Na">丈夫</w>
+            <w type="DE">的</w>
+            <w type="Na">角色</w>
+            <w type="D">其實</w>
+            <w type="Na">戲份</w>
+            <w type="D">不</w>
+            <w type="VG">算</w>
+            <w type="VH">多</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">主要</w>
+            <w type="SHI">是</w>
+            <w type="P">以</w>
+            <w type="Na">陳家樂</w>
+            <w type="VI">為主</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">因</w>
+         </s>
+         <s>
+            <w type="Nep">此</w>
+            <w type="Nb">黃秋生</w>
+            <w type="Na">戲份</w>
+            <w type="VG">算是</w>
+            <w type="Na">男配</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">韓版</w>
+            <w type="Na">丈夫</w>
+            <w type="Dfa">比較</w>
+            <w type="VH">面目可憎</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">黃秋生</w>
+            <w type="DE">的</w>
+            <w type="Na">詮釋</w>
+            <w type="Na">方式</w>
+            <w type="Dfa">比較</w>
+            <w type="VH">詭異</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">要求</w>
+            <w type="Na">男</w>
+            <w type="VC">主</w>
+         </s>
+         <s>
+            <w type="Na">角</w>
+            <w type="VA">來</w>
+            <w type="Nc">家</w>
+            <w type="Ncd">裡</w>
+            <w type="VE">談</w>
+            <w type="Na">保險</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">卻</w>
+            <w type="VE">目睹</w>
+            <w type="Di">了</w>
+            <w type="Na">繼子</w>
+            <w type="VA">上吊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">從此</w>
+            <w type="Nep">這</w>
+            <w type="Nf">對</w>
+            <w type="Na">夫妻倆</w>
+            <w type="D">經常</w>
+            <w type="D">三不五時</w>
+            <w type="VA">上門</w>
+            <w type="VA">討錢</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">林嘉欣</w>
+            <w type="DE">的</w>
+            <w type="Na">角色</w>
+            <w type="D">大概</w>
+            <w type="VCL">過</w>
+            <w type="Di">了</w>
+            <w type="Neqa">半</w>
+            <w type="Na">小時</w>
+            <w type="Ng">後</w>
+            <w type="Da">才</w>
+            <w type="VH">出現</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">經由</w>
+            <w type="Nh">他人</w>
+            <w type="Dk">大致上</w>
+            <w type="VK">得知</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">人</w>
+            <w type="D">似乎</w>
+            <w type="Dfa">有些</w>
+            <w type="VHC">可憐</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">類似</w>
+         </s>
+         <s>
+            <w type="Na">韓版</w>
+            <w type="DE">的</w>
+            <w type="Na">視角</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">版本</w>
+            <w type="P">藉由</w>
+            <w type="Na">昆蟲</w>
+            <w type="A">母</w>
+            <w type="Na">螳螂</w>
+            <w type="D">會</w>
+            <w type="VC">吃掉</w>
+            <w type="A">公</w>
+            <w type="Na">螳螂</w>
+            <w type="DE">的</w>
+            <w type="Na">生態</w>
+            <w type="VL">讓</w>
+            <w type="Na">觀眾</w>
+            <w type="Dfa">更</w>
+            <w type="VH">清楚</w>
+            <w type="Na">角色</w>
+            <w type="Caa">與</w>
+            <w type="Na">目的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">其</w>
+         </s>
+         <s>
+            <w type="D">實演</w>
+            <w type="P">到</w>
+            <w type="Neqa">一半</w>
+            <w type="Dk">大致上</w>
+            <w type="VK">知道</w>
+            <w type="Na">輪廓</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">剩下</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="VJ">帶有</w>
+            <w type="VB">贖罪</w>
+            <w type="Na">意味</w>
+            <w type="DE">的</w>
+            <w type="Na">男</w>
+            <w type="Na">主角</w>
+            <w type="VL">開始</w>
+            <w type="VH">歇斯底里</w>
+            <w type="VC">尋找</w>
+            <w type="Na">真相</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+         </s>
+         <s>
+            <w type="VHC">停</w>
+            <w type="VJ">受到</w>
+            <w type="Nb">林嘉欣</w>
+            <w type="VC">騷擾</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nes">後</w>
+            <w type="Neqa">半</w>
+            <w type="Nf">部</w>
+            <w type="DE">的</w>
+            <w type="VA">打鬥</w>
+            <w type="Dfa">頗</w>
+            <w type="VH">驚悚</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">用</w>
+            <w type="Na">手電筒</w>
+            <w type="D">忽</w>
+            <w type="VH">暗</w>
+            <w type="D">忽</w>
+            <w type="VH">明</w>
+            <w type="Na">效果</w>
+            <w type="Dfa">還</w>
+            <w type="VH">不錯</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">陳家樂</w>
+            <w type="Cbb">因為</w>
+            <w type="Na">男</w>
+            <w type="Na">主角</w>
+            <w type="VC">設定</w>
+            <w type="VH">中規中矩</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nb">黃秋生</w>
+            <w type="DE">的</w>
+            <w type="VH">詭異</w>
+            <w type="Ng">之外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">林嘉欣</w>
+            <w type="P">繼</w>
+            <w type="VA">救命</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">怪物</w>
+            <w type="Ng">之後</w>
+            <w type="D">再度</w>
+            <w type="VC">演出</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VH">嚇人</w>
+            <w type="DE">的</w>
+            <w type="Na">角色</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">演出</w>
+            <w type="Dfa">相當</w>
+            <w type="VH">優異</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="D">甚至</w>
+            <w type="D">可以</w>
+            <w type="VE">說</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+            <w type="Cbb">如果</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Nb">林嘉欣</w>
+            <w type="VC">演出</w>
+            <w type="D">可能</w>
+            <w type="D">就</w>
+            <w type="D">不</w>
+            <w type="Dfa">夠</w>
+            <w type="VH">嚇人</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VA">收尾</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">版本</w>
+            <w type="VH">多</w>
+            <w type="Di">了</w>
+            <w type="Neqa">一些</w>
+            <w type="Na">東西</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">與</w>
+            <w type="Nc">日</w>
+            <w type="Nc">韓</w>
+            <w type="D">不</w>
+            <w type="Dfa">太</w>
+            <w type="VH">相同</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">死因</w>
+            <w type="D">無</w>
+            <w type="VH">可疑</w>
+            <w type="P">根據</w>
+            <w type="Nb">貴志祐介</w>
+            <w type="Na">經典</w>
+            <w type="VH">暢銷</w>
+            <w type="Na">小說</w>
+            <w type="VH">黑暗</w>
+            <w type="DE">之</w>
+            <w type="Nc">家</w>
+            <w type="VC">改編</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">描述</w>
+            <w type="Nb">陳家樂</w>
+            <w type="VC">飾演</w>
+            <w type="DE">的</w>
+            <w type="Na">保險員</w>
+            <w type="Caa">與</w>
+            <w type="Neu">一</w>
+            <w type="Nf">對</w>
+            <w type="Na">夫</w>
+         </s>
+         <s>
+            <w type="Na">妻</w>
+            <w type="VB">謀財害命</w>
+            <w type="DE">的</w>
+            <w type="Na">故事</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">輕微</w>
+            <w type="VE">探討</w>
+            <w type="Na">保險員</w>
+            <w type="Caa">與</w>
+            <w type="P">被保險</w>
+            <w type="Na">者</w>
+            <w type="D">互相</w>
+            <w type="VC">利用</w>
+            <w type="DE">的</w>
+            <w type="Na">關係</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">氣氛</w>
+            <w type="VC">渲染</w>
+            <w type="VH">得宜</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">林嘉欣</w>
+         </s>
+         <s>
+            <w type="P">與</w>
+            <w type="Nb">黃秋生</w>
+            <w type="DE">的</w>
+            <w type="VH">詭譎</w>
+            <w type="VC">演出</w>
+            <w type="Dfa">相當</w>
+            <w type="VH">出色</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">能夠</w>
+            <w type="D">再度</w>
+            <w type="VC">改編</w>
+            <w type="Dk">可見</w>
+            <w type="Na">小說</w>
+            <w type="V_2">有</w>
+            <w type="A">一定</w>
+            <w type="DE">的</w>
+            <w type="Na">水準</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">死因</w>
+            <w type="D">無</w>
+            <w type="VH">可疑</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/WwN3</w>
+            <w type="FW">LlTB_3</w>
+            <w type="ETCCATEGORY">U</w>
+         </s>
+      </body>
+      <title author="pttmovielove (菲林萬歲)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">影評</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VB">謀財</w>
+            <w type="D">真</w>
+            <w type="VH">要命</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">死因</w>
+            <w type="D">無</w>
+            <w type="VH">可</w>
+            <w type="VK">疑</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Nb">黃秋生</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">林嘉欣</w>
+         </s>
+      </title>
+      <comment author="cherry20163" c_type="pos">
+         <s>
+            <w type="VE">請問</w>
+            <w type="D">會</w>
+            <w type="VH">血腥</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="pttmovielove" c_type="neu">
+         <s>
+            <w type="D">完全</w>
+            <w type="D">不會</w>
+            <w type="VH">血腥</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">偏</w>
+            <w type="Na">氛圍</w>
+            <w type="Caa">與</w>
+            <w type="Na">劇情</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">所</w>
+            <w type="VC">營造</w>
+            <w type="DE">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">驚悚</w>
+            <w type="VH">懸疑</w>
+         </s>
+      </comment>
+      <comment author="a9a99" c_type="pos">
+         <s>
+            <w type="Nb">林嘉欣</w>
+            <w type="Dfa">很</w>
+            <w type="VL">會</w>
+            <w type="VC">演</w>
+            <w type="Nep">這</w>
+            <w type="Nf">種</w>
+            <w type="VH">陰險</w>
+            <w type="DE">的</w>
+            <w type="Na">角色</w>
+         </s>
+      </comment>
+      <comment author="InaLiang" c_type="pos">
+         <s>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="V_2">有</w>
+            <w type="Dfa">很</w>
+            <w type="VH">噁心</w>
+            <w type="Caa">和</w>
+            <w type="Neqa">很多</w>
+            <w type="Na">血</w>
+            <w type="DE">的</w>
+            <w type="Na">畫面</w>
+            <w type="T">喔</w>
+         </s>
+      </comment>
+      <comment author="c654321000" c_type="neg">
+         <s>
+            <w type="VE">說</w>
+            <w type="D">不會</w>
+            <w type="VH">血腥</w>
+            <w type="SHI">是</w>
+            <w type="V_2">有</w>
+            <w type="VC">看</w>
+            <w type="Di">過</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="iamlittlede" c_type="pos">
+         <s>
+            <w type="Neqa">一點點</w>
+            <w type="Na">血</w>
+            <w type="T">啦</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">不</w>
+            <w type="P">到</w>
+            <w type="VH">血腥</w>
+            <w type="DE">的</w>
+            <w type="Na">地步</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">剛</w>
+            <w type="VC">看完</w>
+            <w type="VCL">回到</w>
+            <w type="Nc">家</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">算是</w>
+            <w type="D">不</w>
+         </s>
+      </comment>
+      <comment author="iamlittlede" c_type="neu">
+         <s>
+            <w type="VH">錯</w>
+            <w type="DE">的</w>
+            <w type="Na">片子</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

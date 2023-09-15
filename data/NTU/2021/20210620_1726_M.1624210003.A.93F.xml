@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">mmm87963 (趟古)</metadata>
+      <metadata name="post_id">M.1624210003.A.93F</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 垃圾雙標圖奇 還我超負荷</metadata>
+   </teiHeader>
+   <text>
+      <body author="mmm87963 (趟古)">
+         <s>
+            <w type="Na">白癡</w>
+            <w type="VF">圖奇</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neqa">整</w>
+            <w type="Nf">天</w>
+            <w type="A">雙標</w>
+         </s>
+         <s>
+            <w type="Na">垃圾</w>
+            <w type="Na">平台</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/o</w>
+            <w type="FW">FcARqG.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/1kqg</w>
+            <w type="FW">Goi.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/eYvX0Mc.gif</w>
+         </s>
+      </body>
+      <title author="mmm87963 (趟古)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">垃圾</w>
+            <w type="Na">雙</w>
+            <w type="Na">標</w>
+            <w type="Na">圖</w>
+            <w type="VH">奇</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VD">還</w>
+            <w type="Nh">我</w>
+            <w type="Na">超負荷</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

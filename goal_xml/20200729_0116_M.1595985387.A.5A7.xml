@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">olmtw (olmtw)</metadata>
+      <metadata name="post_id">M.1595985387.A.5A7</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 台大延攬14名玉山學者 工程領域占最多</metadata>
+   </teiHeader>
+   <text>
+      <body author="olmtw (olmtw)">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="VC">延攬</w>
+            <w type="Neu">14</w>
+            <w type="Nf">名</w>
+            <w type="Nc">玉山</w>
+            <w type="Na">學者</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">工程</w>
+            <w type="Na">領域</w>
+            <w type="VJ">占</w>
+            <w type="VH">最多</w>
+         </s>
+         <s>
+            <w type="Neu">2020-07</w>
+            <w type="DASHCATEGORY">-29 06</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">29 </w>
+            <w type="Nb">聯合報</w>
+            <w type="FW"> / </w>
+            <w type="Na">記者</w>
+            <w type="Nb">潘乃欣</w>
+            <w type="FW">／</w>
+            <w type="Nc">台北</w>
+            <w type="VH">即時</w>
+            <w type="VE">報導</w>
+         </s>
+         <s>
+            <w type="Nc">教育部</w>
+            <w type="Nd">昨天</w>
+            <w type="VE">公告</w>
+            <w type="Nd">109年度</w>
+            <w type="Nc">玉山</w>
+            <w type="Na">學者</w>
+            <w type="Na">名單</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="VC">申請到</w>
+            <w type="Neu">14</w>
+            <w type="Nf">名</w>
+            <w type="Na">學者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">人數</w>
+            <w type="SHI">是</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">國</w>
+            <w type="VH">最多</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台大</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">為</w>
+            <w type="VC">提升</w>
+            <w type="Na">教師</w>
+            <w type="Nv">研究</w>
+            <w type="Na">能量</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">帶動</w>
+            <w type="Na">國家</w>
+            <w type="Na">整體</w>
+            <w type="Na">學術</w>
+            <w type="VE">研究</w>
+            <w type="VC">發展</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">獲</w>
+            <w type="Nc">教育部</w>
+            <w type="VE">核定</w>
+            <w type="Nc">玉山</w>
+            <w type="Na">學者</w>
+         </s>
+         <s>
+            <w type="Neu">五</w>
+            <w type="Nf">名</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">玉山</w>
+            <w type="Na">青年</w>
+            <w type="Na">學者</w>
+            <w type="Neu">九</w>
+            <w type="Nf">名</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nc">國際</w>
+            <w type="Na">高教</w>
+            <w type="Na">競爭</w>
+            <w type="VH">激烈</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">此</w>
+            <w type="Na">計畫</w>
+            <w type="VD">提供</w>
+            <w type="Na">彈性</w>
+            <w type="Na">薪資</w>
+            <w type="Caa">和</w>
+            <w type="Na">人才</w>
+            <w type="Na">加給</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">盼</w>
+            <w type="VC">教</w>
+         </s>
+         <s>
+            <w type="Nc">育部</w>
+            <w type="VL">持續</w>
+            <w type="VC">推動</w>
+            <w type="Nep">此</w>
+            <w type="Nf">類</w>
+            <w type="Na">方案</w>
+            <w type="VF">助</w>
+            <w type="Nc">大學</w>
+            <w type="VA">攬</w>
+            <w type="Na">才</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台大</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">本</w>
+            <w type="Nf">次</w>
+            <w type="VC">延攬</w>
+            <w type="DE">的</w>
+            <w type="Neu">14</w>
+            <w type="Na">人</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">工程</w>
+            <w type="Na">科學</w>
+            <w type="Na">領域</w>
+            <w type="V_2">有</w>
+            <w type="Neu">六</w>
+            <w type="Na">人</w>
+            <w type="SHI">是</w>
+            <w type="VH">最多</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">領域</w>
+            <w type="VK">包括</w>
+            <w type="Na">生物</w>
+            <w type="Na">醫學</w>
+            <w type="Na">工程</w>
+            <w type="Caa">及</w>
+         </s>
+         <s>
+            <w type="Na">生物</w>
+            <w type="Na">力學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">智慧</w>
+            <w type="Na">電網</w>
+            <w type="VH">再生</w>
+            <w type="Na">能源</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">電化學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="A">類比</w>
+            <w type="FW">／</w>
+            <w type="VC">混合</w>
+            <w type="Na">訊號</w>
+            <w type="FW">／</w>
+            <w type="Na">射頻</w>
+            <w type="FW">／</w>
+            <w type="Nf">毫米波</w>
+            <w type="Na">電路</w>
+            <w type="Caa">與</w>
+            <w type="Na">系統</w>
+            <w type="PAUSECATEGORY">、</w>
+         </s>
+         <s>
+            <w type="Na">量子</w>
+            <w type="Na">資訊</w>
+            <w type="VC">處理</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">災害</w>
+            <w type="Caa">與</w>
+            <w type="VC">營建</w>
+            <w type="Na">風險</w>
+            <w type="VC">分析</w>
+            <w type="Cab">等</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">其次</w>
+            <w type="SHI">是</w>
+            <w type="Na">生命</w>
+            <w type="Na">醫農</w>
+            <w type="Na">領域</w>
+            <w type="Neu">四</w>
+            <w type="Na">人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">包括</w>
+            <w type="Na">細菌學</w>
+            <w type="Caa">及</w>
+            <w type="Na">病毒</w>
+         </s>
+         <s>
+            <w type="Na">學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">流行病學</w>
+            <w type="Caa">及</w>
+            <w type="Na">資料</w>
+            <w type="Na">科學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">腸道</w>
+            <w type="Na">微生物</w>
+            <w type="Na">菌相</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">生物</w>
+            <w type="Na">化學</w>
+            <w type="Cab">等</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台大</w>
+            <w type="VE">指出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">自然</w>
+            <w type="Na">工程</w>
+            <w type="Na">領域</w>
+            <w type="VC">延攬到</w>
+            <w type="Neu">三</w>
+            <w type="Nf">名</w>
+            <w type="Na">學者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">學術</w>
+            <w type="Na">專長</w>
+            <w type="D">分別</w>
+            <w type="VG">為</w>
+            <w type="Na">宇宙學</w>
+            <w type="Caa">與</w>
+            <w type="Na">理論</w>
+            <w type="VH">高能</w>
+            <w type="Na">物理</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">地</w>
+         </s>
+         <s>
+            <w type="Na">球化學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">化學</w>
+            <w type="Na">生物學</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Na">人文</w>
+            <w type="Na">社會</w>
+            <w type="Na">領域</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Na">人</w>
+            <w type="VJ">獲</w>
+            <w type="VC">延攬</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">學術</w>
+            <w type="Na">專長</w>
+            <w type="SHI">是</w>
+            <w type="Na">資訊</w>
+            <w type="VC">管理</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台大</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">14</w>
+            <w type="Nf">名</w>
+            <w type="Na">學者</w>
+            <w type="Ng">中</w>
+            <w type="V_2">有</w>
+            <w type="Neu">九</w>
+            <w type="Na">人</w>
+            <w type="SHI">是</w>
+            <w type="Nes">本</w>
+            <w type="Na">國籍</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">另</w>
+            <w type="V_2">有</w>
+            <w type="Neu">五</w>
+            <w type="Nf">名</w>
+            <w type="VG">非</w>
+            <w type="Na">本國籍</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">來自</w>
+            <w type="Nc">新加坡</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">英國</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">德國</w>
+         </s>
+         <s>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">日本</w>
+            <w type="Caa">和</w>
+            <w type="Nc">美國</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//udn.com/news/story/6885/4738566</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Google</w>
+            <w type="FW"> Chrome</w>
+            <w type="FW"> on</w>
+            <w type="FW"> Windows</w>
+            <w type="FW"> 10</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Pro</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="olmtw (olmtw)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台大</w>
+            <w type="VC">延攬</w>
+            <w type="Neu">14</w>
+            <w type="Nf">名</w>
+            <w type="Nc">玉山</w>
+            <w type="Na">學者</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">工程</w>
+            <w type="Na">領域</w>
+            <w type="VJ">占</w>
+            <w type="VH">最多</w>
+         </s>
+      </title>
+      <comment author="yahoo168" c_type="pos">
+         <s>
+            <w type="Na">文組</w>
+            <w type="VH">哭暈</w>
+            <w type="P">在</w>
+            <w type="Nc">廁所</w>
+         </s>
+      </comment>
+      <comment author="yi0513" c_type="neu">
+         <s>
+            <w type="Na">資管</w>
+            <w type="FW">=</w>
+            <w type="Nc">管院</w>
+            <w type="FW">=</w>
+            <w type="Na">文組</w>
+         </s>
+      </comment>
+      <comment author="s3131212" c_type="pos">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="VA">認證</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">資管</w>
+            <w type="SHI">是</w>
+            <w type="Nc">文組</w>
+         </s>
+      </comment>
+      <comment author="rrro" c_type="pos">
+         <s>
+            <w type="Nh">人家</w>
+            <w type="SHI">是</w>
+            <w type="VE">說</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">人文</w>
+            <w type="Na">社會</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">文組</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="T">啦</w>
+            <w type="WHITESPACE"> </w>
+            <w type="ETCCATEGORY">XD</w>
+         </s>
+      </comment>
+      <comment author="rrro" c_type="neu">
+         <s>
+            <w type="P">以</w>
+            <w type="Na">資管</w>
+            <w type="Ng">內</w>
+            <w type="D">來</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">相對於</w>
+            <w type="Na">資訊</w>
+            <w type="Na">技術</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">謝</w>
+            <w type="Na">老師</w>
+            <w type="D">確實</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="Dfa">比較</w>
+            <w type="VJ">偏</w>
+            <w type="Nc">人文</w>
+            <w type="Nc">社</w>
+         </s>
+      </comment>
+      <comment author="rrro" c_type="neu">
+         <s>
+            <w type="D">會</w>
+            <w type="DE">的</w>
+            <w type="FW">～～</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ntupppeap (台大比波)</metadata>
+      <metadata name="post_id">M.1641279182.A.57D</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 好正喔</metadata>
+   </teiHeader>
+   <text>
+      <body author="ntupppeap (台大比波)">
+         <s>
+            <w type="Nc">師大</w>
+            <w type="Na">美術</w>
+            <w type="DE">的</w>
+            <w type="Na">女生</w>
+            <w type="Dfa">好</w>
+            <w type="VH">可愛</w>
+            <w type="T">喔</w>
+         </s>
+      </body>
+      <title author="ntupppeap (台大比波)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dfa">好</w>
+            <w type="VH">正</w>
+            <w type="I">喔</w>
+         </s>
+      </title>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="Na">素描課</w>
+            <w type="FW">ㄇ</w>
+         </s>
+      </comment>
+      <comment author="eunhailoveu" c_type="neu">
+         <s>
+            <w type="VJ">沒</w>
+            <w type="Na">圖</w>
+            <w type="VE">說</w>
+            <w type="Nf">個</w>
+            <w type="FW">G8</w>
+         </s>
+      </comment>
+      <comment author="daye87" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/PKt85</w>
+            <w type="FW">R2</w>
+            <w type="FW">.jpg</w>
+         </s>
+      </comment>
+      <comment author="kimo7070" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">張</w>
+            <w type="Na">貓貓</w>
+            <w type="Dfa">好</w>
+            <w type="VH">可愛</w>
+         </s>
+      </comment>
+      <comment author="f820203" c_type="pos">
+         <s>
+            <w type="Na">貓熊</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="D">誤</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

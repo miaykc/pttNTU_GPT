@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">kcola (old skull)</metadata>
+      <metadata name="post_id">M.1671675409.A.B14</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 一群學生被關起來</metadata>
+   </teiHeader>
+   <text>
+      <body author="kcola (old skull)">
+         <s>
+            <w type="D">一</w>
+            <w type="VH">開始</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">位</w>
+            <w type="Na">女</w>
+            <w type="Na">學生</w>
+            <w type="P">在</w>
+            <w type="Nc">戶外</w>
+            <w type="VA">逃跑</w>
+         </s>
+         <s>
+            <w type="Nd">之後</w>
+            <w type="D">就</w>
+            <w type="VL">開始</w>
+            <w type="VK">回憶</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">日前</w>
+            <w type="VJ">發生</w>
+            <w type="DE">的</w>
+            <w type="Na">事情</w>
+         </s>
+         <s>
+            <w type="Nh">她</w>
+            <w type="Neqa">其他</w>
+            <w type="Na">同學</w>
+            <w type="P">被</w>
+            <w type="VC">關</w>
+            <w type="P">在</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">洞</w>
+            <w type="D">卻穴</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="D">不</w>
+            <w type="VK">確定</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="Na">食物</w>
+            <w type="Caa">與</w>
+            <w type="Na">水</w>
+            <w type="Cab">等</w>
+            <w type="VH">生存</w>
+            <w type="Na">資源</w>
+            <w type="VH">有限</w>
+            <w type="DE">的</w>
+            <w type="Na">情況</w>
+            <w type="Ng">下</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">開啟</w>
+            <w type="Di">了</w>
+            <w type="Na">人性</w>
+            <w type="Na">黑暗面</w>
+         </s>
+         <s>
+            <w type="Dfa">最</w>
+            <w type="V_2">有</w>
+            <w type="Na">印象</w>
+            <w type="DE">的</w>
+            <w type="Neu">一</w>
+            <w type="Nf">幕</w>
+            <w type="SHI">是</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">位</w>
+            <w type="Na">男</w>
+            <w type="Na">同學</w>
+            <w type="P">把</w>
+            <w type="VC">私藏</w>
+            <w type="DE">的</w>
+            <w type="Na">可樂</w>
+            <w type="VB">拿出來</w>
+            <w type="VC">喝</w>
+            <w type="Ng">後</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">被</w>
+            <w type="Nes">另</w>
+            <w type="Nf">位</w>
+            <w type="Na">同學</w>
+            <w type="VC">打死</w>
+         </s>
+         <s>
+            <w type="VE">請問</w>
+            <w type="Nep">此</w>
+            <w type="Na">片</w>
+            <w type="Na">片名</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="FW">yes</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Nep">此</w>
+            <w type="Nf">片</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="kcola (old skull)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">群</w>
+            <w type="Na">學生</w>
+            <w type="P">被</w>
+            <w type="VC">關</w>
+            <w type="Di">起來</w>
+         </s>
+      </title>
+      <comment author="mashmabo" c_type="pos">
+         <s>
+            <w type="Na">鬼</w>
+            <w type="Na">地方</w>
+         </s>
+      </comment>
+      <comment author="royalroad" c_type="neu">
+         <s>
+            <w type="V_2">有</w>
+            <w type="Nb">綺拉奈特莉</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="mashmabo" c_type="pos">
+         <s>
+            <w type="V_2">有</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

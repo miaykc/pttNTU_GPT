@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jasonliao89 (宅宅)</metadata>
+      <metadata name="post_id">M.1641203359.A.72C</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 地震</metadata>
+   </teiHeader>
+   <text>
+      <body author="jasonliao89 (宅宅)">
+         <s>
+            <w type="VH">乾</w>
+            <w type="Dfa">好</w>
+            <w type="VH">大</w>
+         </s>
+      </body>
+      <title author="jasonliao89 (宅宅)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">地震</w>
+         </s>
+      </title>
+      <comment author="maozz" c_type="neu">
+         <s>
+            <w type="Dfa">好</w>
+            <w type="VH">可怕</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">幹</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

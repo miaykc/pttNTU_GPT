@@ -1,0 +1,752 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ntuteaching (計資中心教學研究組)</metadata>
+      <metadata name="post_id">M.1652075945.A.0DA</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[網宣] 111S資訊應用課程 充實您的專業技能</metadata>
+   </teiHeader>
+   <text>
+      <body author="ntuteaching (計資中心教學研究組)">
+         <s>
+            <w type="Na">疫情</w>
+            <w type="D">難以</w>
+            <w type="VA">出遊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">暑假</w>
+            <w type="D">怎麼</w>
+            <w type="VA">生活</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="Nep">那</w>
+            <w type="D">就</w>
+            <w type="D">來</w>
+            <w type="VC">把握</w>
+            <w type="Na">時機</w>
+            <w type="VC">提升</w>
+            <w type="Nh">自身</w>
+            <w type="Na">資訊</w>
+            <w type="Na">應用</w>
+            <w type="Na">能力</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="Cbb">不論</w>
+            <w type="SHI">是</w>
+            <w type="FW">Python</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">C#</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">PS</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">AI</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">Tableau</w>
+         </s>
+         <s>
+            <w type="D">還是</w>
+            <w type="VE">想</w>
+            <w type="Di">了解</w>
+            <w type="Nf">元</w>
+            <w type="Na">宇宙</w>
+            <w type="DE">的</w>
+            <w type="Nc">世界</w>
+         </s>
+         <s>
+            <w type="VHC">充實</w>
+            <w type="VHC">豐富</w>
+            <w type="DE">的</w>
+            <w type="Na">技能</w>
+            <w type="VC">提升</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">都</w>
+            <w type="P">在</w>
+            <w type="Nc">計中</w>
+            <w type="Na">資訊</w>
+            <w type="Na">應用</w>
+            <w type="Na">課程</w>
+         </s>
+         <s>
+            <w type="FW">***</w>
+            <w type="Nes">本</w>
+            <w type="Nf">次</w>
+            <w type="P">除</w>
+            <w type="Na">高效</w>
+            <w type="Na">運能</w>
+            <w type="Na">系列</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neqa">其餘</w>
+            <w type="D">皆</w>
+            <w type="VG">為</w>
+            <w type="A">遠距</w>
+            <w type="VA">上課</w>
+            <w type="FW">***</w>
+         </s>
+         <s>
+            <w type="Na">名額</w>
+            <w type="VH">有限</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">趕快</w>
+            <w type="A">手動</w>
+            <w type="VA">報名</w>
+            <w type="Di">起來</w>
+         </s>
+         <s>
+            <w type="FW">#</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">計中</w>
+            <w type="Na">資訊</w>
+            <w type="Na">應用</w>
+            <w type="Na">課程</w>
+         </s>
+         <s>
+            <w type="FW">#</w>
+            <w type="Na">課程</w>
+            <w type="Na">資訊</w>
+            <w type="P">在</w>
+            <w type="Ncd">下面</w>
+         </s>
+         <s>
+            <w type="FW">｜</w>
+            <w type="Na">文書</w>
+            <w type="VC">處理</w>
+            <w type="Na">系列</w>
+            <w type="FW">｜</w>
+         </s>
+         <s>
+            <w type="FW">Excel2019</w>
+            <w type="A">初階</w>
+            <w type="Na">應用</w>
+            <w type="FW">｜</w>
+            <w type="Neu">6/20~24</w>
+            <w type="Neu">(</w>
+            <w type="Neu">一</w>
+            <w type="FW">~</w>
+            <w type="Neu">五</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  09</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="FW">Excel2019</w>
+            <w type="Na">函數</w>
+            <w type="Na">應用</w>
+            <w type="FW">｜</w>
+            <w type="Neu">6/28~30</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">二</w>
+            <w type="Neu">三</w>
+            <w type="Neu">四</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  09</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Neu">17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="FW">Office2019</w>
+            <w type="Na">實務</w>
+            <w type="Na">應用</w>
+            <w type="Na">職員</w>
+            <w type="Nc">專班</w>
+            <w type="FW">｜</w>
+            <w type="Nd">7/19</w>
+            <w type="FW">~</w>
+            <w type="Nd">8/2</w>
+            <w type="Neu">(</w>
+            <w type="Neu">二</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">四</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  14</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="FW">｜</w>
+            <w type="Na">程式</w>
+            <w type="VC">設計</w>
+            <w type="Na">系列</w>
+            <w type="FW">｜</w>
+         </s>
+         <s>
+            <w type="FW">Python</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">網路</w>
+            <w type="Na">爬蟲</w>
+            <w type="FW">｜</w>
+            <w type="Neu">6/20</w>
+            <w type="FW">~</w>
+            <w type="Nd">7/18</w>
+            <w type="Neu">(</w>
+            <w type="Neu">一</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  09</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-16</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+         </s>
+         <s>
+            <w type="FW">Python</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">程式</w>
+            <w type="Na">設計</w>
+            <w type="VA">入門</w>
+            <w type="FW">Ａ</w>
+            <w type="FW">｜</w>
+            <w type="Neu">6/20~8/22</w>
+            <w type="Cbb">(</w>
+            <w type="Neu">一</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  18</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Neu">21</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="FW">C++</w>
+            <w type="Na">程式</w>
+            <w type="VC">設計</w>
+            <w type="Na">基礎</w>
+            <w type="FW">★</w>
+            <w type="Na">兒童</w>
+            <w type="Nc">專班</w>
+            <w type="FW">｜</w>
+            <w type="Nd">7/4</w>
+            <w type="FW">~</w>
+            <w type="Nd">8/1</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">一</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  14</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="FW">C#</w>
+            <w type="Na">網頁</w>
+            <w type="Na">程式</w>
+            <w type="Na">設計</w>
+            <w type="FW">｜</w>
+            <w type="Neu">6/22</w>
+            <w type="FW">~</w>
+            <w type="Neu">7/20</w>
+            <w type="Cbb">(</w>
+            <w type="Neu">三</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  18</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10~</w>
+            <w type="Neu">21</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="FW">Python</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">機器</w>
+            <w type="VC">學習</w>
+            <w type="FW">｜</w>
+            <w type="Neu">6/22</w>
+            <w type="FW">~</w>
+            <w type="Nd">8/24</w>
+            <w type="Cbb">(</w>
+            <w type="Neu">三</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> 18</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10~</w>
+            <w type="Neu">21</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="FW">Python</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">程式</w>
+            <w type="Na">設計</w>
+            <w type="VA">入門</w>
+            <w type="FW">Ｂ</w>
+            <w type="FW">｜</w>
+            <w type="Nd">6/23~8/25</w>
+            <w type="Cbb">(</w>
+            <w type="Cbb">四</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  18</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10~</w>
+            <w type="Neu">21</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="FW">｜</w>
+            <w type="Na">統計</w>
+            <w type="Na">分析</w>
+            <w type="Na">系列</w>
+            <w type="FW">｜</w>
+         </s>
+         <s>
+            <w type="FW">SPSS</w>
+            <w type="Na">統計</w>
+            <w type="VC">分析</w>
+            <w type="Na">基礎</w>
+            <w type="VA">入門</w>
+            <w type="FW">Ａ｜</w>
+            <w type="Neu">6/22-24</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">三四五</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> 09</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-16</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+         </s>
+         <s>
+            <w type="FW">Tableau </w>
+            <w type="VHC">視覺化</w>
+            <w type="Na">圖形</w>
+            <w type="FW">｜</w>
+            <w type="Neu">7/19</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">21</w>
+            <w type="Cbb">(</w>
+            <w type="Neu">二</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">四</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  14</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="FW">SPSS</w>
+            <w type="Na">統計</w>
+            <w type="VC">分析</w>
+            <w type="Na">基礎</w>
+            <w type="VA">入門</w>
+            <w type="FW">Ｂ｜</w>
+            <w type="Nd">7/25</w>
+            <w type="DASHCATEGORY">-8/10</w>
+            <w type="Cbb">(</w>
+            <w type="Neu">一</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">三</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  18</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Neu">21</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="FW">｜</w>
+            <w type="Na">影像</w>
+            <w type="Nv">處理</w>
+            <w type="Na">系列</w>
+            <w type="FW">｜</w>
+         </s>
+         <s>
+            <w type="Na">平面</w>
+            <w type="VC">設計</w>
+            <w type="Na">實務</w>
+            <w type="FW">｜</w>
+            <w type="Nd">6/27</w>
+            <w type="FW">~</w>
+            <w type="Nd">8/29 </w>
+            <w type="Neu">(</w>
+            <w type="Neu">一</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  18</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Neu">21</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="Na">平面</w>
+            <w type="Na">設計</w>
+            <w type="FW">FUN</w>
+            <w type="VH">容易</w>
+            <w type="FW">★</w>
+            <w type="Na">兒童</w>
+            <w type="Nc">專班</w>
+            <w type="FW">｜</w>
+            <w type="Nd">7/5</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Nd">8/30</w>
+            <w type="Cbb">(</w>
+            <w type="Neu">二</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  14</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="FW">Photoshop</w>
+            <w type="FW"> CC </w>
+            <w type="Na">創意</w>
+            <w type="Na">視覺</w>
+            <w type="FW">Ａ</w>
+            <w type="FW">｜</w>
+            <w type="Neu">7/11</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">13</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">15</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">一</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">三</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">五</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  14</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="FW">Photoshop</w>
+            <w type="FW"> CC </w>
+            <w type="Na">創意</w>
+            <w type="Na">視覺</w>
+            <w type="FW">Ｂ</w>
+            <w type="FW">｜</w>
+            <w type="Neu">8/24~26</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">三</w>
+            <w type="FW">~</w>
+            <w type="Neu">五</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  14</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="FW">｜</w>
+            <w type="Na">高效能</w>
+            <w type="VC">運算</w>
+            <w type="Na">系列</w>
+            <w type="FW">｜</w>
+         </s>
+         <s>
+            <w type="FW">MATLAB</w>
+            <w type="A">基礎</w>
+            <w type="Na">程式</w>
+            <w type="Na">技術</w>
+            <w type="FW">｜</w>
+            <w type="Neu">7/1</w>
+            <w type="Neu">(</w>
+            <w type="Neu">五</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  09</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-16</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="FW">YOLO</w>
+            <w type="Na">系列</w>
+            <w type="FW">AI</w>
+            <w type="Na">物件</w>
+            <w type="VC">偵測</w>
+            <w type="VC">實作</w>
+            <w type="FW">｜</w>
+            <w type="Neu">7/27</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">28</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">三</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">四</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  09</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-16</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="FW">VASP</w>
+            <w type="Na">軟體</w>
+            <w type="P">在</w>
+            <w type="Na">表面</w>
+            <w type="Na">化學</w>
+            <w type="VE">研究</w>
+            <w type="DE">之</w>
+            <w type="Na">實務</w>
+            <w type="Na">應用</w>
+            <w type="FW">｜</w>
+            <w type="Neu">8/24-26</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">三</w>
+            <w type="FW">-</w>
+            <w type="Neu">五</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> 09:</w>
+            <w type="Neu">10</w>
+            <w type="FW">-12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">14</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="Na">人工</w>
+            <w type="Na">智慧</w>
+            <w type="Na">機器</w>
+            <w type="VC">學習</w>
+            <w type="VH">深入</w>
+            <w type="Na">應用</w>
+            <w type="VC">實作</w>
+            <w type="FW">｜</w>
+            <w type="Nd">8/17</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">18</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">三</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">四</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  09</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-16</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="Nd">元</w>
+            <w type="Na">宇宙</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="P">從</w>
+            <w type="Na">概念</w>
+            <w type="P">到</w>
+            <w type="Na">技術</w>
+            <w type="DE">的</w>
+            <w type="Na">腦力</w>
+            <w type="VAC">激盪</w>
+            <w type="FW">｜</w>
+            <w type="Neu">8/31</w>
+            <w type="Cbb">(</w>
+            <w type="Neu">三</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> 09</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-16</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="Na">量子</w>
+            <w type="Na">化學</w>
+            <w type="VC">計算</w>
+            <w type="Na">軟體</w>
+            <w type="FW"> Gaussian</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">簡介</w>
+            <w type="Caa">與</w>
+            <w type="Na">實務</w>
+            <w type="Na">應用</w>
+            <w type="FW">｜</w>
+            <w type="Neu">8/31</w>
+            <w type="DASHCATEGORY">-9/2</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">三</w>
+            <w type="FW">-</w>
+            <w type="Neu">五</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  09</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="PAUSECATEGORY">、</w>
+         </s>
+         <s>
+            <w type="FW">｜</w>
+            <w type="Nd">暑期</w>
+            <w type="Na">營隊</w>
+            <w type="Na">系列</w>
+            <w type="FW">｜</w>
+         </s>
+         <s>
+            <w type="FW">Arduino</w>
+            <w type="VH">小小</w>
+            <w type="Na">工程師</w>
+            <w type="FW">Ａ｜7/20</w>
+            <w type="Cbb">(</w>
+            <w type="Neu">三</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  14</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20~</w>
+            <w type="Neu">17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="FW">Arduino</w>
+            <w type="VH">小小</w>
+            <w type="Na">工程師</w>
+            <w type="FW">Ｂ｜</w>
+            <w type="Neu">8/16</w>
+            <w type="Cbb">(</w>
+            <w type="Neu">二</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">  14</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20~</w>
+            <w type="Neu">17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="FW">Scratch</w>
+            <w type="Na">程式</w>
+            <w type="VC">寫作</w>
+            <w type="VA">起步</w>
+            <w type="VA">走</w>
+            <w type="FW">｜</w>
+            <w type="Neu">7/28-29</w>
+            <w type="Neu">(</w>
+            <w type="Neu">四</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">五</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="Neu">14</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20~</w>
+            <w type="Neu">17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="VH">詳細</w>
+            <w type="Na">資訊</w>
+            <w type="VJ">歡迎</w>
+            <w type="P">至</w>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">資訊</w>
+            <w type="Na">應用</w>
+            <w type="Na">課程</w>
+            <w type="Nc">網站</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="VE">查詢</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//webpageprodvm.ntu.edu.tw/e-learning/</w>
+         </s>
+      </body>
+      <title author="ntuteaching (計資中心教學研究組)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nb">網宣</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 111S</w>
+            <w type="Na">資訊</w>
+            <w type="Na">應用</w>
+            <w type="Na">課程</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VHC">充實</w>
+            <w type="Nh">您</w>
+            <w type="DE">的</w>
+            <w type="VH">專業</w>
+            <w type="Na">技能</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

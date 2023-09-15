@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">slimlight (...)</metadata>
+      <metadata name="post_id">M.1628230398.A.A41</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 寄生上流有韓國人影評的中文版嗎？</metadata>
+   </teiHeader>
+   <text>
+      <body author="slimlight (...)">
+         <s>
+            <w type="Nd">近期</w>
+            <w type="VC">看</w>
+            <w type="Di">了</w>
+            <w type="Nep">這</w>
+            <w type="Nf">片</w>
+         </s>
+         <s>
+            <w type="VE">聽說</w>
+            <w type="Neqa">有</w>
+            <w type="Nf">些</w>
+            <w type="Na">意境</w>
+            <w type="D">要</w>
+            <w type="Na">韓國人</w>
+            <w type="Nh">自己</w>
+            <w type="Da">才</w>
+            <w type="VK">懂</w>
+         </s>
+         <s>
+            <w type="VE">請問</w>
+            <w type="V_2">有</w>
+            <w type="Na">韓國人</w>
+            <w type="DE">的</w>
+            <w type="Na">影評</w>
+            <w type="P">被</w>
+            <w type="VG">翻成</w>
+            <w type="Na">中文</w>
+            <w type="T">的</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </body>
+      <title author="slimlight (...)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 寄生</w>
+            <w type="Ncd">上</w>
+            <w type="VH">流</w>
+            <w type="V_2">有</w>
+            <w type="Na">韓國人</w>
+            <w type="Na">影評</w>
+            <w type="DE">的</w>
+            <w type="Na">中文版</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </title>
+      <comment author="generalfungi" c_type="pos">
+         <s>
+            <w type="VC">搜尋</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">讚養</w>
+         </s>
+      </comment>
+      <comment author="generalfungi" c_type="neu">
+         <s>
+            <w type="FW">Yt </w>
+            <w type="VC">搜尋</w>
+         </s>
+      </comment>
+      <comment author="dg01" c_type="pos">
+         <s>
+            <w type="Nb">卡夫卡</w>
+         </s>
+      </comment>
+      <comment author="ronale" c_type="neu">
+         <s>
+            <w type="D">沒</w>
+            <w type="D">那麼</w>
+            <w type="VH">難懂</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Neqa">很多</w>
+            <w type="Na">東西</w>
+            <w type="D">都</w>
+            <w type="P">被</w>
+            <w type="VB">拿出來</w>
+            <w type="D">反覆</w>
+            <w type="VE">講</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

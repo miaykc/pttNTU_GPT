@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">dreamgirl (小糯米)</metadata>
+      <metadata name="post_id">M.1578075587.A.D3D</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] e0__</metadata>
+   </teiHeader>
+   <text>
+      <body author="dreamgirl (小糯米)" />
+      <title author="dreamgirl (小糯米)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> e0__</w>
+         </s>
+      </title>
+      <comment author="a58524andy" c_type="neu">
+         <s>
+            <w type="VC">幹</w>
+            <w type="Di">個</w>
+            <w type="Na">屁</w>
+            <w type="Na">水貨</w>
+            <w type="VC">賣</w>
+            <w type="D">不</w>
+            <w type="VC">出去</w>
+            <w type="VJ">逆</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

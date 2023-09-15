@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">wclaa ()</metadata>
+      <metadata name="post_id">M.1670763537.A.984</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] 行政大樓中華電信施工</metadata>
+   </teiHeader>
+   <text>
+      <body author="wclaa ()">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//ann.cc.ntu.edu.tw/asp/Show.asp</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">num</w>
+            <w type="Neu">=</w>
+            <w type="Neu">92132</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VE">公告</w>
+            <w type="Na">主旨</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="Na">行政</w>
+            <w type="Na">大樓</w>
+            <w type="Nc">中華</w>
+            <w type="Na">電信</w>
+            <w type="VA">施工</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VE">公告</w>
+            <w type="Na">單位</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="Nc">總務處</w>
+            <w type="DASHCATEGORY">--</w>
+            <w type="Nc">營繕組</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VE">公告</w>
+            <w type="Na">時間</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="Neu">2022/12/11</w>
+            <w type="Nd">上午</w>
+            <w type="Neu">08</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">41</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">03</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VE">公告</w>
+            <w type="Na">內容</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Na">時間</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="P">自</w>
+            <w type="Nd">民國</w>
+            <w type="Neu">111年</w>
+            <w type="Nd">12月</w>
+            <w type="Nd">12日</w>
+            <w type="Nd">8時</w>
+            <w type="Ng">起</w>
+            <w type="P">至</w>
+            <w type="Nd">民國</w>
+            <w type="Neu">111年</w>
+            <w type="Nd">12月</w>
+            <w type="Nd">12日</w>
+            <w type="Nd">17時</w>
+            <w type="Ng">止</w>
+         </s>
+         <s>
+            <w type="Na">影響</w>
+            <w type="Na">區域</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Na">行政</w>
+            <w type="Na">大樓</w>
+            <w type="Nes">前</w>
+            <w type="Nf">棟</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">校長室</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">副校長室</w>
+            <w type="Cab">等</w>
+            <w type="Nc">地區</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Caa">及</w>
+            <w type="Ncd">後</w>
+            <w type="Nf">棟</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="VC">配合</w>
+            <w type="Na">行政</w>
+            <w type="Na">大樓</w>
+            <w type="VC">整</w>
+         </s>
+         <s>
+            <w type="VC">修</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">總箱</w>
+            <w type="VC">遷移</w>
+            <w type="Na">電纜</w>
+            <w type="VC">改接</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Cbb">因</w>
+            <w type="Neu">12月</w>
+            <w type="Nd">10日</w>
+            <w type="Nc">中華</w>
+            <w type="Na">電信</w>
+            <w type="VA">施工</w>
+            <w type="Na">疏失</w>
+            <w type="VK">造成</w>
+            <w type="Nes">前</w>
+            <w type="Nf">棟</w>
+            <w type="Caa">及</w>
+            <w type="Nes">後</w>
+            <w type="Nf">棟</w>
+            <w type="Neqa">部份</w>
+            <w type="Na">電話線</w>
+            <w type="D">無法</w>
+            <w type="VC">使用</w>
+         </s>
+         <s>
+            <w type="Nc">中華</w>
+            <w type="Na">電信</w>
+            <w type="VE">預計</w>
+            <w type="Neu">12月</w>
+            <w type="Neu">12日</w>
+            <w type="D">陸續</w>
+            <w type="VHC">恢復</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">造成</w>
+            <w type="D">不</w>
+            <w type="VL">使</w>
+            <w type="VF">請</w>
+            <w type="VA">見諒</w>
+         </s>
+         <s>
+            <w type="Nc">總務處</w>
+            <w type="Nc">營繕組</w>
+         </s>
+      </body>
+      <title author="wclaa ()">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">行政</w>
+            <w type="Na">大樓</w>
+            <w type="Nc">中華</w>
+            <w type="Na">電信</w>
+            <w type="VA">施工</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

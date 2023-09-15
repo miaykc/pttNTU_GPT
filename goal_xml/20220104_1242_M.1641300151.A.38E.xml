@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Kindle777 (Kindle777)</metadata>
+      <metadata name="post_id">M.1641300151.A.38E</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 幹幹幹</metadata>
+   </teiHeader>
+   <text>
+      <body author="Kindle777 (Kindle777)">
+         <s>
+            <w type="Dfa">好</w>
+            <w type="VE">想</w>
+            <w type="VD">發</w>
+            <w type="Na">廢文</w>
+         </s>
+         <s>
+            <w type="VC">考</w>
+            <w type="Ng">前</w>
+            <w type="VH">感冒</w>
+         </s>
+         <s>
+            <w type="Dfa">好</w>
+            <w type="VK">討厭</w>
+         </s>
+      </body>
+      <title author="Kindle777 (Kindle777)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VC">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">幹</w>
+            <w type="VA">幹</w>
+            <w type="VC">幹</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

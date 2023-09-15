@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">IokUdiefirst (武漢肺炎)</metadata>
+      <metadata name="post_id">M.1592061348.A.1CC</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 轟隆隆隆</metadata>
+   </teiHeader>
+   <text>
+      <body author="IokUdiefirst (武漢肺炎)">
+         <s>
+            <w type="VH">隆隆</w>
+            <w type="VH">隆隆</w>
+            <w type="FW">~~</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">衝</w>
+            <w type="VA">衝</w>
+            <w type="VA">衝</w>
+            <w type="VA">衝</w>
+            <w type="FW">~~</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/W6tTvTt.jpg</w>
+         </s>
+      </body>
+      <title author="IokUdiefirst (武漢肺炎)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">轟隆</w>
+            <w type="VH">隆隆</w>
+         </s>
+      </title>
+      <comment author="jason3610" c_type="neu">
+         <s>
+            <w type="VH">拉風</w>
+         </s>
+      </comment>
+      <comment author="jzoethai" c_type="neu">
+         <s>
+            <w type="Na">引擎</w>
+            <w type="VC">發動</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">引擎</w>
+            <w type="VC">發動</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

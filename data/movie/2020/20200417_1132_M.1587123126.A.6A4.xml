@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">hvariables (Speculative Male)</metadata>
+      <metadata name="post_id">M.1587123126.A.6A4</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 73屆坎城影展恐宣布停辦</metadata>
+   </teiHeader>
+   <text>
+      <body author="hvariables (Speculative Male)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.chinatimes.com/realtimenews/20200417000822</w>
+            <w type="Neu">-260112</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">chdtv</w>
+         </s>
+         <s>
+            <w type="Neu">73</w>
+            <w type="Nf">屆</w>
+            <w type="Nc">坎城</w>
+            <w type="Na">影展</w>
+            <w type="VK">恐</w>
+            <w type="VE">宣布</w>
+            <w type="VC">停辦</w>
+         </s>
+         <s>
+            <w type="Neu">04</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10 2020/04/17</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">中國時報</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">李承陽</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">江珮瑜</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//images.chinatimes.com/newsphoto/2020-04</w>
+            <w type="FW">-17/900</w>
+            <w type="FW">/BBC100_P_02_02.jpg</w>
+         </s>
+         <s>
+            <w type="Cbb">即使</w>
+            <w type="Nc">坎城</w>
+            <w type="Na">影展</w>
+            <w type="SHI">是</w>
+            <w type="Nc">國際</w>
+            <w type="Dfa">最</w>
+            <w type="VJ">具</w>
+            <w type="Na">影響力</w>
+            <w type="DE">的</w>
+            <w type="Na">影展</w>
+            <w type="Nc">之</w>
+            <w type="Neu">一</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="VH">難</w>
+            <w type="VC">敵</w>
+            <w type="Na">新冠肺炎</w>
+            <w type="DE">的</w>
+            <w type="VH">恐怖</w>
+            <w type="Na">疫情</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">美聯社</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">新冠</w>
+            <w type="Na">肺炎</w>
+            <w type="Na">疫情</w>
+            <w type="VC">衝擊</w>
+            <w type="Nc">全球</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">原定</w>
+            <w type="Nd">5月</w>
+            <w type="Nd">中旬</w>
+            <w type="VC">舉行</w>
+            <w type="DE">的</w>
+            <w type="Neu">第73</w>
+            <w type="Nf">屆</w>
+            <w type="Nc">坎城</w>
+            <w type="Na">影展</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nd">日前</w>
+            <w type="VE">宣布</w>
+            <w type="VB">延期</w>
+            <w type="P">至</w>
+            <w type="Nd">6月</w>
+            <w type="Ng">底</w>
+            <w type="Caa">到</w>
+            <w type="Nd">7月</w>
+            <w type="Ng">初</w>
+            <w type="VC">進行</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Cbb">不過</w>
+            <w type="Nc">法國</w>
+            <w type="Na">總統</w>
+            <w type="Nb">馬克宏</w>
+            <w type="Neu">13日</w>
+            <w type="VE">宣布</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">7月</w>
+            <w type="Nd">中旬</w>
+            <w type="Ng">前</w>
+            <w type="VE">禁止</w>
+            <w type="Nc">法國</w>
+            <w type="Neqa">所有</w>
+            <w type="Na">大規模</w>
+            <w type="Na">人群</w>
+            <w type="VAC">聚集</w>
+            <w type="DE">的</w>
+            <w type="Na">活動</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="D">隔日</w>
+            <w type="Nc">坎城</w>
+            <w type="Na">影展</w>
+            <w type="P">在</w>
+            <w type="Na">官網</w>
+            <w type="VE">表示</w>
+            <w type="VE">原訂</w>
+            <w type="Na">計畫</w>
+            <w type="D">不</w>
+            <w type="VH">可行</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">會</w>
+            <w type="VF">繼續</w>
+            <w type="VC">尋找</w>
+            <w type="VH">新</w>
+            <w type="DE">的</w>
+            <w type="Na">可能性</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="Nes">本</w>
+            <w type="Nf">屆</w>
+            <w type="Nc">坎城</w>
+            <w type="Na">影展</w>
+            <w type="VK">恐</w>
+            <w type="VC">停辦</w>
+            <w type="DE">的</w>
+            <w type="Na">風聲</w>
+            <w type="VH">甚囂塵上</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">時間</w>
+            <w type="Neu">15日</w>
+            <w type="Nd">晚間</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Na">外媒</w>
+            <w type="VE">報導</w>
+            <w type="Nc">坎城</w>
+            <w type="Na">影展</w>
+            <w type="DE">的</w>
+            <w type="VH">平行</w>
+            <w type="Na">單元</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">國際</w>
+            <w type="Na">影評人</w>
+            <w type="Nd">周</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PAUSECATEGORY">、</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">導演</w>
+            <w type="Na">雙周</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Caa">及</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="FW">ACID</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="D">率先</w>
+            <w type="VE">宣布</w>
+            <w type="VC">取消</w>
+            <w type="VC">舉辦</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="Neu">3</w>
+            <w type="Nf">個</w>
+            <w type="Na">單元</w>
+            <w type="A">共同</w>
+            <w type="VC">發表</w>
+            <w type="VC">聯合</w>
+            <w type="Na">聲明</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">證實</w>
+            <w type="D">不會</w>
+            <w type="VC">加入</w>
+            <w type="Nd">今年</w>
+            <w type="DE">的</w>
+            <w type="Nc">坎城</w>
+            <w type="Na">影展</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nes">同</w>
+            <w type="Na">日</w>
+            <w type="D">稍</w>
+            <w type="VH">晚</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">就</w>
+            <w type="VC">傳出</w>
+            <w type="Na">影展方</w>
+            <w type="D">已</w>
+            <w type="P">在</w>
+            <w type="VC">研擬</w>
+            <w type="VC">停辦</w>
+            <w type="Na">聲明</w>
+            <w type="Na">草稿</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Dk">據了解</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">今年</w>
+            <w type="Nc">坎城</w>
+            <w type="Na">影展</w>
+            <w type="D">已經</w>
+            <w type="VC">選</w>
+            <w type="Di">了</w>
+            <w type="Neqa">一些</w>
+            <w type="Na">片單</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">無奈</w>
+            <w type="Nd">今年</w>
+            <w type="VG">辦</w>
+            <w type="D">不</w>
+            <w type="VC">成</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Na">主辦方</w>
+            <w type="Cbb">於是</w>
+            <w type="P">跟</w>
+            <w type="Na">片方</w>
+            <w type="VC">溝通</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">希望</w>
+            <w type="D">能</w>
+            <w type="VC">保留</w>
+            <w type="Nc">世界</w>
+            <w type="VA">首映</w>
+            <w type="Caa">或</w>
+            <w type="VA">參賽</w>
+            <w type="Na">資格</w>
+            <w type="P">到</w>
+            <w type="Nd">明年</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="Neqa">有些</w>
+            <w type="Na">電影</w>
+            <w type="D">已</w>
+            <w type="VC">選擇</w>
+            <w type="VCL">轉戰</w>
+            <w type="Nd">9月</w>
+            <w type="DE">的</w>
+            <w type="Nc">威尼斯</w>
+            <w type="Na">影展</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">OTT</w>
+            <w type="Na">平台</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Da">才</w>
+            <w type="Cbb">因此</w>
+            <w type="V_2">有</w>
+            <w type="Nv">停辦</w>
+            <w type="Na">消息</w>
+            <w type="VCL">流出</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="Nd">目前</w>
+            <w type="Na">官方</w>
+            <w type="D">尚未</w>
+            <w type="VE">宣布</w>
+            <w type="VH">確實</w>
+            <w type="Na">消息</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">坎城</w>
+            <w type="Na">影展</w>
+            <w type="SHI">是</w>
+            <w type="Nc">全球</w>
+            <w type="Dfa">最</w>
+            <w type="VJ">具</w>
+            <w type="Na">影響力</w>
+            <w type="DE">的</w>
+            <w type="Na">影展</w>
+            <w type="Nc">之</w>
+            <w type="Neu">一</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">不少</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">影人</w>
+            <w type="P">透過</w>
+            <w type="Nc">坎城</w>
+            <w type="Na">影展</w>
+            <w type="VCL">躍上</w>
+            <w type="Nc">國際</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nc">台灣</w>
+            <w type="DE">之</w>
+            <w type="Na">光</w>
+            <w type="Nb">李安</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">飲食男女</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="SHI">是</w>
+            <w type="Nes">首</w>
+            <w type="Nf">部</w>
+            <w type="Na">導演</w>
+            <w type="A">雙</w>
+            <w type="Nf">周</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">開幕片</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nb">徐小明</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">少年</w>
+            <w type="FW">吔</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">安</w>
+            <w type="T">啦</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="D">則</w>
+            <w type="VG">為</w>
+            <w type="Nes">該</w>
+            <w type="Na">單元</w>
+            <w type="Nes">首</w>
+            <w type="Nf">部</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">閉幕片</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Cbb">另</w>
+            <w type="Nb">侯孝賢</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">尼羅河</w>
+            <w type="Na">女兒</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">易智言</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">藍色</w>
+            <w type="Na">大門</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PAUSECATEGORY">、</w>
+         </s>
+         <s>
+            <w type="Nb">張作驥</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">黑暗</w>
+            <w type="DE">之</w>
+            <w type="Na">光</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Cab">等</w>
+            <w type="Na">片</w>
+            <w type="D">都</w>
+            <w type="D">曾</w>
+            <w type="P">在</w>
+            <w type="Nes">該</w>
+            <w type="Na">單元</w>
+            <w type="VC">放映</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Cbb">而</w>
+            <w type="Nb">何蔚庭</w>
+            <w type="DE">的</w>
+            <w type="Na">短片</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VC">呼吸</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nd">夏午</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="D">曾</w>
+            <w type="D">分別</w>
+            <w type="VC">選映</w>
+            <w type="P">至</w>
+            <w type="Nc">國際</w>
+            <w type="Na">影評人</w>
+            <w type="Nd">周</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">導演</w>
+            <w type="A">雙</w>
+            <w type="Nf">周</w>
+            <w type="Na">單元</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nd">夏午</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Dfa">更</w>
+            <w type="P">在</w>
+            <w type="Nc">國際</w>
+            <w type="Na">影評人</w>
+            <w type="Nd">周</w>
+            <w type="VJ">獲得</w>
+            <w type="Neu">2</w>
+            <w type="Na">獎項</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nb">中國時報</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Na">佛</w>
+            <w type="D">沒</w>
+            <w type="VE">說</w>
+            <w type="A">小乘</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">大乘</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nb">上座部</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">馬哈希</w>
+            <w type="Na">尊者</w>
+            <w type="Nb">帝釋</w>
+            <w type="D">所問經</w>
+            <w type="VE">講記</w>
+            <w type="Neu">77</w>
+            <w type="Nf">頁</w>
+            <w type="VC">拆穿</w>
+            <w type="VH">假</w>
+            <w type="Na">佛法</w>
+            <w type="Nb">大乘</w>
+            <w type="DE">的</w>
+            <w type="Na">騙局</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">上座部</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">明昆</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="A">南傳</w>
+            <w type="Na">菩薩道</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="SHI">是</w>
+            <w type="Nb">真</w>
+            <w type="Nb">釋迦牟尼佛</w>
+            <w type="DE">的</w>
+            <w type="Na">菩薩</w>
+            <w type="VH">成佛</w>
+            <w type="DE">之</w>
+            <w type="Na">道</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">大乘</w>
+            <w type="SHI">是</w>
+            <w type="VH">假</w>
+            <w type="Na">菩薩</w>
+            <w type="VH">成佛</w>
+            <w type="DE">之</w>
+            <w type="Na">道</w>
+         </s>
+         <s>
+            <w type="Nb">妙法蓮華經</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">華嚴經</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">心經</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">金剛經</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">梵網經</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">菩薩</w>
+            <w type="VC">戒</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">圓覺經</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">楞嚴經</w>
+            <w type="SHI">是</w>
+            <w type="Nb">大乘</w>
+            <w type="VH">假</w>
+            <w type="Na">佛經</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">阿彌陀佛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">藥師佛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">大日</w>
+            <w type="Nb">如來</w>
+            <w type="SHI">是</w>
+            <w type="Nb">大乘</w>
+            <w type="VH">假</w>
+            <w type="Na">佛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE">      </w>
+            <w type="Nb">觀世音</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">維摩詰 </w>
+            <w type="Nb">龍樹</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">地藏王</w>
+            <w type="SHI">是</w>
+            <w type="Nb">大乘</w>
+            <w type="VH">假</w>
+            <w type="Na">菩薩</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.ptt.cc/bbs/soul/M.1584460614</w>
+            <w type="PERIODCATEGORY">.A.E88</w>
+            <w type="FW">.</w>
+            <w type="FW">html</w>
+         </s>
+         <s>
+            <w type="Nb">上座部</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">目犍連</w>
+            <w type="Nb">子</w>
+            <w type="Nb">帝須</w>
+            <w type="P">和</w>
+            <w type="Nep">那</w>
+            <w type="D">先</w>
+            <w type="VHC">破</w>
+            <w type="Na">偽經</w>
+            <w type="Nb">大乘</w>
+            <w type="Nc">十方</w>
+            <w type="Nes">諸</w>
+            <w type="Na">佛</w>
+         </s>
+      </body>
+      <title author="hvariables (Speculative Male)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 73</w>
+            <w type="Nf">屆</w>
+            <w type="Nc">坎城</w>
+            <w type="Na">影展</w>
+            <w type="VK">恐</w>
+            <w type="VE">宣布</w>
+            <w type="VC">停辦</w>
+         </s>
+      </title>
+      <comment author="eclipse666" c_type="pos">
+         <s>
+            <w type="VHC">停</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">都</w>
+            <w type="VHC">停</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

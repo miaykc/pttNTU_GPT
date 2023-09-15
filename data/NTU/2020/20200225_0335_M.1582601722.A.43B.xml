@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">olmtw (支持htc，支持台灣貨)</metadata>
+      <metadata name="post_id">M.1582601722.A.43B</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 中信、台大產學合作 用人工智慧做徵信</metadata>
+   </teiHeader>
+   <text>
+      <body author="olmtw (支持htc，支持台灣貨)">
+         <s>
+            <w type="Nb">中信</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">台大</w>
+            <w type="Na">產學</w>
+            <w type="VH">合作</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">用</w>
+            <w type="Na">人工</w>
+            <w type="Na">智慧</w>
+            <w type="VC">做</w>
+            <w type="VA">徵信</w>
+         </s>
+         <s>
+            <w type="Neu">2020-02-24 19</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">47 </w>
+            <w type="Nb">聯合報</w>
+            <w type="FW"> / </w>
+            <w type="Na">記者</w>
+            <w type="Nb">黃有容</w>
+            <w type="FW">／</w>
+            <w type="Nc">台北</w>
+            <w type="D">即時</w>
+            <w type="VE">報導</w>
+         </s>
+         <s>
+            <w type="Nc">中國</w>
+            <w type="A">信託</w>
+            <w type="Nd">今</w>
+            <w type="Neu">（24）</w>
+            <w type="Nd">日</w>
+            <w type="VE">宣布</w>
+            <w type="Caa">與</w>
+            <w type="Nc">科技部</w>
+            <w type="Nc">台大</w>
+            <w type="FW">AI</w>
+            <w type="Nc">中心</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">IoX</w>
+            <w type="Nc">中心</w>
+            <w type="VC">簽署</w>
+            <w type="Na">產學</w>
+            <w type="VH">合作</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">目標</w>
+            <w type="VH">升級</w>
+            <w type="A">現有</w>
+         </s>
+         <s>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">自然</w>
+            <w type="Na">語言</w>
+            <w type="VK">理解</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Caa">和</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">電腦</w>
+            <w type="Na">視覺</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">技術</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">中信銀</w>
+            <w type="Na">總經理</w>
+            <w type="Nb">陳佳文</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">未來</w>
+            <w type="D">可</w>
+            <w type="VL">讓</w>
+            <w type="FW">AI</w>
+            <w type="P">從</w>
+            <w type="Na">客</w>
+         </s>
+         <s>
+            <w type="Na">戶</w>
+            <w type="Na">語言</w>
+            <w type="Ng">中</w>
+            <w type="VH">精確</w>
+            <w type="VK">瞭解</w>
+            <w type="Na">需求</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">分析</w>
+            <w type="Na">客戶</w>
+            <w type="D">當下</w>
+            <w type="Na">情緒</w>
+            <w type="Cab">等</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以</w>
+            <w type="VH">早</w>
+            <w type="Neu">一</w>
+            <w type="Nf">步</w>
+            <w type="VD">提供</w>
+            <w type="VC">協助</w>
+            <w type="Caa">和</w>
+            <w type="VB">應對</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">另外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="D">可</w>
+         </s>
+         <s>
+            <w type="VC">利用</w>
+            <w type="FW">AI</w>
+            <w type="VC">閱讀</w>
+            <w type="Neqa">大量</w>
+            <w type="VA">徵信</w>
+            <w type="Na">資料</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">提升</w>
+            <w type="FW">KYC</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="VJ">認識</w>
+            <w type="Na">客戶</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="P">和</w>
+            <w type="FW">AML</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="VA">洗錢</w>
+            <w type="VE">防制</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Na">效率</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VA">簽約</w>
+            <w type="Na">儀式</w>
+            <w type="Nd">今日</w>
+            <w type="P">於</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">博理館</w>
+            <w type="VC">舉行</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nv">指導</w>
+            <w type="Na">單位</w>
+            <w type="Nc">科技部</w>
+            <w type="Na">次長</w>
+            <w type="Nb">許有進</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">校方</w>
+            <w type="Na">代表</w>
+            <w type="Nc">台大</w>
+            <w type="Na">副校長</w>
+            <w type="Nb">陳</w>
+         </s>
+         <s>
+            <w type="Nb">銘憲</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">台大</w>
+            <w type="Na">電機</w>
+            <w type="Na">資訊</w>
+            <w type="Nc">學院</w>
+            <w type="Na">院長</w>
+            <w type="Nb">張耀文</w>
+            <w type="D">皆</w>
+            <w type="VC">出席</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nc">中信銀</w>
+            <w type="VE">指出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">這</w>
+            <w type="Nf">次</w>
+            <w type="Na">產學</w>
+            <w type="VH">合作</w>
+            <w type="VC">投入</w>
+            <w type="Da">約</w>
+            <w type="Neu">一千萬</w>
+         </s>
+         <s>
+            <w type="Nf">元</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">項目</w>
+            <w type="D">主要</w>
+            <w type="VG">分為</w>
+            <w type="Neu">四</w>
+            <w type="VH">大</w>
+            <w type="Nf">類</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VK">包括</w>
+            <w type="A">現有</w>
+            <w type="Na">技術</w>
+            <w type="VH">升級</w>
+            <w type="DE">的</w>
+            <w type="Na">對話</w>
+            <w type="Na">言談</w>
+            <w type="Na">分析</w>
+            <w type="Caa">和</w>
+            <w type="Na">新聞</w>
+            <w type="Na">篇章</w>
+            <w type="VC">分析</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">以及</w>
+            <w type="VC">分</w>
+         </s>
+         <s>
+            <w type="VC">析</w>
+            <w type="Na">人臉</w>
+            <w type="Na">表情</w>
+            <w type="D">就</w>
+            <w type="D">可以</w>
+            <w type="VK">知道</w>
+            <w type="Na">情緒</w>
+            <w type="Caa">和</w>
+            <w type="Na">性格</w>
+            <w type="VI">關聯</w>
+            <w type="DE">的</w>
+            <w type="A">微</w>
+            <w type="Na">表情</w>
+            <w type="VE">識別</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">情緒</w>
+            <w type="VE">識別</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">陳佳文</w>
+            <w type="VE">指出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">自然</w>
+            <w type="Na">語言</w>
+            <w type="VC">處理</w>
+            <w type="Caa">與</w>
+            <w type="Na">電腦</w>
+            <w type="Na">視覺</w>
+            <w type="SHI">是</w>
+            <w type="Nc">中信銀</w>
+            <w type="FW">AI</w>
+            <w type="VC">研發</w>
+            <w type="Na">團隊</w>
+            <w type="DE">的</w>
+            <w type="VC">研發</w>
+            <w type="Na">重心</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">這</w>
+            <w type="Nf">次</w>
+            <w type="VH">合作</w>
+            <w type="D">將</w>
+            <w type="VC">升</w>
+         </s>
+         <s>
+            <w type="Na">級</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">自然</w>
+            <w type="Na">語言</w>
+            <w type="VK">理解</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">模型</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">提升</w>
+            <w type="Na">客服</w>
+            <w type="Na">語音</w>
+            <w type="Na">數據</w>
+            <w type="Na">言談</w>
+            <w type="VC">分析</w>
+            <w type="Na">能力</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nh">他</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">目前</w>
+            <w type="FW">AI</w>
+            <w type="D">能</w>
+            <w type="Na">代替</w>
+            <w type="Na">人</w>
+         </s>
+         <s>
+            <w type="Na">工</w>
+            <w type="VC">聽取</w>
+            <w type="Neqa">大量</w>
+            <w type="Na">客戶</w>
+            <w type="Na">電話</w>
+            <w type="Na">內容</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">未來</w>
+            <w type="Cbb">若</w>
+            <w type="D">可以</w>
+            <w type="VH">正確</w>
+            <w type="VC">提取</w>
+            <w type="Na">言談</w>
+            <w type="Ng">中</w>
+            <w type="Na">關鍵</w>
+            <w type="Na">訊息</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">就</w>
+            <w type="D">能</w>
+            <w type="VE">預測</w>
+            <w type="Na">客戶</w>
+            <w type="DE">的</w>
+            <w type="Na">需求</w>
+         </s>
+         <s>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VH">同樣</w>
+            <w type="DE">的</w>
+            <w type="Na">技術</w>
+            <w type="D">也</w>
+            <w type="D">將</w>
+            <w type="VC">運用</w>
+            <w type="P">於</w>
+            <w type="VC">分析</w>
+            <w type="Na">新聞</w>
+            <w type="Na">篇章</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Da">不只</w>
+            <w type="D">能夠</w>
+            <w type="VA">聚</w>
+            <w type="Na">類</w>
+            <w type="A">單一</w>
+            <w type="Na">事件</w>
+            <w type="DE">的</w>
+            <w type="Neqa">所有</w>
+            <w type="VH">相關</w>
+            <w type="Na">新聞</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">更</w>
+            <w type="D">能</w>
+         </s>
+         <s>
+            <w type="VC">擷取</w>
+            <w type="Na">文章</w>
+            <w type="VH">重要</w>
+            <w type="Na">資訊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">分析</w>
+            <w type="Na">正面</w>
+            <w type="Caa">或</w>
+            <w type="Na">負面</w>
+            <w type="Na">訊息</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">生成</w>
+            <w type="Na">新聞</w>
+            <w type="Na">摘要</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">幫助</w>
+            <w type="FW">KYC</w>
+            <w type="Caa">和</w>
+            <w type="FW">AML</w>
+            <w type="Cab">等</w>
+            <w type="Na">工作</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nh">他</w>
+            <w type="VE">強調</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">這些</w>
+            <w type="Na">技術</w>
+            <w type="P">以</w>
+            <w type="Nd">目前</w>
+            <w type="D">來</w>
+            <w type="VC">看</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">非但</w>
+            <w type="VJ">沒有</w>
+            <w type="VHC">減少</w>
+            <w type="Na">員工</w>
+            <w type="Na">人數</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">甚至</w>
+            <w type="VJ">新增</w>
+            <w type="Di">了</w>
+            <w type="Neqa">許多</w>
+            <w type="Na">職位</w>
+            <w type="Na">需求</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">資</w>
+         </s>
+         <s>
+            <w type="VH">深</w>
+            <w type="Na">客服</w>
+            <w type="D">也</w>
+            <w type="D">都</w>
+            <w type="VG">轉為</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="FW">AI</w>
+            <w type="Na">導師</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">教導</w>
+            <w type="FW">AI</w>
+            <w type="VK">瞭解</w>
+            <w type="Na">客戶</w>
+            <w type="Na">對話</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">另外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">中信銀</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">電腦</w>
+            <w type="Na">視覺</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">團隊</w>
+            <w type="VC">成立</w>
+            <w type="Nd">初期</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">便</w>
+            <w type="VC">取得</w>
+            <w type="Nc">美國</w>
+            <w type="Na">國家</w>
+            <w type="Na">標準</w>
+            <w type="Nc">技術</w>
+            <w type="Nc">局</w>
+            <w type="Na">人臉</w>
+            <w type="VC">辨識</w>
+            <w type="VA">認證</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nep">此</w>
+            <w type="Nf">次</w>
+            <w type="VH">合作</w>
+            <w type="D">將</w>
+            <w type="VC">建立</w>
+            <w type="A">微</w>
+            <w type="Na">表情</w>
+            <w type="Caa">與</w>
+            <w type="Na">情緒</w>
+            <w type="Na">視覺</w>
+            <w type="Na">資料集</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VC">發展</w>
+            <w type="Na">情緒</w>
+            <w type="VE">識別</w>
+            <w type="Na">模型</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">未來</w>
+            <w type="D">可</w>
+            <w type="VC">應用</w>
+            <w type="P">於</w>
+            <w type="Na">人臉</w>
+            <w type="Na">微</w>
+         </s>
+         <s>
+            <w type="Na">表情</w>
+            <w type="VC">分析</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">延伸為</w>
+            <w type="Nc">線上</w>
+            <w type="Na">身份</w>
+            <w type="VC">核驗</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">分行</w>
+            <w type="A">數位</w>
+            <w type="VC">迎</w>
+            <w type="Na">賓</w>
+            <w type="VC">服務</w>
+            <w type="DE">的</w>
+            <w type="Na">技術</w>
+            <w type="Na">基礎</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">例如</w>
+            <w type="P">在</w>
+            <w type="VA">面對面</w>
+            <w type="VC">服務客</w>
+         </s>
+         <s>
+            <w type="Nd">戶</w>
+            <w type="Ng">時</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VB">提前</w>
+            <w type="VK">察覺</w>
+            <w type="Na">客戶</w>
+            <w type="Na">情緒</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">讓</w>
+            <w type="Nc">第一線</w>
+            <w type="Na">人員</w>
+            <w type="D">能</w>
+            <w type="D">適時</w>
+            <w type="VH">妥善</w>
+            <w type="VC">處置</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">提升</w>
+            <w type="Na">客戶</w>
+            <w type="VC">體驗</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//udn.com/news/story/7239/4367505</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Google</w>
+            <w type="FW"> Chrome</w>
+            <w type="FW"> on</w>
+            <w type="FW"> Windows</w>
+            <w type="FW"> 10</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Pro</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="olmtw (支持htc，支持台灣貨)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">中信</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">台大</w>
+            <w type="Na">產學</w>
+            <w type="VH">合作</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">用</w>
+            <w type="Na">人工</w>
+            <w type="Na">智慧</w>
+            <w type="VC">做</w>
+            <w type="VA">徵信</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

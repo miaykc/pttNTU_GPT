@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">erenwih ()</metadata>
+      <metadata name="post_id">M.1662624596.A.553</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">politics-ptt</metadata>
+      <metadata name="title">[情報] 111年國慶影片</metadata>
+   </teiHeader>
+   <text>
+      <body author="erenwih ()">
+         <s>
+            <w type="Neu">111年</w>
+            <w type="Nd">國慶</w>
+            <w type="Na">影片</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">5</w>
+            <w type="Nf">分鐘</w>
+            <w type="Na">完整版</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/ISu</w>
+            <w type="FW">H</w>
+            <w type="FW">Nuglu</w>
+            <w type="FW">DU</w>
+         </s>
+         <s>
+            <w type="Neu">111年</w>
+            <w type="Nd">國慶</w>
+            <w type="Na">影片</w>
+            <w type="FW"> 30</w>
+            <w type="Nf">秒</w>
+            <w type="Na">短版</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//fb.watch/fpmWHTR39</w>
+            <w type="FW">f/</w>
+         </s>
+         <s>
+            <w type="Nc">台灣</w>
+            <w type="VH">生日快樂</w>
+            <w type="FW"> \</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">*▽*</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">/</w>
+         </s>
+      </body>
+      <title author="erenwih ()">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 111年</w>
+            <w type="Nd">國慶</w>
+            <w type="Na">影片</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

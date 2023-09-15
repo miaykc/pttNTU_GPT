@@ -1,0 +1,752 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Axwell (Axwell)</metadata>
+      <metadata name="post_id">M.1581289988.A.524</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[Live] 2020第92屆奧斯卡頒獎典禮 星光大道</metadata>
+   </teiHeader>
+   <text>
+      <body author="Axwell (Axwell)">
+         <s>
+            <w type="VB">頒獎</w>
+            <w type="Na">時間</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">時間</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Neu">2020/02/10</w>
+            <w type="Neu">(</w>
+            <w type="Neu">一</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="Nd">早上</w>
+            <w type="Nd">7點</w>
+            <w type="Neu">30分</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">星光</w>
+            <w type="Na">大道</w>
+         </s>
+         <s>
+            <w type="Neu">2020/02/10</w>
+            <w type="Neu">(</w>
+            <w type="Neu">一</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="Nd">早上</w>
+            <w type="Nd">9點</w>
+            <w type="Neu">00分</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VB">頒獎</w>
+            <w type="Na">典禮</w>
+         </s>
+         <s>
+            <w type="Na">電視</w>
+            <w type="Nv">轉播</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">台視</w>
+         </s>
+         <s>
+            <w type="Na">網路</w>
+            <w type="VC">轉播</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">ABC </w>
+            <w type="FW">News</w>
+         </s>
+         <s>
+            <w type="Dk">那</w>
+            <w type="Nh">我</w>
+            <w type="VC">修改</w>
+            <w type="Nd">一下</w>
+         </s>
+      </body>
+      <title author="Axwell (Axwell)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="FW">Live</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 2020</w>
+            <w type="Neu">第92</w>
+            <w type="Nf">屆</w>
+            <w type="Nb">奧斯卡</w>
+            <w type="VB">頒獎</w>
+            <w type="Na">典禮</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">星光</w>
+            <w type="Na">大道</w>
+         </s>
+      </title>
+      <comment author="xd987" c_type="pos">
+         <s>
+            <w type="VC">讚</w>
+         </s>
+      </comment>
+      <comment author="zenlan" c_type="pos">
+         <s>
+            <w type="FW">HBO</w>
+            <w type="D">真的</w>
+            <w type="V_2">有</w>
+            <w type="VC">轉播</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Na">節目表</w>
+            <w type="D">都</w>
+            <w type="D">沒</w>
+            <w type="VE">看到</w>
+            <w type="T">耶</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">現在</w>
+            <w type="D">還</w>
+            <w type="D">在</w>
+            <w type="VC">播</w>
+            <w type="VC">別</w>
+         </s>
+      </comment>
+      <comment author="zenlan" c_type="neu">
+         <s>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+         </s>
+      </comment>
+      <comment author="x641220" c_type="pos">
+         <s>
+            <w type="Nc">台視</w>
+            <w type="D">怎麼</w>
+            <w type="VC">寫</w>
+            <w type="Cbb">因為</w>
+            <w type="Na">版權</w>
+            <w type="Na">問題</w>
+            <w type="VI">沒辦法</w>
+            <w type="VC">播</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="x641220" c_type="neu">
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//123</w>
+            <w type="FW">tvnow.com/watch/abc/ </w>
+            <w type="Nd">目前</w>
+            <w type="FW">ABC</w>
+            <w type="FW"> news</w>
+            <w type="V_2">有</w>
+         </s>
+      </comment>
+      <comment author="zenlan" c_type="pos">
+         <s>
+            <w type="VK">感謝</w>
+            <w type="Nc">樓上</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台視</w>
+            <w type="Nd">現在</w>
+            <w type="Na">電視</w>
+            <w type="D">正在</w>
+            <w type="VC">轉播</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="D">等等</w>
+            <w type="VA">出門</w>
+            <w type="D">就</w>
+            <w type="VC">看</w>
+         </s>
+      </comment>
+      <comment author="zenlan" c_type="neu">
+         <s>
+            <w type="D">不</w>
+            <w type="VCL">到</w>
+            <w type="Di">了</w>
+            <w type="ETCCATEGORY">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+      <comment author="sdf88523" c_type="pos">
+         <s>
+            <w type="FW">ABC News</w>
+            <w type="D">等</w>
+            <w type="Ng">下</w>
+            <w type="VB">頒獎</w>
+            <w type="D">也</w>
+            <w type="VH">免費</w>
+            <w type="VC">看</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="uriel2231" c_type="pos">
+         <s>
+            <w type="FW">Rabel</w>
+            <w type="FW"> wilson</w>
+            <w type="VC">穿</w>
+            <w type="DE">的</w>
+            <w type="Dfa">蠻</w>
+            <w type="VH">美</w>
+         </s>
+      </comment>
+      <comment author="lgng66133" c_type="neu">
+         <s>
+            <w type="VE">請問</w>
+            <w type="V_2">有</w>
+            <w type="Na">網路</w>
+            <w type="VC">連結</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="christing19" c_type="pos">
+         <s>
+            <w type="Nc">台視</w>
+            <w type="Da">只</w>
+            <w type="D">能</w>
+            <w type="VC">看</w>
+            <w type="Na">電視</w>
+            <w type="VC">連結</w>
+            <w type="D">就</w>
+            <w type="VH">對</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="Watersmanpow" c_type="pos">
+         <s>
+            <w type="Neu">兩</w>
+            <w type="Nf">位</w>
+            <w type="Na">骨灰級</w>
+            <w type="Na">男人</w>
+            <w type="Nes">同</w>
+            <w type="Na">框</w>
+            <w type="P">受</w>
+            <w type="VC">訪</w>
+            <w type="Na">機會</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">勞勃</w>
+            <w type="Caa">與</w>
+            <w type="Nb">帕契</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="pos">
+         <s>
+            <w type="Nb">娜塔麗</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Jzmdl</w>
+            <w type="FW">Td.jpg</w>
+         </s>
+      </comment>
+      <comment author="PatsyGallagh" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/a/3H6</w>
+            <w type="FW">jKL5</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="neu">
+         <s>
+            <w type="Nb">魯尼</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/JoSpZB4</w>
+            <w type="FW">.jpg</w>
+         </s>
+      </comment>
+      <comment author="PatsyGallagh" c_type="pos">
+         <s>
+            <w type="PARENTHESISCATEGORY">[img</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/3xhn</w>
+            <w type="FW">A5a.jpg</w>
+         </s>
+      </comment>
+      <comment author="PatsyGallagh" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/ALJxu7S.jpg</w>
+            <w type="FW"> Saoirse</w>
+            <w type="FW"> Ronan</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="pos">
+         <s>
+            <w type="FW">Timmy</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/MR9</w>
+            <w type="FW">Hk6</w>
+            <w type="FW">j.jpg</w>
+         </s>
+      </comment>
+      <comment author="uriel2231" c_type="pos">
+         <s>
+            <w type="Nb">瑟夏</w>
+            <w type="Nep">這</w>
+            <w type="Nf">件</w>
+            <w type="D">一定</w>
+            <w type="P">被</w>
+            <w type="Nh">個人</w>
+            <w type="Na">意見</w>
+            <w type="VC">批X</w>
+            <w type="ETCCATEGORY">D</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/v</w>
+            <w type="FW">Yuz</w>
+            <w type="FW">E2e.jpg</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">瑪格</w>
+            <w type="FW">XD</w>
+         </s>
+      </comment>
+      <comment author="bbq2005" c_type="neu">
+         <s>
+            <w type="Na">肚子</w>
+            <w type="Nep">那</w>
+            <w type="Neu">一</w>
+            <w type="Nf">段</w>
+            <w type="Na">波浪</w>
+            <w type="SHI">是</w>
+            <w type="FW">……</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="neu">
+         <s>
+            <w type="Nb">史嘉蕾</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/ZODQzzj.jpg</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/iKfyq5H.jpg</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">基哥</w>
+            <w type="Caa">與</w>
+            <w type="Nh">他</w>
+            <w type="Na">媽</w>
+         </s>
+      </comment>
+      <comment author="sdf88523" c_type="pos">
+         <s>
+            <w type="VC">放開</w>
+            <w type="Nep">那</w>
+            <w type="Na">男孩</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="neu">
+         <s>
+            <w type="Nb">瑪格</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/PwU0MQM.jpg</w>
+         </s>
+      </comment>
+      <comment author="jidytri815" c_type="neu">
+         <s>
+            <w type="FW">wiig</w>
+            <w type="Nep">那</w>
+            <w type="Nf">件</w>
+            <w type="SHI">是</w>
+            <w type="FW">sit</w>
+            <w type="FW"> down</w>
+            <w type="DASHCATEGORY"> please</w>
+            <w type="VC">設計</w>
+            <w type="T">的</w>
+            <w type="T">嗎</w>
+            <w type="FW">X</w>
+            <w type="ETCCATEGORY">D</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="neu">
+         <s>
+            <w type="Nb">布莉拉森</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/ih</w>
+            <w type="Neu">56</w>
+            <w type="FW">qEO.jpg</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="pos">
+         <s>
+            <w type="Nc">佛羅倫斯</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/xnyu</w>
+            <w type="FW">Qbs.jpg</w>
+         </s>
+      </comment>
+      <comment author="PatsyGallagh" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/kpdw</w>
+            <w type="FW">VY7</w>
+            <w type="FW">.jpg</w>
+            <w type="FW"> Margot</w>
+            <w type="FW"> Robbie</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="neu">
+         <s>
+            <w type="Nb">芮妮</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/iCRsIsP.jpg</w>
+         </s>
+      </comment>
+      <comment author="luciferwing" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/b4HA212</w>
+            <w type="FW">.jpg</w>
+         </s>
+      </comment>
+      <comment author="uriel2231" c_type="pos">
+         <s>
+            <w type="Nb">布萊德彼特</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="zenlan" c_type="pos">
+         <s>
+            <w type="FW">Malek</w>
+            <w type="Nd">今天</w>
+            <w type="D">沒有</w>
+            <w type="VC">戴</w>
+            <w type="Na">領結</w>
+            <w type="Di">了</w>
+            <w type="FW">Ｘ</w>
+            <w type="ETCCATEGORY">Ｄ</w>
+         </s>
+      </comment>
+      <comment author="PatsyGallagh" c_type="neu">
+         <s>
+            <w type="FW">Brad</w>
+            <w type="FW"> Pitt</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">五十六</w>
+            <w type="Nf">歲</w>
+            <w type="Na">狀態</w>
+            <w type="D">真的</w>
+            <w type="Dfa">很</w>
+            <w type="VH">好</w>
+            <w type="T">耶</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="sdf88523" c_type="pos">
+         <s>
+            <w type="Nb">蓋兒</w>
+            <w type="VC">穿</w>
+            <w type="DE">的</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/n</w>
+            <w type="FW">NQ9L2</w>
+            <w type="FW">N.jpg</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">莎莉</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/b</w>
+            <w type="Neu">64</w>
+            <w type="FW">DdFI.jpg</w>
+         </s>
+      </comment>
+      <comment author="PatsyGallagh" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/RXpnoy</w>
+            <w type="FW">V.jpg</w>
+            <w type="FW"> Gal</w>
+            <w type="FW"> Gadot</w>
+         </s>
+      </comment>
+      <comment author="uriel2231" c_type="pos">
+         <s>
+            <w type="Nb">莎莉</w>
+            <w type="Dfa">好</w>
+            <w type="VH">美</w>
+         </s>
+      </comment>
+      <comment author="dragon50119" c_type="pos">
+         <s>
+            <w type="FW">Joe</w>
+            <w type="FW"> Pesci</w>
+            <w type="D">真的</w>
+            <w type="D">沒</w>
+            <w type="VC">出席</w>
+            <w type="I">欸</w>
+            <w type="FW">XD </w>
+            <w type="P">除了</w>
+            <w type="Na">愛爾蘭人</w>
+            <w type="DE">的</w>
+            <w type="Na">宣傳</w>
+            <w type="Ng">以外</w>
+         </s>
+      </comment>
+      <comment author="dragon50119" c_type="neu">
+         <s>
+            <w type="D">完全</w>
+            <w type="D">沒</w>
+            <w type="P">在</w>
+            <w type="Na">典禮</w>
+            <w type="VH">露臉</w>
+            <w type="Di">過</w>
+         </s>
+      </comment>
+      <comment author="dragon50119" c_type="neu">
+         <s>
+            <w type="D">原本</w>
+            <w type="VK">期待</w>
+            <w type="Nh">他</w>
+            <w type="D">會</w>
+            <w type="VH">爆冷門</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="dan800512" c_type="pos">
+         <s>
+            <w type="VC">求</w>
+            <w type="VC">直播</w>
+            <w type="VC">連結</w>
+            <w type="FW">～</w>
+         </s>
+      </comment>
+      <comment author="annlee0506" c_type="pos">
+         <s>
+            <w type="Nb">芮妮</w>
+            <w type="Dfa">好</w>
+            <w type="VH">美</w>
+            <w type="T">啊</w>
+            <w type="I">啊</w>
+            <w type="I">啊</w>
+         </s>
+      </comment>
+      <comment author="Axwell" c_type="neu">
+         <s>
+            <w type="D">竟然</w>
+            <w type="D">沒</w>
+            <w type="VC">訪問</w>
+            <w type="Nb">瓦昆</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/OHAmt</w>
+            <w type="FW">DS.jpg</w>
+         </s>
+      </comment>
+      <comment author="cilay7391" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Ay6WAbZ.jpg</w>
+         </s>
+      </comment>
+      <comment author="Smile916" c_type="pos">
+         <s>
+            <w type="VE">請問</w>
+            <w type="Nd">剛才</w>
+            <w type="Neu">一</w>
+            <w type="Na">男</w>
+            <w type="Neu">一</w>
+            <w type="Na">女</w>
+            <w type="Na">訪問人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">男生</w>
+            <w type="P">跟</w>
+            <w type="Na">主持人</w>
+            <w type="SHI">是</w>
+            <w type="Na">兄弟</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="bill93101" c_type="pos">
+         <s>
+            <w type="VK">希望</w>
+            <w type="Nb">瓦昆</w>
+            <w type="VA">得獎</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="boycocolee" c_type="pos">
+         <s>
+            <w type="A">原來</w>
+            <w type="Nc">美國</w>
+            <w type="Na">偶像</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+         </s>
+      </comment>
+      <comment author="TimmyJiang" c_type="pos">
+         <s>
+            <w type="FW">x64</w>
+            <w type="VH">大</w>
+            <w type="VD">給</w>
+            <w type="DE">的</w>
+            <w type="VC">直播</w>
+            <w type="VC">連結</w>
+            <w type="D">就</w>
+            <w type="D">可以</w>
+            <w type="VC">看</w>
+            <w type="Di">了</w>
+            <w type="T">呀</w>
+         </s>
+      </comment>
+      <comment author="uriel2231" c_type="pos">
+         <s>
+            <w type="Na">舞群</w>
+            <w type="V_2">有</w>
+            <w type="Na">小丑</w>
+            <w type="FW">X</w>
+            <w type="ETCCATEGORY">D</w>
+         </s>
+      </comment>
+      <comment author="maggieyen" c_type="pos">
+         <s>
+            <w type="FW">Janelle</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Monae</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">一</w>
+            <w type="VH">開始</w>
+            <w type="Dfa">有點</w>
+            <w type="VH">緊張</w>
+            <w type="DE">的</w>
+            <w type="Na">樣子</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">現在</w>
+            <w type="Na">歌喉</w>
+            <w type="VH">全開</w>
+         </s>
+      </comment>
+      <comment author="maggieyen" c_type="neu">
+         <s>
+            <w type="VJ">了</w>
+         </s>
+      </comment>
+      <comment author="hisashi021" c_type="pos">
+         <s>
+            <w type="FW">"</w>
+            <w type="Nh">我們</w>
+            <w type="FW">"</w>
+            <w type="Na">舞群</w>
+            <w type="FW"> XD</w>
+         </s>
+      </comment>
+      <comment author="shengju1029" c_type="neu">
+         <s>
+            <w type="D">完全</w>
+            <w type="VK">感受</w>
+            <w type="D">不</w>
+            <w type="VK">到</w>
+            <w type="D">剛剛</w>
+            <w type="VC">表演</w>
+            <w type="VH">精彩</w>
+            <w type="DE">的</w>
+            <w type="Na">點</w>
+            <w type="P">在</w>
+            <w type="Ncd">哪</w>
+         </s>
+      </comment>
+      <comment author="ups" c_type="pos">
+         <s>
+            <w type="Nb">莎莉賽隆</w>
+            <w type="Dfa">太正</w>
+            <w type="T">了</w>
+            <w type="T">吧</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+      </comment>
+      <comment author="PatsyGallagh" c_type="pos">
+         <s>
+            <w type="Nc">亞馬遜</w>
+            <w type="Na">老闆</w>
+            <w type="P">被</w>
+            <w type="VE">戲稱</w>
+            <w type="SHI">是</w>
+            <w type="Na">演員</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">哈</w>
+            <w type="D">哈哈</w>
+            <w type="D">哈哈</w>
+            <w type="FW">~</w>
+         </s>
+      </comment>
+      <comment author="PatsyGallagh" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//reurl.cc/k</w>
+            <w type="Neu">5R2R9</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nep">這</w>
+            <w type="Na">花絮</w>
+            <w type="Dfa">好</w>
+            <w type="VH">可愛</w>
+         </s>
+      </comment>
+      <comment author="hmsDEBBIE" c_type="pos">
+         <s>
+            <w type="FW">Saoirse</w>
+            <w type="Na">腹部</w>
+            <w type="DE">的</w>
+            <w type="Na">裙擺</w>
+            <w type="SHI">是</w>
+            <w type="D">怎麼</w>
+            <w type="Nf">回</w>
+            <w type="Na">事</w>
+            <w type="FW">X</w>
+            <w type="ETCCATEGORY">D</w>
+         </s>
+      </comment>
+      <comment author="canonchen" c_type="pos">
+         <s>
+            <w type="Nb">芮妮</w>
+            <w type="VH">超美</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">素雅</w>
+            <w type="VH">大方</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

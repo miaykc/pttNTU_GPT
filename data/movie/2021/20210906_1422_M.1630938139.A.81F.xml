@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jumprabbit (曉吐吐)</metadata>
+      <metadata name="post_id">M.1630938139.A.81F</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 一部文藝片</metadata>
+   </teiHeader>
+   <text>
+      <body author="jumprabbit (曉吐吐)">
+         <s>
+            <w type="Neu">好幾</w>
+            <w type="Nf">年</w>
+            <w type="Ng">前</w>
+            <w type="P">在</w>
+            <w type="Na">真善美</w>
+            <w type="VC">看</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">很</w>
+            <w type="Na">文藝</w>
+            <w type="DE">的</w>
+            <w type="Na">片子</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Ncd">裡頭</w>
+            <w type="V_2">有</w>
+            <w type="Neu">好幾</w>
+            <w type="Nf">次</w>
+            <w type="Na">女同</w>
+            <w type="DE">的</w>
+            <w type="Na">性愛</w>
+            <w type="Na">畫面</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">然後</w>
+            <w type="D">好像</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Na">貨車</w>
+         </s>
+         <s>
+            <w type="Na">司機</w>
+            <w type="VC">撞死</w>
+            <w type="Na">人</w>
+            <w type="DE">的</w>
+            <w type="Na">橋段</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">色調</w>
+            <w type="D">都</w>
+            <w type="Dfa">很</w>
+            <w type="VH">黯淡</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">臺詞</w>
+            <w type="D">也</w>
+            <w type="VH">很少</w>
+         </s>
+         <s>
+            <w type="Na">片名</w>
+            <w type="SHI">是</w>
+            <w type="Neu">幾</w>
+            <w type="Na">月</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">日</w>
+            <w type="DE">的</w>
+            <w type="Nep">什麼</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">突然</w>
+            <w type="VE">想起</w>
+            <w type="VC">看</w>
+            <w type="Di">過</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Na">片</w>
+            <w type="D">卻</w>
+            <w type="VE">想</w>
+            <w type="D">不</w>
+            <w type="Di">起</w>
+            <w type="Na">片名</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="jumprabbit (曉吐吐)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">文藝片</w>
+         </s>
+      </title>
+      <comment author="mashmabo" c_type="pos">
+         <s>
+            <w type="VJ">無</w>
+            <w type="Na">人</w>
+            <w type="VJ">知曉</w>
+            <w type="DE">的</w>
+            <w type="Nd">七月</w>
+            <w type="Nd">十日</w>
+         </s>
+      </comment>
+      <comment author="jumprabbit" c_type="neu">
+         <s>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="VJ">謝謝</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

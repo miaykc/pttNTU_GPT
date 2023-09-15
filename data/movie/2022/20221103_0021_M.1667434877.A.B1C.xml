@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">JetChen (JetChen)</metadata>
+      <metadata name="post_id">M.1667434877.A.B1C</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 類似魔女嘉莉的英雄片?</metadata>
+   </teiHeader>
+   <text>
+      <body author="JetChen (JetChen)">
+         <s>
+            <w type="VK">記得</w>
+            <w type="D">可能</w>
+            <w type="Neu">一</w>
+            <w type="Nf">年</w>
+            <w type="Ng">前</w>
+            <w type="V_2">有</w>
+            <w type="VC">看過</w>
+            <w type="VE">預告</w>
+         </s>
+         <s>
+            <w type="P">把</w>
+            <w type="Na">魔女</w>
+            <w type="Nb">嘉莉</w>
+            <w type="VG">弄成</w>
+            <w type="D">好像</w>
+            <w type="A">超級</w>
+            <w type="Na">英雄</w>
+         </s>
+         <s>
+            <w type="Nep">那</w>
+            <w type="Na">時候</w>
+            <w type="P">在</w>
+            <w type="Na">心</w>
+            <w type="Ng">裡</w>
+            <w type="Dfa">蠻</w>
+            <w type="VK">期待</w>
+            <w type="T">的</w>
+         </s>
+         <s>
+            <w type="Nd">今天</w>
+            <w type="D">突然</w>
+            <w type="VE">想</w>
+            <w type="Di">起來</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">餵</w>
+            <w type="Na">狗</w>
+            <w type="VC">找</w>
+            <w type="D">不</w>
+            <w type="VCL">到</w>
+         </s>
+         <s>
+            <w type="VE">請問</w>
+            <w type="V_2">有</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Na">片</w>
+            <w type="T">嗎</w>
+         </s>
+         <s>
+            <w type="P">對</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">就是</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">居然</w>
+            <w type="D">沒</w>
+            <w type="VCL">上</w>
+         </s>
+      </body>
+      <title author="JetChen (JetChen)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VG">類似</w>
+            <w type="Na">魔女</w>
+            <w type="Nb">嘉莉</w>
+            <w type="DE">的</w>
+            <w type="Na">英雄片</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </title>
+      <comment author="poopooShaw" c_type="pos">
+         <s>
+            <w type="VH">怪奇</w>
+            <w type="Na">物語</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="birdy590" c_type="pos">
+         <s>
+            <w type="FW">Firestarter</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="jack5u06d93" c_type="pos">
+         <s>
+            <w type="VC">反</w>
+            <w type="VC">霸凌</w>
+            <w type="Na">爽片</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">殭屍</w>
+            <w type="Na">教戰</w>
+            <w type="Na">手</w>
+            <w type="D">則</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">算</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="pat0629pal" c_type="pos">
+         <s>
+            <w type="VA">燃火</w>
+            <w type="DE">的</w>
+            <w type="Na">女孩</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Nd">後來</w>
+            <w type="D">好像</w>
+            <w type="D">沒</w>
+            <w type="VAC">上映</w>
+         </s>
+      </comment>
+      <comment author="jbdada" c_type="pos">
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="Na">評價</w>
+            <w type="VH">超</w>
+            <w type="VH">爛</w>
+         </s>
+      </comment>
+      <comment author="mefifthfloor" c_type="neu">
+         <s>
+            <w type="Na">殺手</w>
+            <w type="Na">反派</w>
+            <w type="D">突然</w>
+            <w type="VH">大徹大悟</w>
+            <w type="DE">的</w>
+            <w type="Dfa">有點</w>
+            <w type="VH">莫名</w>
+            <w type="VH">奇妙</w>
+         </s>
+      </comment>
+      <comment author="birdy590" c_type="neu">
+         <s>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="SHI">是</w>
+            <w type="Nep">這</w>
+            <w type="Na">版</w>
+            <w type="Na">劇本</w>
+            <w type="VE">瞎掰</w>
+            <w type="T">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">難怪</w>
+            <w type="Na">評價</w>
+            <w type="P">比</w>
+            <w type="Na">舊版</w>
+            <w type="Dfa">還</w>
+            <w type="VH">爛</w>
+         </s>
+      </comment>
+      <comment author="Pt1" c_type="pos">
+         <s>
+            <w type="VC">復聯</w>
+            <w type="Neu">二</w>
+            <w type="DE">的</w>
+            <w type="Nb">汪達</w>
+            <w type="VH">崩潰</w>
+         </s>
+      </comment>
+      <comment author="ga3322165" c_type="pos">
+         <s>
+            <w type="Na">魔女</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

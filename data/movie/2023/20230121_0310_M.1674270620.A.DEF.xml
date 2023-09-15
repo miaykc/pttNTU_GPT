@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jack801016 (電子發票小板工)</metadata>
+      <metadata name="post_id">M.1674270620.A.DEF</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] TGM2 HBO GO上架</metadata>
+   </teiHeader>
+   <text>
+      <body author="jack801016 (電子發票小板工)">
+         <s>
+            <w type="Nv">捍衛</w>
+            <w type="Na">戰士</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">獨行俠</w>
+            <w type="VE">原定</w>
+            <w type="Nd">除夕夜</w>
+            <w type="Na">電視</w>
+            <w type="D">首</w>
+            <w type="VC">播</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="FW">HBO GO</w>
+            <w type="D">已經</w>
+            <w type="VB">上架</w>
+            <w type="T">囉</w>
+         </s>
+         <s>
+            <w type="VF">等不及</w>
+            <w type="VE">想</w>
+            <w type="VC">看</w>
+            <w type="DE">的</w>
+            <w type="D">可以</w>
+            <w type="VC">刷</w>
+            <w type="Neu">一</w>
+            <w type="Nf">波</w>
+            <w type="T">囉</w>
+         </s>
+         <s>
+            <w type="Caa">或是</w>
+            <w type="FW">iTunes</w>
+            <w type="VH">直接</w>
+            <w type="Neu">$190</w>
+            <w type="Nd">永久</w>
+            <w type="VC">收藏</w>
+         </s>
+      </body>
+      <title author="jack801016 (電子發票小板工)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> TGM2 HBO GO</w>
+            <w type="VB">上架</w>
+         </s>
+      </title>
+      <comment author="skizard" c_type="neu">
+         <s>
+            <w type="D">剛</w>
+            <w type="VC">看完</w>
+         </s>
+      </comment>
+      <comment author="toebb" c_type="pos">
+         <s>
+            <w type="FW">iTunes</w>
+            <w type="FW"> / </w>
+            <w type="Na">電影</w>
+            <w type="A">原</w>
+            <w type="Na">聲帶</w>
+            <w type="FW"> / DVD-BD </w>
+            <w type="D">都</w>
+            <w type="VC">收藏</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="a21096" c_type="pos">
+         <s>
+            <w type="FW">iTunes</w>
+            <w type="D">已</w>
+            <w type="VC">購入</w>
+         </s>
+      </comment>
+      <comment author="a21096" c_type="neu">
+         <s>
+            <w type="Cbb">不過</w>
+            <w type="V_2">有</w>
+            <w type="Na">機會</w>
+            <w type="VE">看到</w>
+            <w type="VH">不同</w>
+            <w type="Na">版本</w>
+            <w type="DE">的</w>
+            <w type="Na">字幕</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="Nf">種</w>
+            <w type="Na">醍醐味</w>
+         </s>
+      </comment>
+      <comment author="freeblade" c_type="pos">
+         <s>
+            <w type="FW">hbo</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">go</w>
+            <w type="Na">畫質</w>
+            <w type="D">簡直</w>
+            <w type="VC">汙辱</w>
+            <w type="Na">觀眾</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">建議</w>
+            <w type="VC">買</w>
+            <w type="Neu">4</w>
+            <w type="FW">K </w>
+            <w type="FW">UHD</w>
+            <w type="Na">版本</w>
+         </s>
+      </comment>
+      <comment author="tilwemeet" c_type="pos">
+         <s>
+            <w type="VA">幹</w>
+            <w type="VC">幹</w>
+            <w type="VC">幹</w>
+            <w type="FW">hbo</w>
+            <w type="FW"> max</w>
+            <w type="VC">勒</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="samsonfu" c_type="pos">
+         <s>
+            <w type="VC">污辱</w>
+            <w type="Na">觀眾</w>
+            <w type="Neu">+1</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">電腦</w>
+            <w type="D">還</w>
+            <w type="D">得</w>
+            <w type="P">用</w>
+            <w type="Na">網頁</w>
+            <w type="VC">開</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

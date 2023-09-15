@@ -1,0 +1,703 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">a031405 (a031405)</metadata>
+      <metadata name="post_id">M.1591421443.A.08B</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] 試用資料庫新增端傳媒/Factiva國際新聞</metadata>
+   </teiHeader>
+   <text>
+      <body author="a031405 (a031405)">
+         <s>
+            <w type="Nv">試用</w>
+            <w type="Na">資料庫</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> 端</w>
+            <w type="Na">傳媒</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="WHITESPACE">     </w>
+            <w type="Na">資料庫</w>
+            <w type="Na">簡介</w>
+         </s>
+         <s>
+            <w type="Ncd">端</w>
+            <w type="Na">傳媒</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VA">立足</w>
+            <w type="Nc">香港</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">面向</w>
+            <w type="Nc">全球</w>
+            <w type="Na">華語</w>
+            <w type="Na">讀者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">以</w>
+            <w type="VH">原創</w>
+            <w type="Na">深度</w>
+            <w type="Na">報導</w>
+            <w type="Caa">和</w>
+            <w type="Na">數據</w>
+            <w type="Na">新聞</w>
+            <w type="VG">為</w>
+            <w type="Na">特色</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">擁有</w>
+            <w type="Neu">20</w>
+            <w type="Neqb">多</w>
+            <w type="Nf">位</w>
+         </s>
+         <s>
+            <w type="VH">全職</w>
+            <w type="VH">專業</w>
+            <w type="Na">記者</w>
+            <w type="Na">編輯</w>
+            <w type="Caa">以及</w>
+            <w type="VJ">超過</w>
+            <w type="Neu">300</w>
+            <w type="Nf">位</w>
+            <w type="Na">撰稿人</w>
+            <w type="Caa">及</w>
+            <w type="A">特約</w>
+            <w type="Na">記者</w>
+            <w type="VH">遍佈</w>
+            <w type="Nc">全球</w>
+            <w type="Neu">20多</w>
+            <w type="Nf">個</w>
+            <w type="Na">國家</w>
+            <w type="Neu">5</w>
+            <w type="VH">大</w>
+            <w type="Nc">洲</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="A">第一手</w>
+            <w type="VC">調</w>
+         </s>
+         <s>
+            <w type="VE">查</w>
+            <w type="VE">力求</w>
+            <w type="VH">客觀</w>
+            <w type="VH">公正</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">多方</w>
+            <w type="VE">求證</w>
+            <w type="VE">確保</w>
+            <w type="VH">中立</w>
+            <w type="Na">權威</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VH">深入</w>
+            <w type="VC">剖析</w>
+            <w type="A">在地</w>
+            <w type="Caa">及</w>
+            <w type="Nc">國際</w>
+            <w type="Na">事務</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="P">在</w>
+            <w type="Na">時代</w>
+            <w type="Na">潮湧</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">提</w>
+         </s>
+         <s>
+            <w type="VF">供</w>
+            <w type="VH">新</w>
+            <w type="DE">的</w>
+            <w type="Na">討論</w>
+            <w type="Na">視野</w>
+            <w type="Caa">和</w>
+            <w type="Nv">表達</w>
+            <w type="Na">方式</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Neu">2015</w>
+            <w type="VA">上線</w>
+            <w type="Ng">以來</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">獲得</w>
+            <w type="VJ">超過</w>
+            <w type="Neu">45</w>
+            <w type="Nf">個</w>
+            <w type="Na">新聞</w>
+            <w type="Caa">或</w>
+            <w type="Na">攝影</w>
+            <w type="Na">大獎</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VC">設立</w>
+            <w type="Na">付費制</w>
+         </s>
+         <s>
+            <w type="Neu">兩</w>
+            <w type="Nf">年</w>
+            <w type="Neqb">多</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">累積</w>
+            <w type="VA">付費</w>
+            <w type="Na">會員</w>
+            <w type="VJ">超過</w>
+            <w type="Neu">40</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">000</w>
+            <w type="Nf">名</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">成為</w>
+            <w type="Nc">華文圈</w>
+            <w type="Dfa">最</w>
+            <w type="VJ">具</w>
+            <w type="Na">影響力</w>
+            <w type="DE">的</w>
+            <w type="Na">網路</w>
+            <w type="Na">媒體</w>
+            <w type="DE">之</w>
+            <w type="Neu">一</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">本</w>
+            <w type="Nf">次</w>
+            <w type="VD">提供</w>
+         </s>
+         <s>
+            <w type="Nv">試用</w>
+            <w type="Nv">付費</w>
+            <w type="Na">帳號</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">帳號</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">[email</w>
+            <w type="FW"> protected</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> / </w>
+            <w type="Na">密碼</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Trial_2020</w>
+         </s>
+         <s>
+            <w type="Nv">試用</w>
+            <w type="Na">日期</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nd">即日</w>
+            <w type="Ng">起</w>
+            <w type="P">至</w>
+            <w type="Neu">2020年</w>
+            <w type="Nd">6月</w>
+            <w type="Nd">30日</w>
+            <w type="Ng">止</w>
+         </s>
+         <s>
+            <w type="Neu">二</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="WHITESPACE">     </w>
+            <w type="Na">資料庫</w>
+            <w type="VB">連線</w>
+            <w type="Na">方式</w>
+         </s>
+         <s>
+            <w type="Neu">1.    </w>
+            <w type="VF">請</w>
+            <w type="P">從</w>
+            <w type="Nes">本</w>
+            <w type="Nc">館</w>
+            <w type="Na">網頁</w>
+            <w type="VC">點選</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VE">研究</w>
+            <w type="Na">資源</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="FW">→</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">電子</w>
+            <w type="Na">資源</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="FW">→</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">資料庫</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="FW">→</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VC">試用</w>
+            <w type="Na">資料庫</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+         </s>
+         <s>
+            <w type="FW">→ </w>
+            <w type="VC">點選</w>
+            <w type="VK">欲</w>
+            <w type="VE">查詢</w>
+            <w type="DE">的</w>
+            <w type="Na">資料庫</w>
+            <w type="Na">名稱</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">若</w>
+            <w type="P">於</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="D">先</w>
+            <w type="VC">設定</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">外</w>
+            <w type="VB">連線</w>
+            <w type="FW">VPN</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">2.    </w>
+            <w type="VC">使用</w>
+            <w type="Ng">時</w>
+            <w type="VF">請</w>
+            <w type="D">務必</w>
+            <w type="VJ">遵守</w>
+            <w type="Nc">出版社</w>
+            <w type="Nv">使用</w>
+            <w type="Na">規範</w>
+            <w type="Caa">及</w>
+            <w type="Na">版權</w>
+            <w type="Na">聲明</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以免</w>
+            <w type="VA">觸法</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VC">影響</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">校</w>
+            <w type="Na">讀者</w>
+            <w type="DE">之</w>
+            <w type="Nv">使用</w>
+         </s>
+         <s>
+            <w type="Na">權益</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VJ">歡迎</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">校</w>
+            <w type="Na">師生</w>
+            <w type="VA">上網</w>
+            <w type="VC">試用</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">對</w>
+            <w type="Nv">試用</w>
+            <w type="Na">資料庫</w>
+            <w type="Cbb">如</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">任何</w>
+            <w type="Na">問題</w>
+            <w type="Caa">與</w>
+            <w type="Na">建議</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VC">填寫</w>
+            <w type="Nv">試用</w>
+            <w type="Na">資料庫</w>
+            <w type="Na">意見</w>
+            <w type="VE">調查</w>
+         </s>
+         <s>
+            <w type="VE">表</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">或</w>
+            <w type="VE">洽詢</w>
+            <w type="Nc">圖書館</w>
+            <w type="FW"> Tel</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> 02-3366</w>
+            <w type="DASHCATEGORY">-2326</w>
+            <w type="SEMICOLONCATEGORY">;</w>
+            <w type="FW"> E-mail</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> [email</w>
+            <w type="FW"> protected</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//epaper.ntu.edu.tw/view.php</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">listid</w>
+            <w type="FW">=34</w>
+            <w type="FW">&amp;amp;id</w>
+            <w type="Neu">=29648</w>
+         </s>
+         <s>
+            <w type="Nv">試用</w>
+            <w type="Na">資料庫</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Factiva</w>
+            <w type="Nc">國際</w>
+            <w type="Na">新聞</w>
+            <w type="Caa">與</w>
+            <w type="Na">商情</w>
+            <w type="Na">資料庫</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="WHITESPACE">     </w>
+            <w type="Na">資料庫</w>
+            <w type="Na">簡介</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="FW">Factiva</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="SHI">是</w>
+            <w type="P">由</w>
+            <w type="Nb">道瓊</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Dow</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Jones</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="VC">出版</w>
+            <w type="DE">的</w>
+            <w type="Nc">國際</w>
+            <w type="Na">新聞</w>
+            <w type="Caa">與</w>
+            <w type="Na">商情</w>
+            <w type="Na">資料庫</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">匯集</w>
+            <w type="Di">了</w>
+            <w type="Neu">32</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">000</w>
+            <w type="Neqa">多</w>
+            <w type="Nf">種</w>
+            <w type="Na">資</w>
+         </s>
+         <s>
+            <w type="Na">源</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">使</w>
+            <w type="VE">研究</w>
+            <w type="Na">者</w>
+            <w type="D">可以</w>
+            <w type="VC">使用</w>
+            <w type="Neu">28</w>
+            <w type="Nf">種</w>
+            <w type="Na">語言</w>
+            <w type="VC">檢索</w>
+            <w type="VJ">來自</w>
+            <w type="Neu">200</w>
+            <w type="Nf">個</w>
+            <w type="Na">國家</w>
+            <w type="FW">/</w>
+            <w type="Nc">地區</w>
+            <w type="VC">收集</w>
+            <w type="DE">的</w>
+            <w type="A">優質</w>
+            <w type="Na">內容</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Na">資料</w>
+            <w type="Nv">收錄</w>
+            <w type="Na">類型</w>
+         </s>
+         <s>
+            <w type="VJ">涵蓋</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Cbb">4</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">200</w>
+            <w type="Nf">份</w>
+            <w type="Na">商業</w>
+            <w type="Na">期刊</w>
+            <w type="Caa">與</w>
+            <w type="Na">雜誌</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">3</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">500</w>
+            <w type="Nf">種</w>
+            <w type="Na">報紙</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">700</w>
+            <w type="Nf">種</w>
+            <w type="Na">新聞</w>
+            <w type="Na">頻道</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">14</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">000</w>
+            <w type="Nf">種</w>
+            <w type="Na">新聞</w>
+            <w type="Caa">與</w>
+            <w type="Na">商業網</w>
+         </s>
+         <s>
+            <w type="Nc">站</w>
+            <w type="Na">資訊</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">2</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">500</w>
+            <w type="Nf">筆</w>
+            <w type="Na">企業</w>
+            <w type="Na">資料</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nes">每</w>
+            <w type="Nf">週</w>
+            <w type="VJ">新增</w>
+            <w type="VJ">逾</w>
+            <w type="Neu">10</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">000</w>
+            <w type="Nf">張</w>
+            <w type="Na">照片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可</w>
+            <w type="VD">提供</w>
+            <w type="VJ">涵蓋</w>
+            <w type="Nc">本</w>
+            <w type="Nc">地</w>
+            <w type="Caa">與</w>
+            <w type="Nc">全球</w>
+            <w type="DE">之</w>
+            <w type="Na">新聞</w>
+            <w type="PAUSECATEGORY">、</w>
+         </s>
+         <s>
+            <w type="Na">財經</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">政治</w>
+            <w type="Caa">與</w>
+            <w type="Na">企業</w>
+            <w type="VC">經營</w>
+            <w type="DE">的</w>
+            <w type="VH">相關</w>
+            <w type="Na">資訊</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VH">詳細</w>
+            <w type="VF">請</w>
+            <w type="VC">參考</w>
+            <w type="Nv">使用</w>
+            <w type="Na">說明</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nv">試用</w>
+            <w type="Na">日期</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nd">即日</w>
+            <w type="Ng">起</w>
+            <w type="P">至</w>
+            <w type="Neu">2020年</w>
+            <w type="Nd">06月</w>
+            <w type="Neu">30日</w>
+            <w type="Ng">止</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">二</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="WHITESPACE">     </w>
+            <w type="Na">資料庫</w>
+            <w type="VB">連線</w>
+            <w type="Na">方式</w>
+         </s>
+         <s>
+            <w type="Neu">1.    </w>
+            <w type="VF">請</w>
+            <w type="P">從</w>
+            <w type="Nes">本</w>
+            <w type="Nc">館</w>
+            <w type="Na">網頁</w>
+            <w type="VC">點選</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VE">研究</w>
+            <w type="Na">資源</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="FW">→</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">電子</w>
+            <w type="Na">資源</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="FW">→</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">資料庫</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="FW">→</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VC">試用</w>
+            <w type="Na">資料庫</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+         </s>
+         <s>
+            <w type="FW">→ </w>
+            <w type="VC">點選</w>
+            <w type="VK">欲</w>
+            <w type="VE">查詢</w>
+            <w type="DE">的</w>
+            <w type="Na">資料庫</w>
+            <w type="Na">名稱</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">若</w>
+            <w type="P">於</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="D">先</w>
+            <w type="VC">設定</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">外</w>
+            <w type="VB">連線</w>
+            <w type="FW">VPN</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">2.    </w>
+            <w type="VC">使用</w>
+            <w type="Ng">時</w>
+            <w type="VF">請</w>
+            <w type="D">務必</w>
+            <w type="VJ">遵守</w>
+            <w type="Nc">出版社</w>
+            <w type="Nv">使用</w>
+            <w type="Na">規範</w>
+            <w type="Caa">及</w>
+            <w type="Na">版權</w>
+            <w type="Na">聲明</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以免</w>
+            <w type="VA">觸法</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VC">影響</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">校</w>
+            <w type="Na">讀者</w>
+            <w type="DE">之</w>
+            <w type="Nv">使用</w>
+         </s>
+         <s>
+            <w type="Na">權益</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VJ">歡迎</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">校</w>
+            <w type="Na">師生</w>
+            <w type="VA">上網</w>
+            <w type="VC">試用</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">對</w>
+            <w type="Nv">試用</w>
+            <w type="Na">資料庫</w>
+            <w type="Cbb">如</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">任何</w>
+            <w type="Na">問題</w>
+            <w type="Caa">與</w>
+            <w type="Na">建議</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VC">填寫</w>
+            <w type="Nv">試用</w>
+            <w type="Na">資料庫</w>
+            <w type="Na">意見</w>
+            <w type="VE">調查</w>
+         </s>
+         <s>
+            <w type="VE">表</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">或</w>
+            <w type="VE">洽詢</w>
+            <w type="Nc">圖書館</w>
+            <w type="FW"> Tel</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> 02-3366</w>
+            <w type="DASHCATEGORY">-2326</w>
+            <w type="SEMICOLONCATEGORY">;</w>
+            <w type="FW"> E-mail</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> [email</w>
+            <w type="FW"> protected</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//epaper.ntu.edu.tw/view.php</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">listid</w>
+            <w type="FW">=34</w>
+            <w type="FW">&amp;amp;id</w>
+            <w type="Neu">=29641</w>
+         </s>
+         <s>
+            <w type="Na">心得</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nd">以前</w>
+            <w type="VJ">看不了</w>
+            <w type="Ng">時</w>
+            <w type="Dfa">很</w>
+            <w type="VE">想</w>
+            <w type="VC">看</w>
+            <w type="Nb">端傳媒</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Nd">現在</w>
+            <w type="D">可以</w>
+            <w type="VA">進去</w>
+            <w type="VH">隨便</w>
+            <w type="Dfb">點</w>
+            <w type="D">卻</w>
+            <w type="D">不</w>
+            <w type="VK">知</w>
+            <w type="P">從</w>
+            <w type="Nes">何</w>
+            <w type="VA">下手</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="V_2">有</w>
+            <w type="Na">期限</w>
+            <w type="VC">把握</w>
+            <w type="Na">期間</w>
+         </s>
+         <s>
+            <w type="T">吧</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+      </body>
+      <title author="a031405 (a031405)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">試用</w>
+            <w type="Na">資料庫</w>
+            <w type="VJ">新增</w>
+            <w type="Ncd">端</w>
+            <w type="Na">傳媒</w>
+            <w type="FW">/Factiva</w>
+            <w type="Nc">國際</w>
+            <w type="Na">新聞</w>
+         </s>
+      </title>
+      <comment author="aa85720tw" c_type="pos">
+         <s>
+            <w type="Dfa">很</w>
+            <w type="VH">容易</w>
+            <w type="Cbb">因為</w>
+            <w type="Nd">同時</w>
+            <w type="VC">使用</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="Dfa">過多</w>
+            <w type="P">被</w>
+            <w type="VC">擠掉</w>
+            <w type="FW">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

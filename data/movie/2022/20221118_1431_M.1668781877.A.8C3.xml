@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">horse312 (Tequila)</metadata>
+      <metadata name="post_id">M.1668781877.A.8C3</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[討論] 家有兩個爸2</metadata>
+   </teiHeader>
+   <text>
+      <body author="horse312 (Tequila)">
+         <s>
+            <w type="Nd">最後</w>
+            <w type="P">在</w>
+            <w type="Nc">賣場</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="FW">John</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Cena</w>
+            <w type="D">要</w>
+            <w type="VC">離開</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nb">威爾法洛</w>
+            <w type="VC">唱</w>
+            <w type="Di">了</w>
+            <w type="Neu">一</w>
+            <w type="Nf">首</w>
+            <w type="Nd">聖誕歌</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VE">聽到</w>
+            <w type="Na">鐘聲</w>
+            <w type="FW">John</w>
+            <w type="WHITESPACE"> </w>
+            <w type="DASHCATEGORY">Cena</w>
+            <w type="D">馬上</w>
+            <w type="VA">轉頭</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="D">一</w>
+            <w type="VH">開始</w>
+            <w type="VC">敲</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">聲</w>
+            <w type="Na">鐘</w>
+            <w type="SHI">是</w>
+            <w type="VC">埋</w>
+            <w type="Di">了</w>
+            <w type="VA">送葬</w>
+            <w type="Na">者</w>
+            <w type="DE">的</w>
+            <w type="Na">梗</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="D">還是</w>
+            <w type="Da">只是</w>
+            <w type="VH">剛好</w>
+            <w type="T">而已</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </body>
+      <title author="horse312 (Tequila)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">家</w>
+            <w type="V_2">有</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">個</w>
+            <w type="Na">爸</w>
+            <w type="Neu">2</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

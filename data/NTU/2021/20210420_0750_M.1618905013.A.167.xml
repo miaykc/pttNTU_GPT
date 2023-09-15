@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">NTU87 (台大八七)</metadata>
+      <metadata name="post_id">M.1618905013.A.167</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 難道只有我覺得</metadata>
+   </teiHeader>
+   <text>
+      <body author="NTU87 (台大八七)">
+         <s>
+            <w type="D">會</w>
+            <w type="VC">用</w>
+            <w type="Nep">這</w>
+            <w type="Nf">種</w>
+            <w type="Na">標題</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+         </s>
+         <s>
+            <w type="Dfa">很</w>
+            <w type="FW">Dineng</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="P">用</w>
+            <w type="Nep">這</w>
+            <w type="Nf">種</w>
+            <w type="Na">標題</w>
+            <w type="Na">基本</w>
+            <w type="Ng">上</w>
+            <w type="P">跟</w>
+            <w type="Na">記者</w>
+            <w type="DE">的</w>
+            <w type="Nc">農場</w>
+            <w type="Na">標題</w>
+            <w type="V_2">有</w>
+            <w type="Nep">什麼</w>
+            <w type="Neu">兩樣</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="VE">說</w>
+         </s>
+         <s>
+            <w type="D">難道</w>
+            <w type="Da">只有</w>
+            <w type="Nh">我</w>
+            <w type="VK">覺得</w>
+         </s>
+         <s>
+            <w type="D">會</w>
+            <w type="VC">用</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="D">難道</w>
+            <w type="Cbb">只有</w>
+            <w type="Nh">我</w>
+            <w type="VK">覺得</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VG">當作</w>
+            <w type="Na">文章</w>
+            <w type="Na">標題</w>
+            <w type="Caa">或</w>
+            <w type="Nd">開頭</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="Dfa">很</w>
+            <w type="FW">Dineng</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </body>
+      <title author="NTU87 (台大八七)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">難道</w>
+            <w type="Cbb">只有</w>
+            <w type="Nh">我</w>
+            <w type="VK">覺得</w>
+         </s>
+      </title>
+      <comment author="eunhailoveu" c_type="neg">
+         <s>
+            <w type="FW">I</w>
+            <w type="FW">D</w>
+            <w type="VH">正確</w>
+         </s>
+      </comment>
+      <comment author="MARSCAT" c_type="neg">
+         <s>
+            <w type="Neu">8787</w>
+         </s>
+      </comment>
+      <comment author="cal28802672" c_type="neg">
+         <s>
+            <w type="FW">@NTU78</w>
+         </s>
+      </comment>
+      <comment author="ann141414" c_type="neu">
+         <s>
+            <w type="D">難道</w>
+            <w type="Da">只有</w>
+            <w type="Nh">我</w>
+            <w type="VK">覺得</w>
+         </s>
+      </comment>
+      <comment author="ShaEric63ck" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/6</w>
+            <w type="FW">VFDpim.jpg</w>
+         </s>
+      </comment>
+      <comment author="daye87" c_type="pos">
+         <s>
+            <w type="FW">I</w>
+            <w type="FW">D</w>
+            <w type="VH">正確</w>
+         </s>
+      </comment>
+      <comment author="jzoethai" c_type="neg">
+         <s>
+            <w type="D">難道</w>
+            <w type="Da">只有</w>
+            <w type="Nh">我</w>
+            <w type="VK">覺得</w>
+            <w type="Nh">你</w>
+            <w type="DE">的</w>
+            <w type="FW">ID</w>
+            <w type="P">跟</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">問題</w>
+            <w type="Dfa">很</w>
+            <w type="VH">搭</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">rtfgyrtfgy (澎湖趙又廷)</metadata>
+      <metadata name="post_id">M.1619366370.A.674</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 幹你台大姿勢王</metadata>
+   </teiHeader>
+   <text>
+      <body author="rtfgyrtfgy (澎湖趙又廷)">
+         <s>
+            <w type="Nc">北半球</w>
+            <w type="Na">高氣壓</w>
+            <w type="A">逆時針</w>
+         </s>
+         <s>
+            <w type="VC">幹</w>
+            <w type="Nh">你</w>
+            <w type="Nc">台大</w>
+            <w type="Na">姿勢王</w>
+         </s>
+      </body>
+      <title author="rtfgyrtfgy (澎湖趙又廷)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">幹</w>
+            <w type="Nh">你</w>
+            <w type="Nc">台大</w>
+            <w type="Na">姿勢王</w>
+         </s>
+      </title>
+      <comment author="Binomial5566" c_type="neg">
+         <s>
+            <w type="Na">老</w>
+         </s>
+      </comment>
+      <comment author="BreathWay" c_type="neg">
+         <s>
+            <w type="VH">純</w>
+            <w type="VA">噓</w>
+            <w type="VH">爛</w>
+            <w type="Na">活動</w>
+         </s>
+      </comment>
+      <comment author="wwwh0225" c_type="neg">
+         <s>
+            <w type="VH">可悲</w>
+            <w type="VH">爛</w>
+            <w type="Na">活動</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">超</w>
+            <w type="Na">垃圾</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

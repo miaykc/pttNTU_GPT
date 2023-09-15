@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">justgetup (Kono Dio Da!)</metadata>
+      <metadata name="post_id">M.1599609449.A.385</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">Re: [討論] 天能 設定上的bug</metadata>
+   </teiHeader>
+   <text>
+      <body author="justgetup (Kono Dio Da!)">
+         <s>
+            <w type="Na">興</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+         </s>
+         <s>
+            <w type="Cbb">以</w>
+         </s>
+         <s>
+            <w type="D">所</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/4</w>
+            <w type="FW">HaKrwp.jpg</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="SHI">是</w>
+            <w type="Nh">我</w>
+            <w type="VF">嘗試</w>
+            <w type="VC">畫</w>
+            <w type="DE">的</w>
+            <w type="Na">時間</w>
+            <w type="Na">線性圖</w>
+         </s>
+         <s>
+            <w type="Na">彈孔</w>
+            <w type="D">真的</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="FW">BUG</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">正確</w>
+            <w type="VH">出現</w>
+            <w type="DE">的</w>
+            <w type="Na">時間</w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="VJ">逆</w>
+            <w type="Na">主</w>
+            <w type="VA">開槍</w>
+            <w type="DE">的</w>
+            <w type="Na">時間點</w>
+            <w type="D">憑空</w>
+            <w type="VH">出現</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Cbb">不然</w>
+            <w type="P">以</w>
+            <w type="VJ">逆</w>
+            <w type="Na">時間軸</w>
+            <w type="D">來</w>
+            <w type="VC">看</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">彈孔</w>
+            <w type="D">應</w>
+            <w type="D">永遠</w>
+            <w type="VA">存在</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="VJ">發生</w>
+            <w type="Di">過</w>
+            <w type="DE">的</w>
+            <w type="D">已經</w>
+            <w type="VJ">發生</w>
+            <w type="Di">過</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">所以</w>
+            <w type="Na">彈孔</w>
+            <w type="D">應該</w>
+            <w type="D">要</w>
+            <w type="P">在</w>
+            <w type="Na">時間點</w>
+            <w type="VCL">到達</w>
+            <w type="Ng">前</w>
+            <w type="D">都</w>
+            <w type="D">不會</w>
+            <w type="VHC">恢復</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="D">也</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="VJ">出產</w>
+            <w type="D">就</w>
+            <w type="VH">長</w>
+            <w type="VH">那樣</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="D">再來</w>
+            <w type="VH">翻車</w>
+            <w type="Ncd">那邊</w>
+            <w type="D">其實</w>
+            <w type="VH">好</w>
+            <w type="Dfb">一點</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">因為</w>
+            <w type="VJ">發生</w>
+            <w type="Di">過</w>
+            <w type="DE">的</w>
+            <w type="D">就</w>
+            <w type="VJ">發生</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="FW">"</w>
+            <w type="D">可能</w>
+            <w type="FW">"</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="VK">需要</w>
+            <w type="VC">駕駛</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="D">可</w>
+            <w type="P">以</w>
+            <w type="A">逆向</w>
+            <w type="DE">的</w>
+            <w type="A">順正</w>
+            <w type="Na">時間軸</w>
+            <w type="Nh">自己</w>
+            <w type="VCL">開回去</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">槍</w>
+         </s>
+         <s>
+            <w type="Nb">關</w>
+         </s>
+         <s>
+            <w type="Nb">尼爾</w>
+            <w type="Cbb">如果</w>
+            <w type="D">沒</w>
+            <w type="VC">做</w>
+            <w type="VA">關門</w>
+            <w type="DE">的</w>
+            <w type="Na">動作</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="A">順</w>
+            <w type="Na">時間軸</w>
+            <w type="DE">的</w>
+            <w type="Nh">他</w>
+            <w type="D">不會</w>
+            <w type="D">去</w>
+            <w type="VA">開門</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">尼爾</w>
+            <w type="VH">死</w>
+            <w type="Ng">後</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">正</w>
+            <w type="Na">時間</w>
+            <w type="Na">軸</w>
+            <w type="DE">的</w>
+            <w type="Nb">小羅囉</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="D">一定</w>
+            <w type="D">會</w>
+            <w type="D">再</w>
+            <w type="VH">關門</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">這樣</w>
+            <w type="D">就</w>
+            <w type="D">不會</w>
+            <w type="V_2">有</w>
+            <w type="VC">打開</w>
+            <w type="Na">門</w>
+            <w type="DE">的</w>
+            <w type="Na">步驟</w>
+            <w type="T">了</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">所以</w>
+            <w type="Nb">尼爾</w>
+            <w type="VH">關門</w>
+            <w type="SHI">是</w>
+            <w type="D">必須</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">這樣</w>
+            <w type="Da">才</w>
+            <w type="D">能</w>
+            <w type="VA">開門</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nes">本</w>
+         </s>
+         <s>
+            <w type="P">對</w>
+            <w type="Na">反派</w>
+            <w type="D">來</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="SHI">是</w>
+            <w type="D">先</w>
+            <w type="VE">確認</w>
+            <w type="Na">膠囊</w>
+            <w type="VC">埋下</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">用</w>
+            <w type="VH">爆炸</w>
+            <w type="D">來</w>
+            <w type="VC">掩埋</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="P">對</w>
+            <w type="Na">未來人</w>
+            <w type="D">來</w>
+            <w type="VE">說</w>
+            <w type="Na">時間點</w>
+            <w type="D">真的</w>
+            <w type="D">不</w>
+            <w type="VH">重要</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">重</w>
+         </s>
+         <s>
+            <w type="Na">點</w>
+            <w type="SHI">是</w>
+            <w type="VC">埋下</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">不同</w>
+            <w type="DE">的</w>
+            <w type="Na">時期</w>
+            <w type="VC">拿到</w>
+            <w type="Na">金條</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可能</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Na">誘導式</w>
+            <w type="Na">任務</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">解</w>
+            <w type="Di">了</w>
+            <w type="Neu">第一</w>
+            <w type="Na">章</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">發現</w>
+            <w type="V_2">有</w>
+            <w type="Neu">第二</w>
+            <w type="Na">章</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Cbb">只是</w>
+            <w type="Na">反派</w>
+            <w type="D">沒</w>
+            <w type="VA">破關</w>
+            <w type="T">而已</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">金條</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Na">遊戲幣</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">要</w>
+            <w type="VC">埋下</w>
+            <w type="DE">的</w>
+            <w type="Na">零件</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="Na">任務</w>
+            <w type="VC">綁定</w>
+            <w type="Na">裝備</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VH">受傷</w>
+            <w type="Ncd">那邊</w>
+            <w type="D">倒是</w>
+            <w type="Dfa">比較</w>
+            <w type="VH">合理</w>
+            <w type="Dfb">一點</w>
+         </s>
+      </body>
+      <title author="justgetup (Kono Dio Da!)">
+         <s>
+            <w type="FW">Re</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">天能</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">設定</w>
+            <w type="Ng">上</w>
+            <w type="DE">的</w>
+            <w type="FW">bug</w>
+         </s>
+      </title>
+      <comment author="kissa0924307" c_type="pos">
+         <s>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Na">車子</w>
+            <w type="Na">後視鏡</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="VH">一樣</w>
+            <w type="DE">的</w>
+            <w type="Na">問題</w>
+         </s>
+      </comment>
+      <comment author="lion32504" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VE">想</w>
+            <w type="VE">問</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="A">逆行</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="VA">講話</w>
+            <w type="D">不</w>
+            <w type="D">就</w>
+            <w type="D">都</w>
+            <w type="D">要</w>
+            <w type="VH">反</w>
+            <w type="Di">著</w>
+            <w type="VE">講</w>
+         </s>
+      </comment>
+      <comment author="TobyH4cker" c_type="neu">
+         <s>
+            <w type="D">不</w>
+            <w type="VK">需要</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VA">逆行</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="VH">照常</w>
+            <w type="VA">講話</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VC">參考</w>
+            <w type="FW"> Sator</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">去</w>
+            <w type="VA">點火</w>
+            <w type="VC">燒</w>
+         </s>
+      </comment>
+      <comment author="TobyH4cker" c_type="neu">
+         <s>
+            <w type="Na">車</w>
+            <w type="Nep">那</w>
+            <w type="Na">片段</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Da">唯</w>
+            <w type="VA">順行</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="VE">聽到</w>
+            <w type="DE">的</w>
+            <w type="Na">話</w>
+            <w type="SHI">是</w>
+            <w type="VH">反向</w>
+            <w type="VC">輸出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">因此</w>
+            <w type="VH">紅</w>
+            <w type="VH">藍</w>
+         </s>
+      </comment>
+      <comment author="TobyH4cker" c_type="neu">
+         <s>
+            <w type="Na">房</w>
+            <w type="Da">才</w>
+            <w type="D">會</w>
+            <w type="VK">需要</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Nv">逆轉</w>
+            <w type="Na">回放機</w>
+            <w type="D">來</w>
+            <w type="VC">轉換</w>
+         </s>
+      </comment>
+      <comment author="dinotea" c_type="pos">
+         <s>
+            <w type="VA">逆行</w>
+            <w type="Na">主角</w>
+            <w type="VA">開槍</w>
+            <w type="Ng">時</w>
+            <w type="P">對</w>
+            <w type="Na">逆主</w>
+            <w type="P">跟</w>
+            <w type="Na">子彈</w>
+            <w type="DE">的</w>
+            <w type="Na">角度</w>
+            <w type="D">來</w>
+            <w type="VE">看</w>
+            <w type="SHI">是</w>
+            <w type="VH">順</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="dinotea" c_type="neu">
+         <s>
+            <w type="Cbb">只是</w>
+            <w type="Na">時間</w>
+            <w type="SHI">是</w>
+            <w type="VJ">逆</w>
+            <w type="T">的</w>
+         </s>
+      </comment>
+      <comment author="dinotea" c_type="neu">
+         <s>
+            <w type="Nep">什麼</w>
+            <w type="D">憑空</w>
+            <w type="VH">出現</w>
+            <w type="T">呀</w>
+            <w type="FW">@@”</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

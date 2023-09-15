@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">hank850503 (elite)</metadata>
+      <metadata name="post_id">M.1578162882.A.051</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 市長換人，空氣換新</metadata>
+   </teiHeader>
+   <text>
+      <body author="hank850503 (elite)">
+         <s>
+            <w type="Na">男八</w>
+            <w type="VC">換宿</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">浴室</w>
+            <w type="VC">換洗</w>
+         </s>
+         <s>
+            <w type="Na">單位</w>
+            <w type="VC">換算</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">買房</w>
+            <w type="VE">幻想</w>
+         </s>
+         <s>
+            <w type="Na">王子</w>
+            <w type="VC">喚醒</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">年輕</w>
+            <w type="VH">患病</w>
+         </s>
+         <s>
+            <w type="Nb">蘿莉</w>
+            <w type="VC">豢養</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">容光煥發</w>
+         </s>
+      </body>
+      <title author="hank850503 (elite)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">市長</w>
+            <w type="VA">換人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">空氣</w>
+            <w type="VC">換新</w>
+         </s>
+      </title>
+      <comment author="meowmeowwoo" c_type="neg">
+         <s>
+            <w type="VC">推</w>
+            <w type="Na">藏頭</w>
+         </s>
+      </comment>
+      <comment author="QQKKQKQK" c_type="neg">
+         <s>
+            <w type="VH">好</w>
+            <w type="VA">藏頭</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

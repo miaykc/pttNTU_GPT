@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">sabrina7418 ()</metadata>
+      <metadata name="post_id">M.1588495389.A.370</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] 舊體泳池有開放嗎？</metadata>
+   </teiHeader>
+   <text>
+      <body author="sabrina7418 ()">
+         <s>
+            <w type="VE">查</w>
+            <w type="Di">了</w>
+            <w type="Nc">體育組</w>
+            <w type="Nc">網站</w>
+            <w type="D">沒</w>
+            <w type="VE">看到</w>
+         </s>
+         <s>
+            <w type="VB">打電話</w>
+            <w type="D">也</w>
+            <w type="VJ">沒</w>
+            <w type="Na">人</w>
+            <w type="VC">接</w>
+         </s>
+         <s>
+            <w type="VE">想</w>
+            <w type="VE">請問</w>
+            <w type="VH">舊</w>
+            <w type="Na">體泳池</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="P">比照</w>
+            <w type="Na">新體</w>
+            <w type="VC">關閉</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="sabrina7418 ()">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">舊</w>
+            <w type="Na">體泳池</w>
+            <w type="V_2">有</w>
+            <w type="VC">開放</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </title>
+      <comment author="heypostcard" c_type="neu">
+         <s>
+            <w type="D">沒</w>
+            <w type="VC">開</w>
+         </s>
+      </comment>
+      <comment author="Wayne0933" c_type="neg">
+         <s>
+            <w type="Nd">禮拜日</w>
+            <w type="Nh">誰</w>
+            <w type="D">要</w>
+            <w type="VC">接</w>
+            <w type="Nh">你</w>
+            <w type="Na">電話</w>
+         </s>
+      </comment>
+      <comment author="QAQer" c_type="neu">
+         <s>
+            <w type="Nc">樓上</w>
+            <w type="VHC">笑死</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

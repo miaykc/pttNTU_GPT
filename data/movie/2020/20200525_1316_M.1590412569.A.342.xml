@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">assassinASHE (幹古專用帳號)</metadata>
+      <metadata name="post_id">M.1590412569.A.342</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 一部愛喝可樂的外星人</metadata>
+   </teiHeader>
+   <text>
+      <body author="assassinASHE (幹古專用帳號)">
+         <s>
+            <w type="D">大概</w>
+            <w type="P">在</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">三十</w>
+            <w type="Nf">年</w>
+            <w type="Ng">前</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">三</w>
+            <w type="Nf">台</w>
+            <w type="V_2">有</w>
+            <w type="VC">播</w>
+            <w type="Di">過</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+         </s>
+         <s>
+            <w type="SHI">是</w>
+            <w type="Na">外星人</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">好像</w>
+            <w type="SHI">是</w>
+            <w type="Na">父母</w>
+            <w type="VC">帶</w>
+            <w type="Na">小孩</w>
+         </s>
+         <s>
+            <w type="D">然後</w>
+            <w type="Nh">他們</w>
+            <w type="Dfa">很</w>
+            <w type="VL">愛</w>
+            <w type="VC">喝</w>
+            <w type="Na">可樂</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Na">搞笑片</w>
+         </s>
+         <s>
+            <w type="Nd">當時</w>
+            <w type="VK">覺得</w>
+            <w type="Dfa">蠻</w>
+            <w type="VH">好看</w>
+            <w type="T">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">一直</w>
+            <w type="V_2">有</w>
+            <w type="Na">印象</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VK">知道</w>
+            <w type="Na">片名</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </body>
+      <title author="assassinASHE (幹古專用帳號)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="VL">愛</w>
+            <w type="VC">喝</w>
+            <w type="Na">可樂</w>
+            <w type="DE">的</w>
+            <w type="Na">外星人</w>
+         </s>
+      </title>
+      <comment author="assassinASHE" c_type="neu">
+         <s>
+            <w type="FW">Mac</w>
+            <w type="FW"> and</w>
+            <w type="FW"> Me</w>
+         </s>
+      </comment>
+      <comment author="jimmich19" c_type="pos">
+         <s>
+            <w type="VK">驚奇</w>
+            <w type="Na">隊長</w>
+         </s>
+      </comment>
+      <comment author="e1q3z9c7" c_type="pos">
+         <s>
+            <w type="Na">海賊王</w>
+         </s>
+      </comment>
+      <comment author="BURNFISH" c_type="pos">
+         <s>
+            <w type="Na">尖頭</w>
+            <w type="Na">外星人</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="mazinnng" c_type="neu">
+         <s>
+            <w type="D">怎麼</w>
+            <w type="Dfa">有點</w>
+            <w type="VH">可愛</w>
+         </s>
+      </comment>
+      <comment author="TtTt4" c_type="pos">
+         <s>
+            <w type="Na">尖頭</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="nogay" c_type="pos">
+         <s>
+            <w type="D">還</w>
+            <w type="VE">以為</w>
+            <w type="SHI">是</w>
+            <w type="Nb">阿福</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

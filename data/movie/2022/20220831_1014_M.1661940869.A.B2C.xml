@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Herblay (Lorem ipsum)</metadata>
+      <metadata name="post_id">M.1661940869.A.B2C</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[討論] 威尼斯影展直播</metadata>
+   </teiHeader>
+   <text>
+      <body author="Herblay (Lorem ipsum)">
+         <s>
+            <w type="D">先</w>
+            <w type="VCL">上</w>
+            <w type="Na">網址</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.labiennale.org/en/cinema/2022/streaming</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">網址</w>
+            <w type="V_2">有</w>
+            <w type="VH">同步</w>
+            <w type="VC">口譯</w>
+         </s>
+         <s>
+            <w type="Nh">大家</w>
+            <w type="V_2">有</w>
+            <w type="Na">興趣</w>
+            <w type="D">可以</w>
+            <w type="VC">練</w>
+            <w type="Di">個</w>
+            <w type="Na">英語</w>
+            <w type="Na">聽力</w>
+         </s>
+         <s>
+            <w type="Nd">今年</w>
+            <w type="FW">Netflix</w>
+            <w type="DE">的</w>
+            <w type="Na">金髮</w>
+            <w type="Nb">夢露</w>
+            <w type="V_2">有</w>
+            <w type="VA">得獎</w>
+            <w type="Na">希望</w>
+            <w type="T">喔</w>
+         </s>
+         <s>
+            <w type="D">已經</w>
+            <w type="VC">等</w>
+            <w type="Nep">這</w>
+            <w type="Nf">片</w>
+            <w type="Dfa">很</w>
+            <w type="VH">久</w>
+            <w type="T">了</w>
+            <w type="ETCCATEGORY">…</w>
+         </s>
+      </body>
+      <title author="Herblay (Lorem ipsum)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">威尼斯</w>
+            <w type="Na">影展</w>
+            <w type="D">直</w>
+            <w type="VC">播</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

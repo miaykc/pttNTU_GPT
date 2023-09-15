@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">karmel (Stanley)</metadata>
+      <metadata name="post_id">M.1636629493.A.C5B</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 爆</metadata>
+   </teiHeader>
+   <text>
+      <body author="karmel (Stanley)">
+         <s>
+            <w type="Nh">我</w>
+            <w type="DE">的</w>
+            <w type="Nd">期中</w>
+         </s>
+      </body>
+      <title author="karmel (Stanley)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">爆</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ldeathkiller (之之)</metadata>
+      <metadata name="post_id">M.1581787887.A.CB0</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 美國動畫關於未來戰鬥</metadata>
+   </teiHeader>
+   <text>
+      <body author="ldeathkiller (之之)">
+         <s>
+            <w type="VK">記得</w>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="FW">HBO</w>
+            <w type="Ncd">上</w>
+            <w type="VC">看</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="Na">劇情</w>
+            <w type="Na">主軸</w>
+            <w type="P">跟</w>
+            <w type="VA">戰鬥</w>
+            <w type="VJ">有關</w>
+         </s>
+         <s>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VI">架空</w>
+            <w type="Nc">世界</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Caa">或者</w>
+            <w type="SHI">是</w>
+            <w type="Na">末日</w>
+            <w type="Ng">後</w>
+            <w type="DE">的</w>
+            <w type="Nd">未來</w>
+            <w type="Cab">之類</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Cbb">且</w>
+            <w type="Nv">戰鬥</w>
+            <w type="Na">人員</w>
+            <w type="D">似乎</w>
+            <w type="V_2">有</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">動物</w>
+            <w type="Na">器官</w>
+            <w type="Caa">或</w>
+            <w type="Na">基因</w>
+            <w type="Cab">之類</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Nb">火星</w>
+            <w type="Na">異種</w>
+         </s>
+         <s>
+            <w type="Na">人們</w>
+            <w type="DE">的</w>
+            <w type="Na">服裝</w>
+            <w type="D">並</w>
+            <w type="VJ">沒有</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">未來感</w>
+         </s>
+         <s>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="Na">末日</w>
+            <w type="Ng">後</w>
+            <w type="Na">電影</w>
+            <w type="D">會</w>
+            <w type="VH">出現</w>
+            <w type="DE">的</w>
+            <w type="Nep">那</w>
+            <w type="Nf">種</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="P">像</w>
+            <w type="Na">惡靈</w>
+            <w type="Na">古堡</w>
+            <w type="Neu">4</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">幕</w>
+            <w type="Dfa">很</w>
+            <w type="V_2">有</w>
+            <w type="Na">印象</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="Na">電車</w>
+            <w type="Ncd">上</w>
+            <w type="VA">戰鬥</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="V_2">有</w>
+            <w type="D">沒</w>
+            <w type="V_2">有</w>
+            <w type="VH">大神</w>
+            <w type="D">能</w>
+            <w type="VC">拼湊</w>
+            <w type="Neqa">這些</w>
+            <w type="VH">零碎</w>
+            <w type="DE">的</w>
+            <w type="Na">線索</w>
+         </s>
+         <s>
+            <w type="VK">感謝</w>
+            <w type="VH">大大</w>
+         </s>
+      </body>
+      <title author="ldeathkiller (之之)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">美國</w>
+            <w type="Na">動畫</w>
+            <w type="P">關於</w>
+            <w type="Nd">未來</w>
+            <w type="VA">戰鬥</w>
+         </s>
+      </title>
+      <comment author="newgunden" c_type="pos">
+         <s>
+            <w type="Nb">奧美帝</w>
+         </s>
+      </comment>
+      <comment author="n4939733" c_type="pos">
+         <s>
+            <w type="FW">apple</w>
+            <w type="FW"> seed</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

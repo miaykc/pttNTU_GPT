@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">chucklu (未完待續)</metadata>
+      <metadata name="post_id">M.1666175895.A.91A</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 童話．世界拍攝場景（微雷）</metadata>
+   </teiHeader>
+   <text>
+      <body author="chucklu (未完待續)">
+         <s>
+            <w type="VC">看完</w>
+            <w type="Na">電影</w>
+            <w type="Ng">之後</w>
+            <w type="Dfa">很</w>
+            <w type="VE">想</w>
+            <w type="VK">知道</w>
+         </s>
+         <s>
+            <w type="Na">劇</w>
+            <w type="Ng">中</w>
+            <w type="Nb">湯師承</w>
+            <w type="VC">帶</w>
+            <w type="Nb">陳新</w>
+            <w type="D">去</w>
+            <w type="VC">看</w>
+            <w type="Na">飛機</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="Na">場景</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VK">知道</w>
+            <w type="P">在</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">地方</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </body>
+      <title author="chucklu (未完待續)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">童話</w>
+            <w type="PERIODCATEGORY">．</w>
+            <w type="Nc">世界</w>
+            <w type="Nv">拍攝</w>
+            <w type="Na">場景</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nb">微雷</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </title>
+      <comment author="NTPUpigeyes" c_type="pos">
+         <s>
+            <w type="Nb">窩</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

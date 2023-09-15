@@ -1,0 +1,835 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">AprilMight (AM。)</metadata>
+      <metadata name="post_id">M.1620894984.A.82E</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] 緊急分區輪流停電通知</metadata>
+   </teiHeader>
+   <text>
+      <body author="AprilMight (AM。)">
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VH">緊急</w>
+            <w type="VC">通知</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Nc">台電</w>
+            <w type="Nc">公司</w>
+            <w type="VC">通知</w>
+            <w type="Cbb">因</w>
+            <w type="Nb">興達</w>
+            <w type="Nc">電廠</w>
+            <w type="Na">事故</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">廠</w>
+            <w type="VH">停機</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">目前</w>
+            <w type="Na">系統</w>
+            <w type="VA">供電</w>
+            <w type="Na">能力</w>
+            <w type="VH">不足</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">預計</w>
+            <w type="Nd">5月</w>
+            <w type="Nd">13日</w>
+            <w type="Ng">時</w>
+            <w type="VL">開始</w>
+            <w type="VC">執行</w>
+         </s>
+         <s>
+            <w type="VH">緊急</w>
+            <w type="Nc">分區</w>
+            <w type="D">輪流</w>
+            <w type="VH">停電</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="Nes">各</w>
+            <w type="Na">廠商</w>
+            <w type="D">自行</w>
+            <w type="VE">查詢</w>
+            <w type="Na">電費單</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">緊急</w>
+            <w type="D">輪流</w>
+            <w type="VB">分區</w>
+            <w type="VH">停電</w>
+            <w type="Na">組別</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">倘</w>
+            <w type="VG">屬於</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="FW">C</w>
+            <w type="Caa">或</w>
+            <w type="FW">D</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+         </s>
+         <s>
+            <w type="Na">組別</w>
+            <w type="Na">者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">將</w>
+            <w type="P">自</w>
+            <w type="Neu">15:</w>
+            <w type="Neu">00</w>
+            <w type="Ng">起</w>
+            <w type="Neu">兩</w>
+            <w type="Na">組別</w>
+            <w type="D">輪流</w>
+            <w type="VH">停電</w>
+            <w type="Neu">一</w>
+            <w type="Na">小時</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">直至</w>
+            <w type="VC">修復</w>
+            <w type="Ng">為止</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">C組</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">15</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="DASHCATEGORY">-16</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="Na">D組</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">16</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="DASHCATEGORY">-17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="Na">C組</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">17</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="DASHCATEGORY">-18</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00...</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">組</w>
+            <w type="VC">替換</w>
+            <w type="D">輪流</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Ncd">以上</w>
+            <w type="VG">為</w>
+            <w type="Na">新聞</w>
+            <w type="VE">公告</w>
+            <w type="Na">時間</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">另</w>
+            <w type="VE">查</w>
+            <w type="Nc">台電</w>
+            <w type="Na">臉書</w>
+            <w type="Na">粉絲</w>
+            <w type="Na">專頁</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nep">此</w>
+            <w type="Na">公告</w>
+            <w type="Na">時間</w>
+            <w type="Dfa">較為</w>
+            <w type="VH">正確</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">輪</w>
+            <w type="Nv">限電</w>
+            <w type="Na">時間</w>
+         </s>
+         <s>
+            <w type="Neu">1500</w>
+            <w type="DASHCATEGORY">-1550</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">第二</w>
+            <w type="Nf">輪</w>
+            <w type="VA">限電</w>
+            <w type="Na">時間</w>
+            <w type="Neu">1550</w>
+            <w type="DASHCATEGORY">-1640</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">第三</w>
+            <w type="Nf">輪</w>
+            <w type="VA">限電</w>
+            <w type="Na">時間</w>
+            <w type="Neu">1640</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Neu">1730</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="D">是否</w>
+            <w type="VC">進行</w>
+            <w type="Neu">第四</w>
+            <w type="Nf">輪</w>
+            <w type="VA">限電</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">需</w>
+            <w type="P">視</w>
+            <w type="VHC">恢復</w>
+            <w type="VA">供電</w>
+            <w type="Na">情況</w>
+            <w type="Cbb">而</w>
+            <w type="VC">定</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="Cbb">若</w>
+            <w type="VE">查詢</w>
+            <w type="Na">電費單</w>
+            <w type="VG">非</w>
+            <w type="FW">C</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">D</w>
+            <w type="Na">組別</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">此</w>
+            <w type="Nf">次</w>
+            <w type="Nv">停電</w>
+            <w type="D">不</w>
+            <w type="P">受</w>
+            <w type="VC">影響</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">D</w>
+            <w type="Nc">區</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">霖澤</w>
+            <w type="Na">饋線</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">動科系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">獸醫</w>
+            <w type="Nc">二館</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">動物</w>
+            <w type="Nc">醫院</w>
+            <w type="Neu">7F~9F</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">館舍</w>
+            <w type="VK">包括</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="Nc">霖澤館</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">單位</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nc">法律系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">地下室</w>
+            <w type="Nc">停車場</w>
+            <w type="Cab">等</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Nc">萬才館</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">單位</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nc">法律系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">地下室</w>
+            <w type="Nc">停車場</w>
+            <w type="Cab">等</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">社會</w>
+            <w type="Caa">及</w>
+            <w type="Nc">社工館</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">單位</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nc">社會系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">社工系</w>
+            <w type="Cab">等</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">國家</w>
+            <w type="Nc">發展所</w>
+            <w type="Na">大樓</w>
+         </s>
+         <s>
+            <w type="Nc">辛亥路</w>
+            <w type="Na">大門</w>
+            <w type="Na">崗哨</w>
+         </s>
+         <s>
+            <w type="Na">新聞</w>
+            <w type="Nc">研究所</w>
+         </s>
+         <s>
+            <w type="Na">計算機</w>
+            <w type="Caa">及</w>
+            <w type="Na">資訊</w>
+            <w type="Na">網路</w>
+            <w type="Nc">中心</w>
+         </s>
+         <s>
+            <w type="Na">語文</w>
+            <w type="Na">大樓</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">單位</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Na">語文</w>
+            <w type="Nc">中心</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">財團</w>
+            <w type="Na">法人</w>
+            <w type="Na">語言</w>
+            <w type="Na">訓練</w>
+            <w type="Na">測驗</w>
+            <w type="Nc">中心</w>
+            <w type="Cab">等</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">外語</w>
+            <w type="Nv">教學</w>
+            <w type="Caa">暨</w>
+            <w type="Na">資源</w>
+            <w type="Nc">中心</w>
+         </s>
+         <s>
+            <w type="Na">漁業</w>
+            <w type="Nc">科學館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">水產</w>
+            <w type="VC">養殖池</w>
+         </s>
+         <s>
+            <w type="Nc">介宙館</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">單位</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nc">社科院</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">政治系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">經濟系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">地下室</w>
+            <w type="Nc">餐廳</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">地下室</w>
+            <w type="Nc">停車場</w>
+            <w type="Cab">等</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">動科系</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neqa">全</w>
+            <w type="Na">圍牆</w>
+            <w type="Ncd">內</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">動物</w>
+            <w type="Nc">醫院</w>
+         </s>
+         <s>
+            <w type="FW">C</w>
+            <w type="Nc">區</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">竹北</w>
+            <w type="Nc">校區</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">展書樓</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">大一女</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">昆蟲館</w>
+         </s>
+         <s>
+            <w type="Na">館舍</w>
+            <w type="VK">包括</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="Nc">展書樓</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">單位</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nc">保管組</w>
+            <w type="Nc">動產股</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">計畫</w>
+            <w type="Nc">辦公室</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">駐警隊</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">文學院</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">高分子所</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">醫工所</w>
+            <w type="Cab">等</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">大一</w>
+            <w type="Nc">女舍</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">單位</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nc">餐廳</w>
+            <w type="Cab">等</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Nc">昆蟲館</w>
+         </s>
+         <s>
+            <w type="VH">停電</w>
+            <w type="Nv">注意</w>
+            <w type="Na">事項</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（1）</w>
+            <w type="Na">電子</w>
+            <w type="VH">敏感</w>
+            <w type="Na">設備</w>
+            <w type="VF">請</w>
+            <w type="D">自行</w>
+            <w type="VC">加裝</w>
+            <w type="Na">突波</w>
+            <w type="Na">吸收器</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">或</w>
+            <w type="P">於</w>
+            <w type="VE">預期</w>
+            <w type="VH">停電</w>
+            <w type="Ng">前</w>
+            <w type="D">先</w>
+            <w type="VA">關機</w>
+            <w type="VC">隔離</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VHC">復電</w>
+            <w type="Ng">後</w>
+            <w type="VHC">延遲</w>
+            <w type="VC">開啟</w>
+            <w type="VC">用電</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以</w>
+            <w type="VC">維</w>
+            <w type="Na">用電</w>
+            <w type="Na">設備</w>
+            <w type="Nv">安全</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">（2）</w>
+            <w type="VF">請</w>
+            <w type="Nes">各</w>
+            <w type="Na">館舍</w>
+            <w type="Caa">及</w>
+            <w type="Nc">系所</w>
+            <w type="P">於</w>
+            <w type="VH">停電</w>
+            <w type="Ng">前</w>
+            <w type="P">將</w>
+            <w type="Na">用電</w>
+            <w type="Na">設備</w>
+            <w type="Na">電源</w>
+            <w type="VC">關閉</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">或</w>
+            <w type="P">將</w>
+            <w type="Na">設備</w>
+            <w type="Na">插頭</w>
+            <w type="VC">拔離</w>
+            <w type="Na">插座</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VE">避免</w>
+            <w type="P">於</w>
+            <w type="VHC">恢復</w>
+            <w type="VA">供電</w>
+            <w type="Ng">時</w>
+            <w type="DE">之</w>
+            <w type="Na">電壓</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">電流</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">損及</w>
+            <w type="Nes">各</w>
+            <w type="Na">設備</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">（3）</w>
+            <w type="VF">請</w>
+            <w type="Nes">各</w>
+            <w type="Na">權管</w>
+            <w type="Na">單位</w>
+            <w type="D">務必</w>
+            <w type="VC">通知</w>
+            <w type="Nes">各</w>
+            <w type="Nc">系所</w>
+            <w type="Caa">及</w>
+            <w type="VH">相關</w>
+            <w type="Na">單位</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">且</w>
+            <w type="VC">協助</w>
+            <w type="VC">張貼</w>
+            <w type="VH">停電</w>
+            <w type="Na">公告</w>
+            <w type="P">於</w>
+            <w type="Nes">各</w>
+            <w type="Nc">出入口</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（4）</w>
+            <w type="VF">請</w>
+            <w type="Na">計算機</w>
+            <w type="Caa">及</w>
+            <w type="Na">資訊</w>
+            <w type="Na">網路</w>
+            <w type="Nc">中心</w>
+            <w type="P">就</w>
+            <w type="VH">停電</w>
+            <w type="Na">範圍</w>
+            <w type="VC">備妥</w>
+            <w type="D">不</w>
+            <w type="VH">斷電</w>
+            <w type="DE">之</w>
+            <w type="VH">備用</w>
+            <w type="Na">電源</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="P">以</w>
+            <w type="Na">維</w>
+            <w type="Na">系統</w>
+            <w type="VH">正常</w>
+            <w type="VA">運作</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">（5）</w>
+            <w type="VF">請</w>
+            <w type="Na">駐警隊</w>
+            <w type="VC">協助</w>
+            <w type="VH">備查</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（6）</w>
+            <w type="VF">請</w>
+            <w type="Nes">各</w>
+            <w type="Nc">實驗室</w>
+            <w type="VC">避開</w>
+            <w type="VH">停電</w>
+            <w type="Na">期間</w>
+            <w type="Na">作業</w>
+            <w type="Caa">或</w>
+            <w type="VC">調整</w>
+            <w type="Na">實驗</w>
+            <w type="Na">作業</w>
+            <w type="Na">時間</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Cbb">如</w>
+            <w type="D">無法</w>
+            <w type="VE">避免</w>
+            <w type="VF">請</w>
+            <w type="D">及早</w>
+            <w type="VC">備妥</w>
+            <w type="VH">備用</w>
+            <w type="Na">電源</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">（7）</w>
+            <w type="VF">請</w>
+            <w type="Nes">各</w>
+            <w type="Na">館舍</w>
+            <w type="P">於</w>
+            <w type="VH">停電</w>
+            <w type="Nd">當日</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nd">晚</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="VC">管制</w>
+            <w type="Na">電梯</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">避免</w>
+            <w type="P">於</w>
+            <w type="VH">停電</w>
+            <w type="Ng">時</w>
+            <w type="VC">衍生</w>
+            <w type="Na">意外</w>
+            <w type="Na">事件</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">（8）</w>
+            <w type="VF">請</w>
+            <w type="Nes">各</w>
+            <w type="Na">館舍</w>
+            <w type="P">於</w>
+            <w type="VH">停電</w>
+            <w type="Nd">當日</w>
+            <w type="Ng">前</w>
+            <w type="VE">檢查</w>
+            <w type="VH">備用</w>
+            <w type="Na">電源</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">發電機</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="DE">之</w>
+            <w type="Na">用油</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">（9）</w>
+            <w type="VF">請</w>
+            <w type="Nes">各</w>
+            <w type="Na">學生</w>
+            <w type="Nc">宿舍</w>
+            <w type="VC">加強</w>
+            <w type="VC">宣導</w>
+            <w type="VH">停電</w>
+            <w type="Na">作業</w>
+            <w type="Na">時間</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以</w>
+            <w type="VE">避免</w>
+            <w type="Na">學生</w>
+            <w type="Cbb">因</w>
+            <w type="VH">停電</w>
+            <w type="Cbb">而</w>
+            <w type="VH">驚慌失措</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">（10）</w>
+            <w type="Cbb">若</w>
+            <w type="V_2">有</w>
+            <w type="Nc">停車場</w>
+            <w type="Na">設施</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="Nes">各</w>
+            <w type="Na">館舍</w>
+            <w type="Caa">及</w>
+            <w type="Nc">系所</w>
+            <w type="P">於</w>
+            <w type="VH">停電</w>
+            <w type="Ng">前</w>
+            <w type="VC">做好</w>
+            <w type="Na">車輛</w>
+            <w type="VCL">進出</w>
+            <w type="Nv">管制</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">（11）</w>
+            <w type="Nes">本</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">停電</w>
+            <w type="VC">通知</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VC">刊登</w>
+            <w type="P">於</w>
+            <w type="Nc">校</w>
+            <w type="Na">首頁</w>
+            <w type="Cbb">並</w>
+            <w type="P">於</w>
+            <w type="FW">PTT-NTUbus</w>
+            <w type="Caa">及</w>
+            <w type="Nc">總務處</w>
+            <w type="Na">首頁</w>
+            <w type="VE">公告</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">若</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">任何</w>
+            <w type="Na">問題</w>
+            <w type="Caa">或</w>
+            <w type="Na">建議</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="D">逕</w>
+            <w type="VC">洽</w>
+            <w type="Nc">總務處</w>
+            <w type="Nc">營繕組</w>
+            <w type="Nb">楊子玄</w>
+            <w type="Na">先生</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">電話</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">02</w>
+            <w type="DASHCATEGORY">-3366-6831</w>
+            <w type="Na">分機</w>
+            <w type="Neu">27</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//ann.cc.ntu.edu.tw/asp/Show.asp</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">num</w>
+            <w type="Neu">=</w>
+            <w type="Neu">81734</w>
+         </s>
+         <s>
+            <w type="Na">信件</w>
+            <w type="P">和</w>
+            <w type="Nc">總務處</w>
+            <w type="Na">版本</w>
+            <w type="D">稍</w>
+            <w type="VH">有出入</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">以</w>
+            <w type="Nep">其</w>
+            <w type="Dfa">最</w>
+            <w type="VH">新</w>
+            <w type="Na">公告</w>
+            <w type="VI">為主</w>
+         </s>
+         <s>
+            <w type="Nh">大家</w>
+            <w type="DE">的</w>
+            <w type="Na">文章</w>
+            <w type="Caa">或</w>
+            <w type="Na">實驗</w>
+            <w type="Na">進度</w>
+            <w type="D">都</w>
+            <w type="D">要</w>
+            <w type="VJ">保重</w>
+            <w type="ETCCATEGORY">OWO</w>
+         </s>
+      </body>
+      <title author="AprilMight (AM。)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">緊急</w>
+            <w type="Nc">分區</w>
+            <w type="D">輪流</w>
+            <w type="VH">停電</w>
+            <w type="VC">通知</w>
+         </s>
+      </title>
+      <comment author="saturday5566" c_type="pos">
+         <s>
+            <w type="VHC">笑死</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">防疫</w>
+            <w type="D">不會</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">停電</w>
+            <w type="Neu">第一</w>
+         </s>
+      </comment>
+      <comment author="ekids1234" c_type="pos">
+         <s>
+            <w type="Nd">現在</w>
+            <w type="Da">才</w>
+            <w type="VK">知道</w>
+            <w type="V_2">有</w>
+            <w type="FW"> NT</w>
+            <w type="FW">Ubus</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nep">這</w>
+            <w type="Nf">種</w>
+            <w type="Na">板</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="VH">好</w>
+            <w type="Na">窩</w>
+         </s>
+      </comment>
+      <comment author="yongxchen" c_type="pos">
+         <s>
+            <w type="Nc">學校</w>
+            <w type="SHI">是</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="D">該</w>
+            <w type="VC">更新</w>
+            <w type="Nd">一下</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neqa">全部</w>
+            <w type="Na">訊息</w>
+            <w type="D">都</w>
+            <w type="VD">發</w>
+            <w type="FW">NTU版</w>
+            <w type="Dfa">比較</w>
+            <w type="VH">好</w>
+         </s>
+      </comment>
+      <comment author="kegowames" c_type="pos">
+         <s>
+            <w type="D">剛剛</w>
+            <w type="Na">男四</w>
+            <w type="D">也</w>
+            <w type="VH">停電</w>
+            <w type="I">欸</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">沒有</w>
+            <w type="P">被</w>
+            <w type="VB">列進去</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">照</w>
+            <w type="Na">時間</w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="Neu">第二</w>
+            <w type="Nf">輪</w>
+         </s>
+      </comment>
+      <comment author="abacada" c_type="pos">
+         <s>
+            <w type="P">被</w>
+            <w type="Nc">台電</w>
+            <w type="VA">認證</w>
+            <w type="SHI">是</w>
+            <w type="Nc">邊疆</w>
+            <w type="T">了</w>
+            <w type="FW">Orz</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

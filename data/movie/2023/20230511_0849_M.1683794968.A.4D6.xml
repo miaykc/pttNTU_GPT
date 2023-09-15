@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ckshchen</metadata>
+      <metadata name="post_id">M.1683794968.A.4D6</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[公告] movie 板 開始舉辦樂透!</metadata>
+   </teiHeader>
+   <text>
+      <body author="ckshchen">
+         <s>
+            <w type="Na">魚人</w>
+            <w type="Nb">小美</w>
+            <w type="Nes">首</w>
+            <w type="Nd">周末</w>
+            <w type="Na">票房</w>
+         </s>
+         <s>
+            <w type="VC">請到</w>
+            <w type="FW"> movie</w>
+            <w type="Na"> 板</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">按</w>
+            <w type="FW">'f'</w>
+            <w type="VC">參與</w>
+            <w type="Na">樂透</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">張</w>
+            <w type="FW"> 10 Ptt</w>
+            <w type="Na">幣</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">迷你級</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Na">樂透</w>
+            <w type="VHC">結束</w>
+            <w type="Na">時間</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> 05/20/2023 00</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">40</w>
+            <w type="FW"> Sat</w>
+         </s>
+      </body>
+      <title author="ckshchen">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">公告</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> movie</w>
+            <w type="FW"> 板 </w>
+            <w type="VL">開始</w>
+            <w type="VC">舉辦</w>
+            <w type="Na">樂透</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+      </title>
+      <comment author="haha98" c_type="neu">
+         <s>
+            <w type="Neu">2</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

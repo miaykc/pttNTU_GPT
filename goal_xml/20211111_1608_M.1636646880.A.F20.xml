@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">SE010 ()</metadata>
+      <metadata name="post_id">M.1636646880.A.F20</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 好累</metadata>
+   </teiHeader>
+   <text>
+      <body author="SE010 ()">
+         <s>
+            <w type="VH">累累</w>
+            <w type="VH">病</w>
+         </s>
+      </body>
+      <title author="SE010 ()">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dfa">好</w>
+            <w type="VHC">累</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

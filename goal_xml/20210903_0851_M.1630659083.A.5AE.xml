@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">PttHobe (厚皮/Ginger/薑/正直)</metadata>
+      <metadata name="post_id">M.1630659083.A.5AE</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[拾獲] 一串鑰匙</metadata>
+   </teiHeader>
+   <text>
+      <body author="PttHobe (厚皮/Ginger/薑/正直)">
+         <s>
+            <w type="VE">建議</w>
+            <w type="Na">標題</w>
+            <w type="VC">打</w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VH">遺失</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> / </w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VC">拾獲</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">以</w>
+            <w type="VH">方便</w>
+            <w type="VC">閱讀</w>
+         </s>
+         <s>
+            <w type="Na">物品</w>
+            <w type="Na">名稱</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">鑰匙</w>
+            <w type="Neu">一</w>
+            <w type="Nf">串</w>
+         </s>
+         <s>
+            <w type="VH">遺失</w>
+            <w type="FW">/</w>
+            <w type="VC">拾獲</w>
+            <w type="Na">地點</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">社科院</w>
+            <w type="Ncd">旁邊</w>
+            <w type="DE">的</w>
+            <w type="FW">ubike</w>
+            <w type="FW"> 2.0</w>
+         </s>
+         <s>
+            <w type="VH">遺失</w>
+            <w type="FW">/</w>
+            <w type="VC">拾獲</w>
+            <w type="Na">時間</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nd">9/3 16</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">30</w>
+         </s>
+         <s>
+            <w type="Na">物品</w>
+            <w type="VC">描述</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Ncd">上面</w>
+            <w type="VC">貼</w>
+            <w type="Di">著</w>
+            <w type="Neu">423</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">另外</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">小芭內</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">吊飾</w>
+         </s>
+         <s>
+            <w type="Nv">聯絡</w>
+            <w type="Na">方式</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VC">放</w>
+            <w type="P">在</w>
+            <w type="Na">科技</w>
+            <w type="Na">大樓</w>
+            <w type="VA">站</w>
+            <w type="DE">的</w>
+            <w type="Nc">詢問處</w>
+            <w type="T">了</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> Google</w>
+            <w type="FW"> Pixel</w>
+            <w type="FW"> 3a</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="PttHobe (厚皮/Ginger/薑/正直)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VC">拾獲</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">串</w>
+            <w type="Na">鑰匙</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

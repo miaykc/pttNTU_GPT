@@ -1,0 +1,845 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">OscarJeff (藝術與城市)</metadata>
+      <metadata name="post_id">M.1579177458.A.E8B</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 1918年丹麥默片《火星之旅》現場配樂演出</metadata>
+   </teiHeader>
+   <text>
+      <body author="OscarJeff (藝術與城市)">
+         <s>
+            <w type="Nc">丹麥</w>
+            <w type="Na">默片</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">火星</w>
+            <w type="DE">之</w>
+            <w type="Na">旅</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Draminsky</w>
+            <w type="Nc">現場</w>
+            <w type="Na">配樂</w>
+            <w type="Na">演出</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">臺灣</w>
+            <w type="A">唯一</w>
+            <w type="Nc">首演場</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="FW">▋</w>
+            <w type="Na">時間</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">▋</w>
+         </s>
+         <s>
+            <w type="Neu">2020/01/17</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neu">五</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Neu">19</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">30</w>
+            <w type="VA">入場</w>
+            <w type="FW"> / 20</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="VH">開演</w>
+         </s>
+         <s>
+            <w type="FW">▋</w>
+            <w type="Na">地點</w>
+            <w type="FW"> ▋</w>
+         </s>
+         <s>
+            <w type="Na">江山</w>
+            <w type="Nc">藝改所</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">新竹市</w>
+            <w type="Nc">東區</w>
+            <w type="Nc">興達街</w>
+            <w type="Nc">1號</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="FW">▋</w>
+            <w type="VC">表演</w>
+            <w type="Na">者</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">▋</w>
+         </s>
+         <s>
+            <w type="FW">Draminsky</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">丹麥</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="FW">▋</w>
+            <w type="VA">入場</w>
+            <w type="VD">贊助</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">▋</w>
+         </s>
+         <s>
+            <w type="Neu">$300</w>
+            <w type="DASHCATEGORY">-200</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">自由</w>
+            <w type="Na">定價</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VF">請</w>
+            <w type="D">勿</w>
+            <w type="VC">攜帶</w>
+            <w type="VA">外食</w>
+            <w type="Na">飲品</w>
+         </s>
+         <s>
+            <w type="FW">▋</w>
+            <w type="P">關於</w>
+            <w type="VC">表演</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">▋</w>
+         </s>
+         <s>
+            <w type="Nc">丹麥</w>
+            <w type="Na">音樂家</w>
+            <w type="FW">/</w>
+            <w type="Na">作曲家</w>
+            <w type="FW">Draminsky</w>
+            <w type="D">將</w>
+            <w type="P">為</w>
+            <w type="Nc">丹麥</w>
+            <w type="Na">導演</w>
+            <w type="Nb">霍格</w>
+            <w type="PERIODCATEGORY">·</w>
+            <w type="Nb">梅德森</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Holger-Madsen</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="DE">的</w>
+            <w type="VH">無聲</w>
+            <w type="Na">電影</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">火星</w>
+            <w type="DE">之</w>
+            <w type="Na">旅</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">丹麥</w>
+            <w type="Na">片名</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Himmelskibet</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VC">演出</w>
+            <w type="Nc">現場</w>
+            <w type="Na">配樂</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">為</w>
+            <w type="Nep">此</w>
+            <w type="Na">作品</w>
+            <w type="DE">之</w>
+            <w type="Nc">臺灣</w>
+            <w type="Na">首演</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VC">完成</w>
+            <w type="P">於</w>
+            <w type="Nd">1918年</w>
+            <w type="DE">的</w>
+            <w type="Nc">丹麥</w>
+            <w type="Na">默片</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">火星</w>
+            <w type="DE">之</w>
+            <w type="Na">旅</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="VL">令</w>
+            <w type="Na">人</w>
+            <w type="VK">驚奇</w>
+            <w type="DE">的</w>
+            <w type="VH">大規模</w>
+            <w type="A">科幻</w>
+            <w type="Na">鉅作</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">本</w>
+            <w type="Nf">片</w>
+            <w type="Nd">同時</w>
+            <w type="VHC">結合</w>
+         </s>
+         <s>
+            <w type="Di">了</w>
+            <w type="Na">實驗性</w>
+            <w type="DE">的</w>
+            <w type="Na">視覺</w>
+            <w type="Na">畫面</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Dfa">稍為</w>
+            <w type="VH">過時</w>
+            <w type="DE">的</w>
+            <w type="VC">演出</w>
+            <w type="Na">風格</w>
+            <w type="Caa">與</w>
+            <w type="D">偶爾</w>
+            <w type="VH">出現</w>
+            <w type="DE">的</w>
+            <w type="VH">滑稽</w>
+            <w type="Na">場景</w>
+            <w type="VC">設計</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">然而</w>
+            <w type="VH">不幸</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="Nep">其</w>
+         </s>
+         <s>
+            <w type="Na">主題</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">和平</w>
+            <w type="DE">的</w>
+            <w type="Na">希望</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Nd">如今</w>
+            <w type="D">仍然</w>
+            <w type="Dfa">十分</w>
+            <w type="VJ">適用</w>
+            <w type="P">於</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Nc">世界</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">Draminsky</w>
+            <w type="DE">的</w>
+            <w type="VH">即時</w>
+            <w type="Na">配樂</w>
+            <w type="VC">啟發</w>
+            <w type="P">自</w>
+            <w type="Na">電影</w>
+            <w type="D">所</w>
+            <w type="VJ">蘊含</w>
+            <w type="DE">的</w>
+            <w type="Na">訊息</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VH">和平</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">愛</w>
+            <w type="Caa">與</w>
+            <w type="Nv">理解</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">猶如</w>
+            <w type="P">以</w>
+            <w type="VH">緩慢</w>
+            <w type="Na">速率</w>
+            <w type="D">逐步</w>
+         </s>
+         <s>
+            <w type="VC">揭開</w>
+            <w type="DE">的</w>
+            <w type="Na">聽覺</w>
+            <w type="Na">簾幕</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="VH">古老</w>
+            <w type="DE">的</w>
+            <w type="Na">媒體</w>
+            <w type="Caa">與</w>
+            <w type="Na">動態</w>
+            <w type="Ng">間</w>
+            <w type="VC">創建</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">夢幻</w>
+            <w type="DE">的</w>
+            <w type="Nv">聆聽</w>
+            <w type="Na">空間</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以</w>
+            <w type="VG">作為</w>
+            <w type="Na">電影</w>
+            <w type="Na">戲劇</w>
+            <w type="Na">性情</w>
+         </s>
+         <s>
+            <w type="Nf">節</w>
+            <w type="DE">的</w>
+            <w type="Na">對比</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可</w>
+            <w type="VG">視為</w>
+            <w type="P">對</w>
+            <w type="Nd">舊時</w>
+            <w type="Na">音樂</w>
+            <w type="VA">伴奏</w>
+            <w type="DE">的</w>
+            <w type="Neu">一</w>
+            <w type="Nf">種</w>
+            <w type="Nd">當代</w>
+            <w type="Nv">實踐</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">火星</w>
+            <w type="DE">之</w>
+            <w type="Na">旅</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Nc">現場</w>
+            <w type="Na">配樂</w>
+            <w type="VC">演出</w>
+            <w type="SHI">是</w>
+            <w type="P">以</w>
+            <w type="Neu">2018年</w>
+            <w type="Nd">春天</w>
+            <w type="P">於</w>
+            <w type="Nc">日本</w>
+            <w type="VC">巡演</w>
+            <w type="DE">的</w>
+            <w type="Nes">同</w>
+            <w type="Na">名</w>
+            <w type="Na">計畫</w>
+            <w type="VG">為</w>
+            <w type="Na">基礎</w>
+            <w type="VC">發展</w>
+            <w type="Cbb">而</w>
+            <w type="VA">來</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">該</w>
+            <w type="VG">計</w>
+         </s>
+         <s>
+            <w type="Na">畫</w>
+            <w type="Caa">與</w>
+            <w type="Nc">丹麥</w>
+            <w type="FW">/</w>
+            <w type="Nc">日本</w>
+            <w type="Na">五</w>
+            <w type="Na">重奏</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">特雷明</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">小號</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">長號</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">班鳩琴</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">FM</w>
+            <w type="Na">調頻</w>
+            <w type="VG">合成</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="FW">Excelsior</w>
+            <w type="FW"> All</w>
+         </s>
+         <s>
+            <w type="FW">Stars</w>
+            <w type="VH">合作</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nes">本</w>
+            <w type="Nf">次</w>
+            <w type="VC">演出</w>
+            <w type="DE">的</w>
+            <w type="VC">獨奏</w>
+            <w type="Na">版本</w>
+            <w type="VHC">結合</w>
+            <w type="Di">了</w>
+            <w type="VH">原始</w>
+            <w type="VC">演出</w>
+            <w type="DE">的</w>
+            <w type="VB">錄音</w>
+            <w type="Caa">及</w>
+            <w type="Na">取樣</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VH">簡單</w>
+            <w type="DE">的</w>
+            <w type="FW">FM</w>
+            <w type="Na">調頻</w>
+            <w type="VG">合成</w>
+            <w type="P">與</w>
+            <w type="VH">即時</w>
+            <w type="DE">的</w>
+            <w type="Na">電子</w>
+            <w type="Na">原聲</w>
+         </s>
+         <s>
+            <w type="VHC">空間化</w>
+            <w type="Caa">及</w>
+            <w type="VA">調變</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">影音</w>
+            <w type="Na">資訊</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//multisounds.dk/himmelskibet/</w>
+         </s>
+         <s>
+            <w type="FW">▋</w>
+            <w type="P">關於</w>
+            <w type="VC">表演</w>
+            <w type="Na">者</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">▋</w>
+         </s>
+         <s>
+            <w type="FW">● Jakob</w>
+            <w type="FW"> Draminsky</w>
+            <w type="FW"> Højmark</w>
+         </s>
+         <s>
+            <w type="Nc">丹麥</w>
+            <w type="Na">音樂家</w>
+            <w type="Caa">及</w>
+            <w type="Na">作曲家</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">專長</w>
+            <w type="VG">為</w>
+            <w type="Na">舞台</w>
+            <w type="Na">音樂</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">電聲</w>
+            <w type="Na">音樂</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VH">具象</w>
+            <w type="Na">音樂</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">跨</w>
+            <w type="Na">媒體</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="D">即興</w>
+            <w type="P">與</w>
+            <w type="Na">微調</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nd">1990年代</w>
+            <w type="FW">Draminsky</w>
+            <w type="D">經常</w>
+            <w type="P">以</w>
+            <w type="Nc">法國</w>
+            <w type="Na">玩具</w>
+            <w type="Na">鋼琴</w>
+            <w type="Na">大師</w>
+            <w type="FW">Pascal</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Comelade</w>
+            <w type="DE">的</w>
+            <w type="Na">助手</w>
+            <w type="Na">身份</w>
+            <w type="VH">活躍</w>
+            <w type="P">於</w>
+            <w type="Na">舞台</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+         </s>
+         <s>
+            <w type="Cbb">且</w>
+            <w type="D">也</w>
+            <w type="P">以</w>
+            <w type="Na">低音</w>
+            <w type="Na">單簧管</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">超高音</w>
+            <w type="Na">薩克斯風</w>
+            <w type="Caa">及</w>
+            <w type="Na">電腦</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">MAX</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="VC">進行</w>
+            <w type="Nv">獨奏</w>
+            <w type="Na">演出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">近期</w>
+            <w type="D">則</w>
+            <w type="VK">包括</w>
+            <w type="Na">口風琴</w>
+            <w type="Caa">及</w>
+         </s>
+         <s>
+            <w type="Nc">地面</w>
+            <w type="Na">電子</w>
+            <w type="Na">樂器</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">除</w>
+            <w type="Na">上述</w>
+            <w type="Ng">之外</w>
+            <w type="Nh">他</w>
+            <w type="Nd">同時</w>
+            <w type="P">以</w>
+            <w type="Dfa">較</w>
+            <w type="D">不</w>
+            <w type="VH">重要</w>
+            <w type="Caa">及</w>
+            <w type="Na">中型</w>
+            <w type="Na">尺寸</w>
+            <w type="DE">的</w>
+            <w type="Na">工程</w>
+            <w type="Na">機具</w>
+            <w type="Caa">或</w>
+            <w type="Nc">廚房</w>
+            <w type="Na">設備</w>
+            <w type="VG">為</w>
+            <w type="Na">對象</w>
+            <w type="VC">發展</w>
+            <w type="Di">了</w>
+            <w type="Neu">一</w>
+            <w type="Na">系列</w>
+            <w type="DE">的</w>
+            <w type="VH">現</w>
+         </s>
+         <s>
+            <w type="Nc">場</w>
+            <w type="VH">具象</w>
+            <w type="Na">聲音</w>
+            <w type="Na">演出</w>
+            <w type="Na">計畫</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並且</w>
+            <w type="VC">作</w>
+            <w type="Di">了</w>
+            <w type="Neu">七</w>
+            <w type="Nf">部</w>
+            <w type="Nc">室內歌劇</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">與</w>
+            <w type="Nc">丹麥</w>
+            <w type="A">地下</w>
+            <w type="Na">歌劇</w>
+            <w type="Na">作家</w>
+            <w type="FW">Peter</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Laugesen</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">加</w>
+         </s>
+         <s>
+            <w type="Nc">泰隆尼亞</w>
+            <w type="Na">詩人</w>
+            <w type="FW">Enric</w>
+            <w type="FW"> Casassas</w>
+            <w type="Caa">及</w>
+            <w type="Nc">日本</w>
+            <w type="Na">能樂團</w>
+            <w type="Na">綠泉會</w>
+            <w type="Cab">等</w>
+            <w type="VH">合作</w>
+            <w type="VC">演出</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">Draminsky</w>
+            <w type="P">為</w>
+            <w type="Nc">劇場</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">舞蹈</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">影片</w>
+            <w type="VC">製作</w>
+            <w type="VC">創作</w>
+            <w type="Na">配樂</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="VC">發行</w>
+            <w type="Di">了</w>
+            <w type="Neu">八</w>
+            <w type="Nf">張</w>
+            <w type="Nh">個人</w>
+            <w type="Na">專輯</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nh">他</w>
+            <w type="D">也</w>
+            <w type="VC">創作</w>
+            <w type="Nc">古典室</w>
+         </s>
+         <s>
+            <w type="Na">內</w>
+            <w type="Na">樂</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VJ">從事</w>
+            <w type="A">公共</w>
+            <w type="Na">幻聽</w>
+            <w type="Neqa">多</w>
+            <w type="Na">聲道</w>
+            <w type="Na">系統</w>
+            <w type="DE">的</w>
+            <w type="Na">工作</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">探討</w>
+            <w type="Na">人聲</w>
+            <w type="DE">的</w>
+            <w type="A">數位</w>
+            <w type="VC">操作</w>
+            <w type="Caa">與</w>
+            <w type="Nd">日常</w>
+            <w type="Na">生活</w>
+            <w type="Ng">間</w>
+            <w type="DE">的</w>
+            <w type="VA">互動</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">於</w>
+            <w type="Neu">1990</w>
+            <w type="Caa">至</w>
+            <w type="Neu">2007年</w>
+            <w type="Ng">間</w>
+            <w type="Nh">他</w>
+            <w type="D">曾</w>
+            <w type="VH">活躍</w>
+            <w type="P">於</w>
+            <w type="Nc">巴塞隆納</w>
+            <w type="Na">實驗</w>
+            <w type="Na">音樂</w>
+            <w type="Na">場景</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">經常</w>
+            <w type="P">與</w>
+            <w type="Nc">全球</w>
+            <w type="Nes">各</w>
+            <w type="Na">地</w>
+            <w type="DE">的</w>
+            <w type="Na">藝術家</w>
+            <w type="Caa">與</w>
+            <w type="Na">音樂家</w>
+         </s>
+         <s>
+            <w type="VH">合作</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">包括</w>
+            <w type="VH">小號手</w>
+            <w type="FW">Mark</w>
+            <w type="FW"> Cunningham</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">鼓手</w>
+            <w type="FW">Sawada</w>
+            <w type="Caa">與</w>
+            <w type="FW">Itoken</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">吉他手</w>
+            <w type="FW">Jørgen</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Teller</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">貝</w>
+         </s>
+         <s>
+            <w type="Na">斯手</w>
+            <w type="FW">Henrik</w>
+            <w type="FW"> Olafsson</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">激浪派</w>
+            <w type="Na">藝術家</w>
+            <w type="FW">Eric</w>
+            <w type="FW"> Andersen</w>
+            <w type="Cab">等</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">2014年</w>
+            <w type="Nh">他</w>
+            <w type="P">於</w>
+            <w type="Nc">哥本哈根</w>
+            <w type="Nc">大學</w>
+            <w type="VC">取得</w>
+            <w type="Nc">日本</w>
+            <w type="VE">研究</w>
+            <w type="Na">碩士</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">研究</w>
+            <w type="Na">領域</w>
+            <w type="VG">為</w>
+            <w type="Na">科技</w>
+            <w type="Ng">中</w>
+            <w type="Caa">與</w>
+            <w type="Na">文化</w>
+            <w type="VJ">有關</w>
+            <w type="DE">的</w>
+            <w type="VA">敘事</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">2016年</w>
+            <w type="Ng">起</w>
+            <w type="FW">Draminsky</w>
+            <w type="P">透過</w>
+            <w type="Neu">一</w>
+            <w type="Na">系列</w>
+            <w type="P">為</w>
+            <w type="Nc">丹麥</w>
+            <w type="Na">默片</w>
+            <w type="D">所</w>
+            <w type="VC">做</w>
+            <w type="DE">的</w>
+            <w type="Nc">現場</w>
+            <w type="Na">音樂</w>
+            <w type="VC">表演</w>
+            <w type="D">重新</w>
+            <w type="VCL">回到</w>
+            <w type="Na">聲音</w>
+            <w type="Caa">與</w>
+            <w type="Na">影像</w>
+            <w type="Ng">之間</w>
+         </s>
+         <s>
+            <w type="Na">關係</w>
+            <w type="DE">的</w>
+            <w type="Nv">探詢</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="P">以</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">忙碌</w>
+            <w type="Nc">世界</w>
+            <w type="Ncd">中</w>
+            <w type="DE">的</w>
+            <w type="VH">緩慢</w>
+            <w type="Na">聲音</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VG">為</w>
+            <w type="Nep">其</w>
+            <w type="Na">核心</w>
+            <w type="Na">宗旨</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nd">2017年</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">作品</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">藥師寺</w>
+            <w type="FW">III</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="P">於</w>
+            <w type="FW">Henning</w>
+            <w type="FW"> Larsen</w>
+            <w type="Nc">基金會</w>
+            <w type="VC">主辦</w>
+            <w type="DE">的</w>
+            <w type="Nc">國際</w>
+            <w type="Na">建築</w>
+            <w type="Caa">與</w>
+            <w type="Na">音樂</w>
+            <w type="Na">競賽</w>
+            <w type="Ng">中</w>
+            <w type="VJ">榮</w>
+         </s>
+         <s>
+            <w type="VJ">獲</w>
+            <w type="Neu">第二</w>
+            <w type="Nf">名</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">活動</w>
+            <w type="Na">頁面</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.facebook.com/events/520346732021300</w>
+            <w type="FW">/</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="FW"> Oscar</w>
+            <w type="FW">Jeff</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="VC">轉錄</w>
+            <w type="P">至</w>
+            <w type="Na">看板</w>
+            <w type="FW"> NHCUE-Talk</w>
+            <w type="FW">                                 01/16</w>
+            <w type="FW"> 20</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">25</w>
+         </s>
+      </body>
+      <title author="OscarJeff (藝術與城市)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1918年</w>
+            <w type="Nc">丹麥</w>
+            <w type="Na">默片</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">火星</w>
+            <w type="DE">之</w>
+            <w type="Na">旅</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Nc">現場</w>
+            <w type="Na">配樂</w>
+            <w type="VC">演出</w>
+         </s>
+      </title>
+      <comment author="smallshow3" c_type="neu">
+         <s>
+            <w type="Na">爪</w>
+         </s>
+      </comment>
+      <comment author="samsonfu" c_type="pos">
+         <s>
+            <w type="Nd">以前</w>
+            <w type="DE">的</w>
+            <w type="Na">默片</w>
+            <w type="D">都</w>
+            <w type="Dfa">很</w>
+            <w type="VC">創新</w>
+            <w type="T">耶</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="Na">月球</w>
+            <w type="DE">之</w>
+            <w type="Na">旅</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">火星</w>
+            <w type="DE">之</w>
+            <w type="Na">旅</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">月</w>
+            <w type="Ncd">裡</w>
+         </s>
+      </comment>
+      <comment author="samsonfu" c_type="neu">
+         <s>
+            <w type="Nb">嫦娥</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">大都會</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">哪</w>
+            <w type="P">像</w>
+            <w type="Nd">現在</w>
+            <w type="Na">星戰</w>
+            <w type="D">還</w>
+            <w type="P">在</w>
+            <w type="VC">拍</w>
+            <w type="Neu">四十</w>
+            <w type="Nf">年</w>
+            <w type="Ng">前</w>
+            <w type="DE">的</w>
+            <w type="Na">劇情</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ae27510524 (海豹仔)</metadata>
+      <metadata name="post_id">M.1605970299.A.98F</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 外國唐氏症迷路流浪找家</metadata>
+   </teiHeader>
+   <text>
+      <body author="ae27510524 (海豹仔)">
+         <s>
+            <w type="Neu">十</w>
+            <w type="Nf">年</w>
+            <w type="Ng">前</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">我</w>
+            <w type="Nc">國</w>
+            <w type="VH">小</w>
+            <w type="VA">坐</w>
+            <w type="VC">統聯</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="VE">看到</w>
+            <w type="DE">的</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Dfa">很</w>
+            <w type="VH">印象深刻</w>
+            <w type="DE">的</w>
+            <w type="Na">片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">一直</w>
+            <w type="VE">想</w>
+            <w type="VK">知道</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">名字</w>
+         </s>
+         <s>
+            <w type="Da">只</w>
+            <w type="VK">記得</w>
+            <w type="Nep">那</w>
+            <w type="Nf">部</w>
+            <w type="Na">片</w>
+            <w type="Dfa">很</w>
+            <w type="VH">感人</w>
+         </s>
+      </body>
+      <title author="ae27510524 (海豹仔)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">外國</w>
+            <w type="Na">唐氏症</w>
+            <w type="VH">迷路</w>
+            <w type="VA">流浪</w>
+            <w type="VC">找</w>
+            <w type="Nc">家</w>
+         </s>
+      </title>
+      <comment author="mayacafe" c_type="pos">
+         <s>
+            <w type="VL">愛</w>
+            <w type="VA">回來</w>
+            <w type="FW"> any</w>
+            <w type="FW">day</w>
+            <w type="FW"> now</w>
+         </s>
+      </comment>
+      <comment author="ae27510524" c_type="neu">
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

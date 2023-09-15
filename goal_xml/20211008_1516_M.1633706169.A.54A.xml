@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">read0609 ()</metadata>
+      <metadata name="post_id">M.1633706169.A.54A</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] Office 365 Onedrive 進不去</metadata>
+   </teiHeader>
+   <text>
+      <body author="read0609 ()">
+         <s>
+            <w type="Nd">最近</w>
+            <w type="A">遠距</w>
+            <w type="Na">課程</w>
+            <w type="Neqa">有</w>
+            <w type="Nf">些</w>
+            <w type="Na">老師</w>
+            <w type="VC">採用</w>
+            <w type="FW">Micros</w>
+            <w type="FW">oft</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Teams</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="D">可以</w>
+            <w type="P">用</w>
+            <w type="FW">@ntu.edu.tw</w>
+            <w type="DE">的</w>
+            <w type="FW">email</w>
+            <w type="VA">註冊</w>
+            <w type="Na">教育版</w>
+            <w type="DE">的</w>
+            <w type="FW">Office</w>
+            <w type="FW"> 365</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="D">會</w>
+            <w type="VJ">得到</w>
+            <w type="FW">Office</w>
+            <w type="FW"> 365</w>
+            <w type="FW"> A1</w>
+            <w type="DE">的</w>
+            <w type="Na">使用權</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VE">查</w>
+            <w type="Di">了</w>
+            <w type="FW">Office</w>
+            <w type="FW"> 365</w>
+            <w type="FW"> A1</w>
+            <w type="DE">的</w>
+            <w type="VC">服務</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="VJ">包含</w>
+            <w type="FW">Onedrive</w>
+            <w type="FW"> 1</w>
+            <w type="FW">TB</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Na">爬板</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+            <w type="Na">文</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="P">在</w>
+            <w type="VC">使用</w>
+            <w type="Nes">該</w>
+            <w type="Nv">服務</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="Nh">我</w>
+            <w type="Nh">自己</w>
+            <w type="P">在</w>
+            <w type="FW">Office</w>
+            <w type="FW"> 365</w>
+            <w type="Na">網頁版</w>
+            <w type="VC">點擊</w>
+            <w type="FW">Onedrive</w>
+            <w type="VCL">進入</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="D">卻</w>
+            <w type="D">都</w>
+            <w type="D">一直</w>
+            <w type="VH">自動</w>
+            <w type="Na">導向</w>
+            <w type="FW">Sharepoint</w>
+            <w type="DE">的</w>
+            <w type="Na">畫面</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">一直</w>
+            <w type="D">沒法</w>
+            <w type="VCL">進入</w>
+            <w type="FW">Onedrive</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/a/ep2</w>
+            <w type="FW">l</w>
+            <w type="FW">IJP</w>
+         </s>
+         <s>
+            <w type="P">用</w>
+            <w type="FW">Mac</w>
+            <w type="DE">的</w>
+            <w type="FW">Onedrive</w>
+            <w type="FW"> App</w>
+            <w type="VCL">登入</w>
+            <w type="Na">教育</w>
+            <w type="Na">帳戶</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="Da">只</w>
+            <w type="D">會</w>
+            <w type="VC">彈出</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VC">連線到</w>
+            <w type="FW">Onedrive</w>
+            <w type="Ng">時</w>
+            <w type="VJ">發生</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/a/Wegu0hk</w>
+         </s>
+         <s>
+            <w type="VE">想</w>
+            <w type="VE">請問</w>
+            <w type="V_2">有</w>
+            <w type="D">沒有</w>
+            <w type="Na">人</w>
+            <w type="D">也</w>
+            <w type="VC">遇到</w>
+            <w type="VG">類似</w>
+            <w type="Na">情況</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Caa">或</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="D">可以</w>
+            <w type="VD">提供</w>
+            <w type="Neqa">一些</w>
+            <w type="FW">Solution</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="FW">QQ</w>
+         </s>
+         <s>
+            <w type="Cbb">而且</w>
+            <w type="Cbb">因為</w>
+            <w type="FW">Onedrive</w>
+            <w type="D">一直</w>
+            <w type="VA">進</w>
+            <w type="D">不</w>
+            <w type="VCL">去</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">Office</w>
+            <w type="FW"> 文書</w>
+            <w type="Na">系列</w>
+            <w type="DE">的</w>
+            <w type="FW">App</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">像</w>
+            <w type="FW">Word/Excel/PPT</w>
+            <w type="Cab">等</w>
+            <w type="D">都</w>
+            <w type="D">不能</w>
+            <w type="VC">用</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+         <s>
+            <w type="VH">不行</w>
+            <w type="D">嗚嗚</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VA">進去</w>
+            <w type="Ng">後</w>
+            <w type="VC">點</w>
+            <w type="FW">onedrive</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="VC">導到</w>
+            <w type="FW">sharepoint</w>
+            <w type="ETCCATEGORY">…</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="P">跟</w>
+            <w type="Nh">你</w>
+            <w type="DE">的</w>
+            <w type="Na">步驟</w>
+            <w type="VH">一模一樣</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="P">在</w>
+            <w type="Nd">最後</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="Na">導向</w>
+            <w type="FW">sharepoint</w>
+            <w type="Na">畫面</w>
+            <w type="FW">orz</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="VE">想</w>
+            <w type="Nh">我</w>
+            <w type="D">可能</w>
+            <w type="D">再</w>
+            <w type="VD">寄</w>
+            <w type="Na">信</w>
+            <w type="VE">問</w>
+            <w type="Na">計網</w>
+         </s>
+         <s>
+            <w type="I">嗚嗚</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">感謝</w>
+            <w type="Nh">妳</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </body>
+      <title author="read0609 ()">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> Office</w>
+            <w type="FW"> 365</w>
+            <w type="FW"> Onedrive</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">進</w>
+            <w type="D">不</w>
+            <w type="VCL">去</w>
+         </s>
+      </title>
+      <comment author="AprilMight" c_type="neu">
+         <s>
+            <w type="D">先</w>
+            <w type="P">從</w>
+            <w type="FW">www.</w>
+            <w type="FW">of</w>
+            <w type="FW">fice.com</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VCL">登入</w>
+            <w type="D">再</w>
+            <w type="VCL">進</w>
+            <w type="FW">onedrive</w>
+            <w type="WHITESPACE"> </w>
+            <w type="T">呢</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="AprilMight" c_type="pos">
+         <s>
+            <w type="P">用</w>
+            <w type="Na">手機</w>
+            <w type="Na">瀏覽器</w>
+            <w type="VF">試</w>
+            <w type="Di">了</w>
+            <w type="Nd">一下</w>
+            <w type="FW">～</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="P">跟</w>
+            <w type="Nh">你</w>
+            <w type="Na">狀況</w>
+            <w type="SHI">是</w>
+            <w type="Nep">哪</w>
+            <w type="Ncd">邊</w>
+            <w type="VH">不同</w>
+            <w type="FW">&amp;gt;&amp;lt;</w>
+         </s>
+      </comment>
+      <comment author="AprilMight" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Tly</w>
+            <w type="FW">BfUi.jpg</w>
+         </s>
+      </comment>
+      <comment author="AprilMight" c_type="neu">
+         <s>
+            <w type="VC">輸入</w>
+            <w type="Na">帳號</w>
+            <w type="Ng">後</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/it</w>
+            <w type="FW">BJlkd.jpg</w>
+         </s>
+      </comment>
+      <comment author="AprilMight" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/BmaXshL.jpg</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">再</w>
+            <w type="P">從</w>
+            <w type="Ncd">這裡</w>
+            <w type="VA">進去</w>
+         </s>
+      </comment>
+      <comment author="AprilMight" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/nt</w>
+            <w type="FW">CUN0P.jpg</w>
+         </s>
+      </comment>
+      <comment author="AprilMight" c_type="neu">
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="VL">懶得</w>
+            <w type="VC">改</w>
+            <w type="Na">語言</w>
+            <w type="Cbb">不過</w>
+            <w type="D">應該</w>
+            <w type="VC">圖示</w>
+            <w type="Caa">還是</w>
+            <w type="Dk">同理</w>
+            <w type="T">啦</w>
+         </s>
+      </comment>
+      <comment author="AprilMight" c_type="neu">
+         <s>
+            <w type="FW">誒QQ</w>
+            <w type="VHC">辛苦</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">保重</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="AmosJonas" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Nh">自己</w>
+            <w type="SHI">是</w>
+            <w type="D">先</w>
+            <w type="VF">申請</w>
+            <w type="Di">了</w>
+            <w type="FW">G </w>
+            <w type="FW">Suite</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">再</w>
+            <w type="P">用</w>
+            <w type="FW">g.ntu.edu.tw</w>
+            <w type="DE">的</w>
+            <w type="Na">信箱</w>
+            <w type="VF">申請</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

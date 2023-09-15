@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">lgng66133 (Mad Fer It！)</metadata>
+      <metadata name="post_id">M.1580040854.A.D09</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 2020 電影音響協會 得獎名單</metadata>
+   </teiHeader>
+   <text>
+      <body author="lgng66133 (Mad Fer It！)">
+         <s>
+            <w type="Na">實境</w>
+            <w type="Na">電影</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">賽道</w>
+            <w type="Na">狂人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">動畫</w>
+            <w type="Na">電影</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">玩具</w>
+            <w type="VA">總動員</w>
+            <w type="Neu">4</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">紀錄片</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">電影</w>
+            <w type="Na">音效</w>
+            <w type="Na">傳奇</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">好萊塢</w>
+            <w type="DE">之</w>
+            <w type="Na">聲</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">造次</w>
+            <w type="Na">映畫</w>
+            <w type="VC">發行</w>
+            <w type="FW"> 2/21</w>
+            <w type="VAC">上映</w>
+         </s>
+      </body>
+      <title author="lgng66133 (Mad Fer It！)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 2020</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">電影</w>
+            <w type="Na">音響</w>
+            <w type="Nc">協會</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">得獎</w>
+            <w type="Na">名單</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">tpcjotp (特愛入侵)</metadata>
+      <metadata name="post_id">M.1617082966.A.AA3</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 鹿鼎大帝台詞疑問</metadata>
+   </teiHeader>
+   <text>
+      <body author="tpcjotp (特愛入侵)">
+         <s>
+            <w type="P">在</w>
+            <w type="Na">鹿鼎大帝</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nb">周星馳</w>
+            <w type="Caa">與</w>
+            <w type="Nb">劉嘉玲</w>
+            <w type="P">在</w>
+            <w type="Na">床</w>
+            <w type="Ncd">上</w>
+            <w type="VA">抓癢</w>
+            <w type="VC">按摩</w>
+            <w type="Ng">時</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nb">周</w>
+            <w type="VE">說</w>
+            <w type="Di">了</w>
+            <w type="Neu">一</w>
+            <w type="Nf">句</w>
+            <w type="Neu">甲</w>
+            <w type="Neu">二</w>
+            <w type="Neu">戊</w>
+            <w type="Neu">四</w>
+            <w type="Nf">雙</w>
+            <w type="Na">寶</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VE">請問</w>
+            <w type="A">雙寶</w>
+            <w type="DE">的</w>
+            <w type="Na">意思</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="VK">感謝</w>
+            <w type="Nh">各位</w>
+            <w type="Na">版友</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </body>
+      <title author="tpcjotp (特愛入侵)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">鹿鼎大帝</w>
+            <w type="Na">台詞</w>
+            <w type="Na">疑問</w>
+         </s>
+      </title>
+      <comment author="dxdy" c_type="neu">
+         <s>
+            <w type="Ncd">下面</w>
+            <w type="Nep">那</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">顆</w>
+            <w type="Nb">阿</w>
+         </s>
+      </comment>
+      <comment author="kinbaku1" c_type="pos">
+         <s>
+            <w type="Neu">甲</w>
+            <w type="Na">老二</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">戍</w>
+            <w type="Neu">四</w>
+            <w type="Nf">次</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">舔雙寶</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

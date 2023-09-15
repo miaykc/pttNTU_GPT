@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">mk1166jimmy (我是系邊5555555)</metadata>
+      <metadata name="post_id">M.1585281593.A.ACE</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 菜逼巴</metadata>
+   </teiHeader>
+   <text>
+      <body author="mk1166jimmy (我是系邊5555555)">
+         <s>
+            <w type="D">就是</w>
+            <w type="P">在</w>
+            <w type="VE">說</w>
+            <w type="Nh">你們</w>
+            <w type="VH">辣</w>
+         </s>
+         <s>
+            <w type="Neu">十幾</w>
+            <w type="Nf">天</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> iPhone</w>
+         </s>
+      </body>
+      <title author="mk1166jimmy (我是系邊5555555)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="Na"> 菜</w>
+            <w type="VF">逼巴</w>
+         </s>
+      </title>
+      <comment author="mHRUed" c_type="neg">
+         <s>
+            <w type="Neu">幾T</w>
+            <w type="DE">的</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="maozz" c_type="neg">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Dfa">很</w>
+            <w type="VK">抱歉</w>
+         </s>
+      </comment>
+      <comment author="pipi8696044" c_type="neg">
+         <s>
+            <w type="Nep">哪</w>
+            <w type="Nf">部</w>
+         </s>
+      </comment>
+      <comment author="zzzz8931" c_type="neg">
+         <s>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="joey890309" c_type="neg">
+         <s>
+            <w type="Na">菜</w>
+            <w type="Na">雞</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

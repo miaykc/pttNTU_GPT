@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">olmtw (olmtw)</metadata>
+      <metadata name="post_id">M.1599631653.A.B22</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 發現奈米矽光學非線性 台大教授朱士維發</metadata>
+   </teiHeader>
+   <text>
+      <body author="olmtw (olmtw)">
+         <s>
+            <w type="VE">發現</w>
+            <w type="Na">奈米</w>
+            <w type="Na">矽</w>
+            <w type="Na">光學</w>
+            <w type="Na">非線性</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台大</w>
+            <w type="Na">教授</w>
+            <w type="Nb">朱士維</w>
+            <w type="VC">發表</w>
+            <w type="Na">成果</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">記者</w>
+            <w type="Nb">周家仰</w>
+            <w type="FW">／</w>
+            <w type="A">綜合</w>
+            <w type="VE">報導</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="FW"> 2020/09</w>
+            <w type="FW">/09</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="Nc">科技部</w>
+            <w type="Na">計畫</w>
+            <w type="Nd">長期</w>
+            <w type="VC">支持</w>
+            <w type="Ng">下</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Na">物理學系</w>
+            <w type="Nb">朱士維</w>
+            <w type="Na">教授</w>
+            <w type="VC">成立</w>
+            <w type="Nc">國際</w>
+            <w type="VH">合作</w>
+            <w type="Na">團隊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">利用</w>
+            <w type="Na">矽奈米</w>
+         </s>
+         <s>
+            <w type="Na">結構</w>
+            <w type="VH">特殊</w>
+            <w type="Na">電磁共振</w>
+            <w type="Na">模態</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">將</w>
+            <w type="Na">矽</w>
+            <w type="DE">的</w>
+            <w type="Na">光學</w>
+            <w type="Na">非線性</w>
+            <w type="Na">效應</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">提升</w>
+            <w type="Neu">三</w>
+            <w type="Caa">到</w>
+            <w type="Neu">四</w>
+            <w type="Nf">個</w>
+            <w type="Na">數量級</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">且</w>
+            <w type="Da">僅</w>
+            <w type="VK">需</w>
+            <w type="Na">奈秒</w>
+            <w type="Na">等級</w>
+         </s>
+         <s>
+            <w type="Na">反應</w>
+            <w type="Na">時間</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">團隊</w>
+            <w type="Cbb">並</w>
+            <w type="VC">創新</w>
+            <w type="Na">應用</w>
+            <w type="Nep">此</w>
+            <w type="Neu">一</w>
+            <w type="Na">非線性</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">做出</w>
+            <w type="Na">精度</w>
+            <w type="VJ">高達</w>
+            <w type="Neu">四十</w>
+            <w type="Nf">奈米</w>
+            <w type="DE">的</w>
+            <w type="Nc">遠場</w>
+            <w type="Na">光學</w>
+            <w type="A">超解析</w>
+            <w type="Na">顯微影</w>
+         </s>
+         <s>
+            <w type="P">像</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Na">奈米</w>
+            <w type="Na">結構</w>
+            <w type="Ncd">上</w>
+            <w type="VC">實現</w>
+            <w type="D">不需</w>
+            <w type="VC">標記</w>
+            <w type="Caa">或</w>
+            <w type="VB">染色</w>
+            <w type="DE">的</w>
+            <w type="Nc">世界</w>
+            <w type="VJ">領先</w>
+            <w type="A">超解析</w>
+            <w type="Na">技術</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">傑出</w>
+            <w type="Nv">研究</w>
+            <w type="Na">成果</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VCL">登上</w>
+            <w type="Na">自然</w>
+         </s>
+         <s>
+            <w type="Na">科學</w>
+            <w type="VH">頂尖</w>
+            <w type="Na">期刊</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">自然</w>
+            <w type="Na">通訊</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Nature</w>
+            <w type="FW"> Communica-tions</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">科技部</w>
+            <w type="Nd">昨</w>
+            <w type="Nd">（八）</w>
+            <w type="Nd">日</w>
+            <w type="VC">舉辦</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VE">發現</w>
+            <w type="Na">奈米</w>
+            <w type="Na">矽</w>
+            <w type="DE">的</w>
+            <w type="A">超</w>
+            <w type="VH">大</w>
+            <w type="Na">光學</w>
+            <w type="Na">非線性</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VE">研究</w>
+            <w type="Na">成果</w>
+            <w type="VC">發表</w>
+            <w type="Na">記者會</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="P">在</w>
+            <w type="Nc">科技部</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">優秀</w>
+            <w type="VH">年輕</w>
+            <w type="Na">學者</w>
+            <w type="Na">計畫</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">國際</w>
+            <w type="VH">合作</w>
+            <w type="Na">計畫</w>
+            <w type="Caa">及</w>
+            <w type="Na">學門</w>
+            <w type="Na">計畫</w>
+            <w type="Nd">長期</w>
+            <w type="VC">支持</w>
+            <w type="Ng">下</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">由</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">物理系</w>
+            <w type="Caa">暨</w>
+            <w type="Na">分子</w>
+            <w type="Na">影像</w>
+         </s>
+         <s>
+            <w type="Nc">中心</w>
+            <w type="Na">副主任</w>
+            <w type="Nb">朱士維</w>
+            <w type="Na">教授</w>
+            <w type="VC">成立</w>
+            <w type="Nc">國際</w>
+            <w type="VH">合作</w>
+            <w type="Na">團隊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Nd">最近</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">篇</w>
+            <w type="VC">發表</w>
+            <w type="P">於</w>
+            <w type="Na">自然</w>
+            <w type="Na">科學</w>
+            <w type="VH">頂尖</w>
+            <w type="Na">期刊</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">自然通</w>
+         </s>
+         <s>
+            <w type="Na">訊</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Nature</w>
+            <w type="FW"> Communications</w>
+            <w type="VE">研究</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">利用</w>
+            <w type="Na">矽奈米</w>
+            <w type="Na">結構</w>
+            <w type="VH">特殊</w>
+            <w type="Na">電磁共振</w>
+            <w type="Na">模態</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可</w>
+            <w type="VG">組成</w>
+            <w type="VH">完整</w>
+            <w type="D">可</w>
+         </s>
+         <s>
+            <w type="VE">見</w>
+            <w type="Na">光</w>
+            <w type="Na">光譜</w>
+            <w type="DE">的</w>
+            <w type="Na">奈米</w>
+            <w type="Na">方塊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">或是</w>
+            <w type="Na">奈米</w>
+            <w type="Na">圓盤</w>
+            <w type="Ncd">中</w>
+            <w type="D">不</w>
+            <w type="VA">放光</w>
+            <w type="DE">的</w>
+            <w type="FW">Anapole</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">加上</w>
+            <w type="Na">光</w>
+            <w type="VL">致熱</w>
+            <w type="Na">效應</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">將</w>
+            <w type="Na">矽</w>
+            <w type="DE">的</w>
+            <w type="Na">光學</w>
+         </s>
+         <s>
+            <w type="Na">非線性</w>
+            <w type="Na">效應</w>
+            <w type="VC">提升</w>
+            <w type="Neu">三</w>
+            <w type="Caa">到</w>
+            <w type="Neu">四</w>
+            <w type="Nf">個</w>
+            <w type="Na">數量級</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">且</w>
+            <w type="Na">反應</w>
+            <w type="Na">時間</w>
+            <w type="Da">僅</w>
+            <w type="VK">須</w>
+            <w type="VH">奈秒</w>
+            <w type="Na">等級</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="D">能</w>
+            <w type="P">對</w>
+            <w type="A">個別</w>
+            <w type="Na">矽奈米</w>
+            <w type="Na">粒子</w>
+            <w type="DE">的</w>
+            <w type="VA">散射</w>
+         </s>
+         <s>
+            <w type="Da">光</w>
+            <w type="VC">做</w>
+            <w type="Da">將近</w>
+            <w type="Neqa">百分之百</w>
+            <w type="VC">調制</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">實現</w>
+            <w type="FW">GHz</w>
+            <w type="VH">超快</w>
+            <w type="Na">奈米</w>
+            <w type="Neqa">全</w>
+            <w type="Na">光學</w>
+            <w type="Na">開關</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VC">創新</w>
+            <w type="Na">應用</w>
+            <w type="Na">非線性</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">做出</w>
+            <w type="Na">精度</w>
+            <w type="VJ">高達</w>
+         </s>
+         <s>
+            <w type="Neu">四十</w>
+            <w type="Nf">奈米</w>
+            <w type="Nc">遠場</w>
+            <w type="Na">光學</w>
+            <w type="A">超解析</w>
+            <w type="Na">顯微</w>
+            <w type="Na">影像</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">不僅</w>
+            <w type="P">比起</w>
+            <w type="VH">傳統</w>
+            <w type="Na">光學</w>
+            <w type="VCL">繞射</w>
+            <w type="Na">極限</w>
+            <w type="VJ">高出</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">數量級</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">更</w>
+            <w type="P">於</w>
+            <w type="Nc">世</w>
+         </s>
+         <s>
+            <w type="Nc">界上</w>
+            <w type="VJ">領先</w>
+            <w type="D">能</w>
+            <w type="P">在</w>
+            <w type="Na">矽奈米</w>
+            <w type="Na">結構</w>
+            <w type="Ncd">上</w>
+            <w type="VC">實現</w>
+            <w type="D">不需</w>
+            <w type="VC">標記</w>
+            <w type="Caa">或</w>
+            <w type="VB">染色</w>
+            <w type="DE">的</w>
+            <w type="A">超解析</w>
+            <w type="Na">技術</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">這些</w>
+            <w type="Nv">研究</w>
+            <w type="Na">成果</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VD">提供</w>
+            <w type="Na">奈米</w>
+         </s>
+         <s>
+            <w type="Na">矽</w>
+            <w type="Na">光學</w>
+            <w type="Na">領域</w>
+            <w type="A">嶄新</w>
+            <w type="VE">研究</w>
+            <w type="Na">思路</w>
+            <w type="Caa">及</w>
+            <w type="Na">應用</w>
+            <w type="Na">潛力</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.tssdnews.com.tw/</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">FID</w>
+            <w type="Neu">=13</w>
+            <w type="FW">&amp;amp;CID</w>
+            <w type="Neu">=525227</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Google</w>
+            <w type="FW"> Chrome</w>
+            <w type="FW"> on</w>
+            <w type="FW"> Windows</w>
+            <w type="FW"> 10</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Pro</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="olmtw (olmtw)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">發現</w>
+            <w type="Na">奈米</w>
+            <w type="Na">矽</w>
+            <w type="Na">光學</w>
+            <w type="Na">非線性</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台大</w>
+            <w type="Na">教授</w>
+            <w type="Nb">朱士維</w>
+            <w type="VC">發</w>
+         </s>
+      </title>
+      <comment author="Agdanpanda" c_type="pos">
+         <s>
+            <w type="P">跟</w>
+            <w type="Nh">我</w>
+            <w type="VE">想</w>
+            <w type="DE">的</w>
+            <w type="VH">一樣</w>
+         </s>
+      </comment>
+      <comment author="Agdanpanda" c_type="neu">
+         <s>
+            <w type="Na">乾</w>
+            <w type="VE">以為</w>
+            <w type="SHI">是</w>
+            <w type="Na">八卦板</w>
+            <w type="WHITESPACE"> </w>
+            <w type="ETCCATEGORY">…</w>
+         </s>
+      </comment>
+      <comment author="YSae9" c_type="pos">
+         <s>
+            <w type="Nc">樓上</w>
+            <w type="VHC">笑死</w>
+         </s>
+      </comment>
+      <comment author="klub" c_type="pos">
+         <s>
+            <w type="VHC">笑死</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">先</w>
+            <w type="VC">推</w>
+            <w type="Cbb">不然</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VE">以為</w>
+            <w type="Nh">我</w>
+            <w type="VJ">看</w>
+            <w type="D">不</w>
+            <w type="VJ">懂</w>
+         </s>
+      </comment>
+      <comment author="IokUdiefirst" c_type="neu">
+         <s>
+            <w type="VH">小菸</w>
+            <w type="Na">政績</w>
+            <w type="Neu">+1</w>
+         </s>
+      </comment>
+      <comment author="jeff40108" c_type="pos">
+         <s>
+            <w type="VA">上課</w>
+            <w type="VH">認真</w>
+            <w type="DE">的</w>
+            <w type="VH">好</w>
+            <w type="Na">老師</w>
+         </s>
+      </comment>
+      <comment author="JPGstar" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

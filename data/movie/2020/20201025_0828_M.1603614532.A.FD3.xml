@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">rpg (rpg)</metadata>
+      <metadata name="post_id">M.1603614532.A.FD3</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[討論] 剛看公視台語台11月節目表有台語片展</metadata>
+   </teiHeader>
+   <text>
+      <body author="rpg (rpg)">
+         <s>
+            <w type="Neu">11月</w>
+            <w type="Neu">14日</w>
+            <w type="FW"> 21</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00 </w>
+            <w type="Na">大俠</w>
+            <w type="Na">梅花鹿</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">1961</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Na">導演</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Nb">張英</w>
+         </s>
+         <s>
+            <w type="Neu">11月</w>
+            <w type="Neu">21日</w>
+            <w type="FW"> 21</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00 </w>
+            <w type="Na">天字</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">號</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">1964</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Na">導演</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Nb">張英</w>
+         </s>
+         <s>
+            <w type="Neu">11月</w>
+            <w type="Neu">28日</w>
+            <w type="FW"> 21</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00 </w>
+            <w type="Neu">六</w>
+            <w type="Nf">個</w>
+            <w type="Na">嫌疑犯</w>
+            <w type="Neu">(</w>
+            <w type="Neu">1965)</w>
+         </s>
+         <s>
+            <w type="Na">導演</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Nb">林摶秋</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="VE">想</w>
+            <w type="VC">看</w>
+            <w type="DE">的</w>
+            <w type="Na">片</w>
+            <w type="VK">記得</w>
+            <w type="VC">觀看</w>
+         </s>
+      </body>
+      <title author="rpg (rpg)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">剛</w>
+            <w type="VC">看</w>
+            <w type="Nc">公視</w>
+            <w type="Nc">台語台</w>
+            <w type="Neu">11月</w>
+            <w type="Na">節目表</w>
+            <w type="V_2">有</w>
+            <w type="Na">台語片展</w>
+         </s>
+      </title>
+      <comment author="lupins" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="FW">～</w>
+            <w type="VK">感謝</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="no0329" c_type="pos">
+         <s>
+            <w type="VHC">重播</w>
+            <w type="Neqa">好多</w>
+            <w type="Nf">遍</w>
+            <w type="T">了</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="CYKONGG" c_type="pos">
+         <s>
+            <w type="FW">p</w>
+         </s>
+      </comment>
+      <comment author="msa8529" c_type="pos">
+         <s>
+            <w type="VJ">想</w>
+            <w type="VC">看</w>
+            <w type="Nc">地獄</w>
+            <w type="Na">新娘</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

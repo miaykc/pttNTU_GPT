@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">szuwei1125 (Swear)</metadata>
+      <metadata name="post_id">M.1633365749.A.735</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈送] 海報兩張</metadata>
+   </teiHeader>
+   <text>
+      <body author="szuwei1125 (Swear)">
+         <s>
+            <w type="Cbb">1</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Na">月光</w>
+            <w type="Ncd">下</w>
+            <w type="DE">的</w>
+            <w type="Na">藍色</w>
+            <w type="Na">男孩</w>
+         </s>
+         <s>
+            <w type="Cbb">2</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VE">聽</w>
+            <w type="Na">媽媽</w>
+            <w type="DE">的</w>
+            <w type="Na">話</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="D">已</w>
+            <w type="P">被</w>
+            <w type="VC">預訂</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="VJ">無</w>
+            <w type="Na">海報筒</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台中</w>
+            <w type="Nc">榮總</w>
+            <w type="Nc">東海</w>
+            <w type="Nc">附近</w>
+            <w type="Na">面交</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">意者</w>
+            <w type="VA">站內信</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">謝謝</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/MHVXVp6.jpg</w>
+         </s>
+      </body>
+      <title author="szuwei1125 (Swear)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈送</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">海報</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">張</w>
+         </s>
+      </title>
+      <comment author="deerlight" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="FW"> Xavier</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

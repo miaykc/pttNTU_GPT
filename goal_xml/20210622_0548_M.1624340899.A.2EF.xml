@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">howard0113 (無敵係邊)</metadata>
+      <metadata name="post_id">M.1624340899.A.2EF</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 大戦争</metadata>
+   </teiHeader>
+   <text>
+      <body author="howard0113 (無敵係邊)">
+         <s>
+            <w type="VH">大</w>
+            <w type="Na">戦争</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="VH">假</w>
+            <w type="Na">戦争</w>
+         </s>
+         <s>
+            <w type="D">真</w>
+            <w type="Nb">不仲</w>
+         </s>
+         <s>
+            <w type="D">還是</w>
+            <w type="Nb">華鯊</w>
+            <w type="VC">貼貼</w>
+            <w type="Dfa">最</w>
+            <w type="VH">棒</w>
+         </s>
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/jkt</w>
+            <w type="FW">NyKB.jpg</w>
+         </s>
+      </body>
+      <title author="howard0113 (無敵係邊)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">大</w>
+            <w type="Na">戦争</w>
+         </s>
+      </title>
+      <comment author="Imotucc" c_type="neg">
+         <s>
+            <w type="Dfa">太</w>
+            <w type="VH">油</w>
+            <w type="T">了</w>
+            <w type="FW">peko</w>
+         </s>
+      </comment>
+      <comment author="Agdanpanda" c_type="pos">
+         <s>
+            <w type="VH">好</w>
+            <w type="T">啦</w>
+            <w type="Nb">華鯊</w>
+            <w type="Na">公約</w>
+            <w type="VD">給</w>
+            <w type="Di">過</w>
+         </s>
+      </comment>
+      <comment author="ssd860505da" c_type="neu">
+         <s>
+            <w type="Na">爛兔</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

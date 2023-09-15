@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">cloud4021 (雞蛋布丁小泡芙)</metadata>
+      <metadata name="post_id">M.1585319702.A.AC9</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] 哪裡有好吃的滷味</metadata>
+   </teiHeader>
+   <text>
+      <body author="cloud4021 (雞蛋布丁小泡芙)">
+         <s>
+            <w type="Nc">公館</w>
+            <w type="Nc">夜市</w>
+            <w type="Ncd">裡</w>
+            <w type="D">就</w>
+            <w type="V_2">有</w>
+            <w type="Neu">四</w>
+            <w type="Nf">家</w>
+            <w type="Nc">滷味攤</w>
+         </s>
+         <s>
+            <w type="Nb">陳三鼎</w>
+            <w type="Nc">附近</w>
+            <w type="D">好像</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">家</w>
+         </s>
+         <s>
+            <w type="Nh">大家</w>
+            <w type="VC">推</w>
+            <w type="Nep">哪</w>
+            <w type="Nc">家</w>
+            <w type="T">呢</w>
+         </s>
+      </body>
+      <title author="cloud4021 (雞蛋布丁小泡芙)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Ncd">哪裡</w>
+            <w type="V_2">有</w>
+            <w type="VH">好吃</w>
+            <w type="DE">的</w>
+            <w type="Na">滷味</w>
+         </s>
+      </title>
+      <comment author="cwh0105" c_type="neu">
+         <s>
+            <w type="Nc">工學院</w>
+         </s>
+      </comment>
+      <comment author="howard0113" c_type="pos">
+         <s>
+            <w type="Nc">工學院</w>
+            <w type="D">真的</w>
+            <w type="VH">魯</w>
+         </s>
+      </comment>
+      <comment author="washi54" c_type="neu">
+         <s>
+            <w type="Na">科技</w>
+            <w type="Na">大樓</w>
+            <w type="Nb">桂師傅</w>
+         </s>
+      </comment>
+      <comment author="XperiaZ" c_type="neu">
+         <s>
+            <w type="Nc">博理館</w>
+         </s>
+      </comment>
+      <comment author="Imotucc" c_type="neu">
+         <s>
+            <w type="Na">女</w>
+            <w type="Neu">九</w>
+         </s>
+      </comment>
+      <comment author="pipi8696044" c_type="neu">
+         <s>
+            <w type="Na">文湯</w>
+            <w type="Na">武</w>
+            <w type="Na">醬</w>
+         </s>
+      </comment>
+      <comment author="Glamsight" c_type="pos">
+         <s>
+            <w type="D">都</w>
+            <w type="D">不</w>
+            <w type="VC">推</w>
+            <w type="FW"> Q.Q</w>
+         </s>
+      </comment>
+      <comment author="hank850503" c_type="pos">
+         <s>
+            <w type="Nc">一中街</w>
+         </s>
+      </comment>
+      <comment author="installbtien" c_type="neu">
+         <s>
+            <w type="Nc">一中街</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nc">家</w>
+            <w type="D">真的</w>
+            <w type="VH">好吃</w>
+         </s>
+      </comment>
+      <comment author="pig8409" c_type="pos">
+         <s>
+            <w type="Nc">一中街</w>
+            <w type="Nep">哪</w>
+            <w type="Nc">家</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="GazingM" c_type="pos">
+         <s>
+            <w type="VC">卜乘</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">加辣</w>
+            <w type="Dfa">超</w>
+            <w type="VH">爽</w>
+         </s>
+      </comment>
+      <comment author="installbtien" c_type="neu">
+         <s>
+            <w type="D">不</w>
+            <w type="VE">吱</w>
+            <w type="P">到</w>
+            <w type="Na">名子</w>
+            <w type="FW">= = </w>
+            <w type="Da">只</w>
+            <w type="VK">記得</w>
+            <w type="D">再</w>
+            <w type="Na">水利</w>
+            <w type="Na">大樓</w>
+            <w type="Ncd">旁邊</w>
+         </s>
+      </comment>
+      <comment author="whu946102" c_type="pos">
+         <s>
+            <w type="Nc">白帝城</w>
+         </s>
+      </comment>
+      <comment author="rickwu11" c_type="pos">
+         <s>
+            <w type="Nc">白帝城</w>
+            <w type="VC">讚</w>
+         </s>
+      </comment>
+      <comment author="DH0617" c_type="pos">
+         <s>
+            <w type="Na">文湯</w>
+            <w type="Na">武醬</w>
+            <w type="D">都</w>
+            <w type="VC">煮</w>
+            <w type="P">到</w>
+            <w type="VH">軟</w>
+            <w type="VH">爛</w>
+            <w type="VH">軟</w>
+            <w type="VH">爛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">為啥</w>
+            <w type="D">還</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="uglykidjoe" c_type="pos">
+         <s>
+            <w type="Nd">以前</w>
+            <w type="D">都</w>
+            <w type="VC">吃</w>
+            <w type="Nb">陳三鼎</w>
+            <w type="Nc">隔壁</w>
+            <w type="Nep">那</w>
+            <w type="Nc">家</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">阿姨</w>
+            <w type="VJ">認識</w>
+            <w type="Nh">你</w>
+            <w type="Ng">之後</w>
+            <w type="D">會</w>
+            <w type="VE">算</w>
+            <w type="VH">便宜</w>
+            <w type="Dfb">一點</w>
+         </s>
+      </comment>
+      <comment author="MLCCN" c_type="neu">
+         <s>
+            <w type="Nc">一中街</w>
+            <w type="VH">小不點</w>
+            <w type="A">麻辣燙</w>
+            <w type="Dfa">超讚</w>
+         </s>
+      </comment>
+      <comment author="meow890423" c_type="pos">
+         <s>
+            <w type="VC">推推</w>
+            <w type="Na">阿姨</w>
+            <w type="Na">滷味</w>
+         </s>
+      </comment>
+      <comment author="espeon0474" c_type="pos">
+         <s>
+            <w type="Nc">一中街</w>
+            <w type="Nb">阿一</w>
+            <w type="Na">滷味</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="D">還</w>
+            <w type="P">在</w>
+            <w type="D">不</w>
+            <w type="P">在</w>
+         </s>
+      </comment>
+      <comment author="poodysh" c_type="pos">
+         <s>
+            <w type="Nb">阿妞</w>
+            <w type="Na">滷味 </w>
+            <w type="D">要</w>
+            <w type="VCL">過</w>
+            <w type="Nc">永福橋</w>
+            <w type="VCL">到</w>
+            <w type="Nc">永和</w>
+         </s>
+      </comment>
+      <comment author="AprilMight" c_type="pos">
+         <s>
+            <w type="Na">茶湯會</w>
+            <w type="Ncd">旁邊</w>
+            <w type="Na">巷子</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="Na">軒軒</w>
+            <w type="Na">滷味</w>
+            <w type="VH">不錯</w>
+            <w type="VC">吃</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">阿姨</w>
+            <w type="Na">人</w>
+            <w type="D">也</w>
+            <w type="Dfa">蠻</w>
+            <w type="VH">好</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="Jeffrey11061" c_type="pos">
+         <s>
+            <w type="VC">大推</w>
+            <w type="Na">小不點</w>
+            <w type="A">麻辣燙</w>
+         </s>
+      </comment>
+      <comment author="thejackys" c_type="pos">
+         <s>
+            <w type="Nc">一中街</w>
+            <w type="Na">小</w>
+            <w type="Na">蜜蜂</w>
+            <w type="A">唯一</w>
+            <w type="VC">推薦</w>
+         </s>
+      </comment>
+      <comment author="Heling" c_type="pos">
+         <s>
+            <w type="A">唯一</w>
+            <w type="VC">支持</w>
+            <w type="Nc">白帝城</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">讚讚</w>
+         </s>
+      </comment>
+      <comment author="a895442006" c_type="pos">
+         <s>
+            <w type="VH">小</w>
+            <w type="Na">蜜蜂</w>
+            <w type="Nh">我</w>
+            <w type="Nc">高中</w>
+         </s>
+      </comment>
+      <comment author="a895442006" c_type="neu">
+         <s>
+            <w type="Na">最愛</w>
+         </s>
+      </comment>
+      <comment author="znling" c_type="pos">
+         <s>
+            <w type="Na">阿姨</w>
+            <w type="Na">滷味</w>
+         </s>
+      </comment>
+      <comment author="Yamapi5566" c_type="neu">
+         <s>
+            <w type="VH">小蜜蜂</w>
+            <w type="Dfa">超</w>
+            <w type="VH">油</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">幹</w>
+         </s>
+      </comment>
+      <comment author="mollypp" c_type="pos">
+         <s>
+            <w type="Na">阿姨</w>
+            <w type="Na">滷味</w>
+            <w type="VC">開</w>
+            <w type="P">到</w>
+            <w type="Nd">三月</w>
+            <w type="Ng">底</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">大家</w>
+            <w type="D">快</w>
+            <w type="D">去</w>
+            <w type="VC">吃</w>
+         </s>
+      </comment>
+      <comment author="cloud4021" c_type="neu">
+         <s>
+            <w type="FW">m</w>
+            <w type="VH">大</w>
+            <w type="Na">真假</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">阿姨</w>
+            <w type="Na">滷味</w>
+            <w type="DE">的</w>
+            <w type="Na">菜</w>
+            <w type="D">真的</w>
+            <w type="VD">給</w>
+            <w type="VH">超多</w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="VA">歇業</w>
+            <w type="T">嗎</w>
+            <w type="FW">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+      <comment author="cloud4021" c_type="neu">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Neu">一</w>
+            <w type="Nf">串</w>
+            <w type="VK">感覺</w>
+            <w type="Neqa">好多</w>
+            <w type="Na">台中人</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="AngusAT" c_type="pos">
+         <s>
+            <w type="Nb">卜乘</w>
+            <w type="VH">好吃</w>
+         </s>
+      </comment>
+      <comment author="odsL1573" c_type="neu">
+         <s>
+            <w type="Nc">一中</w>
+            <w type="Na">水利</w>
+            <w type="Ncd">旁邊</w>
+            <w type="Nep">那</w>
+            <w type="Nf">家</w>
+            <w type="SHI">是</w>
+            <w type="Nb">阿一</w>
+            <w type="T">啦</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但</w>
+            <w type="Nh">我</w>
+            <w type="Dfa">比較</w>
+            <w type="VK">喜歡</w>
+            <w type="A">麻辣燙</w>
+         </s>
+      </comment>
+      <comment author="odsL1573" c_type="neu">
+         <s>
+            <w type="Nc">三樓</w>
+            <w type="VC">推</w>
+            <w type="DE">的</w>
+            <w type="Na">桂</w>
+            <w type="Na">師傅</w>
+            <w type="VH">好吃</w>
+            <w type="Caa">且</w>
+            <w type="Na">份量</w>
+            <w type="VH">多</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但</w>
+            <w type="VA">排隊</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="D">也</w>
+            <w type="D">多</w>
+         </s>
+      </comment>
+      <comment author="Sixigma" c_type="pos">
+         <s>
+            <w type="D">超級</w>
+            <w type="VJ">懷念</w>
+            <w type="Nb">阿一</w>
+         </s>
+      </comment>
+      <comment author="Domingo" c_type="pos">
+         <s>
+            <w type="Neu">一</w>
+            <w type="Ncd">中</w>
+            <w type="Neu">36</w>
+            <w type="Nf">味</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">小不點</w>
+            <w type="A">麻辣</w>
+            <w type="VC">燙</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

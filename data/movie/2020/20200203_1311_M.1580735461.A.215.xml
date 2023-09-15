@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">lucopopo (小)</metadata>
+      <metadata name="post_id">M.1580735461.A.215</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 關於黑奴解放的電影</metadata>
+   </teiHeader>
+   <text>
+      <body author="lucopopo (小)">
+         <s>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="Na">飛機</w>
+            <w type="Ncd">上</w>
+            <w type="VC">看得</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">主角</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">女</w>
+            <w type="Na">黑奴</w>
+         </s>
+         <s>
+            <w type="D">原本</w>
+            <w type="D">要</w>
+            <w type="P">被</w>
+            <w type="Na">主人</w>
+            <w type="VC">賣掉</w>
+         </s>
+         <s>
+            <w type="P">憑</w>
+            <w type="Nh">自己</w>
+            <w type="Na">能力</w>
+            <w type="Caa">與</w>
+            <w type="Nv">預知</w>
+            <w type="Na">能力</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VCL">逃到</w>
+            <w type="Nc">賓洲</w>
+         </s>
+         <s>
+            <w type="Ncd">後</w>
+            <w type="D">又</w>
+            <w type="VCL">跑回</w>
+            <w type="Ncd">南部</w>
+            <w type="VC">帶回</w>
+            <w type="Neqa">許多</w>
+            <w type="Na">黑奴</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="Cbb">因</w>
+            <w type="Na">法律</w>
+            <w type="VC">更改</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">又</w>
+            <w type="VCL">逃到</w>
+            <w type="Nc">加拿大</w>
+         </s>
+         <s>
+            <w type="Na">電影</w>
+            <w type="D">沒</w>
+            <w type="VC">看完</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">請問</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VK">知道</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+            <w type="Na">名稱</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </body>
+      <title author="lucopopo (小)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">關於</w>
+            <w type="Na">黑奴</w>
+            <w type="VC">解放</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+         </s>
+      </title>
+      <comment author="midnight1981" c_type="neu">
+         <s>
+            <w type="FW">Harriet</w>
+         </s>
+      </comment>
+      <comment author="lucopopo" c_type="neu">
+         <s>
+            <w type="Dfa">太</w>
+            <w type="VH">棒</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+         </s>
+      </comment>
+      <comment author="callTM" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">片</w>
+            <w type="Nh">我</w>
+            <w type="VE">看到</w>
+            <w type="Neqa">一半</w>
+            <w type="D">就</w>
+            <w type="VCL">走出</w>
+            <w type="Nc">戲院</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="louise13" c_type="neg">
+         <s>
+            <w type="Neu">2020</w>
+            <w type="Nh">我</w>
+            <w type="D">不</w>
+            <w type="VE">想</w>
+            <w type="VE">管</w>
+            <w type="Na">黑人</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

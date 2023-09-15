@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">sixB (6B)</metadata>
+      <metadata name="post_id">M.1624220021.A.394</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 唉</metadata>
+   </teiHeader>
+   <text>
+      <body author="sixB (6B)">
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> my</w>
+            <w type="FW"> i</w>
+            <w type="DASHCATEGORY">Phone</w>
+         </s>
+      </body>
+      <title author="sixB (6B)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="I">唉</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

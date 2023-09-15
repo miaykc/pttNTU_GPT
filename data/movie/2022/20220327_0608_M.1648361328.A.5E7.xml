@@ -1,0 +1,592 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">pttmovielove (菲林萬歲)</metadata>
+      <metadata name="post_id">M.1648361328.A.5E7</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 奧斯卡提名 對最佳影片美國票房與串流影響</metadata>
+   </teiHeader>
+   <text>
+      <body author="pttmovielove (菲林萬歲)">
+         <s>
+            <w type="Cbb">一</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">電視</w>
+            <w type="VC">裝置</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">串流</w>
+            <w type="VA">觀影</w>
+            <w type="Na">戶數</w>
+            <w type="FW"> 2022/ 2/8-3/10</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VHC">增加</w>
+            <w type="VG">排行</w>
+         </s>
+         <s>
+            <w type="Cbb">1</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">夜路</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Disney+     </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">美</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Hulu &amp;amp; HBO MAX</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">     /</w>
+            <w type="VHC">增加</w>
+            <w type="FW"> 210萬</w>
+            <w type="WHITESPACE">  </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VJ">累計</w>
+            <w type="FW"> 310萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">2</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">西城</w>
+            <w type="Na">故事</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Disney+ </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">美</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Disney+  &amp;amp; HBO MAX</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> /</w>
+            <w type="VHC">增加</w>
+            <w type="FW"> 190萬</w>
+            <w type="WHITESPACE">  </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VJ">累計</w>
+            <w type="FW"> 190萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">3</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">HBO GO      </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">美</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> HBO MAX</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW">            /</w>
+            <w type="VHC">增加</w>
+            <w type="FW"> 99.6萬</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VJ">累計</w>
+            <w type="FW"> 530萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">4</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">犬山記</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Netflix</w>
+            <w type="FW">                            /</w>
+            <w type="VHC">增加</w>
+            <w type="FW"> 7</w>
+            <w type="Neu">1.7萬</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VJ">累計</w>
+            <w type="FW"> 340萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">5</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="D">千萬</w>
+            <w type="D">別</w>
+            <w type="VA">抬頭</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Netflix                        /</w>
+            <w type="VHC">增加</w>
+            <w type="FW"> 64.1萬</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VJ">累計</w>
+            <w type="FW"> 1030萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">6</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">王者理查</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">HBO GO                           /</w>
+            <w type="VHC">增加</w>
+            <w type="FW"> 40.3萬</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VJ">累計</w>
+            <w type="FW"> 260萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">7</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">樂</w>
+            <w type="VAC">動</w>
+            <w type="Na">心旋律</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Apple</w>
+            <w type="FW"> TV+                      /</w>
+            <w type="VHC">增加</w>
+            <w type="FW"> 3</w>
+            <w type="Neu">7.5萬</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VJ">累計</w>
+            <w type="FW"> 97.3萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Neu">二</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">2022/ 2/8-3/10</w>
+            <w type="FW">  #</w>
+            <w type="Nc">影院</w>
+            <w type="Na">票房</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VHC">增加</w>
+            <w type="VG">排行</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">單位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">美金</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">1</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">甘草</w>
+            <w type="Na">比薩</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW"> 1280萬</w>
+            <w type="Nf"> →   1700萬</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">+ 33%</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">+420萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">2.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">西城</w>
+            <w type="Na">故事</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW"> 3670萬</w>
+            <w type="FW"> →   3840萬</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">+  5%</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">+170</w>
+            <w type="Neu">萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">3</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">貝爾法斯特</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Neu">750萬</w>
+            <w type="FW"> →    910萬</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">+ 21%</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">+160</w>
+            <w type="Neu">萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">4</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="P">在</w>
+            <w type="Na">車</w>
+            <w type="Ncd">上</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">   94.4萬</w>
+            <w type="FW"> →    210萬</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VJ">+122%</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">+115萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">5</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">夜路</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">     1080萬</w>
+            <w type="FW"> →   1130萬</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">+  5%</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">+ </w>
+            <w type="Neu">50萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">6</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="WHITESPACE">  </w>
+            <w type="Neu">1億</w>
+            <w type="FW"> 770萬</w>
+            <w type="FW"> →</w>
+            <w type="Neu">1億</w>
+            <w type="FW"> 820萬</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VJ">+0.5%</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">+ </w>
+            <w type="Neu">50萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">7</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">王者</w>
+            <w type="Nb">理查</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW"> 1480萬</w>
+            <w type="FW"> →   1500萬</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">+  1%</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">+ </w>
+            <w type="Neu">20萬</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Nd">今年</w>
+            <w type="Nb">奧斯卡</w>
+            <w type="Na">提名期</w>
+            <w type="FW"> 48</w>
+            <w type="Nf">天</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">2020年</w>
+            <w type="D">只</w>
+            <w type="V_2">有</w>
+            <w type="Neu"> 28</w>
+            <w type="Nf">天</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Neu">1917</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="DASHCATEGORY">           +8990萬</w>
+            <w type="Na">美金</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nh">她們</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="DASHCATEGORY">           +2770萬</w>
+            <w type="Na">美金</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VA">寄生</w>
+            <w type="A">上流</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="DASHCATEGORY">       +1020萬</w>
+            <w type="Na">美金</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nd">從前</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="Nf">個</w>
+            <w type="Nc">好萊塢</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Neu">+120萬</w>
+            <w type="Na">美金</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">小丑</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="DASHCATEGORY">            +110萬</w>
+            <w type="Na">美金</w>
+         </s>
+         <s>
+            <w type="Neu">2022/ 3/15-3/18  4419</w>
+            <w type="Nf">名</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">美國</w>
+            <w type="Na">成年人</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">代表性</w>
+            <w type="Na">樣本</w>
+            <w type="Nv">調查</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="D">未</w>
+            <w type="A">加權</w>
+            <w type="Na">誤差</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VG">為</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">正負</w>
+            <w type="FW"> 1 </w>
+            <w type="Nf">個</w>
+            <w type="Na">百分點</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">西城</w>
+            <w type="Na">故事</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="WHITESPACE">  </w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW"> 66%</w>
+            <w type="FW"> / </w>
+            <w type="VC">看過</w>
+            <w type="FW"> 16%</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="WHITESPACE">      </w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW"> 54%</w>
+            <w type="FW"> / </w>
+            <w type="VC">看過</w>
+            <w type="FW"> 19%</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="D">千萬</w>
+            <w type="D">別</w>
+            <w type="VA">抬頭</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW"> 46%</w>
+            <w type="FW"> / </w>
+            <w type="VC">看過</w>
+            <w type="FW"> 22%</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">王者</w>
+            <w type="Nb">理查</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW"> 44%</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">犬山記</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="WHITESPACE">    </w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW"> 35%</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">甘草</w>
+            <w type="Na">比薩</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW"> 32%</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">貝爾法斯特</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW"> 29%</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">夜路</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="WHITESPACE">      </w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW"> 28%</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">樂動</w>
+            <w type="Na">心旋律</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW"> 22%</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="P">在</w>
+            <w type="Na">車</w>
+            <w type="Ncd">上</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="WHITESPACE">    </w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW"> 18%</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">蜘蛛人</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nd">無家日</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW">  78%</w>
+            <w type="FW"> / </w>
+            <w type="VC">看過</w>
+            <w type="FW"> 31%</w>
+         </s>
+         <s>
+            <w type="FW">58%</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">支持</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VHC">增加</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">觀眾</w>
+            <w type="VC">票選</w>
+            <w type="DE">的</w>
+            <w type="Na">獎項</w>
+         </s>
+         <s>
+            <w type="Neu">38%</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">支持</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VHC">減少</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">電視</w>
+            <w type="VC">轉播</w>
+            <w type="Na">獎項</w>
+            <w type="Na">類別</w>
+         </s>
+         <s>
+            <w type="Da">大約</w>
+            <w type="FW"> 1/3 </w>
+            <w type="VE">表示</w>
+            <w type="D">不</w>
+            <w type="VK">關心</w>
+            <w type="Na">典禮</w>
+            <w type="DE">的</w>
+            <w type="Nes">每</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="Na">變化</w>
+         </s>
+         <s>
+            <w type="Neu">27%</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">美國</w>
+            <w type="Na">成年人</w>
+            <w type="VE">表示</w>
+            <w type="FW"> 2021年</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+            <w type="VCL">去</w>
+            <w type="Nc">電影院</w>
+            <w type="VC">看</w>
+            <w type="Di">過</w>
+            <w type="Na">電影</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.facebook.com/Ott</w>
+            <w type="FW">Hot/posts/319766250219371</w>
+         </s>
+         <s>
+            <w type="FW">OTT/VOD </w>
+            <w type="VH">隨選</w>
+            <w type="Na">影音</w>
+            <w type="Nc">觀測站</w>
+         </s>
+      </body>
+      <title author="pttmovielove (菲林萬歲)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">奧斯卡</w>
+            <w type="VC">提名</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">對</w>
+            <w type="A">最佳</w>
+            <w type="Na">影片</w>
+            <w type="Nc">美國</w>
+            <w type="Na">票房</w>
+            <w type="Caa">與</w>
+            <w type="VC">串流</w>
+            <w type="VC">影響</w>
+         </s>
+      </title>
+      <comment author="bygamantou" c_type="pos">
+         <s>
+            <w type="Neu">二</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="V_2">有</w>
+            <w type="VAC">上映</w>
+            <w type="Na">時間</w>
+            <w type="DE">的</w>
+            <w type="Na">因素</w>
+            <w type="VC">參考</w>
+            <w type="Na">價值</w>
+            <w type="D">不</w>
+            <w type="VH">夠</w>
+         </s>
+      </comment>
+      <comment author="frzzve" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="VC">整理</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

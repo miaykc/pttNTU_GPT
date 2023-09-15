@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">filmwalker (外面的世界)</metadata>
+      <metadata name="post_id">M.1606713272.A.F69</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 時代雜誌 2020年 Top 10 十大最佳電影</metadata>
+   </teiHeader>
+   <text>
+      <body author="filmwalker (外面的世界)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//time.com/5914535/best-movies-2020/</w>
+         </s>
+         <s>
+            <w type="Cbb">1.</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">深夜</w>
+            <w type="Ng">裡</w>
+            <w type="DE">的</w>
+            <w type="VH">美味</w>
+            <w type="Na">祕方</w>
+            <w type="WHITESPACE">              </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">金馬</w>
+            <w type="Na">影展</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">2. </w>
+            <w type="FW">Collective</w>
+         </s>
+         <s>
+            <w type="Neu">3.</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">芝加哥</w>
+            <w type="Na">七</w>
+            <w type="Na">人</w>
+            <w type="Na">案</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VHC">驚世</w>
+            <w type="VC">審判</w>
+            <w type="WHITESPACE">        </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Netflix</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">4. David</w>
+            <w type="FW"> Byrne's</w>
+            <w type="FW"> American</w>
+            <w type="FW"> Utopia</w>
+         </s>
+         <s>
+            <w type="Cbb">5.</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Lovers</w>
+            <w type="FW"> Rock</w>
+         </s>
+         <s>
+            <w type="Neu">6. </w>
+            <w type="Nb">艾瑪                          </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="D">已</w>
+            <w type="VH">映</w>
+            <w type="FW"> /Hami</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW">my</w>
+            <w type="FW">Video</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW">fri</w>
+            <w type="FW">Day</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW">CATCHPLAY+</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Nb">愛奇藝</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Neu">7.</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Wolfwalkers</w>
+            <w type="WHITESPACE">                   </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">12月</w>
+            <w type="Neu">11日</w>
+            <w type="FW"> Apple</w>
+            <w type="FW"> TV+</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">8. </w>
+            <w type="VA">游牧</w>
+            <w type="Na">人生</w>
+            <w type="WHITESPACE">                      </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">金馬</w>
+            <w type="Na">影展</w>
+            <w type="Neu"> /2021年</w>
+            <w type="VAC">上映</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Neu">9.</w>
+            <w type="FW"> Miss</w>
+            <w type="FW"> Juneteenth</w>
+         </s>
+         <s>
+            <w type="Neu">10. </w>
+            <w type="Nb">阿比阿弟</w>
+            <w type="VC">尋</w>
+            <w type="Na">歌</w>
+            <w type="VH">大</w>
+            <w type="VA">冒險</w>
+            <w type="WHITESPACE">            </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="D">已</w>
+            <w type="VA">映</w>
+            <w type="FW"> /1</w>
+            <w type="Nd">2</w>
+            <w type="Na">月</w>
+            <w type="VA">串流</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </body>
+      <title author="filmwalker (外面的世界)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">時代</w>
+            <w type="Na">雜誌</w>
+            <w type="FW"> 2020年</w>
+            <w type="FW"> Top 10 </w>
+            <w type="Neu">十</w>
+            <w type="VH">大</w>
+            <w type="A">最佳</w>
+            <w type="Na">電影</w>
+         </s>
+      </title>
+      <comment author="Goldpaper" c_type="pos">
+         <s>
+            <w type="Na">天能</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+      </comment>
+      <comment author="serenitymice" c_type="pos">
+         <s>
+            <w type="Na">鬼</w>
+            <w type="VC">滅</w>
+            <w type="T">呢</w>
+         </s>
+      </comment>
+      <comment author="ed123123" c_type="neg">
+         <s>
+            <w type="VJ">沒</w>
+            <w type="Na">鬼</w>
+            <w type="VC">滅</w>
+            <w type="Nh">我</w>
+            <w type="VC">看</w>
+            <w type="Di">著</w>
+            <w type="Na">排名</w>
+            <w type="D">也</w>
+            <w type="D">不用</w>
+            <w type="VC">看</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="takuminauki" c_type="neu">
+         <s>
+            <w type="Nc">芝加哥</w>
+            <w type="D">會不會</w>
+            <w type="VJ">入圍</w>
+            <w type="Nb">奧斯卡</w>
+            <w type="A">最佳</w>
+            <w type="Na">長片</w>
+            <w type="Nb">阿</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="qpr322" c_type="pos">
+         <s>
+            <w type="VC">大推</w>
+            <w type="FW"> First</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Cow</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="WEIYAYANG" c_type="pos">
+         <s>
+            <w type="Nb">麥昆那</w>
+            <w type="Na">系列</w>
+            <w type="Nd">目前</w>
+            <w type="V_2">有</w>
+            <w type="VC">播出</w>
+            <w type="DE">的</w>
+            <w type="Na">評價</w>
+            <w type="D">好像</w>
+            <w type="D">都</w>
+            <w type="VH">不錯</w>
+         </s>
+      </comment>
+      <comment author="WEIYAYANG" c_type="neu">
+         <s>
+            <w type="Nh">他</w>
+            <w type="Na">平台</w>
+            <w type="SHI">是</w>
+            <w type="FW">Amazon</w>
+         </s>
+      </comment>
+      <comment author="no0329" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="D">不</w>
+            <w type="D">不</w>
+            <w type="VL">敢</w>
+            <w type="VK">相信</w>
+            <w type="Nb">阿比阿弟</w>
+            <w type="D">居然</w>
+            <w type="VH">上版</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台灣</w>
+            <w type="VH">賣座</w>
+            <w type="V_2">有</w>
+            <w type="Dfa">多</w>
+            <w type="VH">慘</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="chingswn" c_type="pos">
+         <s>
+            <w type="VJ">沒有</w>
+            <w type="Nb">曼克</w>
+            <w type="P">跟</w>
+            <w type="Na">靈魂</w>
+            <w type="VA">急轉彎</w>
+         </s>
+      </comment>
+      <comment author="n6335097" c_type="pos">
+         <s>
+            <w type="VE">想</w>
+            <w type="VC">看</w>
+            <w type="Neu">1</w>
+         </s>
+      </comment>
+      <comment author="mysmalllamb" c_type="pos">
+         <s>
+            <w type="D">居然</w>
+            <w type="V_2">有</w>
+            <w type="Nb">艾瑪</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Nh">它</w>
+            <w type="VH">好看</w>
+            <w type="DE">的</w>
+            <w type="Na">點</w>
+            <w type="Dfa">有點</w>
+            <w type="VH">另類</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VI">青睞</w>
+            <w type="D">倒是</w>
+            <w type="VH">不錯</w>
+         </s>
+      </comment>
+      <comment author="firewulala" c_type="neu">
+         <s>
+            <w type="VK">覺得</w>
+            <w type="FW">first</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">cow</w>
+            <w type="Nb">普普</w>
+            <w type="I">欸</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="tim19990312" c_type="pos">
+         <s>
+            <w type="FW">first</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">cow</w>
+            <w type="SHI">是</w>
+            <w type="VC">掛</w>
+            <w type="Neu">2019</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="tim19990312" c_type="neu">
+         <s>
+            <w type="Cbb">不過</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">片單</w>
+            <w type="Dfa">有夠</w>
+            <w type="VH">弱</w>
+            <w type="DE">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">希望</w>
+            <w type="Na">疫情</w>
+            <w type="D">趕快</w>
+            <w type="VH">好轉</w>
+         </s>
+      </comment>
+      <comment author="qpr322" c_type="pos">
+         <s>
+            <w type="FW">First</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Cow</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">今年</w>
+            <w type="Da">才</w>
+            <w type="VCL">上</w>
+            <w type="D">當然</w>
+            <w type="SHI">是</w>
+            <w type="Nd">今年</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="mach1210" c_type="neu">
+         <s>
+            <w type="VHC">可憐</w>
+            <w type="Neu">2020</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">艾瑪</w>
+            <w type="D">甚至</w>
+            <w type="VJ">沒有</w>
+            <w type="Nd">96年</w>
+            <w type="Nb">葛妮絲派特洛版</w>
+            <w type="VH">好</w>
+         </s>
+      </comment>
+      <comment author="tools" c_type="pos">
+         <s>
+            <w type="Neu">10</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Neqa">棒棒</w>
+            <w type="T">的</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

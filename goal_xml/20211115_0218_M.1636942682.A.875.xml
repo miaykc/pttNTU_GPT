@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">wabuladub2 (王丶丛)</metadata>
+      <metadata name="post_id">M.1636942682.A.875</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] Se No~~~~~~</metadata>
+   </teiHeader>
+   <text>
+      <body author="wabuladub2 (王丶丛)">
+         <s>
+            <w type="FW">moto~moto~~~~~</w>
+         </s>
+      </body>
+      <title author="wabuladub2 (王丶丛)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> Se No~~~~~~</w>
+         </s>
+      </title>
+      <comment author="obCHU724ov" c_type="pos">
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//b23</w>
+            <w type="PERIODCATEGORY">.tv/iEW13</w>
+            <w type="ETCCATEGORY">X</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">vipha (日安早安)</metadata>
+      <metadata name="post_id">M.1624180876.A.F91</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 重複時空的兒子</metadata>
+   </teiHeader>
+   <text>
+      <body author="vipha (日安早安)">
+         <s>
+            <w type="VE">想</w>
+            <w type="VC">找</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">片</w>
+         </s>
+         <s>
+            <w type="Na">男</w>
+            <w type="Na">主角</w>
+            <w type="P">在</w>
+            <w type="Nc">地下室</w>
+            <w type="VE">發現</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="Na">爸</w>
+            <w type="Caa">跟</w>
+            <w type="Nh">他</w>
+            <w type="Na">媽</w>
+            <w type="P">被</w>
+            <w type="VC">冰封</w>
+            <w type="P">在</w>
+            <w type="Na">櫃子</w>
+            <w type="Ncd">裡</w>
+         </s>
+         <s>
+            <w type="D">然後</w>
+            <w type="Nd">後來</w>
+            <w type="VE">發現</w>
+            <w type="SHI">是</w>
+            <w type="P">被</w>
+            <w type="VC">創造出來</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="Na">爸爸</w>
+            <w type="VE">想要</w>
+            <w type="Dfa">最</w>
+            <w type="VH">完美</w>
+            <w type="VH">聽話</w>
+            <w type="DE">的</w>
+            <w type="Na">兒子</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VK">知道</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Na">片</w>
+            <w type="T">嗎</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="vipha (日安早安)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">重複</w>
+            <w type="Na">時空</w>
+            <w type="DE">的</w>
+            <w type="Na">兒子</w>
+         </s>
+      </title>
+      <comment author="akrsw" c_type="neu">
+         <s>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="D">亂猜</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="Nc">公視</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">訪客</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="vipha" c_type="neu">
+         <s>
+            <w type="VH">對</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">感謝</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">hao0315 (浩浩)</metadata>
+      <metadata name="post_id">M.1633930898.A.299</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 一部美國搞笑片</metadata>
+   </teiHeader>
+   <text>
+      <body author="hao0315 (浩浩)">
+         <s>
+            <w type="VE">想</w>
+            <w type="VE">問</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Nc">美國</w>
+            <w type="DE">的</w>
+            <w type="VA">搞笑</w>
+            <w type="Na">電影</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">印象</w>
+            <w type="Na">兒子</w>
+            <w type="D">會</w>
+            <w type="D">一直</w>
+            <w type="VC">拔眉</w>
+            <w type="Nd">後來</w>
+            <w type="Da">只</w>
+            <w type="VJ">剩下</w>
+            <w type="Neqa">一半</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="VK">記得</w>
+            <w type="Nep">那</w>
+            <w type="Nf">段</w>
+            <w type="Dfa">很</w>
+            <w type="VH">好笑</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="D">然後</w>
+            <w type="Na">爸爸</w>
+            <w type="Na">媽媽</w>
+            <w type="VCL">跑到</w>
+            <w type="Na">國家</w>
+            <w type="Nc">交界處</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">被</w>
+            <w type="Na">警察</w>
+            <w type="VC">追捕</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VK">曉得</w>
+            <w type="SHI">是</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Nes">同</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="D">剛重</w>
+            <w type="VC">看</w>
+            <w type="Di">了</w>
+            <w type="Na">全</w>
+            <w type="Nc">家</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Nb">米家</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">一直</w>
+            <w type="VE">以為</w>
+            <w type="SHI">是</w>
+            <w type="Nep">那</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dk">結果</w>
+            <w type="VC">看完</w>
+            <w type="Da">才</w>
+            <w type="VE">發現</w>
+            <w type="VJ">記錯</w>
+            <w type="T">了</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="FW">XD</w>
+         </s>
+         <s>
+            <w type="VK">希望</w>
+            <w type="D">可以</w>
+            <w type="VC">找到</w>
+            <w type="FW">～</w>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="hao0315 (浩浩)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Nc">美國</w>
+            <w type="Na">搞笑片</w>
+         </s>
+      </title>
+      <comment author="m122e" c_type="pos">
+         <s>
+            <w type="Neqa">全</w>
+            <w type="Nc">家</w>
+            <w type="VC">玩</w>
+            <w type="P">到</w>
+            <w type="VA">趴 </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Vacation</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="derrick1220" c_type="pos">
+         <s>
+            <w type="FW">Vacation</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

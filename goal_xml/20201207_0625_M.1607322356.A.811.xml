@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Thirdshadow (滑蛋少年糰)</metadata>
+      <metadata name="post_id">M.1607322356.A.811</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] 在普通遺失的傘 快被清掉囉</metadata>
+   </teiHeader>
+   <text>
+      <body author="Thirdshadow (滑蛋少年糰)">
+         <s>
+            <w type="Nd">今天</w>
+            <w type="P">在</w>
+            <w type="VH">普通</w>
+            <w type="Nc">2樓</w>
+            <w type="Nc">管理員室</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Ncd">旁邊</w>
+            <w type="VE">看到</w>
+            <w type="Nep">這</w>
+            <w type="Neu">一</w>
+            <w type="Nf">桶</w>
+         </s>
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="VK">懷疑</w>
+            <w type="Nh">自己</w>
+            <w type="V_2">有</w>
+            <w type="P">在</w>
+            <w type="VH">普通</w>
+            <w type="VH">丟失</w>
+            <w type="Na">雨傘</w>
+            <w type="DE">的</w>
+            <w type="Na">同學</w>
+            <w type="D">可以</w>
+            <w type="D">來</w>
+            <w type="VE">看看</w>
+            <w type="V_2">有</w>
+            <w type="D">沒</w>
+            <w type="V_2">有</w>
+            <w type="Nh">自己</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Cbb">不然</w>
+            <w type="D">快要</w>
+            <w type="P">被</w>
+            <w type="VC">清掉</w>
+            <w type="T">囉</w>
+         </s>
+         <s>
+            <w type="D">也</w>
+            <w type="VF">請</w>
+            <w type="Nh">大家</w>
+            <w type="VE">告訴</w>
+            <w type="Nh">大家</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/mybq</w>
+            <w type="FW">QY9</w>
+            <w type="FW">.jpg</w>
+         </s>
+         <s>
+            <w type="VH">憤怒</w>
+            <w type="Nc">工院</w>
+            <w type="Na">青年</w>
+         </s>
+         <s>
+            <w type="FW">Cynical</w>
+            <w type="FW"> Engineering</w>
+            <w type="FW"> Student</w>
+         </s>
+      </body>
+      <title author="Thirdshadow (滑蛋少年糰)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">在</w>
+            <w type="VH">普通</w>
+            <w type="VH">遺失</w>
+            <w type="DE">的</w>
+            <w type="Na">傘</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">快</w>
+            <w type="P">被</w>
+            <w type="VC">清掉</w>
+            <w type="T">囉</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

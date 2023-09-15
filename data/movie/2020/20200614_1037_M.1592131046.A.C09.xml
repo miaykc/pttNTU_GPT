@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">TtTt4 (夜空飛行)</metadata>
+      <metadata name="post_id">M.1592131046.A.C09</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 回憶的餘燼</metadata>
+   </teiHeader>
+   <text>
+      <body author="TtTt4 (夜空飛行)">
+         <s>
+            <w type="D">剛</w>
+            <w type="P">在</w>
+            <w type="Na">影音</w>
+            <w type="Na">平台</w>
+            <w type="Ncd">上</w>
+            <w type="VC">看完</w>
+         </s>
+         <s>
+            <w type="Dfa">有點</w>
+            <w type="VH">好奇</w>
+         </s>
+         <s>
+            <w type="D">沒</w>
+            <w type="VC">看過</w>
+            <w type="Na">原著</w>
+            <w type="Na">小說</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="Na">男主</w>
+            <w type="V_2">有</w>
+            <w type="P">跟</w>
+            <w type="Nb">維諾妮卡</w>
+            <w type="DE">的</w>
+            <w type="Na">媽媽</w>
+            <w type="Na">外遇</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="D">可以</w>
+            <w type="VK">理解</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="Na">男主</w>
+            <w type="DE">的</w>
+            <w type="Na">朋友</w>
+            <w type="Cbb">因為</w>
+            <w type="P">跟</w>
+            <w type="Nb">微媽</w>
+            <w type="V_2">有</w>
+            <w type="Di">了</w>
+            <w type="Na">孩子</w>
+            <w type="Cbb">所以</w>
+            <w type="VH">羞愧</w>
+            <w type="VA">自殺</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="TtTt4 (夜空飛行)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">回憶</w>
+            <w type="DE">的</w>
+            <w type="Na">餘燼</w>
+         </s>
+      </title>
+      <comment author="justmine99" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="D">只有</w>
+            <w type="VC">看</w>
+            <w type="Na">小說</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+            <w type="Neqa">很多</w>
+            <w type="VC">解讀</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">不過</w>
+            <w type="VH">最多</w>
+            <w type="Na">人</w>
+            <w type="VE">認為</w>
+            <w type="DE">的</w>
+            <w type="Na">版本</w>
+            <w type="SHI">是</w>
+         </s>
+      </comment>
+      <comment author="justmine99" c_type="neu">
+         <s>
+            <w type="V_2">有</w>
+            <w type="P">跟</w>
+            <w type="Nh">他</w>
+            <w type="Na">媽媽</w>
+            <w type="Na">外遇</w>
+            <w type="T">喔</w>
+         </s>
+      </comment>
+      <comment author="justmine99" c_type="neu">
+         <s>
+            <w type="Na">原著</w>
+            <w type="SHI">是</w>
+            <w type="Nc">世界</w>
+            <w type="Na">名著</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可以</w>
+            <w type="VC">找來</w>
+            <w type="VC">看看</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

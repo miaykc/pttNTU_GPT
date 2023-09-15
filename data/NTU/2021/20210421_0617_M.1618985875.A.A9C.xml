@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">daye87 (猴子)</metadata>
+      <metadata name="post_id">M.1618985875.A.A9C</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文]  雙排一起玩煞蜜拉</metadata>
+   </teiHeader>
+   <text>
+      <body author="daye87 (猴子)">
+         <s>
+            <w type="Nb">煞蜜拉</w>
+            <w type="D">一</w>
+            <w type="VC">休</w>
+            <w type="VH">膩</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/m</w>
+            <w type="FW">Z0sJQC8</w>
+            <w type="FW">qk</w>
+            <w type="ETCCATEGORY">E</w>
+         </s>
+         <s>
+            <w type="D">來</w>
+            <w type="VB">打招呼</w>
+            <w type="T">嘍</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">篇</w>
+            <w type="Dfa">夠</w>
+            <w type="VC">廢</w>
+            <w type="Di">了</w>
+            <w type="T">吧</w>
+         </s>
+      </body>
+      <title author="daye87 (猴子)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE">  </w>
+            <w type="A">雙排</w>
+            <w type="D">一起</w>
+            <w type="VC">玩</w>
+            <w type="Nb">煞蜜拉</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">loserfeizie (全方位升級2.0)</metadata>
+      <metadata name="post_id">M.1585204325.A.052</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 武漢肺炎 確診+17</metadata>
+   </teiHeader>
+   <text>
+      <body author="loserfeizie (全方位升級2.0)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.cdc.gov.tw/Bulletin/Detail/rS8uHMB-fN4</w>
+            <w type="FW">HrEUQcST4UA</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">typeid</w>
+            <w type="FW">=9</w>
+         </s>
+         <s>
+            <w type="Nc">中央</w>
+            <w type="VH">流行</w>
+            <w type="Na">疫情</w>
+            <w type="VC">指揮</w>
+            <w type="Nc">中心</w>
+            <w type="Nd">今</w>
+            <w type="Neu">(26)</w>
+            <w type="Nd">日</w>
+            <w type="VE">公布</w>
+            <w type="Nc">國內</w>
+            <w type="VJ">新增</w>
+            <w type="Neu">17</w>
+            <w type="Na">例</w>
+            <w type="FW">COVID-19</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">武漢</w>
+            <w type="Na">肺炎</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="Na">病例</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">包括</w>
+            <w type="Neu">15</w>
+            <w type="Na">例</w>
+            <w type="Na">境</w>
+         </s>
+         <s>
+            <w type="Ncd">外</w>
+            <w type="VC">移入</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">2</w>
+            <w type="Na">例</w>
+            <w type="Nc">本土</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nc">本土</w>
+            <w type="Na">病例</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">案</w>
+            <w type="Neu">246</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">247</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="D">均</w>
+            <w type="VG">為</w>
+            <w type="Nc">境</w>
+            <w type="Ncd">外</w>
+            <w type="VC">移入</w>
+            <w type="Na">個案</w>
+            <w type="DE">的</w>
+            <w type="VC">接觸</w>
+            <w type="Na">者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">其中</w>
+            <w type="Na">案</w>
+            <w type="Neu">246</w>
+            <w type="VG">為</w>
+            <w type="Neu">60</w>
+            <w type="VH">多</w>
+         </s>
+         <s>
+            <w type="Nf">歲</w>
+            <w type="Na">男性</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">為</w>
+            <w type="Na">案</w>
+            <w type="Neu">209</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">美國</w>
+            <w type="VC">移入</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="VCL">同住</w>
+            <w type="Na">家人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">無</w>
+            <w type="VG">疑似</w>
+            <w type="Na">症狀</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">經</w>
+            <w type="VC">接觸</w>
+            <w type="Na">者</w>
+            <w type="VC">採檢</w>
+            <w type="Ng">後</w>
+            <w type="VB">確診</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Na">案</w>
+            <w type="Neu">247</w>
+            <w type="VG">為</w>
+            <w type="Neu">40</w>
+            <w type="VH">多</w>
+         </s>
+         <s>
+            <w type="Nf">歲</w>
+            <w type="Na">女性</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">為</w>
+            <w type="Na">案</w>
+            <w type="Neu">228</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">荷蘭</w>
+            <w type="VC">移入</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="VCL">同住</w>
+            <w type="Na">家人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">於</w>
+            <w type="Nd">3月</w>
+            <w type="Nd">23日</w>
+            <w type="VH">發病</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">經</w>
+            <w type="VA">就醫</w>
+            <w type="VA">採檢</w>
+            <w type="VE">通報</w>
+            <w type="Ng">後</w>
+            <w type="VB">確診</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">指揮</w>
+            <w type="Nc">中心</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">新增</w>
+            <w type="Neu">15</w>
+            <w type="Na">例</w>
+            <w type="Nc">境外</w>
+            <w type="VC">移入</w>
+            <w type="Na">個案</w>
+            <w type="VG">為</w>
+            <w type="Neu">7</w>
+            <w type="Na">女</w>
+            <w type="Neu">8</w>
+            <w type="Na">男</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">年齡</w>
+            <w type="Neu">20多</w>
+            <w type="Nf">歲</w>
+            <w type="Caa">至</w>
+            <w type="Neu">60多</w>
+            <w type="Nf">歲</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nv">入境日</w>
+            <w type="VJ">介於</w>
+            <w type="Nd">3月</w>
+         </s>
+         <s>
+            <w type="Neu">16日</w>
+            <w type="Caa">至</w>
+            <w type="Nd">23日</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">發病日</w>
+            <w type="VJ">介於</w>
+            <w type="Nd">3月</w>
+            <w type="Neu">11日</w>
+            <w type="Caa">至</w>
+            <w type="Neu">23日</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">發病</w>
+            <w type="Ng">前</w>
+            <w type="Nc">活動</w>
+            <w type="DE">地</w>
+            <w type="VK">包括</w>
+            <w type="Nc">美國</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">英國</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">紐西蘭</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">西班</w>
+         </s>
+         <s>
+            <w type="Nc">牙</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">馬來西亞</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">摩納哥</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">墨西哥</w>
+            <w type="Cab">等</w>
+            <w type="Na">國家</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VC">指揮</w>
+            <w type="Nc">中心</w>
+            <w type="VE">指出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">境</w>
+            <w type="Ncd">外</w>
+            <w type="VC">移入</w>
+            <w type="Na">個案</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">案</w>
+            <w type="Neu">248</w>
+            <w type="P">於</w>
+            <w type="Nd">3月</w>
+            <w type="Nd">12日</w>
+            <w type="Caa">至</w>
+            <w type="Nd">20日</w>
+            <w type="P">跟</w>
+            <w type="Na">團</w>
+            <w type="VCL">赴</w>
+            <w type="Nc">西班牙</w>
+            <w type="VA">旅遊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">該</w>
+            <w type="Na">旅遊團</w>
+            <w type="Ng">中</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Neu">2</w>
+            <w type="Na">人</w>
+            <w type="P">於</w>
+            <w type="Nd">3月</w>
+            <w type="Nd">23日</w>
+            <w type="VB">確診</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">案</w>
+            <w type="Neu">170</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">189</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">案</w>
+            <w type="Neu">248</w>
+            <w type="VJ">無</w>
+            <w type="Na">症狀</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">經</w>
+            <w type="Na">衛生</w>
+            <w type="Na">單位</w>
+            <w type="VC">進行</w>
+            <w type="VC">接觸</w>
+            <w type="Na">者</w>
+            <w type="VC">採檢</w>
+            <w type="Ng">後</w>
+            <w type="VB">確診</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+         </s>
+         <s>
+            <w type="Nes">該</w>
+            <w type="Na">旅遊團</w>
+            <w type="P">截至</w>
+            <w type="Nd">目前</w>
+            <w type="VJ">共計</w>
+            <w type="Neu">3</w>
+            <w type="Na">人</w>
+            <w type="VB">確診</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neqa">其餘</w>
+            <w type="Na">境</w>
+            <w type="Ncd">外</w>
+            <w type="VC">移入</w>
+            <w type="Na">個案</w>
+            <w type="VG">為</w>
+            <w type="VH">獨立</w>
+            <w type="Na">個案</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nv">出國</w>
+            <w type="Na">目的</w>
+            <w type="VG">為</w>
+            <w type="VA">就學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VA">工作</w>
+            <w type="Caa">或</w>
+            <w type="VA">旅遊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">詳情</w>
+            <w type="VF">請</w>
+            <w type="VC">參閱</w>
+            <w type="Na">新聞稿</w>
+            <w type="Na">附件</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Cyy1</w>
+            <w type="FW">zz</w>
+            <w type="FW">T.jpg</w>
+         </s>
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/Ad</w>
+            <w type="FW">ZQl</w>
+            <w type="FW">Fk.jpg</w>
+         </s>
+         <s>
+            <w type="A">心愛</w>
+            <w type="Na">魚</w>
+            <w type="FW">~~~</w>
+         </s>
+      </body>
+      <title author="loserfeizie (全方位升級2.0)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">武漢</w>
+            <w type="Na">肺炎</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VB">確診</w>
+            <w type="Neu">+17</w>
+         </s>
+      </title>
+      <comment author="ssd860505da" c_type="neu">
+         <s>
+            <w type="A">心愛</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

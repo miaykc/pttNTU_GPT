@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">shuta23 (心情和天氣一樣)</metadata>
+      <metadata name="post_id">M.1584414394.A.C01</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 和和會議展覽有關的電影</metadata>
+   </teiHeader>
+   <text>
+      <body author="shuta23 (心情和天氣一樣)">
+         <s>
+            <w type="VE">想</w>
+            <w type="VE">請問</w>
+            <w type="V_2">有</w>
+            <w type="D">沒</w>
+            <w type="V_2">有</w>
+            <w type="Na">劇情</w>
+            <w type="Caa">和</w>
+            <w type="Na">會議</w>
+            <w type="VC">展覽</w>
+            <w type="VJ">有關</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">例如</w>
+            <w type="Na">主角</w>
+            <w type="DE">的</w>
+            <w type="Na">身份</w>
+            <w type="SHI">是</w>
+            <w type="Na">策展人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">或是</w>
+            <w type="Na">場景</w>
+            <w type="P">在</w>
+            <w type="Na">會展</w>
+            <w type="VHC">空</w>
+         </s>
+         <s>
+            <w type="Ncd">間</w>
+            <w type="VC">拍攝</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="shuta23 (心情和天氣一樣)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Caa">和</w>
+            <w type="P">和</w>
+            <w type="Na">會議</w>
+            <w type="Na">展覽</w>
+            <w type="VJ">有關</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+         </s>
+      </title>
+      <comment author="mysmalllamb" c_type="pos">
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nd">明日</w>
+            <w type="Nc">世界</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">談</w>
+            <w type="Di">了</w>
+            <w type="Neqa">不少</w>
+            <w type="Nc">世界</w>
+            <w type="Na">博覽會</w>
+            <w type="VH">相關</w>
+            <w type="DE">的</w>
+            <w type="Na">事</w>
+         </s>
+      </comment>
+      <comment author="jeudionemore" c_type="pos">
+         <s>
+            <w type="VH">抓狂</w>
+            <w type="Nc">美術館</w>
+         </s>
+      </comment>
+      <comment author="v7q4" c_type="pos">
+         <s>
+            <w type="Na">豆豆秀</w>
+         </s>
+      </comment>
+      <comment author="winterstroll" c_type="neu">
+         <s>
+            <w type="VJ">歡迎</w>
+            <w type="VA">來</w>
+            <w type="Na">國家</w>
+            <w type="Nc">畫廊</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="ash1118" c_type="pos">
+         <s>
+            <w type="Na">絲絨</w>
+            <w type="Na">電鋸</w>
+         </s>
+      </comment>
+      <comment author="cumsubin" c_type="pos">
+         <s>
+            <w type="FW">When</w>
+            <w type="FW"> in</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Rome</w>
+         </s>
+      </comment>
+      <comment author="poggssi" c_type="pos">
+         <s>
+            <w type="Nc">美國</w>
+            <w type="Na">隊長</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">英雄</w>
+            <w type="Na">內戰</w>
+         </s>
+      </comment>
+      <comment author="aa4655527" c_type="pos">
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">人</w>
+            <w type="DE">的</w>
+            <w type="Na">收藏</w>
+         </s>
+      </comment>
+      <comment author="valkyriea" c_type="pos">
+         <s>
+            <w type="Nc">博物館</w>
+            <w type="Na">驚魂夜</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

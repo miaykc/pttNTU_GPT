@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">wakamegohan (鹹豆)</metadata>
+      <metadata name="post_id">M.1593532629.A.DC5</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈票] 7/02 12:00 人皮咒 特映</metadata>
+   </teiHeader>
+   <text>
+      <body author="wakamegohan (鹹豆)">
+         <s>
+            <w type="Ncd">這邊</w>
+            <w type="VH">多</w>
+            <w type="Neu">一</w>
+            <w type="Nf">張</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">人皮咒</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="DE">的</w>
+            <w type="Na">特映票</w>
+         </s>
+         <s>
+            <w type="Na">時間</w>
+            <w type="SHI">是</w>
+            <w type="Nd">7/02</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neu">四</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Nd">中午</w>
+            <w type="Neu">12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="Na">地點</w>
+            <w type="P">在</w>
+            <w type="Nc">西門</w>
+            <w type="Na">樂聲</w>
+            <w type="Nc">影城</w>
+         </s>
+         <s>
+            <w type="VK">需</w>
+            <w type="Na">網路</w>
+            <w type="VA">劃位</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">興趣</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="VF">請</w>
+            <w type="VA">來信</w>
+            <w type="VD">索取</w>
+            <w type="Na">票卷</w>
+            <w type="Na">序號</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">大家</w>
+         </s>
+      </body>
+      <title author="wakamegohan (鹹豆)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 7/02 12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">人皮咒</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">特映</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

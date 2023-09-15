@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">IDEX ( )</metadata>
+      <metadata name="post_id">M.1625929183.A.F56</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] 有推薦的搬家公司嗎</metadata>
+   </teiHeader>
+   <text>
+      <body author="IDEX ( )">
+         <s>
+            <w type="D">本來</w>
+            <w type="P">在</w>
+            <w type="Nc">學校</w>
+            <w type="Na">後門</w>
+            <w type="VB">租</w>
+            <w type="Na">房 </w>
+            <w type="Nd">現在</w>
+            <w type="D">要</w>
+            <w type="VC">搬到</w>
+            <w type="Nc">前門</w>
+            <w type="Nc">公館</w>
+            <w type="Nc">附近</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Neqa">一些</w>
+            <w type="Na">櫃子</w>
+            <w type="Na">家具</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">無法</w>
+            <w type="P">用</w>
+            <w type="D">徒手</w>
+            <w type="VC">搬運</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="V_2">有</w>
+            <w type="VC">推薦</w>
+            <w type="DE">的</w>
+            <w type="VA">搬家</w>
+            <w type="Na">貨運</w>
+            <w type="Nc">公司</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </body>
+      <title author="IDEX ( )">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+            <w type="VC">推薦</w>
+            <w type="DE">的</w>
+            <w type="VA">搬家</w>
+            <w type="Nc">公司</w>
+            <w type="T">嗎</w>
+         </s>
+      </title>
+      <comment author="cpl812" c_type="pos">
+         <s>
+            <w type="FW">ptt</w>
+            <w type="FW"> Move</w>
+            <w type="FW">House</w>
+            <w type="Na">板徵</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="kyrie77" c_type="pos">
+         <s>
+            <w type="FW">lalamove</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="cpl812" c_type="neu">
+         <s>
+            <w type="Cbb">不過</w>
+            <w type="D">最好</w>
+            <w type="VE">問</w>
+            <w type="VH">詳細</w>
+            <w type="D">再</w>
+            <w type="VC">選</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Ng">之前</w>
+            <w type="VC">搬</w>
+            <w type="Nc">宿舍</w>
+            <w type="VC">遇到</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VA">放</w>
+            <w type="Na">鳥</w>
+            <w type="Neu">6</w>
+            <w type="Na">小時</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">下雨</w>
+            <w type="D">還</w>
+         </s>
+      </comment>
+      <comment author="cpl812" c_type="neu">
+         <s>
+            <w type="VJ">沒</w>
+            <w type="Na">頂棚</w>
+            <w type="DE">的</w>
+            <w type="Neu">2.5</w>
+            <w type="FW">= </w>
+            <w type="FW">=</w>
+         </s>
+      </comment>
+      <comment author="tom282f3" c_type="pos">
+         <s>
+            <w type="Neu">幾</w>
+            <w type="Nf">年</w>
+            <w type="Ng">前</w>
+            <w type="VC">搬</w>
+            <w type="Nc">宿舍</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VG">叫</w>
+            <w type="Nb">台灣</w>
+            <w type="VH">大</w>
+            <w type="Na">車隊</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Da">才</w>
+            <w type="VK">知道</w>
+            <w type="Nh">他們</w>
+            <w type="VE">規定</w>
+         </s>
+      </comment>
+      <comment author="tom282f3" c_type="neu">
+         <s>
+            <w type="Cbb">只要</w>
+            <w type="Na">紙箱</w>
+            <w type="D">得</w>
+            <w type="VC">放</w>
+            <w type="P">在</w>
+            <w type="Ncd">後</w>
+            <w type="Na">車廂</w>
+            <w type="Cbb">就算</w>
+            <w type="SHI">是</w>
+            <w type="D">微</w>
+            <w type="VA">搬家</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">要</w>
+            <w type="VC">加</w>
+            <w type="Neu">500</w>
+            <w type="Nf">元</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VF">供</w>
+            <w type="VC">參</w>
+         </s>
+      </comment>
+      <comment author="j2c3" c_type="pos">
+         <s>
+            <w type="VF">供</w>
+            <w type="VC">參考</w>
+            <w type="Nd">一下</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">之前</w>
+            <w type="Na">腳踏車</w>
+            <w type="Ncd">上</w>
+            <w type="Nc">台灣</w>
+            <w type="VH">大</w>
+            <w type="Na">車隊</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="Neu">+500</w>
+         </s>
+      </comment>
+      <comment author="confess5566" c_type="pos">
+         <s>
+            <w type="P">跟</w>
+            <w type="Na">司機</w>
+            <w type="VE">說</w>
+            <w type="Nd">一下</w>
+            <w type="VC">回報</w>
+            <w type="Na">總機</w>
+            <w type="D">不</w>
+            <w type="VG">算</w>
+            <w type="VA">搬家</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">司機</w>
+            <w type="D">不用</w>
+            <w type="P">被</w>
+            <w type="VC">抽</w>
+            <w type="Nh">妳</w>
+            <w type="D">也</w>
+            <w type="VD">付</w>
+         </s>
+      </comment>
+      <comment author="confess5566" c_type="neu">
+         <s>
+            <w type="Dfa">比較</w>
+            <w type="VH">少</w>
+            <w type="Na">錢</w>
+         </s>
+      </comment>
+      <comment author="CyanMask" c_type="pos">
+         <s>
+            <w type="FW">lalamove</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">真的</w>
+            <w type="Dfa">滿</w>
+            <w type="VH">好用</w>
+         </s>
+      </comment>
+      <comment author="nofeel0" c_type="pos">
+         <s>
+            <w type="Nb">康福</w>
+            <w type="VH">不錯</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">找</w>
+            <w type="Di">過</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="Nv">搬家</w>
+            <w type="Nc">公司</w>
+            <w type="Ng">之後</w>
+            <w type="D">就</w>
+            <w type="VCL">回</w>
+            <w type="D">不</w>
+            <w type="VCL">去</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="Heling" c_type="pos">
+         <s>
+            <w type="Nd">之前</w>
+            <w type="P">用</w>
+            <w type="FW">lalamove</w>
+            <w type="D">還</w>
+            <w type="VH">不錯</w>
+         </s>
+      </comment>
+      <comment author="MLCCN" c_type="pos">
+         <s>
+            <w type="FW">Lalamove</w>
+            <w type="Dfa">很</w>
+            <w type="VH">方便</w>
+         </s>
+      </comment>
+      <comment author="cwh0105" c_type="neu">
+         <s>
+            <w type="Nb">陳孜昊</w>
+            <w type="VA">代言</w>
+            <w type="DE">的</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="Sibelius26" c_type="pos">
+         <s>
+            <w type="Na">極限</w>
+            <w type="VC">搬運</w>
+            <w type="FW"> CP</w>
+            <w type="Na">值</w>
+            <w type="VH">高</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">快速</w>
+         </s>
+      </comment>
+      <comment author="b54102" c_type="neu">
+         <s>
+            <w type="Na">男朋友</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="neu">
+         <s>
+            <w type="Na">學弟</w>
+         </s>
+      </comment>
+      <comment author="FHShih" c_type="neu">
+         <s>
+            <w type="Na">搬家板</w>
+            <w type="Dfa">很</w>
+            <w type="VH">好用</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Move</w>
+            <w type="FW">House</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">曾經</w>
+            <w type="P">在</w>
+            <w type="Ncd">這裡</w>
+            <w type="VC">找到</w>
+            <w type="Na">CP值</w>
+            <w type="Dfa">很</w>
+            <w type="VH">高</w>
+            <w type="DE">的</w>
+            <w type="VA">搬家</w>
+         </s>
+      </comment>
+      <comment author="aa871220" c_type="pos">
+         <s>
+            <w type="FW">dd</w>
+         </s>
+      </comment>
+      <comment author="jpkiku0211" c_type="pos">
+         <s>
+            <w type="FW">Lalamove</w>
+            <w type="VH">好用</w>
+            <w type="Neu">+1</w>
+         </s>
+      </comment>
+      <comment author="touch2fish" c_type="neu">
+         <s>
+            <w type="D">可以</w>
+            <w type="VCL">去</w>
+            <w type="FW">movehouse</w>
+            <w type="Na">板</w>
+            <w type="VA">發文</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+            <w type="Neqa">很多</w>
+            <w type="FW">cp</w>
+            <w type="Na">值</w>
+            <w type="VH">高</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="yivtfa" c_type="pos">
+         <s>
+            <w type="FW">move版</w>
+            <w type="VC">推薦</w>
+            <w type="DE">的</w>
+            <w type="Na">首選</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

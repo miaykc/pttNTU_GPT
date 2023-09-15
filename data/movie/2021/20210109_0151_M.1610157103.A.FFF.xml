@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">s58565254 (猜囉)</metadata>
+      <metadata name="post_id">M.1610157103.A.FFF</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 想找一個豬的短片（3-5分鐘）</metadata>
+   </teiHeader>
+   <text>
+      <body author="s58565254 (猜囉)">
+         <s>
+            <w type="Na">印象</w>
+            <w type="Ng">中</w>
+            <w type="SHI">是</w>
+            <w type="Nc">國外</w>
+            <w type="DE">的</w>
+            <w type="Na">影片</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Na">卡通</w>
+            <w type="Na">動畫</w>
+            <w type="SHI">是</w>
+            <w type="VH">真</w>
+            <w type="DE">的</w>
+            <w type="Na">豬</w>
+         </s>
+         <s>
+            <w type="Na">內容</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">隻</w>
+            <w type="VH">小</w>
+            <w type="Na">豬</w>
+            <w type="P">被</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">男</w>
+            <w type="DE">的</w>
+            <w type="Na">大叔</w>
+            <w type="VE">發現</w>
+         </s>
+         <s>
+            <w type="VK">覺得</w>
+            <w type="D">可能</w>
+            <w type="SHI">是</w>
+            <w type="Nh">誰</w>
+            <w type="VC">養</w>
+            <w type="DE">的</w>
+            <w type="Na">豬</w>
+            <w type="VE">想要</w>
+            <w type="VD">還給</w>
+            <w type="Nh">他們</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="VC">載</w>
+            <w type="Na">者</w>
+            <w type="VH">小</w>
+            <w type="Na">豬</w>
+            <w type="D">去</w>
+            <w type="VC">找</w>
+            <w type="Na">主人</w>
+         </s>
+         <s>
+            <w type="Nd">後來</w>
+            <w type="VE">發現</w>
+            <w type="VH">小</w>
+            <w type="Na">豬</w>
+            <w type="DE">的</w>
+            <w type="Na">主人</w>
+            <w type="SHI">是</w>
+            <w type="Nc">屠宰廠</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="D">就</w>
+            <w type="VC">放棄</w>
+            <w type="VD">還給</w>
+            <w type="Na">豬</w>
+            <w type="DE">的</w>
+            <w type="Na">主人</w>
+            <w type="VA">開車</w>
+            <w type="VF">繼續</w>
+            <w type="VC">載</w>
+            <w type="Di">著</w>
+            <w type="VH">小</w>
+            <w type="Na">豬</w>
+         </s>
+      </body>
+      <title author="s58565254 (猜囉)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">想</w>
+            <w type="VC">找</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">豬</w>
+            <w type="DE">的</w>
+            <w type="Na">短片</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neu">3</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Neu">5</w>
+            <w type="Nf">分鐘</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </title>
+      <comment author="AirWinters" c_type="pos">
+         <s>
+            <w type="Nd">最後</w>
+            <w type="D">還是</w>
+            <w type="D">要</w>
+            <w type="VA">出貨</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

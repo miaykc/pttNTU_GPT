@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">xa9277178 (楓曦)</metadata>
+      <metadata name="post_id">M.1599895081.A.234</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[失物] 公館捷運站1號 日本Porer、短夾、深藍色</metadata>
+   </teiHeader>
+   <text>
+      <body author="xa9277178 (楓曦)">
+         <s>
+            <w type="Na">物品</w>
+            <w type="Na">名稱</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">日本</w>
+            <w type="FW">Porer</w>
+            <w type="VH">短夾</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">深藍色</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="VH">遺失</w>
+            <w type="Na">地點</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">公館</w>
+            <w type="Nc">捷運站</w>
+            <w type="Nc">1號</w>
+            <w type="Nc">出口</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">1號</w>
+            <w type="Nc">出口</w>
+            <w type="Caa">與</w>
+            <w type="Nb">秀泰</w>
+            <w type="Ncd">中間</w>
+            <w type="Nep">這</w>
+            <w type="Nf">段</w>
+            <w type="Na">路</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="VH">遺失</w>
+            <w type="FW">/</w>
+            <w type="Na">時間</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="D">大概</w>
+            <w type="Nd">今天</w>
+            <w type="Nd">早上</w>
+            <w type="Neu">9~</w>
+            <w type="Neu">10</w>
+            <w type="Nf">點</w>
+            <w type="Ng">左右</w>
+            <w type="VH">遺失</w>
+         </s>
+         <s>
+            <w type="Na">物品</w>
+            <w type="VC">描述</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Nv">聯絡</w>
+            <w type="Na">方式</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">站</w>
+            <w type="Ncd">內</w>
+            <w type="Na">信</w>
+         </s>
+         <s>
+            <w type="Neqa">其他</w>
+            <w type="VE">說明</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Na">證件</w>
+            <w type="Na">名字</w>
+            <w type="VG">叫</w>
+            <w type="Nb">葉X均</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="Na">朋友</w>
+            <w type="VJ">沒有</w>
+            <w type="FW">PTT</w>
+            <w type="Nh">我</w>
+            <w type="VC">幫忙</w>
+            <w type="VC">代</w>
+            <w type="FW">PO</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="D">有</w>
+            <w type="VE">看到</w>
+            <w type="VHC">麻煩</w>
+            <w type="Nh">各位</w>
+            <w type="VC">幫忙</w>
+            <w type="Nd">一下</w>
+         </s>
+         <s>
+            <w type="VI">感恩</w>
+         </s>
+      </body>
+      <title author="xa9277178 (楓曦)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">失物</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">公館</w>
+            <w type="Nc">捷運站</w>
+            <w type="Neu">1號</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">日本</w>
+            <w type="FW">Porer</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">短夾</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">深藍色</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

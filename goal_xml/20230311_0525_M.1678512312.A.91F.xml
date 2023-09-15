@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">amond (Mond)</metadata>
+      <metadata name="post_id">M.1678512312.A.91F</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[食物] 贈送便當</metadata>
+   </teiHeader>
+   <text>
+      <body author="amond (Mond)">
+         <s>
+            <w type="VD">贈送</w>
+            <w type="Neu">8</w>
+            <w type="Nf">個</w>
+            <w type="Nc">池上</w>
+            <w type="Na">便當</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">另</w>
+            <w type="V_2">有</w>
+            <w type="Neu">2</w>
+            <w type="Nf">個</w>
+            <w type="Na">素食</w>
+            <w type="Na">便當</w>
+         </s>
+         <s>
+            <w type="Na">地點</w>
+            <w type="P">在</w>
+            <w type="Nc">社科院</w>
+            <w type="Nc">三樓</w>
+            <w type="Na">樓梯</w>
+            <w type="Ncd">旁</w>
+         </s>
+         <s>
+            <w type="VD">贈完</w>
+            <w type="Ng">為止</w>
+            <w type="T">喔</w>
+         </s>
+      </body>
+      <title author="amond (Mond)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">食物</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VD">贈送</w>
+            <w type="Na">便當</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

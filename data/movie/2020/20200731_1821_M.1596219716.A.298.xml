@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Beandou (豆豆)</metadata>
+      <metadata name="post_id">M.1596219716.A.298</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 徐漢強、許智彥導演VR電影入圍威尼斯影</metadata>
+   </teiHeader>
+   <text>
+      <body author="Beandou (豆豆)">
+         <s>
+            <w type="Na">新聞</w>
+            <w type="Na">網址</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.rti.org.tw/news/view/id/2074308</w>
+         </s>
+         <s>
+            <w type="Neu">2020年</w>
+            <w type="Neu">第77</w>
+            <w type="Nf">屆</w>
+            <w type="Nc">威尼斯</w>
+            <w type="Na">影展</w>
+            <w type="Nd">今天</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nd">31日</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="VE">公布</w>
+            <w type="FW">VR</w>
+            <w type="Na">競賽</w>
+            <w type="Na">單元</w>
+            <w type="VJ">入圍</w>
+            <w type="Na">名單</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VA">返校</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">導演</w>
+            <w type="Nb">徐漢強</w>
+            <w type="VC">聯合</w>
+         </s>
+         <s>
+            <w type="Nc">阿根廷</w>
+            <w type="Na">動畫</w>
+            <w type="Na">團隊</w>
+            <w type="Neu">3Dar</w>
+            <w type="VC">打造</w>
+            <w type="DE">的</w>
+            <w type="FW">VR</w>
+            <w type="Na">作品</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">星際</w>
+            <w type="VH">大</w>
+            <w type="Na">騙局</w>
+            <w type="WHITESPACE"> </w>
+            <w type="DE">之</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">登</w>
+            <w type="Na">月</w>
+            <w type="Na">計劃</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">以及</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nh">誰</w>
+            <w type="D">先</w>
+            <w type="VJ">愛上</w>
+            <w type="Nh">他</w>
+            <w type="T">的</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+         </s>
+         <s>
+            <w type="Na">導演</w>
+            <w type="Nb">許智彥</w>
+            <w type="DE">的</w>
+            <w type="FW">VR</w>
+            <w type="Na">處女作</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">舊家</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">雙雙</w>
+            <w type="VJ">入選</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">為</w>
+            <w type="Nc">台</w>
+            <w type="VB">爭光</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/aw</w>
+            <w type="FW">R84</w>
+            <w type="FW">FG.jpg</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VA">返校</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">導演</w>
+            <w type="Nb">徐漢強</w>
+            <w type="Caa">與</w>
+            <w type="Nc">阿根廷</w>
+            <w type="Na">導演</w>
+            <w type="Nb">馬可洛可可</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Marco</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Lococo</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="A">共同</w>
+            <w type="VC">執導</w>
+            <w type="DE">的</w>
+            <w type="Dfa">最</w>
+            <w type="VH">新</w>
+            <w type="FW">VR</w>
+            <w type="Na">作品</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+         </s>
+         <s>
+            <w type="Nc">星際</w>
+            <w type="VH">大</w>
+            <w type="Na">騙局</w>
+            <w type="WHITESPACE"> </w>
+            <w type="DE">之</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">登</w>
+            <w type="Na">月</w>
+            <w type="Na">計劃</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VC">傳出</w>
+            <w type="VH">好</w>
+            <w type="Na">消息</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">入選</w>
+            <w type="Neu">2020</w>
+            <w type="Nc">威尼斯</w>
+            <w type="Na">影展</w>
+            <w type="FW">VR</w>
+            <w type="Na">競賽</w>
+            <w type="Na">單元</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">VENICE VR EX</w>
+         </s>
+         <s>
+            <w type="FW">PANDED_Competition</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">將</w>
+            <w type="P">與</w>
+            <w type="Nc">全球</w>
+            <w type="Dfa">最</w>
+            <w type="VH">頂尖</w>
+            <w type="DE">的</w>
+            <w type="FW">VR</w>
+            <w type="Na">作品</w>
+            <w type="VC">角逐</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="FW">VR</w>
+            <w type="Na">首獎</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW"> Best</w>
+            <w type="FW"> VR </w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Caa">及</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="A">最佳</w>
+            <w type="ETCCATEGORY">V</w>
+         </s>
+         <s>
+            <w type="FW">R</w>
+            <w type="VA">敘事</w>
+            <w type="Na">大獎</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Best</w>
+            <w type="FW"> VR Story</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">導演</w>
+            <w type="Nb">徐漢強</w>
+            <w type="VK">得知</w>
+            <w type="VJ">入圍</w>
+            <w type="Ng">後</w>
+            <w type="VC">難掩</w>
+            <w type="VH">興奮</w>
+            <w type="Na">心情</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="VE">表示</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VJ">入圍</w>
+            <w type="Nc">威尼斯</w>
+            <w type="Dfa">如此</w>
+            <w type="VH">重要</w>
+            <w type="DE">的</w>
+            <w type="Nc">國際</w>
+            <w type="Na">影展</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="P">從</w>
+         </s>
+         <s>
+            <w type="D">來</w>
+            <w type="D">沒</w>
+            <w type="VL">敢</w>
+            <w type="VE">想</w>
+            <w type="Di">過</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">所以</w>
+            <w type="VK">得知</w>
+            <w type="VJ">入圍</w>
+            <w type="Na">消息</w>
+            <w type="VK">感覺</w>
+            <w type="Dfa">很</w>
+            <w type="D">不</w>
+            <w type="VH">真實</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">但</w>
+            <w type="P">對於</w>
+            <w type="Nc">台灣</w>
+            <w type="Caa">和</w>
+            <w type="Nc">阿根廷</w>
+            <w type="DE">的</w>
+            <w type="Na">團隊</w>
+            <w type="D">來</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">這</w>
+            <w type="SHI">是</w>
+            <w type="Nh">我</w>
+         </s>
+         <s>
+            <w type="Na">們</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">次</w>
+            <w type="VC">進行</w>
+            <w type="Dfa">這麼</w>
+            <w type="VH">複雜</w>
+            <w type="DE">的</w>
+            <w type="A">跨國</w>
+            <w type="VH">合作</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">嘗試</w>
+            <w type="DE">的</w>
+            <w type="Na">內容</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="VH">全新</w>
+            <w type="DE">的</w>
+            <w type="Na">領域</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">大家</w>
+            <w type="D">就</w>
+            <w type="VH">這樣</w>
+            <w type="P">被</w>
+            <w type="Nh">我</w>
+            <w type="VC">荼毒</w>
+            <w type="Di">了</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">年</w>
+            <w type="Neqb">多</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">所以</w>
+            <w type="P">當</w>
+            <w type="Nh">他們</w>
+            <w type="DE">的</w>
+            <w type="Nv">努力</w>
+            <w type="VJ">得到</w>
+            <w type="Dfa">如此</w>
+            <w type="VK">肯定</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="VK">感到</w>
+            <w type="Dfa">非常</w>
+            <w type="VH">開心</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+         </s>
+         <s>
+            <w type="Na">導演</w>
+            <w type="Nb">許智彥</w>
+            <w type="Nes">首</w>
+            <w type="Nf">部</w>
+            <w type="FW">VR</w>
+            <w type="Na">電影</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">舊家</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="D">則</w>
+            <w type="VJ">入選</w>
+            <w type="Nc">威尼斯</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">年度</w>
+            <w type="FW">VR</w>
+            <w type="VC">精選</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">單元</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">作品</w>
+            <w type="VE">回溯</w>
+            <w type="Na">家族</w>
+            <w type="Na">故事</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VF">帶領</w>
+            <w type="Na">觀眾</w>
+            <w type="VCL">來到</w>
+            <w type="Na">祖父母</w>
+            <w type="VCL">位於</w>
+            <w type="Nc">新營</w>
+            <w type="DE">的</w>
+            <w type="Nc">舊家</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VA">重現</w>
+            <w type="VA">過年</w>
+            <w type="VH">團聚</w>
+            <w type="DE">的</w>
+            <w type="VH">熱鬧</w>
+            <w type="Na">氣氛</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Caa">以及</w>
+            <w type="Nd">現今</w>
+            <w type="DE">的</w>
+            <w type="Na">家族</w>
+            <w type="Nv">離散</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="D">一直</w>
+            <w type="Dfa">很</w>
+            <w type="VH">好奇</w>
+            <w type="Nc">舊家</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="FW">VR</w>
+            <w type="Na">電影</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">聽說</w>
+            <w type="Na">評價</w>
+            <w type="VH">不錯</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="Nd">今年</w>
+            <w type="V_2">有</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">影展</w>
+            <w type="D">可以</w>
+            <w type="VE">看</w>
+            <w type="DE">得</w>
+            <w type="VE">到</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="FW"> spicalts</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="VC">轉錄</w>
+            <w type="P">至</w>
+            <w type="Na">看板</w>
+            <w type="FW"> Kaohsiung</w>
+            <w type="FW">                                   08/01</w>
+            <w type="FW"> 15</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Cbb">43</w>
+         </s>
+      </body>
+      <title author="Beandou (豆豆)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">徐漢強</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">許智彥</w>
+            <w type="Na">導演</w>
+            <w type="FW">V</w>
+            <w type="FW">R</w>
+            <w type="Na">電影</w>
+            <w type="VJ">入圍</w>
+            <w type="Nc">威尼斯</w>
+            <w type="Na">影</w>
+         </s>
+      </title>
+      <comment author="meoww" c_type="pos">
+         <s>
+            <w type="Nd">去年</w>
+            <w type="Nc">高雄</w>
+            <w type="Na">影展</w>
+            <w type="D">好像</w>
+            <w type="V_2">有</w>
+            <w type="VC">放</w>
+         </s>
+      </comment>
+      <comment author="spicalts" c_type="pos">
+         <s>
+            <w type="Nd">現在</w>
+            <w type="Nc">高雄</w>
+            <w type="D">正在</w>
+            <w type="VAC">上映</w>
+            <w type="T">喔</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VCL">到</w>
+            <w type="Neu">9/14</w>
+         </s>
+      </comment>
+      <comment author="spicalts" c_type="neu">
+         <s>
+            <w type="FW">VR</w>
+            <w type="Na">體感</w>
+            <w type="Nc">劇院</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//vrfilmlab.tw/movie/home/</w>
+         </s>
+      </comment>
+      <comment author="msnobody" c_type="pos">
+         <s>
+            <w type="Nc">舊家</w>
+            <w type="D">真的</w>
+            <w type="Dfa">很</w>
+            <w type="VH">好看</w>
+         </s>
+      </comment>
+      <comment author="BrowningZen" c_type="pos">
+         <s>
+            <w type="Nc">舊家</w>
+            <w type="DE">的</w>
+            <w type="Na">海報</w>
+            <w type="D">怎</w>
+            <w type="V_2">有</w>
+            <w type="Na">小偷</w>
+            <w type="Na">家族</w>
+            <w type="DE">的</w>
+            <w type="Na">味道</w>
+         </s>
+      </comment>
+      <comment author="sleepyrat" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=E-H9</w>
+            <w type="FW">eku3NFk</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

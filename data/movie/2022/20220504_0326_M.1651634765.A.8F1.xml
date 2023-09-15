@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">CCY0927 (茹絮夢)</metadata>
+      <metadata name="post_id">M.1651634765.A.8F1</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 紀錄片「呼喚自由之後」 關注中國流亡民運人士</metadata>
+   </teiHeader>
+   <text>
+      <body author="CCY0927 (茹絮夢)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.cna.com.tw/news/amov/202205030162</w>
+            <w type="PERIODCATEGORY">.aspx</w>
+         </s>
+         <s>
+            <w type="Na">紀錄片</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VC">呼喚</w>
+            <w type="Na">自由</w>
+            <w type="Ng">之後</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">關注</w>
+            <w type="Nc">中國</w>
+            <w type="VCL">流亡</w>
+            <w type="Na">民運</w>
+            <w type="Na">人士</w>
+         </s>
+         <s>
+            <w type="Neu">2022/5/3 15</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">09</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nd">5/3 15</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">31 </w>
+            <w type="VC">更新</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/day</w>
+            <w type="FW">RcKV.jpg</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VC">呼喚</w>
+            <w type="Na">自由</w>
+            <w type="Ng">之後</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">系列</w>
+            <w type="Na">紀錄片</w>
+            <w type="Na">疫情</w>
+            <w type="Na">期間</w>
+            <w type="VH">遠</w>
+            <w type="VCL">赴</w>
+            <w type="Nc">英</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">美</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">法</w>
+            <w type="Cab">等</w>
+            <w type="Nc">國</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">記錄</w>
+            <w type="Na">藝術家</w>
+            <w type="Nb">艾未未</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">圖</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Cab">等</w>
+         </s>
+         <s>
+            <w type="Neu">10</w>
+            <w type="Nf">名</w>
+            <w type="VCL">流亡</w>
+            <w type="Nc">海外</w>
+            <w type="DE">的</w>
+            <w type="Nc">中國</w>
+            <w type="Na">民運</w>
+            <w type="Na">人士</w>
+            <w type="Na">心路歷程</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">中央</w>
+            <w type="Nv">廣播</w>
+            <w type="Nc">電台</w>
+            <w type="VD">提供</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Nc">中央社</w>
+            <w type="Na">記者</w>
+            <w type="Nb">葉冠吟</w>
+            <w type="VD">傳真</w>
+         </s>
+         <s>
+            <w type="Neu">111年</w>
+            <w type="Nd">5月</w>
+            <w type="Nd">3日</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">中央社</w>
+            <w type="Na">記者</w>
+            <w type="Nb">葉冠吟</w>
+            <w type="Nc">台北</w>
+            <w type="Nd">3日</w>
+            <w type="VC">電</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Na">長期</w>
+            <w type="VJ">關注</w>
+            <w type="Nc">中國</w>
+            <w type="Na">民運</w>
+            <w type="Na">人士</w>
+            <w type="Na">動態</w>
+            <w type="DE">的</w>
+            <w type="Nc">中央</w>
+            <w type="Na">廣播</w>
+            <w type="Nc">電台</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">近期</w>
+            <w type="VC">推出</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VC">呼喚</w>
+            <w type="Na">自由</w>
+            <w type="Ng">之後</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">系列</w>
+            <w type="Na">影片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">疫情</w>
+            <w type="Na">期間</w>
+            <w type="VH">遠</w>
+            <w type="VCL">赴</w>
+            <w type="Nc">英</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">美</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">法</w>
+            <w type="Cab">等</w>
+            <w type="Nc">國</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">記錄</w>
+            <w type="Na">藝術家</w>
+            <w type="Nb">艾未未</w>
+            <w type="Cab">等</w>
+            <w type="Neu">10</w>
+            <w type="Na">名流</w>
+         </s>
+         <s>
+            <w type="VH">亡</w>
+            <w type="Nc">海外</w>
+            <w type="Na">民運</w>
+            <w type="Na">人士</w>
+            <w type="DE">的</w>
+            <w type="Na">心路歷程</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">央廣</w>
+            <w type="VE">發布</w>
+            <w type="Na">新聞稿</w>
+            <w type="VJ">分享</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">系列</w>
+            <w type="Na">紀錄片</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VC">呼喚</w>
+            <w type="Na">自由</w>
+            <w type="Ng">之後</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="P">由</w>
+            <w type="Na">導演</w>
+            <w type="Nb">林正盛</w>
+            <w type="VG">擔任</w>
+            <w type="VC">監製</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">吾爾開希</w>
+            <w type="VC">擔</w>
+         </s>
+         <s>
+            <w type="VG">任</w>
+            <w type="Na">製作人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="P">由</w>
+            <w type="VL">擅長</w>
+            <w type="Na">人權</w>
+            <w type="Na">紀錄片</w>
+            <w type="VC">拍攝</w>
+            <w type="DE">的</w>
+            <w type="Nb">楊正欣</w>
+            <w type="VC">執導</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Neqa">全</w>
+            <w type="VC">作</w>
+            <w type="P">在</w>
+            <w type="FW">COVID-19</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neu">2019</w>
+            <w type="Na">冠狀病毒</w>
+            <w type="Na">疾病</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Na">疫情</w>
+            <w type="Na">期間</w>
+            <w type="VJ">克服</w>
+            <w type="VC">拍攝</w>
+            <w type="DE">的</w>
+            <w type="Nes">各</w>
+            <w type="Nf">種</w>
+            <w type="Na">挑戰</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VCL">前往</w>
+            <w type="Nc">美國</w>
+            <w type="Nc">紐約</w>
+            <w type="Caa">及</w>
+            <w type="Nc">華盛頓</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">英國</w>
+            <w type="Nc">倫敦</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">法國</w>
+            <w type="Nc">巴黎</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">以</w>
+            <w type="VC">訪談</w>
+         </s>
+         <s>
+            <w type="Na">方式</w>
+            <w type="Na">記錄</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VHC">還原</w>
+            <w type="Neu">10</w>
+            <w type="Nf">名</w>
+            <w type="Na">民運</w>
+            <w type="Na">人士</w>
+            <w type="P">從</w>
+            <w type="VC">參與</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="P">受</w>
+            <w type="VC">迫害</w>
+            <w type="P">到</w>
+            <w type="VCL">流亡</w>
+            <w type="DE">的</w>
+            <w type="Na">心路歷程</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neqa">所有</w>
+            <w type="Na">受</w>
+            <w type="VC">訪</w>
+            <w type="Na">者</w>
+            <w type="D">都</w>
+            <w type="SHI">是</w>
+            <w type="D">曾經</w>
+            <w type="VC">參與</w>
+            <w type="VH">不同</w>
+            <w type="Na">時期</w>
+            <w type="DE">的</w>
+            <w type="Nc">中國</w>
+            <w type="Na">民主</w>
+            <w type="Na">運動</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以致</w>
+            <w type="VCL">流亡</w>
+            <w type="Nc">海外</w>
+            <w type="DE">的</w>
+            <w type="Na">人士</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">包括</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nb">八九學</w>
+         </s>
+         <s>
+            <w type="Na">運</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">學生</w>
+            <w type="Na">領袖</w>
+            <w type="Nc">之</w>
+            <w type="Neu">一</w>
+            <w type="DE">的</w>
+            <w type="Nb">王丹</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="D">曾</w>
+            <w type="VG">任</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">北京</w>
+            <w type="DE">之</w>
+            <w type="Nd">春</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">雜誌</w>
+            <w type="Na">主編</w>
+            <w type="DE">的</w>
+            <w type="Nb">胡平</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">支持</w>
+            <w type="Nc">天安門</w>
+            <w type="Na">學生</w>
+            <w type="Na">運動</w>
+            <w type="DE">的</w>
+            <w type="Na">企</w>
+         </s>
+         <s>
+            <w type="Na">業家</w>
+            <w type="Nb">萬潤南</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nd">八九</w>
+            <w type="Na">學運</w>
+            <w type="Na">期間</w>
+            <w type="VC">協助</w>
+            <w type="VC">運出</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nh">我</w>
+            <w type="SHI">是</w>
+            <w type="Nb">柴玲</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="D">還</w>
+            <w type="VH">活</w>
+            <w type="Di">著</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">錄音帶</w>
+            <w type="DE">的</w>
+            <w type="Nb">蔡崇國</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="SHI">是</w>
+            <w type="Na">藝術家</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="Nc">中國</w>
+            <w type="Na">異議</w>
+            <w type="Na">人士</w>
+            <w type="DE">的</w>
+            <w type="Nb">艾未未</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">組建</w>
+            <w type="Nc">天安門</w>
+            <w type="Nc">廣場</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">學運</w>
+            <w type="DE">之</w>
+            <w type="Na">聲</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Nc">廣播站</w>
+            <w type="DE">的</w>
+            <w type="Nb">周鋒鎖</w>
+         </s>
+         <s>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="D">曾</w>
+            <w type="VG">任</w>
+            <w type="Na">記者</w>
+            <w type="Caa">與</w>
+            <w type="Na">人權</w>
+            <w type="Na">紀錄片</w>
+            <w type="Na">導演</w>
+            <w type="DE">的</w>
+            <w type="Nb">華澤</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="P">因</w>
+            <w type="Na">長期</w>
+            <w type="VC">資助</w>
+            <w type="Na">民運</w>
+            <w type="Na">學生</w>
+            <w type="Cbb">而</w>
+            <w type="P">被</w>
+            <w type="Nc">中國</w>
+            <w type="VB">判刑</w>
+            <w type="VA">入獄</w>
+            <w type="DE">的</w>
+            <w type="Nb">燕鵬</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">維</w>
+         </s>
+         <s>
+            <w type="Na">權</w>
+            <w type="Na">律師</w>
+            <w type="Nb">滕彪</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">以及</w>
+            <w type="VC">揭露</w>
+            <w type="Nc">中國</w>
+            <w type="Na">核武</w>
+            <w type="Na">實驗</w>
+            <w type="Caa">與</w>
+            <w type="VC">活摘</w>
+            <w type="Na">器官</w>
+            <w type="DE">的</w>
+            <w type="Nb">維吾爾</w>
+            <w type="Nc">外科</w>
+            <w type="Na">醫生</w>
+            <w type="Nb">安華托帝</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">央廣</w>
+            <w type="Na">董事長</w>
+            <w type="Nb">賴秀如</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">回看</w>
+            <w type="Nd">1978年</w>
+            <w type="Caa">至</w>
+            <w type="Nd">1980年</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">西單</w>
+            <w type="Na">民主牆</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="P">與</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">北京</w>
+            <w type="DE">之</w>
+            <w type="Nd">春</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">到</w>
+            <w type="Neu">1989</w>
+         </s>
+         <s>
+            <w type="Na">年</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nb">六四</w>
+            <w type="Nc">天安門</w>
+            <w type="Na">學運</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">及</w>
+            <w type="Nd">之後</w>
+            <w type="DE">的</w>
+            <w type="Nes">各</w>
+            <w type="Nf">種</w>
+            <w type="Na">公民</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VA">維權</w>
+            <w type="Na">活動</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Nc">中國</w>
+            <w type="Neqa">諸多</w>
+            <w type="P">為</w>
+            <w type="VC">爭取</w>
+            <w type="Na">自由</w>
+            <w type="Caa">與</w>
+            <w type="Na">正義</w>
+         </s>
+         <s>
+            <w type="Cbb">而</w>
+            <w type="VC">參與</w>
+            <w type="Na">民主</w>
+            <w type="Na">運動</w>
+            <w type="DE">的</w>
+            <w type="Na">知識</w>
+            <w type="Na">青年</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">被迫</w>
+            <w type="VA">離家</w>
+            <w type="VCL">流亡</w>
+            <w type="Nc">國外</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">賴秀如</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">30</w>
+            <w type="Neqb">多</w>
+            <w type="Nf">年</w>
+            <w type="Ng">後</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">那些</w>
+            <w type="D">曾</w>
+            <w type="VA">站</w>
+            <w type="P">在</w>
+            <w type="Nc">天安門</w>
+            <w type="Nc">廣場</w>
+            <w type="Ncd">上</w>
+            <w type="VH">聲嘶力竭</w>
+            <w type="DE">的</w>
+            <w type="Na">學生</w>
+            <w type="Na">領袖</w>
+            <w type="D">已</w>
+            <w type="VCL">步入</w>
+            <w type="Na">中年</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VCL">流亡</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Na">歲月</w>
+            <w type="D">早已</w>
+            <w type="VJ">超過</w>
+            <w type="VA">居住</w>
+            <w type="P">在</w>
+            <w type="Nc">中國</w>
+            <w type="DE">的</w>
+            <w type="Na">時間</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">希望</w>
+            <w type="Na">社會</w>
+            <w type="Nh">大眾</w>
+            <w type="D">能</w>
+            <w type="A">共同</w>
+            <w type="VJ">關注</w>
+            <w type="Nc">中國</w>
+            <w type="Na">民運</w>
+            <w type="Na">人士</w>
+            <w type="DE">的</w>
+            <w type="Na">生命</w>
+            <w type="Na">故事</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="Nf">支</w>
+            <w type="Na">影片</w>
+            <w type="D">將</w>
+            <w type="P">於</w>
+            <w type="Nes">每</w>
+            <w type="Nd">週一</w>
+            <w type="Caa">及</w>
+            <w type="Nd">週四</w>
+            <w type="P">在</w>
+            <w type="Nc">央廣</w>
+            <w type="Na">官網</w>
+            <w type="D">陸續</w>
+            <w type="VB">上架</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">另外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">導演</w>
+            <w type="Nb">楊正欣</w>
+            <w type="D">也</w>
+            <w type="P">以</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Neu">1950－1980</w>
+            <w type="Nc">人間</w>
+            <w type="PERIODCATEGORY">．</w>
+            <w type="Nc">煉獄</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Neu">1980－1989</w>
+            <w type="VC">改革</w>
+            <w type="VH">開放</w>
+            <w type="DE">的</w>
+            <w type="Na">夢</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+         </s>
+         <s>
+            <w type="Neu">1990－2015</w>
+            <w type="VCL">流亡</w>
+            <w type="Caa">與</w>
+            <w type="Na">牢籠</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Caa">及</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">自由</w>
+            <w type="Nd">現在</w>
+            <w type="Na">進行式</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Neu">4</w>
+            <w type="Nf">個</w>
+            <w type="Na">主軸</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">將</w>
+            <w type="Neu">10</w>
+            <w type="Nf">名</w>
+            <w type="Na">受</w>
+            <w type="VC">訪</w>
+            <w type="Na">者</w>
+            <w type="VC">串起</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">製成</w>
+            <w type="Na">紀錄</w>
+         </s>
+         <s>
+            <w type="Na">長片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="D">將</w>
+            <w type="P">在</w>
+            <w type="Nb">中正</w>
+            <w type="Nc">大學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">清華</w>
+            <w type="Nc">大學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">東吳</w>
+            <w type="Nc">大學</w>
+            <w type="VC">舉辦</w>
+            <w type="Na">特映會</w>
+            <w type="Caa">及</w>
+            <w type="Nd">映後</w>
+            <w type="Na">座談</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">編輯</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">陳仁華</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </body>
+      <title author="CCY0927 (茹絮夢)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">紀錄片</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VC">呼喚</w>
+            <w type="Na">自由</w>
+            <w type="Ng">之後</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">關注</w>
+            <w type="Nc">中國</w>
+            <w type="VCL">流亡</w>
+            <w type="Na">民運</w>
+            <w type="Na">人士</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

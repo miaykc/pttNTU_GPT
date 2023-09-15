@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">romeer (pnft24)</metadata>
+      <metadata name="post_id">M.1619122322.A.0D0</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 好棒</metadata>
+   </teiHeader>
+   <text>
+      <body author="romeer (pnft24)">
+         <s>
+            <w type="VH">好棒</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">四</w>
+            <w type="Nf">點</w>
+            <w type="FW">ㄌ</w>
+         </s>
+      </body>
+      <title author="romeer (pnft24)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">好棒</w>
+         </s>
+      </title>
+      <comment author="taipoo" c_type="neu">
+         <s>
+            <w type="Nd">現在</w>
+            <w type="Nd">五點</w>
+            <w type="Neqb">多</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="daye87" c_type="pos">
+         <s>
+            <w type="Neu">6.22</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="KRTgirls" c_type="neu">
+         <s>
+            <w type="D">又</w>
+            <w type="Nd">四點</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

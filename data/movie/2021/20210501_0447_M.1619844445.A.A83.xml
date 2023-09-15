@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">PrinceKanto (奈々未跟絵梨花的老公)</metadata>
+      <metadata name="post_id">M.1619844445.A.A83</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 三浦翔平變身坂本龍馬懷念與三浦春馬談心</metadata>
+   </teiHeader>
+   <text>
+      <body author="PrinceKanto (奈々未跟絵梨花的老公)">
+         <s>
+            <w type="Na">新聞</w>
+            <w type="Na">網址</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//ent.ltn.com.tw/news/paper/1446054</w>
+         </s>
+         <s>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="Na">標題</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">三浦翔平</w>
+            <w type="VA">變身</w>
+            <w type="Nb">坂本龍馬</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">懷念</w>
+            <w type="Caa">與</w>
+            <w type="Nb">三浦春馬</w>
+            <w type="VA">談心</w>
+         </s>
+         <s>
+            <w type="Na">新聞</w>
+            <w type="Na">來源</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">自由時報</w>
+            <w type="Na">電子報</w>
+         </s>
+         <s>
+            <w type="Neu">2021</w>
+            <w type="DASHCATEGORY">-05-01 </w>
+            <w type="Na">記者</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">鍾志均</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">報導</w>
+         </s>
+         <s>
+            <w type="Na">新聞</w>
+            <w type="Na">內容</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="Nb">三浦春馬</w>
+            <w type="P">在</w>
+            <w type="Na">遺作</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">天</w>
+            <w type="Ncd">外</w>
+            <w type="Na">者</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VC">詮釋</w>
+            <w type="Na">歷史</w>
+            <w type="Na">人物</w>
+            <w type="Nd">五代</w>
+            <w type="Na">友厚</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">帶領</w>
+            <w type="Na">觀眾</w>
+            <w type="D">重新</w>
+            <w type="VC">正視</w>
+            <w type="Nep">這</w>
+            <w type="Nf">位</w>
+            <w type="Na">懷抱</w>
+            <w type="VH">遠大</w>
+            <w type="VH">理想</w>
+         </s>
+         <s>
+            <w type="DE">的</w>
+            <w type="Na">偉人</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nb">三浦翔平</w>
+            <w type="VC">飾演</w>
+            <w type="P">和</w>
+            <w type="Nh">他</w>
+            <w type="D">一起</w>
+            <w type="VA">奮鬥</w>
+            <w type="DE">的</w>
+            <w type="Na">戰友</w>
+            <w type="Nb">坂本龍馬</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">表示</w>
+            <w type="Dfa">最</w>
+            <w type="VK">喜歡</w>
+            <w type="DE">的</w>
+            <w type="Neu">一</w>
+            <w type="Nf">場</w>
+            <w type="Na">戲</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">便是</w>
+            <w type="P">和</w>
+            <w type="Nb">三浦</w>
+         </s>
+         <s>
+            <w type="Na">春馬</w>
+            <w type="D">一起</w>
+            <w type="VCL">爬上</w>
+            <w type="Na">船</w>
+            <w type="Na">桅杆</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">一邊</w>
+            <w type="VC">看</w>
+            <w type="Di">著</w>
+            <w type="Na">大海</w>
+            <w type="D">一邊</w>
+            <w type="VE">暢談</w>
+            <w type="Na">內心</w>
+            <w type="Na">抱負</w>
+            <w type="DE">的</w>
+            <w type="Na">場景</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nep">這</w>
+            <w type="Nf">場</w>
+            <w type="Na">戲</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">大而化之</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Na">龍馬</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">意外</w>
+            <w type="VF">鼓勵</w>
+            <w type="Di">了</w>
+            <w type="D">正</w>
+            <w type="VJ">處於</w>
+            <w type="Nh">自我</w>
+            <w type="VK">懷疑</w>
+            <w type="DE">的</w>
+            <w type="Neu">五代</w>
+            <w type="Nv">友厚</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="D">真的</w>
+            <w type="Dfa">很</w>
+            <w type="VK">喜歡</w>
+            <w type="Nep">那</w>
+            <w type="Nf">場</w>
+            <w type="Na">戲</w>
+            <w type="DE">的</w>
+            <w type="Na">氛圍</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nes">該</w>
+            <w type="Nf">片</w>
+            <w type="VA">重現</w>
+            <w type="Nc">幕府</w>
+            <w type="Na">末年</w>
+            <w type="DE">的</w>
+            <w type="Na">時代</w>
+            <w type="Na">樣貌</w>
+            <w type="Caa">以及</w>
+            <w type="Na">豪傑</w>
+            <w type="Na">群像</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">對於</w>
+            <w type="Nep">這</w>
+            <w type="Nf">次</w>
+            <w type="VC">飾演</w>
+            <w type="Na">重量級</w>
+            <w type="Na">歷史</w>
+            <w type="Na">人物</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">三浦翔</w>
+            <w type="VH">平坦</w>
+         </s>
+         <s>
+            <w type="VE">言</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">龍馬</w>
+            <w type="DE">的</w>
+            <w type="Na">粉絲</w>
+            <w type="Dfa">非常</w>
+            <w type="VH">多</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">因此</w>
+            <w type="Nd">當初</w>
+            <w type="VC">接演</w>
+            <w type="Ng">時</w>
+            <w type="VK">備感</w>
+            <w type="Na">壓力</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">除了</w>
+            <w type="VC">苦練</w>
+            <w type="Na">方言</w>
+            <w type="Ng">外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="D">四處</w>
+            <w type="VCL">走訪</w>
+            <w type="VH">相關</w>
+            <w type="VJ">歷</w>
+         </s>
+         <s>
+            <w type="Na">史</w>
+            <w type="Na">景點</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">包含</w>
+            <w type="Na">龍馬</w>
+            <w type="DE">之</w>
+            <w type="Na">墓</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">歷史</w>
+            <w type="Nc">博物館</w>
+            <w type="Cab">等</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">深入</w>
+            <w type="VK">了解</w>
+            <w type="P">關於</w>
+            <w type="Na">龍馬</w>
+            <w type="DE">的</w>
+            <w type="Neqa">一切</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">天外者</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Nd">5月</w>
+            <w type="Nd">7日</w>
+            <w type="P">在</w>
+         </s>
+         <s>
+            <w type="Nc">台</w>
+            <w type="VAC">上映</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </body>
+      <title author="PrinceKanto (奈々未跟絵梨花的老公)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">三浦翔平</w>
+            <w type="VA">變身</w>
+            <w type="Nb">坂本龍馬</w>
+            <w type="VJ">懷念</w>
+            <w type="Caa">與</w>
+            <w type="Nb">三浦春馬</w>
+            <w type="VA">談心</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ann141414 (海底撈火鍋)</metadata>
+      <metadata name="post_id">M.1619245769.A.635</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 敲鍵盤很大聲</metadata>
+   </teiHeader>
+   <text>
+      <body author="ann141414 (海底撈火鍋)">
+         <s>
+            <w type="DE">的</w>
+            <w type="Neqa">那些</w>
+            <w type="Na">人</w>
+         </s>
+         <s>
+            <w type="D">真的</w>
+            <w type="D">都</w>
+            <w type="VJ">沒有</w>
+            <w type="Na">自覺</w>
+         </s>
+         <s>
+            <w type="VHC">可憐</w>
+            <w type="T">哪</w>
+         </s>
+         <s>
+            <w type="D">真的</w>
+            <w type="SHI">是</w>
+            <w type="VH">爛</w>
+            <w type="P">到</w>
+            <w type="VH">無以復加</w>
+         </s>
+         <s>
+            <w type="VH">嘔</w>
+            <w type="VH">嘔</w>
+            <w type="VH">嘔</w>
+            <w type="VH">嘔</w>
+            <w type="VH">嘔</w>
+         </s>
+      </body>
+      <title author="ann141414 (海底撈火鍋)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">敲</w>
+            <w type="Na">鍵盤</w>
+            <w type="Dfa">很</w>
+            <w type="VH">大聲</w>
+         </s>
+      </title>
+      <comment author="taipoo" c_type="neu">
+         <s>
+            <w type="Nh">你</w>
+            <w type="D">可以</w>
+            <w type="VC">摔</w>
+            <w type="Nh">他</w>
+            <w type="Na">鍵盤</w>
+         </s>
+      </comment>
+      <comment author="daye87" c_type="pos">
+         <s>
+            <w type="VK">抱歉</w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="Nh">我</w>
+            <w type="T">啦</w>
+         </s>
+      </comment>
+      <comment author="taipoo" c_type="pos">
+         <s>
+            <w type="Nep">那</w>
+            <w type="D">就</w>
+            <w type="VI">沒辦法</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="neu">
+         <s>
+            <w type="Nes">另</w>
+            <w type="Neu">一</w>
+            <w type="Nf">種</w>
+            <w type="SHI">是</w>
+            <w type="Na">滑鼠</w>
+            <w type="Na">按鍵</w>
+            <w type="Dfa">很</w>
+            <w type="VH">大聲</w>
+         </s>
+      </comment>
+      <comment author="KnifePTT" c_type="pos">
+         <s>
+            <w type="Neqa">很多</w>
+            <w type="Na">人</w>
+            <w type="VC">使用</w>
+            <w type="Na">習慣</w>
+            <w type="D">真的</w>
+            <w type="Dfa">很</w>
+            <w type="VH">差</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="P">按</w>
+            <w type="Na">超大力</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">桌子</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="VAC">震</w>
+         </s>
+      </comment>
+      <comment author="kenness1019" c_type="pos">
+         <s>
+            <w type="VC">翻</w>
+            <w type="Na">書</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">用</w>
+            <w type="Na">筆</w>
+            <w type="D">也</w>
+            <w type="Neu">一</w>
+            <w type="Nf">堆</w>
+            <w type="D">超級</w>
+            <w type="VH">大聲</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="trymybest" c_type="pos">
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">句</w>
+            <w type="Na">話</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="VHC">可憐</w>
+            <w type="T">哪</w>
+         </s>
+      </comment>
+      <comment author="ssd860505da" c_type="neu">
+         <s>
+            <w type="VH">低能</w>
+            <w type="P">在</w>
+            <w type="Ncd">那邊</w>
+            <w type="D">一直</w>
+            <w type="VC">敲</w>
+            <w type="FW">enter</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

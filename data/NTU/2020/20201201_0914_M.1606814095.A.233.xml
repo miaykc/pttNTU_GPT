@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ahuihui (Upper limb)</metadata>
+      <metadata name="post_id">M.1606814095.A.233</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] 醫學院實驗紀錄簿</metadata>
+   </teiHeader>
+   <text>
+      <body author="ahuihui (Upper limb)">
+         <s>
+            <w type="P">如</w>
+            <w type="Na">題</w>
+         </s>
+         <s>
+            <w type="VE">想</w>
+            <w type="VE">問</w>
+            <w type="Nd">一下</w>
+         </s>
+         <s>
+            <w type="Nd">現在</w>
+            <w type="Nc">醫學院</w>
+            <w type="DE">的</w>
+            <w type="Nc">福利社</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="D">在</w>
+            <w type="VD">賣</w>
+            <w type="T">嗎</w>
+         </s>
+         <s>
+            <w type="Na">封面</w>
+            <w type="SHI">是</w>
+            <w type="Na">綠色</w>
+            <w type="DE">的</w>
+            <w type="Nv">實驗</w>
+            <w type="Na">紀錄簿</w>
+         </s>
+         <s>
+            <w type="Na">內頁</w>
+            <w type="SHI">是</w>
+            <w type="Na">網格</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Nes">前</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">日</w>
+            <w type="VCL">去</w>
+            <w type="Nc">福利社</w>
+            <w type="VC">找</w>
+            <w type="D">不</w>
+            <w type="VC">到</w>
+         </s>
+         <s>
+            <w type="Caa">還是</w>
+            <w type="Nc">總區</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="D">在</w>
+            <w type="VD">賣</w>
+            <w type="T">呢</w>
+         </s>
+         <s>
+            <w type="VK">感謝</w>
+            <w type="FW">～</w>
+         </s>
+         <s>
+            <w type="VK">瞭解</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">您</w>
+         </s>
+      </body>
+      <title author="ahuihui (Upper limb)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">醫學院</w>
+            <w type="Nv">實驗</w>
+            <w type="Na">紀錄簿</w>
+         </s>
+      </title>
+      <comment author="ahuihui" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//ibb.co/YcfGTDs</w>
+         </s>
+      </comment>
+      <comment author="mark10133" c_type="neu">
+         <s>
+            <w type="D">要</w>
+            <w type="VCL">去</w>
+            <w type="Nc">醫學院</w>
+            <w type="Nc">聯教館</w>
+            <w type="FW">B1</w>
+            <w type="DE">的</w>
+            <w type="Nc">影印店</w>
+            <w type="P">跟</w>
+            <w type="Nh">他</w>
+            <w type="VE">說</w>
+            <w type="D">要</w>
+            <w type="VC">買</w>
+            <w type="VE">實驗</w>
+            <w type="Na">記錄簿</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

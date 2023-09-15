@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">nicolaschen2 (ii)</metadata>
+      <metadata name="post_id">M.1599585465.A.2B4</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">Re: [討論] 天能 尼爾的一點疑問 雷</metadata>
+   </teiHeader>
+   <text>
+      <body author="nicolaschen2 (ii)">
+         <s>
+            <w type="D">不用</w>
+            <w type="VE">假設</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">因為</w>
+            <w type="Nb">尼爾</w>
+            <w type="Nd">最後</w>
+            <w type="D">就</w>
+            <w type="V_2">有</w>
+            <w type="VE">說</w>
+            <w type="Di">了</w>
+            <w type="Nh">他</w>
+            <w type="VJ">認識</w>
+            <w type="Na">主角</w>
+            <w type="D">已經</w>
+            <w type="Neqa">很多</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nf">年</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">那些</w>
+            <w type="VE">講</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">個</w>
+            <w type="Na">禮拜</w>
+            <w type="Caa">或</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">天</w>
+         </s>
+         <s>
+            <w type="DE">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">應該</w>
+            <w type="D">都</w>
+            <w type="P">在</w>
+            <w type="D">亂看</w>
+            <w type="T">吧</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </body>
+      <title author="nicolaschen2 (ii)">
+         <s>
+            <w type="FW">Re</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">天能</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">尼爾</w>
+            <w type="DE">的</w>
+            <w type="Neqa">一</w>
+            <w type="Na">點</w>
+            <w type="Na">疑問</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">雷</w>
+         </s>
+      </title>
+      <comment author="TobyH4cker" c_type="pos">
+         <s>
+            <w type="Na">正解</w>
+         </s>
+      </comment>
+      <comment author="creepy" c_type="pos">
+         <s>
+            <w type="Nd">最後</w>
+            <w type="V_2">有</w>
+            <w type="VE">講</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neqa">整</w>
+            <w type="Nf">部</w>
+            <w type="Na">片</w>
+            <w type="D">都</w>
+            <w type="SHI">是</w>
+            <w type="VC">鉗行</w>
+            <w type="Na">攻勢</w>
+            <w type="DE">的</w>
+            <w type="Neqa">一半</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

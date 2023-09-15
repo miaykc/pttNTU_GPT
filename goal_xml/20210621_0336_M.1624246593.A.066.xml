@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jason90814 (菜B08)</metadata>
+      <metadata name="post_id">M.1624246593.A.066</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 幹你的拉普拉斯轉換</metadata>
+   </teiHeader>
+   <text>
+      <body author="jason90814 (菜B08)">
+         <s>
+            <w type="VC">操</w>
+         </s>
+         <s>
+            <w type="Nd">去年</w>
+            <w type="Na">電路學</w>
+            <w type="Nd">期末</w>
+            <w type="Nb">拉普拉斯</w>
+            <w type="VC">解</w>
+            <w type="D">不</w>
+            <w type="VC">開</w>
+            <w type="VH">直接</w>
+            <w type="VC">噴</w>
+            <w type="Neu">30</w>
+            <w type="Nf">分</w>
+         </s>
+         <s>
+            <w type="Nd">今年</w>
+            <w type="Na">信號</w>
+            <w type="Nd">期末</w>
+            <w type="D">又</w>
+            <w type="VC">解</w>
+            <w type="D">不</w>
+            <w type="VC">開</w>
+            <w type="VC">噴</w>
+            <w type="Neu">15</w>
+            <w type="Nf">分</w>
+         </s>
+         <s>
+            <w type="VC">操</w>
+            <w type="Nh">你</w>
+            <w type="DE">的</w>
+            <w type="Nb">拉普拉斯</w>
+         </s>
+         <s>
+            <w type="VC">發明</w>
+            <w type="Nep">這</w>
+            <w type="VC">殺</w>
+            <w type="VH">小</w>
+            <w type="Na">狗</w>
+            <w type="VC">幹</w>
+            <w type="VC">計算</w>
+         </s>
+      </body>
+      <title author="jason90814 (菜B08)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">幹</w>
+            <w type="Nh">你</w>
+            <w type="DE">的</w>
+            <w type="Nb">拉普拉斯</w>
+            <w type="VC">轉換</w>
+         </s>
+      </title>
+      <comment author="hank850503" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">種</w>
+            <w type="VH">簡單</w>
+            <w type="DE">的</w>
+            <w type="Na">東西</w>
+         </s>
+      </comment>
+      <comment author="DH0617" c_type="neu">
+         <s>
+            <w type="Nb">拉普拉斯</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Na">工數</w>
+            <w type="Ncd">裡面</w>
+            <w type="Dfa">最</w>
+            <w type="FW">ez</w>
+            <w type="T">的</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="toythomas" c_type="pos">
+         <s>
+            <w type="Nb">傅立葉</w>
+            <w type="Dfa">比較</w>
+            <w type="Na">鬼畜</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="neu">
+         <s>
+            <w type="Nb">傅立葉</w>
+            <w type="DE">的</w>
+            <w type="Na">好朋友</w>
+            <w type="FW"> XD</w>
+         </s>
+      </comment>
+      <comment author="cwh0105" c_type="neu">
+         <s>
+            <w type="VC">乘</w>
+            <w type="Na">龍</w>
+         </s>
+      </comment>
+      <comment author="a9075a9075" c_type="pos">
+         <s>
+            <w type="Na">弱點</w>
+            <w type="Na">保險</w>
+            <w type="Dfa">極光幕</w>
+         </s>
+      </comment>
+      <comment author="jzoethai" c_type="pos">
+         <s>
+            <w type="VC">見識</w>
+            <w type="Di">過</w>
+            <w type="FW">Laplace</w>
+            <w type="Ng">後</w>
+            <w type="D">再</w>
+            <w type="VC">看</w>
+            <w type="FW">Fourier</w>
+            <w type="D">會</w>
+            <w type="VE">發現</w>
+            <w type="D">根本</w>
+            <w type="VH">小巫見大巫</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

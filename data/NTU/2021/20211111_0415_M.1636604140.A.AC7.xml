@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">dumdumdum (當當當)</metadata>
+      <metadata name="post_id">M.1636604140.A.AC7</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 期中科目報數</metadata>
+   </teiHeader>
+   <text>
+      <body author="dumdumdum (當當當)">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Nb">延</w>
+            <w type="Nb">畢仔</w>
+            <w type="T">啦</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="Na">期中考</w>
+            <w type="Da">只</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">科</w>
+            <w type="D">嘻嘻</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="Nh">你</w>
+            <w type="Nes">各位</w>
+            <w type="Na">菜兵</w>
+            <w type="D">要</w>
+            <w type="VE">考</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">科</w>
+            <w type="I">啊</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="VC">考</w>
+            <w type="DE">的</w>
+            <w type="Na">科目</w>
+            <w type="P">比</w>
+            <w type="Nh">我</w>
+            <w type="VH">多</w>
+            <w type="DE">的</w>
+            <w type="P">按</w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="P">比</w>
+            <w type="Nh">我</w>
+            <w type="VH">少</w>
+            <w type="DE">的</w>
+            <w type="VC">按</w>
+            <w type="Neu">2</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="VC">統計</w>
+            <w type="Nd">一下</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from JPTT on</w>
+            <w type="FW"> my LGE LM-G820</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="dumdumdum (當當當)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">期中</w>
+            <w type="Na">科目</w>
+            <w type="Na">報數</w>
+         </s>
+      </title>
+      <comment author="troglodyte" c_type="neu">
+         <s>
+            <w type="Neu">7</w>
+         </s>
+      </comment>
+      <comment author="mayolane" c_type="neu">
+         <s>
+            <w type="Na">國防</w>
+            <w type="VG">算</w>
+            <w type="Neu">一</w>
+            <w type="Nf">科</w>
+            <w type="FW">ㄇ</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="neu">
+         <s>
+            <w type="Neu">0</w>
+         </s>
+      </comment>
+      <comment author="wcnoname5" c_type="neu">
+         <s>
+            <w type="Cbb">4</w>
+         </s>
+      </comment>
+      <comment author="NTUGinger" c_type="neu">
+         <s>
+            <w type="Neu">1</w>
+         </s>
+      </comment>
+      <comment author="steven56138" c_type="neg">
+         <s>
+            <w type="Neu">1</w>
+         </s>
+      </comment>
+      <comment author="BASEGO" c_type="neg">
+         <s>
+            <w type="Neu">2</w>
+            <w type="D">沒</w>
+            <w type="VHC">壞</w>
+         </s>
+      </comment>
+      <comment author="prmotolprlin" c_type="neu">
+         <s>
+            <w type="Neu">3</w>
+         </s>
+      </comment>
+      <comment author="HayamaKami" c_type="neu">
+         <s>
+            <w type="Neu">0</w>
+         </s>
+      </comment>
+      <comment author="tek5615" c_type="pos">
+         <s>
+            <w type="FW">NA</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

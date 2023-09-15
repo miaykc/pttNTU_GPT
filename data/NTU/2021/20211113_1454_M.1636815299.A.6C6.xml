@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">sharkbig (裝睡的人不會醒)</metadata>
+      <metadata name="post_id">M.1636815299.A.6C6</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 福利社要提供外送服務ㄌ</metadata>
+   </teiHeader>
+   <text>
+      <body author="sharkbig (裝睡的人不會醒)">
+         <s>
+            <w type="Nc">學校</w>
+            <w type="D">終於</w>
+            <w type="VC">照顧到</w>
+            <w type="P">在</w>
+            <w type="Nc">邊疆</w>
+            <w type="Nc">區域</w>
+            <w type="DE">的</w>
+            <w type="Na">菸酒</w>
+            <w type="VC">生</w>
+            <w type="Di">了</w>
+         </s>
+         <s>
+            <w type="VA">痛哭流涕</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> Google</w>
+            <w type="FW"> Pixel</w>
+            <w type="FW"> 4</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="sharkbig (裝睡的人不會醒)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">福利社</w>
+            <w type="D">要</w>
+            <w type="VD">提供</w>
+            <w type="Nv">外送</w>
+            <w type="Nv">服務</w>
+            <w type="FW">ㄌ</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

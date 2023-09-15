@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">frank547 ()</metadata>
+      <metadata name="post_id">M.1616236403.A.0B8</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片]  youtube上看到的片段</metadata>
+   </teiHeader>
+   <text>
+      <body author="frank547 ()">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/ub</w>
+            <w type="FW">YOEENMEn</w>
+            <w type="ETCCATEGORY">M</w>
+         </s>
+         <s>
+            <w type="D">偶然</w>
+            <w type="VE">看到</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">影片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">其中</w>
+            <w type="V_2">有</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">個</w>
+            <w type="Na">片段</w>
+            <w type="VE">看</w>
+            <w type="D">不</w>
+            <w type="VE">出來</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">想</w>
+            <w type="VE">請問</w>
+            <w type="Neu">0</w>
+            <w type="Nf">分</w>
+            <w type="Neu">19</w>
+            <w type="Nf">秒</w>
+            <w type="Caa">跟</w>
+            <w type="Neu">1</w>
+            <w type="Nf">分</w>
+            <w type="Neu">48</w>
+            <w type="Nf">秒</w>
+            <w type="DE">的</w>
+            <w type="Nep">這</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+         </s>
+         <s>
+            <w type="D">分別</w>
+            <w type="SHI">是</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">電影</w>
+            <w type="T">呢</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="VK">感謝</w>
+            <w type="Na">解答</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </body>
+      <title author="frank547 ()">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW">  youtube</w>
+            <w type="Ng">上</w>
+            <w type="VE">看到</w>
+            <w type="DE">的</w>
+            <w type="Na">片段</w>
+         </s>
+      </title>
+      <comment author="kaykevin" c_type="neu">
+         <s>
+            <w type="FW">Message</w>
+            <w type="FW"> in</w>
+            <w type="FW"> a</w>
+            <w type="FW"> bottle</w>
+         </s>
+      </comment>
+      <comment author="kaykevin" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/Ur9</w>
+            <w type="FW">xLzOJNIs</w>
+         </s>
+      </comment>
+      <comment author="tuhsiaofu" c_type="pos">
+         <s>
+            <w type="Nb">凱文科斯納</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">蘿賓萊特</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">瓶中信</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+      </comment>
+      <comment author="makitasyu" c_type="pos">
+         <s>
+            <w type="Nb">瓶中信</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">記得</w>
+            <w type="Nd">當時</w>
+            <w type="VE">看到</w>
+            <w type="Na">結局</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="VH">大</w>
+            <w type="VH">傻眼</w>
+            <w type="DASHCATEGORY">X</w>
+            <w type="ETCCATEGORY">D</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

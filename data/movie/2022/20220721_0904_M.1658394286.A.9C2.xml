@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">h2030625 (雙重人格)</metadata>
+      <metadata name="post_id">M.1658394286.A.9C2</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[普雷] 小小兵2</metadata>
+   </teiHeader>
+   <text>
+      <body author="h2030625 (雙重人格)">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="VH">滿多</w>
+            <w type="Na">人</w>
+            <w type="VC">看</w>
+            <w type="DE">的</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">天</w>
+            <w type="VC">看</w>
+            <w type="V_2">有</w>
+            <w type="VC">坐滿</w>
+         </s>
+         <s>
+            <w type="Na">妹子</w>
+            <w type="VH">滿多</w>
+            <w type="DE">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="Na">小小兵</w>
+            <w type="Dfa">太</w>
+            <w type="VH">可愛</w>
+         </s>
+         <s>
+            <w type="Na">小小兵</w>
+            <w type="Na">劇情</w>
+            <w type="Ncd">前面</w>
+            <w type="D">還</w>
+            <w type="VH">不錯</w>
+            <w type="Dfa">很</w>
+            <w type="VH">好笑</w>
+         </s>
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="Ncd">中</w>
+            <w type="Ncd">後面</w>
+            <w type="V_2">有些</w>
+            <w type="VC">重複</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">功夫</w>
+            <w type="Ncd">那邊</w>
+            <w type="VC">重複</w>
+            <w type="Neu">三四</w>
+            <w type="Nf">次</w>
+         </s>
+         <s>
+            <w type="D">就</w>
+            <w type="Dfa">有點</w>
+            <w type="VH">疲勞</w>
+            <w type="FW"> BOSS</w>
+            <w type="D">也</w>
+            <w type="VC">收</w>
+            <w type="Dfa">太</w>
+            <w type="VH">快</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+            <w type="VC">埋</w>
+            <w type="Neqa">一些</w>
+         </s>
+         <s>
+            <w type="Na">神偷</w>
+            <w type="Na">奶爸</w>
+            <w type="DE">的</w>
+            <w type="Na">梗 </w>
+            <w type="D">還</w>
+            <w type="VH">不錯</w>
+         </s>
+      </body>
+      <title author="h2030625 (雙重人格)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nb">普雷</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">小小兵</w>
+            <w type="Neu">2</w>
+         </s>
+      </title>
+      <comment author="arsl400" c_type="neu">
+         <s>
+            <w type="Na">妹子</w>
+         </s>
+      </comment>
+      <comment author="nwoyao" c_type="pos">
+         <s>
+            <w type="VH">小小兵</w>
+            <w type="Na">男女</w>
+            <w type="VC">通</w>
+            <w type="VC">殺</w>
+         </s>
+      </comment>
+      <comment author="ericf129" c_type="neu">
+         <s>
+            <w type="Na">老少</w>
+            <w type="D">也</w>
+            <w type="D">通</w>
+            <w type="VC">殺</w>
+         </s>
+      </comment>
+      <comment author="garyjcw" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

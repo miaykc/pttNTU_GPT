@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">takuminauki (史迪格里茲粉)</metadata>
+      <metadata name="post_id">M.1614943843.A.E5C</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 地獄的花園預告</metadata>
+   </teiHeader>
+   <text>
+      <body author="takuminauki (史迪格里茲粉)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=BhQ4xk8</w>
+            <w type="FW">YC7</w>
+            <w type="ETCCATEGORY">I</w>
+         </s>
+         <s>
+            <w type="Na">卡司</w>
+         </s>
+         <s>
+            <w type="Nb">川榮李奈</w>
+         </s>
+         <s>
+            <w type="Nb">菜菜緒</w>
+         </s>
+         <s>
+            <w type="Nb">永野芽郁</w>
+         </s>
+         <s>
+            <w type="Nb">廣瀨</w>
+            <w type="Nb">愛利斯</w>
+         </s>
+         <s>
+            <w type="Nb">遠藤憲一</w>
+         </s>
+         <s>
+            <w type="Nb">小池榮子</w>
+         </s>
+         <s>
+            <w type="Na">卡司</w>
+            <w type="VH">超強</w>
+            <w type="Nb">爹斯</w>
+         </s>
+         <s>
+            <w type="VHC">結合</w>
+            <w type="Na">視覺系</w>
+            <w type="FW">+</w>
+            <w type="VH">不良</w>
+            <w type="FW">+</w>
+            <w type="Nc">公司</w>
+            <w type="DASHCATEGORY">OL</w>
+            <w type="VC">鬥爭</w>
+            <w type="DE">的</w>
+            <w type="VH">神奇</w>
+            <w type="Na">劇情</w>
+         </s>
+      </body>
+      <title author="takuminauki (史迪格里茲粉)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">地獄</w>
+            <w type="DE">的</w>
+            <w type="Nc">花園</w>
+            <w type="VE">預告</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

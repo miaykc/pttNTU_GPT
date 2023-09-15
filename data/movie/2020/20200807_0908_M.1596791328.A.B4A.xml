@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">furudelika (工藤)</metadata>
+      <metadata name="post_id">M.1596791328.A.B4A</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[討論] 哈囉少女拍攝的咖啡廳</metadata>
+   </teiHeader>
+   <text>
+      <body author="furudelika (工藤)">
+         <s>
+            <w type="Nd">今天</w>
+            <w type="D">剛</w>
+            <w type="VC">看</w>
+            <w type="Di">了</w>
+            <w type="I">哈嘍</w>
+            <w type="Na">少女</w>
+         </s>
+         <s>
+            <w type="Ncd">裡面</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">幕</w>
+            <w type="SHI">是</w>
+            <w type="Nh">他們</w>
+            <w type="VH">下課</w>
+            <w type="Ng">之後</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="VCL">去</w>
+            <w type="DE">的</w>
+            <w type="Nc">咖啡廳</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="V_2">有</w>
+            <w type="D">沒</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VK">知道</w>
+            <w type="P">在</w>
+            <w type="Ncd">那裏</w>
+            <w type="T">呢</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">可能</w>
+            <w type="V_2">有</w>
+            <w type="Neu">兩</w>
+            <w type="Nc">家</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">一</w>
+            <w type="Nf">家</w>
+            <w type="SHI">是</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+         </s>
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/RHl038</w>
+            <w type="FW">a.jpg</w>
+         </s>
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/j</w>
+            <w type="FW">JHgcpn.jpg</w>
+         </s>
+         <s>
+            <w type="Cbb">另外</w>
+            <w type="Nc">台中</w>
+            <w type="VH">有名</w>
+            <w type="DE">的</w>
+            <w type="FW">I'm </w>
+            <w type="FW">Talato</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VL">愛</w>
+            <w type="Nc">台灣</w>
+            <w type="DE">的</w>
+            <w type="Na">義式</w>
+            <w type="Na">冰淇淋</w>
+            <w type="Na">英才路</w>
+            <w type="Na">旗艦</w>
+            <w type="Nc">門市</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="VB">拍進去</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> OPPO CPH1951</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+         <s>
+            <w type="Nd">永久</w>
+            <w type="VA">停業</w>
+            <w type="Di">了</w>
+            <w type="T">耶</w>
+         </s>
+      </body>
+      <title author="furudelika (工藤)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="I">哈囉</w>
+            <w type="Na">少女</w>
+            <w type="VC">拍攝</w>
+            <w type="DE">的</w>
+            <w type="Nc">咖啡廳</w>
+         </s>
+      </title>
+      <comment author="NX9999" c_type="pos">
+         <s>
+            <w type="Cab">等</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">人</w>
+            <w type="Na">咖啡</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="sooon219" c_type="pos">
+         <s>
+            <w type="VC">找</w>
+            <w type="Na">路</w>
+            <w type="Na">咖啡</w>
+         </s>
+      </comment>
+      <comment author="NX9999" c_type="pos">
+         <s>
+            <w type="Neqa">很多</w>
+            <w type="Na">地方</w>
+            <w type="D">都</w>
+            <w type="P">在</w>
+            <w type="Nc">台中</w>
+            <w type="VC">拍</w>
+            <w type="FW">@@</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

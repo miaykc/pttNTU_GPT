@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">wahaha2005 (我是誰2005)</metadata>
+      <metadata name="post_id">M.1678087345.A.772</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 2023 美國攝影師協會 得獎名單</metadata>
+   </teiHeader>
+   <text>
+      <body author="wahaha2005 (我是誰2005)">
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">院線</w>
+            <w type="Na">劇情</w>
+            <w type="Na">長片</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">貓王</w>
+            <w type="Nb">艾維斯</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Mandy</w>
+            <w type="FW"> Walker</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">聚光燈獎</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">War</w>
+            <w type="FW"> Sailor</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Sturla</w>
+            <w type="FW"> Brand</w>
+            <w type="FW">th</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Grøvlen</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">紀錄片獎</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="P">在</w>
+            <w type="Nh">牠們</w>
+            <w type="DE">的</w>
+            <w type="VC">凝視</w>
+            <w type="Ng">之間</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Ben</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Bernhard</w>
+            <w type="FW"> &amp;amp; </w>
+            <w type="FW">Riju</w>
+            <w type="FW"> Das</w>
+         </s>
+      </body>
+      <title author="wahaha2005 (我是誰2005)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 2023</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">美國</w>
+            <w type="Na">攝影師</w>
+            <w type="Nc">協會</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">得獎</w>
+            <w type="Na">名單</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

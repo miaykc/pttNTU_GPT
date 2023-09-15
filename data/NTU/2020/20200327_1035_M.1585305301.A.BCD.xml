@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">gout005 (Alex)</metadata>
+      <metadata name="post_id">M.1585305301.A.BCD</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文]</metadata>
+   </teiHeader>
+   <text>
+      <body author="gout005 (Alex)">
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> iPhone</w>
+         </s>
+      </body>
+      <title author="gout005 (Alex)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+         </s>
+      </title>
+      <comment author="s093018" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nep">什麼</w>
+            <w type="ETCCATEGORY">洨</w>
+         </s>
+      </comment>
+      <comment author="Imotucc" c_type="neg">
+         <s>
+            <w type="Na">國王</w>
+            <w type="DE">的</w>
+            <w type="Na">廢文</w>
+         </s>
+      </comment>
+      <comment author="microuzi9797" c_type="neg">
+         <s>
+            <w type="Na">國王</w>
+            <w type="DE">的</w>
+            <w type="Na">標題</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

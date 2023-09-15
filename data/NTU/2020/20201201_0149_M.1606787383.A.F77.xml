@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">drag (京都念慈庵,賈詡念費翔)</metadata>
+      <metadata name="post_id">M.1606787383.A.F77</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] 請問汀州路上修傘阿伯還在嗎？</metadata>
+   </teiHeader>
+   <text>
+      <body author="drag (京都念慈庵,賈詡念費翔)">
+         <s>
+            <w type="Nd">最近</w>
+            <w type="VC">愛用</w>
+            <w type="DE">的</w>
+            <w type="VC">折傘</w>
+            <w type="VH">壞</w>
+            <w type="Di">了</w>
+            <w type="Na">按鈕</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">傘骨</w>
+            <w type="VH">正常</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">印象</w>
+            <w type="Ng">中</w>
+            <w type="V_2">有</w>
+            <w type="VE">聽說</w>
+            <w type="Di">過</w>
+            <w type="Nc">汀州路</w>
+            <w type="Nc">三段</w>
+            <w type="Nc">附近</w>
+            <w type="V_2">有</w>
+            <w type="VC">修</w>
+            <w type="Na">鞋</w>
+            <w type="VC">修</w>
+            <w type="Na">傘</w>
+            <w type="Na">阿伯</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="Nep">哪</w>
+            <w type="Nf">位</w>
+            <w type="Na">大大</w>
+            <w type="Nd">最近</w>
+            <w type="D">還</w>
+            <w type="D">有</w>
+            <w type="D">去</w>
+            <w type="VCL">光顧</w>
+            <w type="Di">過</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="D">能否</w>
+            <w type="VE">告知</w>
+            <w type="D">是否</w>
+            <w type="D">還</w>
+            <w type="P">在</w>
+            <w type="VA">營業</w>
+            <w type="T">呢</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="VK">感謝</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </body>
+      <title author="drag (京都念慈庵,賈詡念費翔)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">請問</w>
+            <w type="Nc">汀州路</w>
+            <w type="Ncd">上</w>
+            <w type="VC">修</w>
+            <w type="Na">傘</w>
+            <w type="Na">阿伯</w>
+            <w type="D">還</w>
+            <w type="P">在</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </title>
+      <comment author="dajyunlin" c_type="pos">
+         <s>
+            <w type="Nh">他</w>
+            <w type="D">會</w>
+            <w type="VE">問</w>
+            <w type="Nh">你</w>
+            <w type="Nep">咩</w>
+            <w type="VC">修</w>
+            <w type="Na">傘</w>
+            <w type="Nes">某</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,580 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">olmtw (支持htc，支持台灣貨)</metadata>
+      <metadata name="post_id">M.1587099369.A.F20</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 期中考如何遠距考？台大改開書考或交報告</metadata>
+   </teiHeader>
+   <text>
+      <body author="olmtw (支持htc，支持台灣貨)">
+         <s>
+            <w type="Na">期中考</w>
+            <w type="D">如何</w>
+            <w type="A">遠距</w>
+            <w type="VC">考</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Nc">台大</w>
+            <w type="VC">改開</w>
+            <w type="Na">書考</w>
+            <w type="Caa">或</w>
+            <w type="VD">交</w>
+            <w type="Na">報告</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">台師大</w>
+            <w type="VB">延期</w>
+         </s>
+         <s>
+            <w type="Neu">2020</w>
+            <w type="DASHCATEGORY">-04</w>
+            <w type="DASHCATEGORY">-17 10</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">43 </w>
+            <w type="Nb">聯合報</w>
+            <w type="FW"> / </w>
+            <w type="Na">記者</w>
+            <w type="Nb">潘乃欣</w>
+            <w type="FW">／</w>
+            <w type="Nc">台北</w>
+            <w type="D">即時</w>
+            <w type="VE">報導</w>
+         </s>
+         <s>
+            <w type="Na">新冠</w>
+            <w type="Na">肺炎</w>
+            <w type="Na">疫情</w>
+            <w type="VC">影響</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">各</w>
+            <w type="Nc">大學</w>
+            <w type="Na">陸</w>
+            <w type="Na">港澳生</w>
+            <w type="Nep">這</w>
+            <w type="VC">學習</w>
+            <w type="VC">採</w>
+            <w type="A">遠距</w>
+            <w type="VC">學習</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="Nc">學校</w>
+            <w type="Na">大班課</w>
+            <w type="VC">改採</w>
+            <w type="A">遠距</w>
+            <w type="VA">教學</w>
+         </s>
+         <s>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Na">期中考</w>
+            <w type="D">將</w>
+            <w type="VCL">至</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">各</w>
+            <w type="Nc">校</w>
+            <w type="Nc">教務處</w>
+            <w type="VD">提供</w>
+            <w type="A">遠距</w>
+            <w type="Na">考試</w>
+            <w type="VA">應變</w>
+            <w type="Na">方案</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台大</w>
+            <w type="VE">建議</w>
+            <w type="VG">改成</w>
+            <w type="VC">開</w>
+            <w type="Na">書考</w>
+            <w type="Caa">或</w>
+            <w type="VD">交</w>
+            <w type="Na">報告</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">銘</w>
+         </s>
+         <s>
+            <w type="VD">傳</w>
+            <w type="Nc">大學</w>
+            <w type="VE">建議</w>
+            <w type="VD">改交</w>
+            <w type="VH">自主</w>
+            <w type="VC">學習</w>
+            <w type="Na">成果</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nd">最近</w>
+            <w type="VC">實施</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">校</w>
+            <w type="A">遠距</w>
+            <w type="VA">教學</w>
+            <w type="DE">的</w>
+            <w type="Nc">台師大</w>
+            <w type="P">將</w>
+            <w type="Na">期中考</w>
+            <w type="VC">延到</w>
+            <w type="Nd">4月</w>
+            <w type="Ng">底</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VL">讓</w>
+            <w type="Na">老師</w>
+            <w type="D">也</w>
+            <w type="D">能</w>
+            <w type="VC">辦</w>
+            <w type="Na">實體</w>
+            <w type="Na">考試</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nd">目前</w>
+            <w type="VC">實施</w>
+            <w type="Neu">百</w>
+            <w type="Na">人</w>
+            <w type="Ng">以上</w>
+            <w type="Na">課程</w>
+            <w type="VC">改</w>
+            <w type="A">遠距</w>
+            <w type="VA">教學</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">不少</w>
+            <w type="Nc">陸</w>
+            <w type="Na">港澳生</w>
+            <w type="P">透過</w>
+            <w type="A">遠距</w>
+            <w type="VC">學習</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nes">該</w>
+            <w type="Nc">校</w>
+            <w type="Na">副</w>
+         </s>
+         <s>
+            <w type="Na">教務長</w>
+            <w type="Nb">詹魁元</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">下</w>
+            <w type="Nd">周</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Nc">台大</w>
+            <w type="Na">期中考</w>
+            <w type="Nd">周</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">教務處</w>
+            <w type="VE">建議</w>
+            <w type="Na">老師</w>
+            <w type="VC">改</w>
+            <w type="Na">題目</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">變成</w>
+            <w type="VA">開</w>
+            <w type="Na">書</w>
+            <w type="Na">考試</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VC">學</w>
+         </s>
+         <s>
+            <w type="Na">生考</w>
+            <w type="Ng">前</w>
+            <w type="D">要</w>
+            <w type="VA">簽約</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">聲明</w>
+            <w type="Nh">自己</w>
+            <w type="D">不會</w>
+            <w type="VC">看</w>
+            <w type="Na">同學</w>
+            <w type="Na">答案</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">不過</w>
+            <w type="D">可</w>
+            <w type="VCL">到</w>
+            <w type="Nc">圖書館</w>
+            <w type="Caa">或</w>
+            <w type="VA">上網</w>
+            <w type="VE">查</w>
+            <w type="Na">資料</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">如果</w>
+            <w type="D">真</w>
+            <w type="V_2">有</w>
+            <w type="VC">抄</w>
+         </s>
+         <s>
+            <w type="VC">襲</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">相信</w>
+            <w type="VA">授課</w>
+            <w type="Na">老師</w>
+            <w type="D">也</w>
+            <w type="VK">看得出來</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">詹魁元</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台大</w>
+            <w type="D">也</w>
+            <w type="VE">建議</w>
+            <w type="Na">老師</w>
+            <w type="P">將</w>
+            <w type="Na">期中考</w>
+            <w type="VG">改成</w>
+            <w type="VD">交</w>
+            <w type="Na">報告</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="Nep">這</w>
+            <w type="Na">學期</w>
+            <w type="VC">開</w>
+            <w type="DE">的</w>
+            <w type="Na">通識課</w>
+            <w type="D">也</w>
+            <w type="D">這麼</w>
+            <w type="VC">做</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nh">他</w>
+            <w type="P">將</w>
+         </s>
+         <s>
+            <w type="VE">安排</w>
+            <w type="Na">學生</w>
+            <w type="VA">上線</w>
+            <w type="VE">報告</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">沒</w>
+            <w type="VE">報告</w>
+            <w type="Na">者</w>
+            <w type="D">要</w>
+            <w type="VC">聆聽</w>
+            <w type="Na">同學</w>
+            <w type="Na">報告</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="P">在</w>
+            <w type="FW">Google</w>
+            <w type="Na">表單</w>
+            <w type="Ncd">上</w>
+            <w type="VC">回饋</w>
+            <w type="Na">意見</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nh">他</w>
+            <w type="VE">表示</w>
+            <w type="Nep">這</w>
+         </s>
+         <s>
+            <w type="SHI">是</w>
+            <w type="D">不</w>
+            <w type="VH">小</w>
+            <w type="DE">的</w>
+            <w type="Na">工程</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">將</w>
+            <w type="P">於</w>
+            <w type="Na">報告</w>
+            <w type="Nes">前</w>
+            <w type="Neu">三</w>
+            <w type="Nf">天</w>
+            <w type="VE">安排</w>
+            <w type="Na">學生</w>
+            <w type="VA">試機</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">確保</w>
+            <w type="Na">報告</w>
+            <w type="VH">順利</w>
+            <w type="VC">進行</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">詹魁元</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台大</w>
+            <w type="D">也</w>
+            <w type="VE">考慮</w>
+            <w type="P">將</w>
+            <w type="Nc">大班</w>
+            <w type="Na">課程</w>
+            <w type="VG">拆成</w>
+            <w type="Neu">三</w>
+            <w type="Nf">間</w>
+            <w type="Nc">教室</w>
+            <w type="Na">筆試</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">避免</w>
+            <w type="Neqa">太多</w>
+            <w type="Na">學生</w>
+            <w type="VCL">群聚</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">不過</w>
+            <w type="Nc">學校</w>
+            <w type="Na">課</w>
+         </s>
+         <s>
+            <w type="Na">程</w>
+            <w type="VH">多</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">教室</w>
+            <w type="Dfa">很</w>
+            <w type="VH">滿</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不一定</w>
+            <w type="VC">喬</w>
+            <w type="DE">得</w>
+            <w type="VC">出</w>
+            <w type="Na">空間</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">另</w>
+            <w type="D">也</w>
+            <w type="D">曾</w>
+            <w type="VE">考量</w>
+            <w type="VC">出</w>
+            <w type="Neu">三</w>
+            <w type="Nf">份</w>
+            <w type="Na">考卷</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">讓</w>
+            <w type="Na">學生</w>
+            <w type="P">在</w>
+            <w type="Neu">三</w>
+            <w type="Nf">個</w>
+            <w type="Na">時段</w>
+            <w type="D">依序</w>
+         </s>
+         <s>
+            <w type="P">受</w>
+            <w type="VF">試</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">但</w>
+            <w type="Neu">三</w>
+            <w type="Nf">份</w>
+            <w type="Na">考卷</w>
+            <w type="D">要</w>
+            <w type="VJ">維持</w>
+            <w type="A">一定</w>
+            <w type="Na">難易度</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">很</w>
+            <w type="VC">挑戰</w>
+            <w type="Nv">出題</w>
+            <w type="Na">功力</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台灣</w>
+            <w type="A">師範</w>
+            <w type="Nc">大學</w>
+            <w type="P">因</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">名</w>
+            <w type="Na">學生</w>
+            <w type="VB">確診</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">校</w>
+            <w type="VC">改採</w>
+            <w type="A">遠距</w>
+            <w type="VA">教學</w>
+            <w type="P">到</w>
+            <w type="Neu">24日</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">不過</w>
+            <w type="Na">校方</w>
+            <w type="VE">建議</w>
+            <w type="Neu">60</w>
+            <w type="Na">人</w>
+            <w type="Ng">以上</w>
+            <w type="Na">課程</w>
+         </s>
+         <s>
+            <w type="VC">採</w>
+            <w type="A">遠距</w>
+            <w type="VA">教學</w>
+            <w type="P">到</w>
+            <w type="Nes">本</w>
+            <w type="Na">學期</w>
+            <w type="Ng">末</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nes">該</w>
+            <w type="Nc">校</w>
+            <w type="Na">教務長</w>
+            <w type="Nb">陳昭珍</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">學校</w>
+            <w type="P">將</w>
+            <w type="Na">期中考</w>
+            <w type="Na">日期</w>
+            <w type="VC">延到</w>
+            <w type="Nd">4月</w>
+            <w type="Ng">底</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">到時候</w>
+         </s>
+         <s>
+            <w type="Na">老師</w>
+            <w type="D">也</w>
+            <w type="D">能</w>
+            <w type="VE">安排</w>
+            <w type="Na">實體</w>
+            <w type="Na">考試</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Neu">60</w>
+            <w type="Na">人</w>
+            <w type="Ng">以上</w>
+            <w type="Na">大班課</w>
+            <w type="D">也</w>
+            <w type="D">可</w>
+            <w type="VE">安排</w>
+            <w type="Na">學生</w>
+            <w type="VCL">到</w>
+            <w type="Na">校考</w>
+            <w type="Na">期中考</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">銘傳</w>
+            <w type="Nc">大學</w>
+            <w type="Na">教務長</w>
+            <w type="Nb">遲文麗</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">教育部</w>
+            <w type="VH">開學</w>
+            <w type="Ng">時</w>
+            <w type="D">即</w>
+            <w type="VF">要求</w>
+            <w type="A">遠距</w>
+            <w type="VA">教學</w>
+            <w type="D">要</w>
+            <w type="VE">說明</w>
+            <w type="D">如何</w>
+            <w type="VC">考核</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">確保</w>
+            <w type="Na">學習品</w>
+         </s>
+         <s>
+            <w type="Na">質</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nes">該</w>
+            <w type="Nc">校</w>
+            <w type="Nes">各</w>
+            <w type="Nf">門</w>
+            <w type="Na">課</w>
+            <w type="Cbb">無論</w>
+            <w type="VC">採</w>
+            <w type="Na">紙本</w>
+            <w type="Caa">或</w>
+            <w type="Nc">線上</w>
+            <w type="Na">考試</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">都</w>
+            <w type="D">要</w>
+            <w type="VD">提報</w>
+            <w type="P">給</w>
+            <w type="Nc">教務處</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VJ">因應</w>
+            <w type="Na">陸</w>
+            <w type="Nc">港澳生</w>
+            <w type="D">不能</w>
+            <w type="VA">到校</w>
+            <w type="VC">考</w>
+         </s>
+         <s>
+            <w type="VF">試</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">遲文麗</w>
+            <w type="VE">建議</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">內</w>
+            <w type="Na">老師</w>
+            <w type="P">將</w>
+            <w type="Na">期中考</w>
+            <w type="VG">改成</w>
+            <w type="VH">自主</w>
+            <w type="Nv">學習</w>
+            <w type="Na">成果</w>
+            <w type="Na">報告</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">要求</w>
+            <w type="Na">學生</w>
+            <w type="P">在</w>
+            <w type="VE">指定</w>
+            <w type="Na">時間</w>
+            <w type="Ng">內</w>
+            <w type="Ncd">上傳</w>
+         </s>
+         <s>
+            <w type="Na">報告</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//udn.com/news/story</w>
+            <w type="FW">/120960/4498528</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Google</w>
+            <w type="FW"> Chrome</w>
+            <w type="FW"> on</w>
+            <w type="FW"> Windows</w>
+            <w type="FW"> 10</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Pro</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="olmtw (支持htc，支持台灣貨)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">期中考</w>
+            <w type="D">如何</w>
+            <w type="A">遠距</w>
+            <w type="VC">考</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Nc">台大</w>
+            <w type="VC">改開</w>
+            <w type="Na">書考</w>
+            <w type="Caa">或</w>
+            <w type="VD">交</w>
+            <w type="Na">報告</w>
+         </s>
+      </title>
+      <comment author="SSCSFE" c_type="pos">
+         <s>
+            <w type="Nep">什麼</w>
+            <w type="VC">開</w>
+            <w type="Na">書考</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">榮譽考</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="MannImAnzug" c_type="pos">
+         <s>
+            <w type="VC">複製</w>
+            <w type="VC">貼上</w>
+            <w type="Na">喬</w>
+            <w type="Na">順序</w>
+            <w type="VC">換</w>
+            <w type="Na">代號</w>
+            <w type="VC">改</w>
+            <w type="Na">尾數</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

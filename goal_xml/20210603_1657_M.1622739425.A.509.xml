@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">vincentflame (vincent)</metadata>
+      <metadata name="post_id">M.1622739425.A.509</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[徵求] 中研院資訊所楊得年老師實驗室短期工讀</metadata>
+   </teiHeader>
+   <text>
+      <body author="vincentflame (vincent)">
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">職缺</w>
+            <w type="Na">名稱</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">中研院</w>
+            <w type="Nc">資訊所</w>
+            <w type="Nb">楊得年</w>
+            <w type="Na">老師</w>
+            <w type="Nc">實驗室</w>
+            <w type="Nd">短期</w>
+            <w type="VA">工讀</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VA">徵才</w>
+            <w type="Nc">院所</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">中研院</w>
+            <w type="Nc">資訊所</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">主持人</w>
+            <w type="FW">/</w>
+            <w type="Nc">研究室</w>
+            <w type="Na">位址</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="Nb">楊得年</w>
+            <w type="Na">老師</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nb">楊</w>
+            <w type="Na">老師</w>
+            <w type="VG">為</w>
+            <w type="Nc">台大</w>
+            <w type="Na">資料</w>
+            <w type="Na">科學</w>
+            <w type="Na">學位</w>
+            <w type="Na">學程</w>
+            <w type="Na">師資</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VA">工作</w>
+            <w type="Na">內容</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="VC">協助</w>
+            <w type="FW">tensor</w>
+            <w type="FW"> decomposition</w>
+            <w type="FW"> recommendation</w>
+            <w type="VC">實作</w>
+            <w type="Caa">和</w>
+            <w type="Na">實驗</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VA">徵才</w>
+            <w type="Na">條件</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Neu">1. </w>
+            <w type="Na">電機</w>
+            <w type="Na">資訊</w>
+            <w type="VH">相關</w>
+            <w type="Na">科系</w>
+            <w type="VH">優先</w>
+         </s>
+         <s>
+            <w type="Cbb">2. </w>
+            <w type="V_2">有</w>
+            <w type="FW">recommendation</w>
+            <w type="FW"> system/tensor</w>
+            <w type="FW"> decomposition</w>
+            <w type="VH">相關</w>
+            <w type="Na">經驗</w>
+            <w type="Na">者</w>
+            <w type="VI">為</w>
+            <w type="VH">佳</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VA">工作</w>
+            <w type="Na">時間</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="WHITESPACE">  </w>
+            <w type="Da">約</w>
+            <w type="Neu">1.5</w>
+            <w type="Nf">個</w>
+            <w type="Na">月</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">薪資</w>
+            <w type="Na">待遇</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">按</w>
+            <w type="Nf">件</w>
+            <w type="VA">計酬</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">薪資</w>
+            <w type="Da">約</w>
+            <w type="FW"> 30</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">000</w>
+            <w type="FW"> 元</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">會</w>
+            <w type="D">再</w>
+            <w type="P">依</w>
+            <w type="Na">工作量</w>
+            <w type="VC">調整</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VC">聯絡</w>
+            <w type="Na">方式</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="VF">請</w>
+            <w type="VF">申請</w>
+            <w type="Na">者</w>
+            <w type="VC">準備</w>
+            <w type="Na">履歷</w>
+            <w type="Caa">和</w>
+            <w type="VK">有利</w>
+            <w type="Na">甄選</w>
+            <w type="DE">之</w>
+            <w type="Na">文件</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VD">寄</w>
+            <w type="P">至</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">[email</w>
+            <w type="FW"> protected</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">信件</w>
+            <w type="Na">主旨</w>
+            <w type="VF">請</w>
+            <w type="VE">註明</w>
+            <w type="DASHCATEGORY">--</w>
+            <w type="VC">應徵</w>
+            <w type="Na">短期</w>
+            <w type="VA">工讀</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VC">協助</w>
+            <w type="FW">tensor</w>
+         </s>
+         <s>
+            <w type="FW">decomposition</w>
+            <w type="DASHCATEGORY"> recommendation</w>
+            <w type="VC">實作</w>
+            <w type="Caa">和</w>
+            <w type="Na">實驗</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Na">姓名</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Neqa">其他</w>
+            <w type="VE">備註</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="WHITESPACE">  </w>
+            <w type="VA">工作</w>
+            <w type="Na">地點</w>
+            <w type="D">不</w>
+            <w type="VJ">限</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可</w>
+            <w type="FW">work</w>
+            <w type="DASHCATEGORY"> from</w>
+            <w type="DASHCATEGORY"> home</w>
+         </s>
+         <s>
+            <w type="VC">附上</w>
+            <w type="Na">老師</w>
+            <w type="Nc">網站</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.iis.sinica.edu.tw/pages/dnyang/contact_zh.html</w>
+         </s>
+      </body>
+      <title author="vincentflame (vincent)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VC">徵求</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">中研院</w>
+            <w type="Nc">資訊所</w>
+            <w type="Nb">楊得年</w>
+            <w type="Na">老師</w>
+            <w type="Nc">實驗室</w>
+            <w type="Nd">短期</w>
+            <w type="VA">工讀</w>
+         </s>
+      </title>
+      <comment author="taipoo" c_type="neu">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">報酬</w>
+            <w type="Dfa">挺</w>
+            <w type="VH">低</w>
+            <w type="T">的</w>
+         </s>
+      </comment>
+      <comment author="aarzbrv" c_type="pos">
+         <s>
+            <w type="Nc">樓上</w>
+            <w type="D">曾經</w>
+            <w type="VC">貼</w>
+            <w type="Di">過</w>
+            <w type="VH">正職</w>
+            <w type="Neu">27</w>
+            <w type="FW">k</w>
+            <w type="Na">起薪</w>
+            <w type="P">比</w>
+            <w type="Nep">這</w>
+            <w type="Nf">篇</w>
+            <w type="VA">工讀</w>
+            <w type="Neu">30</w>
+            <w type="FW">k</w>
+            <w type="Dfa">還</w>
+            <w type="VH">低</w>
+            <w type="T">呢</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="VK">信</w>
+            <w type="VF">請</w>
+            <w type="VC">看</w>
+         </s>
+      </comment>
+      <comment author="aarzbrv" c_type="pos">
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/aZwd</w>
+            <w type="FW">Olv.png</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">AprilMight (AM。)</metadata>
+      <metadata name="post_id">M.1589880633.A.BD2</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 思科攜手台大 推動台灣高教數位轉型</metadata>
+   </teiHeader>
+   <text>
+      <body author="AprilMight (AM。)">
+         <s>
+            <w type="Nb">思科</w>
+            <w type="D">攜手</w>
+            <w type="Nc">台大</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">推動</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">高教</w>
+            <w type="A">數位</w>
+            <w type="VH">轉型</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/zhu</w>
+            <w type="Neu">43</w>
+            <w type="FW">Lf.jpg</w>
+         </s>
+         <s>
+            <w type="Nb">思科</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">總經理</w>
+            <w type="Nb">陳志惟</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Ncd">右</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">台大學</w>
+            <w type="VC">管理</w>
+            <w type="Nc">學院</w>
+            <w type="Na">院長</w>
+            <w type="Nb">胡星陽</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Ncd">中</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">偕同</w>
+            <w type="Nb">聯浚</w>
+            <w type="Na">電訊</w>
+            <w type="Na">總經理</w>
+            <w type="Nb">呂</w>
+         </s>
+         <s>
+            <w type="Nb">文昌</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Ncd">左</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="VC">參與</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="VC">管理</w>
+            <w type="Nc">學院</w>
+            <w type="Na">視訊</w>
+            <w type="Na">系統</w>
+            <w type="FW">Webex</w>
+            <w type="VD">捐贈</w>
+            <w type="Na">儀式</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nb">思科</w>
+            <w type="VD">提供</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">〔</w>
+            <w type="Na">記者</w>
+            <w type="Nb">陳炳宏</w>
+            <w type="FW">／</w>
+            <w type="Nc">台北</w>
+            <w type="VE">報導</w>
+            <w type="PARENTHESISCATEGORY">〕</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">全球</w>
+            <w type="Nc">武漢</w>
+            <w type="Na">肺炎</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">新型</w>
+            <w type="Na">冠狀病毒病</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">COVID-19</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Na">疫情</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">致使</w>
+            <w type="Nes">各</w>
+            <w type="Na">產</w>
+         </s>
+         <s>
+            <w type="D">業</w>
+            <w type="P">受</w>
+            <w type="VC">衝擊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">網路</w>
+            <w type="Na">科技</w>
+            <w type="Nc">大廠</w>
+            <w type="Nb">思科</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">CISCO</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="P">與</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nd">今</w>
+            <w type="VE">宣布</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">將</w>
+            <w type="VH">合作</w>
+            <w type="VH">為期</w>
+            <w type="Neu">1</w>
+            <w type="Na">學年</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">使用</w>
+            <w type="Nb">思科</w>
+            <w type="FW">We</w>
+         </s>
+         <s>
+            <w type="FW">bex</w>
+            <w type="Neqa">全</w>
+            <w type="Na">功能</w>
+            <w type="Na">視訊</w>
+            <w type="Na">系統</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">其中</w>
+            <w type="Nc">台大</w>
+            <w type="VC">管理</w>
+            <w type="Nc">學院</w>
+            <w type="D">已</w>
+            <w type="VL">開始</w>
+            <w type="VC">使用</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">作為</w>
+            <w type="A">高等</w>
+            <w type="Na">教育</w>
+            <w type="A">數位</w>
+            <w type="VH">轉型</w>
+            <w type="Na">典範</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="P">將</w>
+            <w type="Nep">此</w>
+         </s>
+         <s>
+            <w type="Na">經驗</w>
+            <w type="VC">複製</w>
+            <w type="P">於</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">校</w>
+            <w type="Caa">與</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">台</w>
+            <w type="Na">高教</w>
+            <w type="Na">體系</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">佈署</w>
+            <w type="Nc">台灣</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">智慧</w>
+            <w type="Na">教育</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">平台</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">自</w>
+            <w type="Na">疫情</w>
+            <w type="VJ">爆發</w>
+            <w type="Ng">後</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">思科</w>
+            <w type="P">於</w>
+            <w type="Nd">2月</w>
+            <w type="Ng">起</w>
+            <w type="P">在</w>
+            <w type="Nc">台</w>
+            <w type="VC">推出</w>
+            <w type="Na">全民</w>
+            <w type="VH">免費</w>
+            <w type="Na">方案</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="VH">同步</w>
+            <w type="P">針對</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">教育</w>
+            <w type="Na">體系</w>
+            <w type="VD">提供</w>
+            <w type="VH">免費</w>
+            <w type="Neqa">全</w>
+         </s>
+         <s>
+            <w type="Na">功能</w>
+            <w type="FW">Webex</w>
+            <w type="Na">方案</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nb">思科</w>
+            <w type="Nc">大中華區</w>
+            <w type="VH">資深</w>
+            <w type="Na">副總裁</w>
+            <w type="Caa">暨</w>
+            <w type="Nb">思科</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">總經理</w>
+            <w type="Nb">陳志惟</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">各界</w>
+            <w type="P">在</w>
+            <w type="A">數位</w>
+            <w type="VH">轉型</w>
+         </s>
+         <s>
+            <w type="Na">步調</w>
+            <w type="Ncd">上</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不斷</w>
+            <w type="VCL">湧向</w>
+            <w type="VHC">數位化</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">而</w>
+            <w type="A">高等</w>
+            <w type="Na">教育</w>
+            <w type="D">更</w>
+            <w type="SHI">是</w>
+            <w type="Na">人才</w>
+            <w type="VC">養成</w>
+            <w type="Na">進程</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VCL">進入</w>
+            <w type="Na">產業</w>
+            <w type="Ng">前</w>
+            <w type="Dfa">最</w>
+            <w type="VH">重要</w>
+            <w type="DE">的</w>
+            <w type="VH">轉型</w>
+            <w type="Na">教育</w>
+         </s>
+         <s>
+            <w type="Na">基石</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VE">樂見</w>
+            <w type="Nc">台大</w>
+            <w type="VC">導入</w>
+            <w type="Nb">思科</w>
+            <w type="FW">Webex</w>
+            <w type="VA">協作</w>
+            <w type="Na">平台</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">無論</w>
+            <w type="Nd">未來</w>
+            <w type="Na">疫情</w>
+            <w type="DE">的</w>
+            <w type="VC">發展</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="VC">面對</w>
+            <w type="Nes">各</w>
+            <w type="Nf">種</w>
+            <w type="Na">環境</w>
+            <w type="Na">變化</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">都</w>
+         </s>
+         <s>
+            <w type="D">能</w>
+            <w type="VJ">保持</w>
+            <w type="Nv">營運</w>
+            <w type="Na">彈性</w>
+            <w type="Caa">與</w>
+            <w type="Na">教育</w>
+            <w type="D">不</w>
+            <w type="VC">中斷</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Nc">台</w>
+            <w type="VC">樹立</w>
+            <w type="Na">高教</w>
+            <w type="A">數位</w>
+            <w type="VH">轉型</w>
+            <w type="Na">典範</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台大</w>
+            <w type="VC">管理</w>
+            <w type="Nc">學院</w>
+            <w type="Caa">與</w>
+            <w type="Nb">思科</w>
+            <w type="VH">合作</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">將</w>
+            <w type="VC">進行</w>
+            <w type="VH">為期</w>
+            <w type="Neu">1</w>
+            <w type="Nf">年</w>
+            <w type="DE">的</w>
+            <w type="FW">Webex</w>
+            <w type="Na">系統</w>
+            <w type="VH">免費</w>
+            <w type="VC">試用</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">運用</w>
+            <w type="Na">平台</w>
+            <w type="VC">進行</w>
+            <w type="A">遠距</w>
+            <w type="VA">授課</w>
+            <w type="PAUSECATEGORY">、</w>
+         </s>
+         <s>
+            <w type="Na">視訊</w>
+            <w type="Na">會議</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VA">教學</w>
+            <w type="Na">活動</w>
+            <w type="Caa">及</w>
+            <w type="Na">演說</w>
+            <w type="D">直</w>
+            <w type="VC">播</w>
+            <w type="Cab">等</w>
+            <w type="Na">課程</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="D">大幅</w>
+            <w type="VHC">降低</w>
+            <w type="VA">教學</w>
+            <w type="Na">過程</w>
+            <w type="DE">的</w>
+            <w type="Na">技術</w>
+            <w type="Na">平台</w>
+            <w type="VC">阻礙</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="A">遠距</w>
+            <w type="Na">教學</w>
+            <w type="Na">品</w>
+         </s>
+         <s>
+            <w type="Na">質</w>
+            <w type="Ng">上</w>
+            <w type="D">能</w>
+            <w type="VJ">達到</w>
+            <w type="VH">良好</w>
+            <w type="DE">的</w>
+            <w type="Nv">互動</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">而</w>
+            <w type="Na">學生</w>
+            <w type="DE">的</w>
+            <w type="VC">學習</w>
+            <w type="Na">過程</w>
+            <w type="D">也</w>
+            <w type="VH">充分</w>
+            <w type="VK">體驗到</w>
+            <w type="VHC">數位化</w>
+            <w type="VA">教學</w>
+            <w type="D">所</w>
+            <w type="VC">帶來</w>
+            <w type="DE">的</w>
+            <w type="VL">便利</w>
+            <w type="P">與</w>
+            <w type="VH">自由</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//ec.ltn.com.tw/article/breakingnews/3170285</w>
+         </s>
+         <s>
+            <w type="Na">先鋒</w>
+            <w type="SHI">是</w>
+            <w type="Na">尊爵不凡</w>
+            <w type="Nc">大管院</w>
+            <w type="T">耶</w>
+            <w type="FW">～+u *^w^*</w>
+         </s>
+      </body>
+      <title author="AprilMight (AM。)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">思科</w>
+            <w type="D">攜手</w>
+            <w type="Nc">台大</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">推動</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">高教</w>
+            <w type="A">數位</w>
+            <w type="VH">轉型</w>
+         </s>
+      </title>
+      <comment author="dajyunlin" c_type="neu">
+         <s>
+            <w type="FW">Sir~</w>
+         </s>
+      </comment>
+      <comment author="dajyunlin" c_type="neu">
+         <s>
+            <w type="FW">Skr</w>
+         </s>
+      </comment>
+      <comment author="chocopie" c_type="pos">
+         <s>
+            <w type="Nc">管院</w>
+            <w type="FW">Elite</w>
+            <w type="P">用</w>
+            <w type="FW">WebEx</w>
+            <w type="P">在</w>
+            <w type="Nc">家</w>
+            <w type="VA">上課</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">一定</w>
+            <w type="Dfa">很</w>
+            <w type="VH">潮</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="Na">潮</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

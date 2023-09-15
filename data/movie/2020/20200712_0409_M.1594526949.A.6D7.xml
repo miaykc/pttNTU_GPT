@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">cation234 (貓離子)</metadata>
+      <metadata name="post_id">M.1594526949.A.6D7</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">Re: [問題] 請問重慶森林阿菲在手扶梯的場景</metadata>
+   </teiHeader>
+   <text>
+      <body author="cation234 (貓離子)">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VL">無意間</w>
+            <w type="P">在</w>
+            <w type="Nep">這</w>
+            <w type="Nf">本</w>
+            <w type="Na">書</w>
+            <w type="Ncd">裡</w>
+            <w type="VE">發現</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">劇照</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/sBBQl3c.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Nie8</w>
+            <w type="FW">bDs.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/LBkwx</w>
+            <w type="FW">Dj.jpg</w>
+         </s>
+      </body>
+      <title author="cation234 (貓離子)">
+         <s>
+            <w type="FW">Re</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">請問</w>
+            <w type="Nc">重慶</w>
+            <w type="Na">森林</w>
+            <w type="Nb">阿菲</w>
+            <w type="P">在</w>
+            <w type="Na">手扶梯</w>
+            <w type="DE">的</w>
+            <w type="Na">場景</w>
+         </s>
+      </title>
+      <comment author="aure0914" c_type="pos">
+         <s>
+            <w type="Dfa">很</w>
+            <w type="VH">好看</w>
+            <w type="I">欸</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

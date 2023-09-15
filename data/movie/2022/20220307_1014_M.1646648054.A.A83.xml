@@ -1,0 +1,765 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">lgng66133 (臭猴子)</metadata>
+      <metadata name="post_id">M.1646648054.A.A83</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 2022 線上電影與電視協會 得獎名單</metadata>
+   </teiHeader>
+   <text>
+      <body author="lgng66133 (臭猴子)">
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">影片</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">犬山記</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">外語片</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="P">在</w>
+            <w type="Na">車</w>
+            <w type="Ncd">上</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">│</w>
+            <w type="Nc">日本</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">鈦</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">│</w>
+            <w type="Nc">法國</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">紀錄片</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VA">漂浪</w>
+            <w type="Na">人生</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">靈魂樂</w>
+            <w type="DE">之</w>
+            <w type="Nd">夏</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">動畫片</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">米家</w>
+            <w type="Na">大戰</w>
+            <w type="Na">機器人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VA">漂浪</w>
+            <w type="Na">人生</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">導演</w>
+         </s>
+         <s>
+            <w type="FW">Jane</w>
+            <w type="FW"> Campion</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">犬山記</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Denis</w>
+            <w type="FW"> Villeneuve</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">男</w>
+            <w type="Na">主角</w>
+         </s>
+         <s>
+            <w type="FW">Benedict</w>
+            <w type="FW"> Cumberbatch</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">犬山記</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Andrew</w>
+            <w type="FW"> Garfield</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VA">倒數</w>
+            <w type="Na">時刻</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">女</w>
+            <w type="Na">主角</w>
+         </s>
+         <s>
+            <w type="FW">Kristen</w>
+            <w type="FW"> Stewart</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">史賓賽</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Jessica</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Chastain</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">神聖</w>
+            <w type="Nc">電視台</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">男</w>
+            <w type="Na">配角</w>
+         </s>
+         <s>
+            <w type="FW">Kodi Smit-McPhee</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">犬山記</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Troy</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Kotsur</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">樂動</w>
+            <w type="Na">心旋律</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">女</w>
+            <w type="Na">配角</w>
+         </s>
+         <s>
+            <w type="FW">Ariana</w>
+            <w type="FW"> DeBose</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">西城</w>
+            <w type="Na">故事</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Ruth</w>
+            <w type="FW"> Negga</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">白色</w>
+            <w type="Na">通行證</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="VH">年輕</w>
+            <w type="Na">演員</w>
+         </s>
+         <s>
+            <w type="FW">Emilia</w>
+            <w type="FW"> Jones</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">樂動</w>
+            <w type="Na">心旋律</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Woody</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Norman</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">C’mon</w>
+            <w type="FW"> C’mon</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">男性</w>
+            <w type="VC">突破</w>
+            <w type="VC">演出</w>
+         </s>
+         <s>
+            <w type="FW">Mike</w>
+            <w type="FW"> Faist</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">西城</w>
+            <w type="Na">故事</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Troy</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Kotsur</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">樂動</w>
+            <w type="Na">心旋律</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">女性</w>
+            <w type="VC">突破</w>
+            <w type="VC">演出</w>
+         </s>
+         <s>
+            <w type="FW">Alana Haim</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">甘草</w>
+            <w type="Na">披薩</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Ariana</w>
+            <w type="FW"> DeBose</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">西城</w>
+            <w type="Na">故事</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Nv">配音</w>
+            <w type="Na">演出</w>
+         </s>
+         <s>
+            <w type="FW">Stephanie</w>
+            <w type="FW"> Beatriz</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">魔法</w>
+            <w type="Neqa">滿</w>
+            <w type="Na">屋</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Abbi</w>
+            <w type="FW"> Jacobson</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">米家</w>
+            <w type="Na">大戰</w>
+            <w type="Na">機器人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">整體</w>
+            <w type="VC">演出</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nd">午後</w>
+            <w type="Na">彌撒</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="VA">選角</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">犬山記</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="VH">新</w>
+            <w type="Na">導演</w>
+         </s>
+         <s>
+            <w type="FW">Lin-Manuel</w>
+            <w type="FW"> Miranda</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VA">倒數</w>
+            <w type="Na">時刻</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Maggie</w>
+            <w type="FW"> Gyllenhaal</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">失去</w>
+            <w type="DE">的</w>
+            <w type="Na">女兒</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="VH">原創</w>
+            <w type="Na">劇本</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nd">午後</w>
+            <w type="Na">彌撒</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">甘草</w>
+            <w type="Na">披薩</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="VC">改編</w>
+            <w type="Na">劇本</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">犬山記</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="P">在</w>
+            <w type="Na">車</w>
+            <w type="Ncd">上</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">攝影</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">犬山記</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="VC">剪輯</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VA">倒數</w>
+            <w type="Na">時刻</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">美術</w>
+            <w type="VC">設計</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">夜路</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">服裝</w>
+            <w type="Na">設計</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">時尚</w>
+            <w type="Na">惡女</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">庫伊拉</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">妝髮</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">神聖</w>
+            <w type="Nc">電視台</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">時尚</w>
+            <w type="Na">惡女</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">庫伊拉</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="VH">原創</w>
+            <w type="Na">配樂</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">犬山記</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Nv">原創</w>
+            <w type="Na">歌曲</w>
+         </s>
+         <s>
+            <w type="FW">“No</w>
+            <w type="FW"> Time</w>
+            <w type="FW"> to</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Die</w>
+            <w type="FW">”</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Neu">007</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VH">生死交戰</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">“We </w>
+            <w type="FW">Don</w>
+            <w type="FW">’t Talk</w>
+            <w type="FW"> About</w>
+            <w type="FW"> Bruno</w>
+            <w type="FW">”</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">魔法</w>
+            <w type="Neqa">滿</w>
+            <w type="Na">屋</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Nv">改編</w>
+            <w type="Na">歌曲</w>
+         </s>
+         <s>
+            <w type="FW">“30/90”</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VA">倒數</w>
+            <w type="Na">時刻</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">“America</w>
+            <w type="FW">”</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">西城</w>
+            <w type="Na">故事</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">聲音</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">西城</w>
+            <w type="Na">故事</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">音效</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Neu">007</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VH">生死交戰</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">視覺</w>
+            <w type="Na">效果</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">尚氣</w>
+            <w type="Caa">與</w>
+            <w type="Nb">十</w>
+            <w type="Na">環</w>
+            <w type="Na">傳奇</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">動作</w>
+            <w type="VC">設計</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">尚氣</w>
+            <w type="Caa">與</w>
+            <w type="Nb">十</w>
+            <w type="Na">環</w>
+            <w type="Na">傳奇</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">片頭</w>
+            <w type="FW">/</w>
+            <w type="Na">片尾</w>
+            <w type="VC">設計</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VB">復仇</w>
+            <w type="DE">之</w>
+            <w type="Na">淵</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Neu">007</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VH">生死交戰</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">片頭</w>
+            <w type="Na">名單</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">電影</w>
+            <w type="Na">橋段</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">沙蟲</w>
+            <w type="VA">現身</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">樂</w>
+            <w type="VAC">動</w>
+            <w type="Na">心</w>
+            <w type="Na">旋律</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">爸爸</w>
+            <w type="VE">聽見</w>
+            <w type="Na">女兒</w>
+            <w type="VA">唱歌</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">電影</w>
+            <w type="VE">預告</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">迷離</w>
+            <w type="Nb">夜</w>
+            <w type="Nb">蘇活</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Neu">第一</w>
+            <w type="Na">版</w>
+            <w type="VE">預告</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/t</w>
+            <w type="FW">B9WUIv9KH8</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">最終版</w>
+            <w type="VE">預告</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/w0HgHet0sxg</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">電影</w>
+            <w type="Na">海報</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">史賓賽</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Mis</w>
+            <w type="Neu">99</w>
+            <w type="Nf">gr.jpg</w>
+         </s>
+         <s>
+            <w type="Na">順位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">迷離</w>
+            <w type="Nb">夜</w>
+            <w type="Nb">蘇活</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/7</w>
+            <w type="Nf">gCz1QD.jpg</w>
+         </s>
+      </body>
+      <title author="lgng66133 (臭猴子)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 2022 </w>
+            <w type="Nc">線上</w>
+            <w type="Na">電影</w>
+            <w type="Caa">與</w>
+            <w type="Na">電視</w>
+            <w type="Nc">協會</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">得獎</w>
+            <w type="Na">名單</w>
+         </s>
+      </title>
+      <comment author="sunsirr" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Na">名單</w>
+            <w type="VH">可以</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="johan0727" c_type="pos">
+         <s>
+            <w type="VC">推推</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

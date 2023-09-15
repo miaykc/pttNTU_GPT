@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">qpr322 (龍魚)</metadata>
+      <metadata name="post_id">M.1618368162.A.576</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 2021 服裝設計師工會 得獎名單</metadata>
+   </teiHeader>
+   <text>
+      <body author="qpr322 (龍魚)">
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">當代</w>
+            <w type="Na">電影</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">花漾</w>
+            <w type="Na">女子</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Nancy</w>
+            <w type="FW"> Steiner</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">時代</w>
+            <w type="Na">電影</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">藍調</w>
+            <w type="Na">天后</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Ann</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Roth</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">科幻</w>
+            <w type="FW">／</w>
+            <w type="VH">奇幻</w>
+            <w type="Na">電影</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">花木蘭</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Bina</w>
+            <w type="FW"> Daigeler</w>
+         </s>
+      </body>
+      <title author="qpr322 (龍魚)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 2021</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">服裝</w>
+            <w type="Na">設計師</w>
+            <w type="Nc">工會</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">得獎</w>
+            <w type="Na">名單</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

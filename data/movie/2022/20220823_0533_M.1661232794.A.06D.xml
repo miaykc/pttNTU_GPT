@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">since1959 (我很宅)</metadata>
+      <metadata name="post_id">M.1661232794.A.06D</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 這是哪部片子的場景？</metadata>
+   </teiHeader>
+   <text>
+      <body author="since1959 (我很宅)">
+         <s>
+            <w type="P">在</w>
+            <w type="Na">軍武</w>
+            <w type="Na">影片</w>
+            <w type="Ng">中</w>
+            <w type="VC">亮出</w>
+            <w type="Nep">這</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">個</w>
+            <w type="Na">電影</w>
+            <w type="Na">場景</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="Nh">誰</w>
+            <w type="VK">知道</w>
+            <w type="SHI">是</w>
+            <w type="Nep">哪</w>
+            <w type="Nf">部</w>
+            <w type="Na">片子</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/a/OYTtpYf</w>
+         </s>
+      </body>
+      <title author="since1959 (我很宅)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問</w>
+            <w type="Na">片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nep">這</w>
+            <w type="SHI">是</w>
+            <w type="Nep">哪</w>
+            <w type="Nf">部</w>
+            <w type="Na">片子</w>
+            <w type="DE">的</w>
+            <w type="Na">場景</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </title>
+      <comment author="HAHAUCCUQQ" c_type="pos">
+         <s>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+         </s>
+      </comment>
+      <comment author="tomoti" c_type="neu">
+         <s>
+            <w type="V_2">有</w>
+            <w type="Nb">范冰冰</w>
+            <w type="Nep">那</w>
+            <w type="Nf">部</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">自己</w>
+            <w type="VC">找</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

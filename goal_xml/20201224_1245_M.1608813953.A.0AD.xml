@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">newyun (yunwei)</metadata>
+      <metadata name="post_id">M.1608813953.A.0AD</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] 請問女九/小小福早餐</metadata>
+   </teiHeader>
+   <text>
+      <body author="newyun (yunwei)">
+         <s>
+            <w type="Nh">各位</w>
+            <w type="VH">大大</w>
+            <w type="VH">好</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="SHI">是</w>
+            <w type="VH">畢業</w>
+            <w type="FW">N</w>
+            <w type="Na">年</w>
+            <w type="DE">的</w>
+            <w type="Na">校友</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">最近</w>
+            <w type="VE">想</w>
+            <w type="VCL">回</w>
+            <w type="Nc">學校</w>
+            <w type="VA">走走</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">想</w>
+            <w type="VE">問問</w>
+            <w type="Na">女九</w>
+            <w type="A">法式</w>
+            <w type="Caa">跟</w>
+            <w type="Nb">小小福</w>
+            <w type="Na">蘿蔔糕</w>
+            <w type="DE">的</w>
+            <w type="Na">早餐</w>
+            <w type="D">還</w>
+            <w type="VCL">在</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Dfa">挺</w>
+            <w type="VJ">懷念</w>
+            <w type="T">的</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VJ">謝謝</w>
+            <w type="T">囉</w>
+            <w type="FW">～</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> iPhone</w>
+         </s>
+      </body>
+      <title author="newyun (yunwei)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">請問</w>
+            <w type="Na">女九</w>
+            <w type="FW">/</w>
+            <w type="Nb">小小福</w>
+            <w type="Na">早餐</w>
+         </s>
+      </title>
+      <comment author="NTUGinger" c_type="pos">
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="SHI">是</w>
+            <w type="VE">說</w>
+            <w type="Nc">一樓</w>
+            <w type="DE">的</w>
+            <w type="Nc">早餐店</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">那</w>
+            <w type="D">已經</w>
+            <w type="VJ">沒</w>
+            <w type="Di">了</w>
+            <w type="I">唷</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="Ginjilin" c_type="pos">
+         <s>
+            <w type="Na">女九</w>
+            <w type="Na">早餐</w>
+            <w type="VC">搬到</w>
+            <w type="Nb">小小福</w>
+            <w type="T">了</w>
+            <w type="T">喔</w>
+         </s>
+      </comment>
+      <comment author="newyun" c_type="neu">
+         <s>
+            <w type="Dk">那</w>
+            <w type="VE">請問</w>
+            <w type="Nd">週末</w>
+            <w type="D">一般</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+            <w type="VC">開</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="daye87" c_type="pos">
+         <s>
+            <w type="Nb">小福</w>
+            <w type="DE">的</w>
+            <w type="Nc">早餐店</w>
+            <w type="Nd">禮拜六</w>
+            <w type="V_2">有</w>
+            <w type="VC">開</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neqa">其他</w>
+            <w type="D">好像</w>
+            <w type="D">不會</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="newyun" c_type="neu">
+         <s>
+            <w type="VJ">謝謝</w>
+         </s>
+      </comment>
+      <comment author="eldar" c_type="pos">
+         <s>
+            <w type="Na">女九</w>
+            <w type="Na">早餐</w>
+            <w type="D">還</w>
+            <w type="VCL">在</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">搬到</w>
+            <w type="Nc">二樓</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">還是</w>
+            <w type="Nd">以前</w>
+            <w type="Nep">那</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">位</w>
+            <w type="Na">阿姨</w>
+            <w type="D">在</w>
+            <w type="VC">做</w>
+         </s>
+      </comment>
+      <comment author="mollusca" c_type="neu">
+         <s>
+            <w type="Nb">小小福</w>
+            <w type="Na">蘿蔔糕</w>
+            <w type="SHI">是</w>
+            <w type="VG">指</w>
+            <w type="Na">姊妹花</w>
+            <w type="Na">雞排</w>
+            <w type="T">的</w>
+            <w type="T">吧</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="mollusca" c_type="neu">
+         <s>
+            <w type="Na">姊妹花</w>
+            <w type="D">已經</w>
+            <w type="VHC">結束</w>
+            <w type="Dfa">很</w>
+            <w type="VH">久</w>
+            <w type="T">囉</w>
+         </s>
+      </comment>
+      <comment author="koritac" c_type="pos">
+         <s>
+            <w type="Na">女</w>
+            <w type="Neu">九</w>
+            <w type="Na">早餐</w>
+            <w type="Nd">假日</w>
+            <w type="D">不會</w>
+            <w type="VC">開</w>
+            <w type="T">哦</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="dosoleil" c_type="neu">
+         <s>
+            <w type="VC">吃</w>
+            <w type="Di">過</w>
+            <w type="Na">姊妹花</w>
+            <w type="DE">的</w>
+            <w type="Neqa">大部分</w>
+            <w type="D">都</w>
+            <w type="VH">畢業</w>
+            <w type="T">了</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="MONKEYJEUS" c_type="neg">
+         <s>
+            <w type="Nc">二樓</w>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="VE">說</w>
+            <w type="Nep">啥</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Cbb">如果</w>
+            <w type="SHI">是</w>
+            <w type="Cba">的話</w>
+            <w type="Na">品質</w>
+            <w type="D">也</w>
+            <w type="VH">差</w>
+            <w type="VH">太多</w>
+            <w type="T">了</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

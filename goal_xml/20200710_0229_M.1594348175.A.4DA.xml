@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">olmtw (olmtw)</metadata>
+      <metadata name="post_id">M.1594348175.A.4DA</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 上山避暑採蔬果 台大梅峰農場「在地蔬食</metadata>
+   </teiHeader>
+   <text>
+      <body author="olmtw (olmtw)">
+         <s>
+            <w type="VA">上山</w>
+            <w type="VA">避暑</w>
+            <w type="VC">採</w>
+            <w type="Na">蔬果</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台大</w>
+            <w type="Nc">梅峰</w>
+            <w type="Nc">農場</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="P">在地</w>
+            <w type="Na">蔬食</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VA">登場</w>
+         </s>
+         <s>
+            <w type="Neu">2020-07-09 14</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">35 </w>
+            <w type="Nb">聯合報</w>
+            <w type="FW"> / </w>
+            <w type="Na">記者</w>
+            <w type="Nb">賴香珊</w>
+            <w type="FW">／</w>
+            <w type="Nc">南投</w>
+            <w type="VH">即時</w>
+            <w type="VE">報導</w>
+         </s>
+         <s>
+            <w type="VCL">入</w>
+            <w type="Nd">夏</w>
+            <w type="D">屢</w>
+            <w type="VHC">飆</w>
+            <w type="Na">高溫</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VA">上山</w>
+            <w type="VA">避暑</w>
+            <w type="SHI">是</w>
+            <w type="VH">好</w>
+            <w type="Na">選擇</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">而</w>
+            <w type="Nd">平日</w>
+            <w type="Da">僅</w>
+            <w type="D">不</w>
+            <w type="P">對</w>
+            <w type="Ncd">外</w>
+            <w type="VC">開放</w>
+            <w type="Nc">南投縣</w>
+            <w type="Nc">仁愛鄉</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">梅峰</w>
+            <w type="Nc">農場</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nd">現</w>
+            <w type="D">正</w>
+            <w type="VC">舉辦</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="P">在地</w>
+            <w type="Na">蔬食</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">活動</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">即日</w>
+            <w type="Ng">起</w>
+            <w type="P">至</w>
+            <w type="Nd">8月</w>
+            <w type="Ng">底</w>
+            <w type="Na">民眾</w>
+            <w type="D">毋須</w>
+            <w type="VC">預約</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">只要</w>
+            <w type="Nc">現場</w>
+            <w type="VA">付費</w>
+            <w type="D">就</w>
+            <w type="D">可</w>
+            <w type="VA">入場</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Na">機會</w>
+            <w type="VC">體驗</w>
+            <w type="D">親手</w>
+            <w type="VC">採摘</w>
+            <w type="Na">蔬果</w>
+            <w type="DE">的</w>
+            <w type="Na">樂趣</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Nc">梅峰</w>
+            <w type="Nc">農場</w>
+            <w type="VE">指出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nb">梅峰</w>
+            <w type="Nc">農場</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">山地</w>
+            <w type="Na">實驗</w>
+            <w type="Nc">農場</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">多</w>
+            <w type="Nf">年</w>
+            <w type="Ng">來</w>
+            <w type="D">戮力</w>
+            <w type="VC">推動</w>
+            <w type="A">有機農</w>
+         </s>
+         <s>
+            <w type="Na">業</w>
+            <w type="Caa">和</w>
+            <w type="Na">環境</w>
+            <w type="Na">教育</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">為</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nc">園藝系</w>
+            <w type="VA">實習</w>
+            <w type="Nc">場域</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">平時</w>
+            <w type="D">不</w>
+            <w type="P">對</w>
+            <w type="Ncd">外</w>
+            <w type="VC">開放</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">想</w>
+            <w type="VCL">進入</w>
+            <w type="D">則</w>
+            <w type="D">得</w>
+            <w type="VC">預約</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Da">唯獨</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">年</w>
+            <w type="Neu">一</w>
+            <w type="Nf">度</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="P">在地</w>
+            <w type="Na">蔬食</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">活動</w>
+            <w type="Na">期間</w>
+            <w type="Da">才</w>
+            <w type="V_2">有</w>
+            <w type="VC">開放</w>
+            <w type="Na">民眾</w>
+            <w type="Nc">現場</w>
+            <w type="VC">購</w>
+            <w type="Na">票</w>
+            <w type="VA">入園</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">梅峰</w>
+            <w type="Nc">農場</w>
+            <w type="Nc">園區</w>
+            <w type="VCL">位居</w>
+            <w type="Na">海拔</w>
+            <w type="Neu">2100</w>
+            <w type="Nf">公尺</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">距</w>
+            <w type="Nc">合歡山</w>
+            <w type="Da">僅</w>
+            <w type="Neu">40</w>
+            <w type="Nf">分鐘</w>
+            <w type="Na">車程</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">夏季</w>
+            <w type="Na">氣溫</w>
+            <w type="VH">涼爽</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">獨特</w>
+            <w type="Na">氣候</w>
+            <w type="Na">種</w>
+         </s>
+         <s>
+            <w type="VC">植</w>
+            <w type="Na">平地</w>
+            <w type="VH">少見</w>
+            <w type="DE">的</w>
+            <w type="Nc">溫帶</w>
+            <w type="Na">花卉</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">薰衣草</w>
+            <w type="Na">田</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">白楊</w>
+            <w type="Na">步道</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">綠籬</w>
+            <w type="Na">迷宮</w>
+            <w type="Cab">等</w>
+            <w type="Na">景觀</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="P">在地</w>
+            <w type="Na">蔬食</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">活動期</w>
+         </s>
+         <s>
+            <w type="Ncd">間</w>
+            <w type="D">還</w>
+            <w type="VD">提供</w>
+            <w type="Nd">夏日</w>
+            <w type="Na">特展</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">以及</w>
+            <w type="Na">攝影</w>
+            <w type="Nv">徵選</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">農</w>
+            <w type="Na">特產品</w>
+            <w type="Na">市集</w>
+            <w type="Cab">等</w>
+            <w type="Na">主題</w>
+            <w type="Na">活動</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">梅峰</w>
+            <w type="Nc">農場</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">園區</w>
+            <w type="Ncd">內</w>
+            <w type="P">除</w>
+            <w type="Nc">溫帶</w>
+            <w type="Na">景致</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">更</w>
+            <w type="A">有機</w>
+            <w type="VC">栽種</w>
+            <w type="Na">高麗菜</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">萵苣</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">青江菜</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">小白菜</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">以及</w>
+         </s>
+         <s>
+            <w type="Nc">津輕</w>
+            <w type="Na">蘋果</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">李子</w>
+            <w type="Cab">等</w>
+            <w type="Na">蔬果</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="Na">機會</w>
+            <w type="VC">體驗</w>
+            <w type="D">親手</w>
+            <w type="VC">採摘</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VJ">認識</w>
+            <w type="VH">友善</w>
+            <w type="Na">環境</w>
+            <w type="DE">的</w>
+            <w type="Na">農業</w>
+            <w type="Nv">耕作</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Cbb">另</w>
+            <w type="P">在</w>
+            <w type="Nv">入場</w>
+         </s>
+         <s>
+            <w type="VC">購買</w>
+            <w type="Na">採果券</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">憑</w>
+            <w type="Na">券</w>
+            <w type="D">就</w>
+            <w type="D">能</w>
+            <w type="VC">按</w>
+            <w type="Na">梯次</w>
+            <w type="VC">進行</w>
+            <w type="VC">採</w>
+            <w type="Na">水蜜桃</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">票券</w>
+            <w type="VD">售完</w>
+            <w type="Ng">為止</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">而</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="P">在地</w>
+            <w type="Na">蔬食</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">活動</w>
+            <w type="P">從</w>
+            <w type="Nd">即日</w>
+            <w type="Ng">起</w>
+            <w type="Caa">至</w>
+            <w type="Nd">8月</w>
+            <w type="Neu">31日</w>
+            <w type="Ng">止</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VA">入場</w>
+            <w type="Na">時間</w>
+            <w type="VG">為</w>
+            <w type="Nes">每</w>
+            <w type="Nf">天</w>
+            <w type="Nd">上午</w>
+            <w type="Nd">9時半</w>
+            <w type="Caa">至</w>
+            <w type="Nd">下午</w>
+            <w type="Nd">3時半</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Cbb">另</w>
+            <w type="VE">提醒</w>
+            <w type="VA">上山</w>
+            <w type="Na">民眾</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">山區</w>
+            <w type="VJ">地處</w>
+            <w type="VH">偏遠</w>
+            <w type="Caa">且</w>
+            <w type="Na">氣候</w>
+            <w type="D">不</w>
+            <w type="VH">穩</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">如</w>
+            <w type="V_2">有</w>
+            <w type="Na">心血管</w>
+            <w type="Na">疾病</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">年長者</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">身體</w>
+            <w type="VH">不適</w>
+            <w type="Caa">或</w>
+            <w type="VC">行</w>
+         </s>
+         <s>
+            <w type="VAC">動</w>
+            <w type="VH">不便</w>
+            <w type="Na">者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">務必</w>
+            <w type="VK">留意</w>
+            <w type="Na">身體</w>
+            <w type="Na">狀況</w>
+            <w type="Cbb">並</w>
+            <w type="VC">斟酌</w>
+            <w type="Na">行程</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">此外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">為</w>
+            <w type="VC">維護</w>
+            <w type="Na">環境</w>
+            <w type="Na">品質</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">全</w>
+            <w type="Nf">場</w>
+            <w type="VE">禁止</w>
+            <w type="VA">吸菸</w>
+            <w type="VA">飲酒</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VF">請</w>
+            <w type="D">勿</w>
+            <w type="VC">攜帶</w>
+            <w type="Na">寵物</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Cbb">另</w>
+            <w type="Nv">防疫</w>
+            <w type="Na">期間</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">遊客</w>
+            <w type="VA">入園</w>
+         </s>
+         <s>
+            <w type="D">仍</w>
+            <w type="D">須</w>
+            <w type="VC">量測</w>
+            <w type="Na">體溫</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">園區</w>
+            <w type="VH">定時</w>
+            <w type="VC">消毒</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">餐廳</w>
+            <w type="VC">採</w>
+            <w type="Neqa">半</w>
+            <w type="VA">自助</w>
+            <w type="VA">供餐</w>
+            <w type="Cbb">並</w>
+            <w type="VE">限制</w>
+            <w type="VA">用餐</w>
+            <w type="Na">人數</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">活動</w>
+            <w type="Na">詳情</w>
+            <w type="VF">請</w>
+            <w type="VCL">上</w>
+            <w type="Nc">臺大</w>
+         </s>
+         <s>
+            <w type="Nc">山地</w>
+            <w type="Nc">農場</w>
+            <w type="Na">官網</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//mf.ntu.edu.tw</w>
+            <w type="Caa">或</w>
+            <w type="VE">洽詢</w>
+            <w type="Na">活動</w>
+            <w type="Na">專線</w>
+            <w type="Neu">049</w>
+            <w type="FW">-2801810</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//udn.com/news/story/7325/4689398</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Google</w>
+            <w type="FW"> Chrome</w>
+            <w type="FW"> on</w>
+            <w type="FW"> Windows</w>
+            <w type="FW"> 10</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Pro</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="olmtw (olmtw)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">上山</w>
+            <w type="VA">避暑</w>
+            <w type="VC">採</w>
+            <w type="Na">蔬果</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台大</w>
+            <w type="Nb">梅峰</w>
+            <w type="Nc">農場</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="P">在地</w>
+            <w type="Na">蔬食</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

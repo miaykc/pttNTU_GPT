@@ -1,0 +1,1703 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">iamsalad (肉桂])</metadata>
+      <metadata name="post_id">M.1641483723.A.0B1</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問卷] #抽現金 電影購票消費者行為調查</metadata>
+   </teiHeader>
+   <text>
+      <body author="iamsalad (肉桂])">
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="P">代</w>
+            <w type="FW"> po</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Nh">各位</w>
+            <w type="Na">版</w>
+            <w type="VH">友好</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="SHI">是</w>
+            <w type="A">國立</w>
+            <w type="Nc">臺灣</w>
+            <w type="Nc">大學</w>
+            <w type="DE">的</w>
+            <w type="Na">學生</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">目前</w>
+            <w type="D">正在</w>
+            <w type="VC">進行</w>
+            <w type="Na">電影</w>
+            <w type="VC">購</w>
+            <w type="Na">票</w>
+            <w type="DE">的</w>
+            <w type="Na">消費者</w>
+            <w type="Na">行為</w>
+            <w type="VE">調查</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">希望</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="VC">買</w>
+            <w type="Di">過</w>
+            <w type="Na">電影票</w>
+            <w type="DE">的</w>
+            <w type="Nh">大家</w>
+            <w type="VC">幫忙</w>
+            <w type="VC">填寫</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">謝謝</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="Na">問卷</w>
+            <w type="Na">名稱</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">電影</w>
+            <w type="VC">購</w>
+            <w type="Na">票</w>
+            <w type="Na">消費者</w>
+            <w type="Na">行為</w>
+            <w type="Nv">調查</w>
+         </s>
+         <s>
+            <w type="Nv">研究</w>
+            <w type="Na">目的</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VE">探討</w>
+            <w type="Na">消費者</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+            <w type="VC">購</w>
+            <w type="Na">票</w>
+            <w type="Na">行為</w>
+         </s>
+         <s>
+            <w type="VC">填答</w>
+            <w type="Na">條件</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="V_2">有</w>
+            <w type="VC">買</w>
+            <w type="Di">過</w>
+            <w type="Na">電影票</w>
+         </s>
+         <s>
+            <w type="Neqa">其他</w>
+            <w type="Na">聲明</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nep">此</w>
+            <w type="Nf">份</w>
+            <w type="Na">問卷</w>
+            <w type="VH">耗時</w>
+            <w type="Da">約</w>
+            <w type="Neu">3</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Neu">5</w>
+            <w type="Nf">分鐘</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">您</w>
+            <w type="DE">的</w>
+            <w type="Na">資料</w>
+            <w type="D">將</w>
+            <w type="Da">僅</w>
+            <w type="VG">作為</w>
+            <w type="Nc">研究所</w>
+            <w type="Na">用</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VK">放心</w>
+            <w type="VC">填寫</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">謝謝</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="Nv">研究</w>
+            <w type="Na">單位</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="A">國立</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+         </s>
+         <s>
+            <w type="VE">研究者</w>
+            <w type="Na">姓名</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">胡家維</w>
+         </s>
+         <s>
+            <w type="Na">聯絡人</w>
+            <w type="Na">姓名</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">胡家維</w>
+         </s>
+         <s>
+            <w type="Nv">聯絡</w>
+            <w type="Na">方式</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">[email</w>
+            <w type="FW"> protected</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+         </s>
+         <s>
+            <w type="Na">問卷</w>
+            <w type="VC">連結</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.surveycake.com/s/YxdBz</w>
+         </s>
+         <s>
+            <w type="Nv">回饋</w>
+            <w type="Na">獎品</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">$ 500</w>
+            <w type="Nf">元</w>
+            <w type="FW"> x 1</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">$300</w>
+            <w type="Nf">元</w>
+            <w type="FW"> x 1</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">$100</w>
+            <w type="Nf">元</w>
+            <w type="FW"> x 2</w>
+         </s>
+         <s>
+            <w type="Nv">抽獎</w>
+            <w type="Na">資格</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="P">於</w>
+            <w type="Na">問卷</w>
+            <w type="Ng">中</w>
+            <w type="VC">留下</w>
+            <w type="FW"> Email</w>
+            <w type="Cbb">且</w>
+            <w type="VJ">符合</w>
+            <w type="VH">有效</w>
+            <w type="Na">問卷</w>
+            <w type="Na">定義</w>
+            <w type="DE">的</w>
+            <w type="VH">認真</w>
+            <w type="VC">填寫</w>
+            <w type="Na">者</w>
+            <w type="VC">抽出</w>
+         </s>
+         <s>
+            <w type="Na">問卷</w>
+            <w type="VH">截止</w>
+            <w type="Na">日期</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW"> 1/9</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nd">日</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Neu">23</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">59</w>
+         </s>
+         <s>
+            <w type="VC">填答</w>
+            <w type="Ng">後</w>
+            <w type="D">再</w>
+            <w type="VHC">麻煩</w>
+            <w type="P">幫</w>
+            <w type="Nh">我</w>
+            <w type="VC">留</w>
+            <w type="Di">個</w>
+            <w type="FW"> Done</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">非常</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">大家</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </body>
+      <title author="iamsalad (肉桂])">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問卷</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> #</w>
+            <w type="VC">抽</w>
+            <w type="Na">現金</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">電影</w>
+            <w type="VC">購</w>
+            <w type="Na">票</w>
+            <w type="Na">消費者</w>
+            <w type="Na">行為</w>
+            <w type="Nv">調查</w>
+         </s>
+      </title>
+      <comment author="qscxz" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="l25283015" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="miro119" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="andyntd" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="IvnGoran" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="shen0348" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="jjolm221" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="visual" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="dedekind" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="elise320" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="pupuju" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="fxp51203" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="jasonli99" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="MilkyCat" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="odddriver" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="sky33579" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="c14871083" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="qtbanana1211" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="iamikuki" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="lucifax" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="chiigr" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="abc127845" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="ts895318" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="potter1529" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="BoyoRo" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="jasontai3524" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="mnyan0503" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="philibra" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="jjkh" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="dolphinlin" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="TrendJeff" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="ivymorita" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="shi025" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="blue14753" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="meayulo" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="azuresmile" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="love101084" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="BrandonRoy" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="min0502" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="shellyfly17" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="new7604" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="heisagirl" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="damnblue0212" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="taker2302" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="kyouya" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="Ahkuang" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="eva326" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="aaasaaa" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="jefflien8" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="dorydory" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="wuuu55" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="Uriel5566" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="liangyu" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="wqcftgv" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="drowningnow" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="rainproof" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="antjim" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="justlikenari" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="mikoto19404" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="ken011507" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="s91a32monkey" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="jason88223" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="sbfbrbbr" c_type="pos">
+         <s>
+            <w type="FW">down</w>
+         </s>
+      </comment>
+      <comment author="hansssssting" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="hardaway1224" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="ggchioinder" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="afantasy" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="yuxxoholic" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="aurora110229" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="cheakmo" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="dgrobot" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="yehsongyoung" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="tony155137" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="Leanneyu" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="imuimm" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="lilinana" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="j2046g" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="kimp01pr1nce" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="keitayaya" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="blue0687" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="a942220" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="platoislove" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="chenan1778" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="choidonga" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="shiang1010" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="joe998556" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="rhymesachs" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="z954008" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="LiouNan" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="audio02" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="clse0215" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="clancey" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="Ga1axyNote7" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="xshinloving" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="iy5602" c_type="pos">
+         <s>
+            <w type="FW">some</w>
+         </s>
+      </comment>
+      <comment author="system303179" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="cioupeng" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="ASDF0714" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="dxelda" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="iamgreen" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="LoveAmber" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="f230072828" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="h8545jk23" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="shiruru" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="hgs1981" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="U9593035" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="bluesky572" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="benson8543" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="Dipsy901" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="duckbill360" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="purewawa" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="japandan" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="GGCmax" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="bing9908131" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="skyca" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="conifer17" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="ken810614" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="imemine" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="snoopy0928" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="sumo3310" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="richard50919" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="shibainu" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="eric820602" c_type="neu">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="way1214" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="nashrock" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="e1281251" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="snowsigh" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="wang05" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="smallcane" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="jetun0718" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="vicky93" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="wesley51231" c_type="neu">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="cry2498" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="mylife001" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="andy16532" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="chrisu" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="jerry715" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="paulaliu" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="JHLBELLDANDY" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="a186186" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="wulichili" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="chlvlyt" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="bsook" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="siyin26" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="dollyl77" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="ckckfossil" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="newmaruco" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="jimmich19" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="kky55240" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="Application" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="s29961091" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="jsteven8819" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="Navarrow" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="debbychun" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="rt8333" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="w710127" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="hiphopper18" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="kk90040" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="shuo1010" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="qmei5408" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="geniuspencer" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="y10202" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="bill255039" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="sfzerox" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="flyfrogman97" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="shark06" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="squarefeathe" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="brianjr3" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="qa2103" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="fuwek" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="xbit" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="sakle" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="Copyjie" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="DevilHotel" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="AhBall" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="fightclubgf" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="yinghsiang" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="shun641026" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="yuwenxa" c_type="neu">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="Johnnyck" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="alinalovers" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="hiroki5566" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="sylviaaa14" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="RegenDay" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="guika" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="st8652001" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="tuanne" c_type="neu">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="dodobird123" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="d7e5r7" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="makiasa" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="MSWH2155" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="duckduck2" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="vigho5012" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="coffeeblue" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="Aso" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="cineaste" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="acb918" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="shinobutw" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="heyyuhan" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="Matilde" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="eddierau" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+            <w type="WHITESPACE"> </w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+      </comment>
+      <comment author="huangyaode87" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="coralforest" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="inftisland" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="Monique921" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="hot987eagle" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="ghan" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="calucu24" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="buddy88882" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="zoan" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="jones551" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="engineer1" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="confucamus" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="looertygoat" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="hohochien" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="yaes111" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="kwei1912" c_type="neu">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="zenliu" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="gamble18112" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="ffm0229" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="davy6909" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="eric50809" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="bigbang923" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="habo" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="season1014" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="fmradio" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="treegod" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="tinajas" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="wesley51231" c_type="neu">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="lovecszoo" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="wyhss" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="chingman1115" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="atim0806" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="ca86220" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="surrealwork" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="pixnetnet" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="typhant" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="ddkkv1623" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="butmyass" c_type="neg">
+         <s>
+            <w type="FW">iy</w>
+            <w type="VH">大</w>
+            <w type="D">真</w>
+            <w type="VH">調皮</w>
+         </s>
+      </comment>
+      <comment author="EucalyDog" c_type="neu">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="oyest" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="gwa0104" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="gr910301" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="f12688" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="a5268808" c_type="pos">
+         <s>
+            <w type="FW">Done~~</w>
+         </s>
+      </comment>
+      <comment author="freshworld" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="ariesw" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="kenfun" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="yoyo945" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="manbvdman" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="c503xx" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="jdzjhcs" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="GalGadot" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="doremon1293" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="peaf111" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="OPENMINE" c_type="neu">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="yoshiki0502" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="yban63" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="pollyMAN" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="jbet" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="jack3254" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="cyanineeeee" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="bboymao" c_type="pos">
+         <s>
+            <w type="FW">Dune</w>
+         </s>
+      </comment>
+      <comment author="bboymao" c_type="neu">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="blaaazers" c_type="neu">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="youknowwho02" c_type="neu">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="sasasarahhhh" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="naoiki" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="foxnuk" c_type="pos">
+         <s>
+            <w type="FW">DONE</w>
+         </s>
+      </comment>
+      <comment author="uminoko" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="rtyu2836" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="qaz90205" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="nacheong17" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="verna0904" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="elviramalikx" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="aw941450" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="ERiC0308QQ" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+      </comment>
+      <comment author="krycekx" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="KobeNi" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="guess1964" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="kyralin" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="Woodyplant" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="yiayia0333" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="lpgbc" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="linilin" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="INGRIDHO" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="lonesomelove" c_type="pos">
+         <s>
+            <w type="FW">Done</w>
+         </s>
+      </comment>
+      <comment author="peiqua" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="bloody0748" c_type="pos">
+         <s>
+            <w type="FW">done</w>
+         </s>
+      </comment>
+      <comment author="bigbang923" c_type="pos">
+         <s>
+            <w type="D">都</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="Nep">啥時</w>
+            <w type="VC">抽</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

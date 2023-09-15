@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ggian123 (小孩當國文老師打斷他腿)</metadata>
+      <metadata name="post_id">M.1619022469.A.C7D</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 尚氣</metadata>
+   </teiHeader>
+   <text>
+      <body author="ggian123 (小孩當國文老師打斷他腿)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/l</w>
+            <w type="Neu">13</w>
+            <w type="FW">NLk</w>
+            <w type="Neu">1.jpg</w>
+         </s>
+         <s>
+            <w type="VH">酷</w>
+            <w type="I">欸</w>
+         </s>
+      </body>
+      <title author="ggian123 (小孩當國文老師打斷他腿)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">尚氣</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

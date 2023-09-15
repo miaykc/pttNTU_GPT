@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">samnel1234 (samnel1234)</metadata>
+      <metadata name="post_id">M.1618823862.A.D43</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文]  爆胎ㄌ</metadata>
+   </teiHeader>
+   <text>
+      <body author="samnel1234 (samnel1234)">
+         <s>
+            <w type="Na">腳踏車</w>
+            <w type="VA">爆胎</w>
+         </s>
+         <s>
+            <w type="VC">換完</w>
+            <w type="Na">輪胎</w>
+            <w type="Na">剎車</w>
+            <w type="D">也</w>
+            <w type="VH">壞</w>
+            <w type="FW">ㄌ</w>
+         </s>
+         <s>
+            <w type="VH">直接</w>
+            <w type="VC">噴</w>
+            <w type="FW">ㄌ</w>
+            <w type="Neu">600</w>
+         </s>
+         <s>
+            <w type="D">嗚嗚</w>
+         </s>
+         <s>
+            <w type="D">為啥</w>
+            <w type="Na">輪胎</w>
+            <w type="D">那麼</w>
+            <w type="VH">貴</w>
+         </s>
+         <s>
+            <w type="D">嗚嗚</w>
+         </s>
+      </body>
+      <title author="samnel1234 (samnel1234)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE">  </w>
+            <w type="VA">爆胎</w>
+            <w type="FW">ㄌ</w>
+         </s>
+      </title>
+      <comment author="mayolane" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Na">大一</w>
+            <w type="Na">水源</w>
+            <w type="VC">買</w>
+            <w type="DE">的</w>
+            <w type="Na">車</w>
+            <w type="Nes">前</w>
+            <w type="Na">輪爆</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="Ng">後</w>
+            <w type="Na">輪</w>
+            <w type="VH">爆</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">次</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">比</w>
+            <w type="Neqa">整</w>
+            <w type="Nf">台</w>
+            <w type="Na">車</w>
+            <w type="VH">貴</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="daye87" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VC">換胎</w>
+            <w type="Neu">150</w>
+            <w type="I">欸</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">你</w>
+            <w type="SHI">是</w>
+            <w type="VH">高級</w>
+            <w type="Na">輪胎</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="fun5566" c_type="neu">
+         <s>
+            <w type="Nh">自己</w>
+            <w type="VC">補胎</w>
+            <w type="Dfa">最</w>
+            <w type="VH">便宜</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">10</w>
+            <w type="Nf">塊</w>
+            <w type="Na">錢</w>
+            <w type="Ng">以內</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">but</w>
+            <w type="FW"> time</w>
+            <w type="FW"> is</w>
+            <w type="FW"> money</w>
+            <w type="FW"> and</w>
+            <w type="FW"> nee</w>
+         </s>
+      </comment>
+      <comment author="fun5566" c_type="neu">
+         <s>
+            <w type="FW">d </w>
+            <w type="Na">技術</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">無誤</w>
+            <w type="T">吧</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">樓下</w>
+            <w type="Nc">5樓</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

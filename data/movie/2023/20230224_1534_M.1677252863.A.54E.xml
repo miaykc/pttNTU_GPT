@@ -1,0 +1,631 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">XI (男人)</metadata>
+      <metadata name="post_id">M.1677252863.A.54E</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 《配樂大師顏尼歐》紀錄電影作曲家一生</metadata>
+   </teiHeader>
+   <text>
+      <body author="XI (男人)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.chinatimes.com/newspapers/20230224000609</w>
+            <w type="DASHCATEGORY">-260112</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">chdtv</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">配樂</w>
+            <w type="Na">大師</w>
+            <w type="Nb">顏尼歐</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">紀錄</w>
+            <w type="Na">電影</w>
+            <w type="Na">作曲家</w>
+            <w type="Na">一生</w>
+         </s>
+         <s>
+            <w type="Neu">04</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10 2023/02/24 </w>
+            <w type="Nb">中國時報</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">李承陽</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//images.chinatimes.com/newsphoto/2023</w>
+            <w type="FW">-02-24/1024/BBC200_P_05_02.jpg</w>
+         </s>
+         <s>
+            <w type="Nb">顏尼歐</w>
+            <w type="D">沒</w>
+            <w type="VC">學</w>
+            <w type="Na">醫</w>
+            <w type="VC">改學</w>
+            <w type="Na">音樂</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">最終</w>
+            <w type="VG">成為</w>
+            <w type="Na">配樂</w>
+            <w type="Na">大師</w>
+            <w type="VJ">獲頒</w>
+            <w type="Neu">2</w>
+            <w type="Nf">座</w>
+            <w type="Nb">奧斯卡</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">海鵬</w>
+            <w type="VD">提供</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Nb">奧斯卡</w>
+            <w type="Na">得主</w>
+            <w type="Nb">朱賽佩托納多雷</w>
+            <w type="VH">費時</w>
+            <w type="Neu">5</w>
+            <w type="Nf">年</w>
+            <w type="VC">拍攝</w>
+            <w type="DE">的</w>
+            <w type="Na">紀錄片</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">配樂</w>
+            <w type="Na">大師</w>
+            <w type="Nb">顏尼歐</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VD">獻給</w>
+            <w type="Nh">他</w>
+            <w type="VH">已故</w>
+            <w type="DE">的</w>
+            <w type="Na">朋</w>
+         </s>
+         <s>
+            <w type="Na">友</w>
+            <w type="VG">兼</w>
+            <w type="VH">合作</w>
+            <w type="Na">夥伴</w>
+            <w type="Nb">顏尼歐莫利克奈</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">獲得</w>
+            <w type="Nc">全球</w>
+            <w type="Na">媒體</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">樂迷</w>
+            <w type="Caa">及</w>
+            <w type="Na">觀眾</w>
+            <w type="D">極力</w>
+            <w type="VJ">推崇</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">成功</w>
+            <w type="VL">讓</w>
+            <w type="Nep">這</w>
+            <w type="Nf">位</w>
+            <w type="P">被</w>
+            <w type="VG">譽為</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="D">有史以來</w>
+            <w type="Dfa">最</w>
+            <w type="VH">偉大</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+            <w type="Na">作曲家</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VH">永垂不朽</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">電影</w>
+            <w type="Dfa">最</w>
+            <w type="VH">難能可貴</w>
+            <w type="DE">之</w>
+            <w type="Na">處</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="Nb">顏尼歐</w>
+            <w type="Nd">生前</w>
+            <w type="VC">訪問到</w>
+            <w type="Nh">他</w>
+            <w type="Nh">本人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="P">由</w>
+            <w type="Nh">他</w>
+            <w type="VE">自述</w>
+            <w type="Na">人生</w>
+            <w type="Na">歷程</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Na">片</w>
+            <w type="Ng">中</w>
+            <w type="Nb">顏尼歐</w>
+         </s>
+         <s>
+            <w type="VE">提及</w>
+            <w type="VC">影響</w>
+            <w type="Nh">他</w>
+            <w type="Na">一生</w>
+            <w type="Dfa">最</w>
+            <w type="VH">大</w>
+            <w type="DE">的</w>
+            <w type="Neu">3</w>
+            <w type="Na">人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">首位</w>
+            <w type="Cbb">便是</w>
+            <w type="Nh">他</w>
+            <w type="Na">一生</w>
+            <w type="VH">落寞</w>
+            <w type="DE">的</w>
+            <w type="Na">小號</w>
+            <w type="Na">樂手</w>
+            <w type="Na">父親</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">其實</w>
+            <w type="Nb">顏尼歐</w>
+            <w type="A">原本</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+         </s>
+         <s>
+            <w type="Nb">生志</w>
+            <w type="D">向</w>
+            <w type="SHI">是</w>
+            <w type="VG">當</w>
+            <w type="Na">醫生</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">卻</w>
+            <w type="P">被</w>
+            <w type="Na">父親</w>
+            <w type="VC">阻撓</w>
+            <w type="VE">說</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">不行</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">你</w>
+            <w type="D">得</w>
+            <w type="VC">學</w>
+            <w type="VC">吹</w>
+            <w type="Na">小號</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+         </s>
+         <s>
+            <w type="Nb">顏尼歐</w>
+            <w type="Cbb">雖</w>
+            <w type="D">從小</w>
+            <w type="D">就</w>
+            <w type="P">對</w>
+            <w type="Na">音樂</w>
+            <w type="VI">著迷</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">卻</w>
+            <w type="Cbb">因</w>
+            <w type="Nc">家</w>
+            <w type="VH">貧</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Na">職業</w>
+            <w type="Na">選項</w>
+            <w type="Ncd">上</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">能</w>
+            <w type="VA">賺錢</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">過上</w>
+            <w type="VH">好</w>
+            <w type="Na">生活</w>
+            <w type="DE">的</w>
+            <w type="Na">醫生</w>
+            <w type="Da">才</w>
+            <w type="SHI">是</w>
+         </s>
+         <s>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">夢想</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">但</w>
+            <w type="Nb">顏尼歐</w>
+            <w type="DE">的</w>
+            <w type="Na">父親</w>
+            <w type="VK">深知</w>
+            <w type="Na">兒子</w>
+            <w type="VJ">擁有</w>
+            <w type="Na">天賦</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">將</w>
+            <w type="Nh">他</w>
+            <w type="VCL">送進</w>
+            <w type="Nc">羅馬</w>
+            <w type="Na">歷史</w>
+            <w type="Dfa">最</w>
+            <w type="VH">悠久</w>
+            <w type="DE">的</w>
+            <w type="Nc">聖塞西莉亞</w>
+            <w type="Nc">國</w>
+         </s>
+         <s>
+            <w type="Nf">家</w>
+            <w type="Na">音樂</w>
+            <w type="Nc">學院</w>
+            <w type="VC">專攻</w>
+            <w type="Na">小號</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">終</w>
+            <w type="VC">奠定</w>
+            <w type="Di">了</w>
+            <w type="Neu">一</w>
+            <w type="Nf">位</w>
+            <w type="Na">音樂</w>
+            <w type="Na">大師</w>
+            <w type="DE">的</w>
+            <w type="VA">誕生</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">#</w>
+            <w type="Na">小號</w>
+            <w type="FW"> #</w>
+            <w type="Na">父親</w>
+            <w type="DASHCATEGORY"> #</w>
+            <w type="Na">一生</w>
+            <w type="DASHCATEGORY"> #</w>
+            <w type="Na">配樂</w>
+            <w type="Na">大師</w>
+            <w type="DASHCATEGORY"> #</w>
+            <w type="Nb">顏尼歐</w>
+         </s>
+         <s>
+            <w type="Na">佛</w>
+            <w type="D">沒</w>
+            <w type="VE">說</w>
+            <w type="A">小乘</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">大乘</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nb">上座部</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">馬哈希</w>
+            <w type="Na">尊者</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">具戒經</w>
+            <w type="VE">講記</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VC">拆穿</w>
+            <w type="P">假</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">大乘</w>
+            <w type="Na">經典</w>
+            <w type="DE">的</w>
+            <w type="Na">騙局</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">上座部</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">明昆</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="A">南傳</w>
+            <w type="Na">菩薩道</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="SHI">是</w>
+            <w type="Nb">真</w>
+            <w type="Nb">釋迦牟尼佛</w>
+            <w type="DE">的</w>
+            <w type="Na">菩薩</w>
+            <w type="VH">成佛</w>
+            <w type="DE">之</w>
+            <w type="Na">道</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">大乘</w>
+            <w type="SHI">是</w>
+            <w type="VH">假</w>
+            <w type="Na">菩薩</w>
+            <w type="VH">成佛</w>
+            <w type="DE">之</w>
+            <w type="Na">道</w>
+         </s>
+         <s>
+            <w type="Nb">妙法蓮華經</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">華嚴經</w>
+            <w type="DASHCATEGORY"> 心經</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">金剛經</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">楞伽經</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">梵網經</w>
+            <w type="Na">菩薩</w>
+            <w type="VC">戒</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">圓覺經</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">楞嚴經</w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">大乘</w>
+            <w type="VH">假</w>
+            <w type="Na">佛經</w>
+         </s>
+         <s>
+            <w type="Nb">阿彌陀佛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">藥師佛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">大乘</w>
+            <w type="VH">假</w>
+            <w type="Na">佛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">觀世音</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">文殊</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">普賢</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">維摩詰</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">龍樹</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">地藏王</w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">大乘</w>
+            <w type="VH">假</w>
+            <w type="Na">菩薩</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.ptt.cc/bbs/IA/M.1588944610</w>
+            <w type="PERIODCATEGORY">.A.D9C.html</w>
+         </s>
+         <s>
+            <w type="Nb">上座部</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">目犍連</w>
+            <w type="Nb">子</w>
+            <w type="Nb">帝須</w>
+            <w type="P">和</w>
+            <w type="Nep">那</w>
+            <w type="D">先</w>
+            <w type="VHC">破</w>
+            <w type="Na">偽經</w>
+            <w type="Nb">大乘</w>
+            <w type="Nc">十方</w>
+            <w type="Nes">諸</w>
+            <w type="Na">佛</w>
+         </s>
+      </body>
+      <title author="XI (男人)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">配樂</w>
+            <w type="Na">大師</w>
+            <w type="Nb">顏尼歐</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">紀錄</w>
+            <w type="Na">電影</w>
+            <w type="Na">作曲家</w>
+            <w type="Na">一生</w>
+         </s>
+      </title>
+      <comment author="hp8232" c_type="neu">
+         <s>
+            <w type="P">在</w>
+            <w type="Nc">台灣</w>
+            <w type="FW">“</w>
+            <w type="VH">不行</w>
+            <w type="Nh">你</w>
+            <w type="D">得</w>
+            <w type="VG">當</w>
+            <w type="Na">醫生</w>
+            <w type="DASHCATEGORY">”</w>
+            <w type="Neu">一</w>
+            <w type="Nf">位</w>
+            <w type="Na">音樂</w>
+            <w type="Na">才子</w>
+            <w type="D">就此</w>
+            <w type="VA">隕落</w>
+         </s>
+      </comment>
+      <comment author="pauljet" c_type="neu">
+         <s>
+            <w type="VE">說</w>
+            <w type="Nep">啥</w>
+            <w type="T">呢</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台灣</w>
+            <w type="VC">出</w>
+            <w type="Neqa">好多</w>
+            <w type="Nf">位</w>
+            <w type="Na">音樂</w>
+            <w type="Na">才子</w>
+            <w type="SHI">是</w>
+            <w type="Nc">醫學系</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">執業</w>
+            <w type="Na">牙醫</w>
+         </s>
+      </comment>
+      <comment author="pauljet" c_type="neu">
+         <s>
+            <w type="D">不要</w>
+            <w type="P">自曝</w>
+            <w type="Nh">你</w>
+            <w type="D">其實</w>
+            <w type="D">不</w>
+            <w type="FW">care</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">音樂</w>
+            <w type="VH">好</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="hp8232" c_type="neu">
+         <s>
+            <w type="VJ">對不起</w>
+            <w type="Nh">我</w>
+            <w type="D">不</w>
+            <w type="VK">懂</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">音樂</w>
+         </s>
+      </comment>
+      <comment author="sooon219" c_type="pos">
+         <s>
+            <w type="Nb">羅大佑</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">張洪量</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">邰正宵</w>
+         </s>
+      </comment>
+      <comment author="bidaq" c_type="pos">
+         <s>
+            <w type="Nc">義大利</w>
+            <w type="Na">國寶級</w>
+            <w type="Na">導演</w>
+            <w type="FW">+</w>
+            <w type="Na">國寶級</w>
+            <w type="Na">配樂師</w>
+         </s>
+      </comment>
+      <comment author="tools" c_type="pos">
+         <s>
+            <w type="P">在</w>
+            <w type="Nc">台灣</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">"</w>
+            <w type="Nh">你</w>
+            <w type="D">怎模</w>
+            <w type="D">不</w>
+            <w type="VCL">進</w>
+            <w type="Nb">台積電</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="PARENTHESISCATEGORY">"</w>
+         </s>
+      </comment>
+      <comment author="SergioLeone" c_type="neu">
+         <s>
+            <w type="Nc">2樓</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">這樣</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Cbb">反而</w>
+            <w type="D">更</w>
+            <w type="VH">可惜</w>
+            <w type="T">嗎</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">喜歡</w>
+            <w type="Na">音樂</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dk">結果</w>
+            <w type="VH">實際</w>
+            <w type="Ng">上</w>
+            <w type="D">還是</w>
+         </s>
+      </comment>
+      <comment author="SergioLeone" c_type="neu">
+         <s>
+            <w type="D">去</w>
+            <w type="VG">當</w>
+            <w type="Na">醫生</w>
+            <w type="Ng">後</w>
+            <w type="Da">才</w>
+            <w type="VA">轉</w>
+            <w type="VCL">跑到</w>
+         </s>
+      </comment>
+      <comment author="SergioLeone" c_type="neu">
+         <s>
+            <w type="Na">爸</w>
+            <w type="Na">媽</w>
+            <w type="Cbb">反而</w>
+            <w type="D">會</w>
+            <w type="VE">說</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">你</w>
+            <w type="VE">看</w>
+            <w type="Nh">別人</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="VG">當上</w>
+            <w type="Na">醫生</w>
+            <w type="Ng">之後</w>
+            <w type="Da">才</w>
+            <w type="VJ">轉</w>
+            <w type="Na">音樂</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="SergioLeone" c_type="neu">
+         <s>
+            <w type="Nh">你</w>
+            <w type="D">也</w>
+            <w type="D">先</w>
+            <w type="VC">考上</w>
+            <w type="Na">醫生</w>
+            <w type="D">再</w>
+            <w type="VE">說</w>
+         </s>
+      </comment>
+      <comment author="pauljet" c_type="pos">
+         <s>
+            <w type="VC">拜託</w>
+            <w type="Nh">你</w>
+            <w type="Nh">各位</w>
+            <w type="D">去</w>
+            <w type="VK">了解</w>
+            <w type="Nh">人家</w>
+            <w type="VK">喜歡</w>
+            <w type="Na">音樂</w>
+            <w type="Na">背景</w>
+            <w type="D">不要</w>
+            <w type="VC">腦補</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="D">每</w>
+         </s>
+      </comment>
+      <comment author="pauljet" c_type="neu">
+         <s>
+            <w type="Nf">個</w>
+            <w type="Na">音樂人</w>
+            <w type="Na">家庭</w>
+            <w type="D">都</w>
+            <w type="SHI">是</w>
+            <w type="P">把</w>
+            <w type="Na">醫生</w>
+            <w type="VG">當</w>
+            <w type="A">唯一</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

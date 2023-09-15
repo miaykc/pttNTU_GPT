@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">applegg (芒果機拍照最強)</metadata>
+      <metadata name="post_id">M.1578476018.A.2AC</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">Re: [片單] 烏托邦政治諷刺片</metadata>
+   </teiHeader>
+   <text>
+      <body author="applegg (芒果機拍照最強)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=OvxE6ExD7-M</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">大都會</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">（1927）</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">世界</w>
+            <w type="Na">旦夕</w>
+            <w type="Ng">之間</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neu">1973）</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">海灘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">（2000）</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">重裝</w>
+            <w type="Na">任務</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">（2002）</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">V怪客</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">（2005）</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">單身</w>
+            <w type="Nc">動物園</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">（2015）</w>
+         </s>
+         <s>
+            <w type="FW">iphone</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">第三季</w>
+            <w type="VH">掉</w>
+            <w type="Neu">500萬</w>
+            <w type="Nf">隻</w>
+         </s>
+      </body>
+      <title author="applegg (芒果機拍照最強)">
+         <s>
+            <w type="FW">Re</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">片單</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">烏托邦</w>
+            <w type="Na">政治</w>
+            <w type="Na">諷刺片</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

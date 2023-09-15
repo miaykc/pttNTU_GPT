@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">PyTorch (背後骯髒的PY火炬)</metadata>
+      <metadata name="post_id">M.1585185075.A.2F1</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 九年級生還有人在聽coldplay嗎?</metadata>
+   </teiHeader>
+   <text>
+      <body author="PyTorch (背後骯髒的PY火炬)">
+         <s>
+            <w type="Nh">你版</w>
+         </s>
+         <s>
+            <w type="Nd">現在</w>
+            <w type="Na">九年級生</w>
+         </s>
+         <s>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW">coldplay</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=k</w>
+            <w type="Neu">4V3</w>
+            <w type="FW">Mo</w>
+            <w type="Neu">61</w>
+            <w type="FW">fJM</w>
+         </s>
+         <s>
+            <w type="FW">When</w>
+            <w type="FW"> you</w>
+            <w type="FW"> try</w>
+            <w type="FW"> your</w>
+            <w type="FW"> best</w>
+            <w type="FW"> but</w>
+            <w type="FW"> you</w>
+            <w type="FW"> don't</w>
+            <w type="FW"> succeed</w>
+         </s>
+         <s>
+            <w type="FW">When</w>
+            <w type="FW"> you</w>
+            <w type="FW"> get</w>
+            <w type="FW"> what</w>
+            <w type="FW"> you</w>
+            <w type="FW"> want</w>
+            <w type="FW"> but</w>
+            <w type="FW"> not</w>
+            <w type="FW"> what</w>
+            <w type="FW"> you</w>
+            <w type="FW"> need</w>
+         </s>
+         <s>
+            <w type="FW">When</w>
+            <w type="FW"> you</w>
+            <w type="FW"> feel</w>
+            <w type="FW"> so</w>
+            <w type="FW"> tired</w>
+            <w type="FW"> but</w>
+            <w type="FW"> you</w>
+            <w type="FW"> can't</w>
+            <w type="FW"> sleep</w>
+         </s>
+         <s>
+            <w type="FW">Stuck</w>
+            <w type="FW"> in</w>
+            <w type="FW"> reverse</w>
+         </s>
+         <s>
+            <w type="FW">When</w>
+            <w type="FW"> the</w>
+            <w type="FW"> tears</w>
+            <w type="FW"> come</w>
+            <w type="FW"> streaming</w>
+            <w type="FW"> down</w>
+            <w type="FW"> your</w>
+            <w type="FW"> face</w>
+         </s>
+         <s>
+            <w type="FW">'Cause</w>
+            <w type="FW"> you</w>
+            <w type="FW"> lose</w>
+            <w type="FW"> something</w>
+            <w type="FW"> you</w>
+            <w type="FW"> can't</w>
+            <w type="FW"> replace</w>
+         </s>
+         <s>
+            <w type="FW">When</w>
+            <w type="FW"> you</w>
+            <w type="FW"> love</w>
+            <w type="FW"> someone</w>
+            <w type="FW"> but</w>
+            <w type="FW"> it</w>
+            <w type="FW"> goes</w>
+            <w type="FW"> to</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">waste</w>
+         </s>
+         <s>
+            <w type="FW">What</w>
+            <w type="FW"> could</w>
+            <w type="FW"> it</w>
+            <w type="FW"> be</w>
+            <w type="FW"> worse</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="FW">Lights</w>
+            <w type="FW"> will</w>
+            <w type="FW"> guide</w>
+            <w type="FW"> you</w>
+            <w type="FW"> home</w>
+         </s>
+         <s>
+            <w type="FW">And</w>
+            <w type="FW"> ignite</w>
+            <w type="DASHCATEGORY"> your</w>
+            <w type="DASHCATEGORY"> bones</w>
+         </s>
+         <s>
+            <w type="FW">And</w>
+            <w type="FW"> I will</w>
+            <w type="FW"> try</w>
+            <w type="FW"> to</w>
+            <w type="FW"> fix</w>
+            <w type="FW"> you</w>
+         </s>
+      </body>
+      <title author="PyTorch (背後骯髒的PY火炬)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">九年級生</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="P">在</w>
+            <w type="VE">聽</w>
+            <w type="FW">coldplay</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </title>
+      <comment author="cwh0105" c_type="neu">
+         <s>
+            <w type="FW">cosplay</w>
+         </s>
+      </comment>
+      <comment author="Imotucc" c_type="neg">
+         <s>
+            <w type="FW">Nobody</w>
+            <w type="FW"> said</w>
+            <w type="FW"> it</w>
+            <w type="FW"> was</w>
+            <w type="FW"> easy</w>
+            <w type="FW">~</w>
+         </s>
+      </comment>
+      <comment author="willywasd" c_type="pos">
+         <s>
+            <w type="Nep">什麼</w>
+            <w type="Na">糞</w>
+            <w type="Na">歌</w>
+            <w type="FW">= = </w>
+            <w type="Nh">我</w>
+            <w type="Da">只</w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="FW">yellow</w>
+         </s>
+      </comment>
+      <comment author="k5253XLMz" c_type="neg">
+         <s>
+            <w type="Na">九年級生</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="P">在</w>
+            <w type="VE">聽</w>
+            <w type="FW">Linkin</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Park</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="chaoannricar" c_type="neg">
+         <s>
+            <w type="Nb">林北</w>
+            <w type="Na">八年級生</w>
+            <w type="FW">= =</w>
+         </s>
+      </comment>
+      <comment author="PCSH120" c_type="neg">
+         <s>
+            <w type="Nh">我</w>
+            <w type="D">都</w>
+            <w type="VE">聽</w>
+            <w type="FW">radiohead</w>
+         </s>
+      </comment>
+      <comment author="GazingM" c_type="neu">
+         <s>
+            <w type="FW">no</w>
+            <w type="FW"> more</w>
+            <w type="FW"> coldplay</w>
+         </s>
+      </comment>
+      <comment author="ddangle22" c_type="pos">
+         <s>
+            <w type="FW">fix</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">you</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

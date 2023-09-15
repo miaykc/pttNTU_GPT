@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Sinica5566 (中研五六)</metadata>
+      <metadata name="post_id">M.1672289888.A.D4A</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[拾獲] 錢包</metadata>
+   </teiHeader>
+   <text>
+      <body author="Sinica5566 (中研五六)">
+         <s>
+            <w type="VE">建議</w>
+            <w type="Na">標題</w>
+            <w type="VC">打</w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VH">遺失</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> / </w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VC">拾獲</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">以</w>
+            <w type="VH">方便</w>
+            <w type="VC">閱讀</w>
+         </s>
+         <s>
+            <w type="Na">物品</w>
+            <w type="Na">名稱</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">黑色</w>
+            <w type="Na">錢包</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+         </s>
+         <s>
+            <w type="VH">遺失</w>
+            <w type="FW">/</w>
+            <w type="VC">拾獲</w>
+            <w type="Na">地點</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">118</w>
+            <w type="Na">巷</w>
+            <w type="VA">笑嘻嘻</w>
+         </s>
+         <s>
+            <w type="VH">遺失</w>
+            <w type="FW">/</w>
+            <w type="VC">拾獲</w>
+            <w type="Na">時間</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">2022</w>
+            <w type="DASHCATEGORY">-12-19</w>
+         </s>
+         <s>
+            <w type="Na">物品</w>
+            <w type="VC">描述</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VC">放</w>
+            <w type="P">在</w>
+            <w type="Na">桌</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+            <w type="Na">便條紙</w>
+            <w type="Ncd">下</w>
+         </s>
+         <s>
+            <w type="Nv">聯絡</w>
+            <w type="Na">方式</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="D">已</w>
+            <w type="VD">交給</w>
+            <w type="Na">店家</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VH">直接</w>
+            <w type="VC">找</w>
+            <w type="Na">老闆</w>
+         </s>
+         <s>
+            <w type="Neqa">其他</w>
+            <w type="VE">說明</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nh">我</w>
+            <w type="D">連</w>
+            <w type="VB">拿起來</w>
+            <w type="VC">打開</w>
+            <w type="VC">看</w>
+            <w type="DE">的</w>
+            <w type="Na">勇氣</w>
+            <w type="D">都</w>
+            <w type="VJ">沒有</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> iPhone</w>
+         </s>
+      </body>
+      <title author="Sinica5566 (中研五六)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VC">拾獲</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">錢包</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

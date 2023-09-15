@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">donutlover (donutlover)</metadata>
+      <metadata name="post_id">M.1619408983.A.15E</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈送] 永生戰海報兩張</metadata>
+   </teiHeader>
+   <text>
+      <body author="donutlover (donutlover)">
+         <s>
+            <w type="Na">永生</w>
+            <w type="Na">戰</w>
+            <w type="Na">海報</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">張</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/jRVLzfG.jpg</w>
+         </s>
+         <s>
+            <w type="Nd">平日</w>
+            <w type="Nd">晚上</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">民族東路</w>
+            <w type="Caa">跟</w>
+            <w type="Nc">林森北路</w>
+            <w type="Ncd">口</w>
+            <w type="Na">面</w>
+            <w type="VD">交</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">興趣</w>
+            <w type="DE">的</w>
+            <w type="Na">版友</w>
+            <w type="VF">煩請</w>
+            <w type="VA">來信</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="FW">～</w>
+         </s>
+      </body>
+      <title author="donutlover (donutlover)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈送</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">永生</w>
+            <w type="Na">戰</w>
+            <w type="Na">海報</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">張</w>
+         </s>
+      </title>
+      <comment author="donutlover" c_type="neu">
+         <s>
+            <w type="VC">洽中</w>
+            <w type="T">囉</w>
+         </s>
+      </comment>
+      <comment author="YummyMcGee" c_type="neu">
+         <s>
+            <w type="Nc">林森北路</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VK">怕</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

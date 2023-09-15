@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">GoHomeAS ( )</metadata>
+      <metadata name="post_id">M.1595755209.A.83D</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 很多段不同時間點為主題集合的電影</metadata>
+   </teiHeader>
+   <text>
+      <body author="GoHomeAS ( )">
+         <s>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="A">多段式</w>
+            <w type="Na">電影</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="Na">國片</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Neqa">很多</w>
+            <w type="Na">片</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nes">每</w>
+            <w type="Na">片</w>
+            <w type="D">都</w>
+            <w type="P">以</w>
+            <w type="Neu">一</w>
+            <w type="Nf">天</w>
+            <w type="Ng">當中</w>
+            <w type="DE">的</w>
+            <w type="Nes">某</w>
+            <w type="Nf">個</w>
+            <w type="Na">時間點</w>
+            <w type="VG">為</w>
+            <w type="Na">主題</w>
+         </s>
+         <s>
+            <w type="VE">請問</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VK">知道</w>
+            <w type="SHI">是</w>
+            <w type="Nep">哪</w>
+            <w type="Nf">部</w>
+            <w type="T">嗎</w>
+         </s>
+      </body>
+      <title author="GoHomeAS ( )">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neqa">很多</w>
+            <w type="Nf">段</w>
+            <w type="VH">不同</w>
+            <w type="Na">時間點</w>
+            <w type="VG">為</w>
+            <w type="Na">主題</w>
+            <w type="VAC">集合</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+         </s>
+      </title>
+      <comment author="GoHomeAS" c_type="neu">
+         <s>
+            <w type="SHI">是</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">很多</w>
+            <w type="VH">不同</w>
+            <w type="Na">導演</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Na">人</w>
+            <w type="Neu">一</w>
+            <w type="Nf">段</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="jidytri815" c_type="neu">
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">年</w>
+            <w type="Ng">之初</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="GoHomeAS" c_type="neu">
+         <s>
+            <w type="VG">類似</w>
+            <w type="Neu">10+10</w>
+         </s>
+      </comment>
+      <comment author="xxxday2000" c_type="neu">
+         <s>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VC">殺</w>
+            <w type="Na">總統</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">五</w>
+            <w type="Nf">個</w>
+            <w type="Na">故事</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">忘</w>
+            <w type="Di">了</w>
+            <w type="Na">片名</w>
+         </s>
+      </comment>
+      <comment author="wcc960" c_type="pos">
+         <s>
+            <w type="Nc">樓上</w>
+            <w type="VE">講</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="Nv">刺殺</w>
+            <w type="Na">據點</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="Laiming" c_type="pos">
+         <s>
+            <w type="SHI">是</w>
+            <w type="Nc">台北</w>
+            <w type="Na">異想</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/OON8</w>
+            <w type="FW">ps</w>
+            <w type="Neu">3V9</w>
+            <w type="FW">Io</w>
+         </s>
+      </comment>
+      <comment author="a66340538" c_type="pos">
+         <s>
+            <w type="Na">洋片</w>
+            <w type="Cba">的話</w>
+            <w type="V_2">有</w>
+            <w type="FW"> 11</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">14</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

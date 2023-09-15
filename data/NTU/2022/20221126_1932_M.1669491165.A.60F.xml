@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">AAAB ()</metadata>
+      <metadata name="post_id">M.1669491165.A.60F</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 嘉義縣義竹鄉大驚奇！台大光電博士當選鄉</metadata>
+   </teiHeader>
+   <text>
+      <body author="AAAB ()">
+         <s>
+            <w type="Cbb">1</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Na">媒體</w>
+            <w type="Na">來源</w>
+            <w type="COLONCATEGORY">︰</w>
+            <w type="VH">自由</w>
+         </s>
+         <s>
+            <w type="Cbb">2</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="Na">標題</w>
+            <w type="COLONCATEGORY">︰</w>
+            <w type="Nc">嘉義縣</w>
+            <w type="Nc">義竹鄉</w>
+            <w type="VH">大</w>
+            <w type="VK">驚奇</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="Nc">台大</w>
+            <w type="Na">光電</w>
+            <w type="Na">博士</w>
+            <w type="VG">當選</w>
+            <w type="Na">鄉長</w>
+         </s>
+         <s>
+            <w type="Cbb">3.</w>
+            <w type="Na">日期</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">署名</w>
+            <w type="COLONCATEGORY">︰</w>
+            <w type="Neu">2022年</w>
+            <w type="Neu">11月</w>
+            <w type="Neu">26日</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">記者</w>
+            <w type="Nb">林宜樟</w>
+         </s>
+         <s>
+            <w type="Cbb">4</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="Na">內文</w>
+            <w type="COLONCATEGORY">︰</w>
+         </s>
+         <s>
+            <w type="Nc">嘉義縣</w>
+            <w type="Nc">義竹鄉</w>
+            <w type="SHI">是</w>
+            <w type="Nf">個</w>
+            <w type="Na">人口</w>
+            <w type="Da">僅</w>
+            <w type="Neu">1萬7千多</w>
+            <w type="Na">人</w>
+            <w type="DE">的</w>
+            <w type="VH">小</w>
+            <w type="Nc">鄉鎮</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="D">卻</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">許多</w>
+            <w type="VH">知名</w>
+            <w type="Na">人士</w>
+            <w type="VJ">出身</w>
+            <w type="P">於</w>
+            <w type="Nep">此</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">如</w>
+            <w type="Nes">前中研</w>
+         </s>
+         <s>
+            <w type="Nc">院</w>
+            <w type="Na">院長</w>
+            <w type="Nb">翁啟惠</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nes">前</w>
+            <w type="Nc">司法院</w>
+            <w type="Na">院長</w>
+            <w type="Nb">翁岳生</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">遠流</w>
+            <w type="Nc">出版社</w>
+            <w type="Na">創辦人</w>
+            <w type="Nb">王榮文</w>
+            <w type="Cab">等</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">更</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">不少</w>
+            <w type="VJ">具</w>
+            <w type="Na">博士</w>
+            <w type="Na">學位</w>
+         </s>
+         <s>
+            <w type="DE">的</w>
+            <w type="VH">優秀</w>
+            <w type="Na">鄉親</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">被</w>
+            <w type="VG">稱為</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">博士鄉</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="VJ">具</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nc">光電所</w>
+            <w type="Na">博士</w>
+            <w type="Na">學歷</w>
+            <w type="DE">的</w>
+            <w type="Nc">義竹</w>
+            <w type="Nc">國中</w>
+            <w type="Na">校友會</w>
+            <w type="Na">理事長</w>
+            <w type="Nb">黃</w>
+         </s>
+         <s>
+            <w type="Nb">政傑</w>
+            <w type="P">以</w>
+            <w type="VH">無黨籍</w>
+            <w type="VC">參選</w>
+            <w type="Nc">義竹</w>
+            <w type="Na">鄉長</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">擊敗</w>
+            <w type="VC">拚</w>
+            <w type="VG">連任</w>
+            <w type="DE">的</w>
+            <w type="Nb">民進黨</w>
+            <w type="Nc">義竹</w>
+            <w type="Na">鄉長</w>
+            <w type="Nb">黃阿家</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">當選</w>
+            <w type="Nc">義竹</w>
+            <w type="Na">鄉長</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nd">1978年</w>
+            <w type="VA">出生</w>
+            <w type="DE">的</w>
+            <w type="Nb">黃政傑</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">小時候</w>
+            <w type="VCL">就讀</w>
+            <w type="A">在</w>
+            <w type="Na">地</w>
+            <w type="DE">的</w>
+            <w type="Nc">義竹</w>
+            <w type="Nc">國小</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">義竹</w>
+            <w type="Nc">國中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">高中</w>
+            <w type="VC">考上</w>
+            <w type="Nc">台南一中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">一路</w>
+         </s>
+         <s>
+            <w type="VC">取得</w>
+            <w type="Nb">清華</w>
+            <w type="Nc">大學</w>
+            <w type="Na">電機</w>
+            <w type="Na">工程</w>
+            <w type="Na">學士</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">清華</w>
+            <w type="Nc">大學</w>
+            <w type="Na">電子</w>
+            <w type="Na">工程</w>
+            <w type="Na">碩士</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Na">光電</w>
+            <w type="Na">博士</w>
+            <w type="Na">學位</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">曾</w>
+            <w type="P">在</w>
+            <w type="Neqa">多</w>
+            <w type="Nf">家</w>
+         </s>
+         <s>
+            <w type="VH">知名</w>
+            <w type="Na">電子業</w>
+            <w type="VC">服務</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VG">擔任</w>
+            <w type="Na">主管</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Nh">他</w>
+            <w type="VJ">重視</w>
+            <w type="Na">水域</w>
+            <w type="Nv">遊憩</w>
+            <w type="Nv">推廣</w>
+            <w type="Caa">及</w>
+            <w type="Na">教育</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">曾</w>
+            <w type="VG">任</w>
+            <w type="Nc">嘉義縣</w>
+            <w type="Na">水域</w>
+            <w type="Nv">遊憩</w>
+            <w type="Nc">協會</w>
+            <w type="Na">理事</w>
+         </s>
+         <s>
+            <w type="VH">長</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">現</w>
+            <w type="VG">為</w>
+            <w type="Nc">協會</w>
+            <w type="A">常務</w>
+            <w type="Na">監事</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="A">現任</w>
+            <w type="Nc">義竹</w>
+            <w type="Nc">國中</w>
+            <w type="Na">校友會</w>
+            <w type="Na">理事長</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">救國團</w>
+            <w type="Nc">義竹</w>
+            <w type="Nc">團委會</w>
+            <w type="Na">總幹事</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">義竹鄉</w>
+            <w type="Cbb">雖</w>
+            <w type="SHI">是</w>
+            <w type="VH">小</w>
+            <w type="Nc">鄉鎮</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">卻</w>
+            <w type="SHI">是</w>
+            <w type="VH">人才濟濟</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">除</w>
+            <w type="V_2">有</w>
+            <w type="Nc">博士</w>
+            <w type="Nc">鄉</w>
+            <w type="Na">美譽</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="Na">民進黨籍</w>
+            <w type="Nc">嘉義</w>
+            <w type="Na">縣長</w>
+            <w type="Nb">翁章梁</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">國</w>
+         </s>
+         <s>
+            <w type="Nb">民黨</w>
+            <w type="Na">立委</w>
+            <w type="Nb">翁重鈞</w>
+            <w type="DE">的</w>
+            <w type="Nc">故鄉</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">藍綠</w>
+            <w type="D">都</w>
+            <w type="Dfa">極為</w>
+            <w type="VJ">重視</w>
+            <w type="Nc">當地</w>
+            <w type="Na">選舉</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">前鄉長</w>
+            <w type="Nb">黃金茂</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">顏蔡淑惠</w>
+            <w type="VG">屬</w>
+            <w type="Nb">泛藍</w>
+            <w type="Na">陣營</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">2018年</w>
+            <w type="A">現任</w>
+            <w type="Na">鄉長</w>
+            <w type="Nb">黃阿家</w>
+            <w type="D">則</w>
+            <w type="VK">代表</w>
+            <w type="Nb">綠營</w>
+            <w type="VH">獲勝</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="VG">連任</w>
+            <w type="VH">失敗</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">5</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="VC">連結</w>
+            <w type="COLONCATEGORY">︰</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//news.ltn.com.tw/news/politic</w>
+            <w type="FW">s/breakingnews/4136574</w>
+         </s>
+      </body>
+      <title author="AAAB ()">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">嘉義縣</w>
+            <w type="Nc">義竹鄉</w>
+            <w type="VH">大</w>
+            <w type="VK">驚奇</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="Nc">台大</w>
+            <w type="Na">光電</w>
+            <w type="Na">博士</w>
+            <w type="VG">當選</w>
+            <w type="Nc">鄉</w>
+         </s>
+      </title>
+      <comment author="keny" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="shaqiantsai" c_type="pos">
+         <s>
+            <w type="Nc">博士鄉</w>
+            <w type="D">聽起來</w>
+            <w type="VH">好</w>
+            <w type="FW">屌</w>
+         </s>
+      </comment>
+      <comment author="squiddy" c_type="pos">
+         <s>
+            <w type="Na">關鍵字</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">救國團</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

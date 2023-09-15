@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">mrted (主公)</metadata>
+      <metadata name="post_id">M.1581649338.A.D7E</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈票] 2/18 李察朱威爾事件</metadata>
+   </teiHeader>
+   <text>
+      <body author="mrted (主公)">
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">李察</w>
+            <w type="Nb">朱威爾</w>
+            <w type="Na">事件</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">特映</w>
+         </s>
+         <s>
+            <w type="Neu">2/18 </w>
+            <w type="Nc">台北</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">今日秀</w>
+            <w type="Nb">泰 </w>
+            <w type="Neu">19</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="Neu">兩</w>
+            <w type="Nf">張</w>
+         </s>
+         <s>
+            <w type="Na">站</w>
+            <w type="Ncd">內</w>
+            <w type="Na">信</w>
+         </s>
+      </body>
+      <title author="mrted (主公)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 2/18 </w>
+            <w type="Nb">李察</w>
+            <w type="Nb">朱威爾</w>
+            <w type="Na">事件</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

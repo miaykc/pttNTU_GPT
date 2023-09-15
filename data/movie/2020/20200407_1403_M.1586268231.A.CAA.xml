@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jasonlin2100 (jasonlin)</metadata>
+      <metadata name="post_id">M.1586268231.A.CAA</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 有外國小孩攝影的日本片</metadata>
+   </teiHeader>
+   <text>
+      <body author="jasonlin2100 (jasonlin)">
+         <s>
+            <w type="Nd">之前</w>
+            <w type="P">在</w>
+            <w type="Na">飛機</w>
+            <w type="Ncd">上</w>
+            <w type="VC">看過</w>
+         </s>
+         <s>
+            <w type="D">就</w>
+            <w type="D">一</w>
+            <w type="VA">開場</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="P">在</w>
+            <w type="Na">森林</w>
+            <w type="Ncd">裡</w>
+            <w type="DE">的</w>
+            <w type="Na">攝影</w>
+         </s>
+         <s>
+            <w type="Na">日本人</w>
+            <w type="VC">拍</w>
+            <w type="Nc">外國</w>
+            <w type="VH">小</w>
+            <w type="Na">女孩</w>
+            <w type="P">在</w>
+            <w type="Na">森林</w>
+            <w type="Ncd">裡</w>
+            <w type="DE">的</w>
+            <w type="Na">攝影</w>
+         </s>
+         <s>
+            <w type="Na">攝影</w>
+            <w type="DE">的</w>
+            <w type="Na">風格</w>
+            <w type="Dfa">很</w>
+            <w type="VH">魔幻</w>
+         </s>
+         <s>
+            <w type="VC">攝影完</w>
+            <w type="Ng">以後</w>
+            <w type="Nc">外國</w>
+            <w type="VH">小</w>
+            <w type="Na">女孩</w>
+            <w type="V_2">有</w>
+            <w type="P">在</w>
+            <w type="VC">吃</w>
+            <w type="Na">東西</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="SHI">是</w>
+            <w type="Nep">哪</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">片</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">大家</w>
+         </s>
+      </body>
+      <title author="jasonlin2100 (jasonlin)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+            <w type="Nc">外國</w>
+            <w type="Na">小孩</w>
+            <w type="VA">攝影</w>
+            <w type="DE">的</w>
+            <w type="Na">日本片</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

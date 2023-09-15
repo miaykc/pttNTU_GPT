@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">phrygian (chris)</metadata>
+      <metadata name="post_id">M.1594833729.A.631</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 港片 買股票 安養院</metadata>
+   </teiHeader>
+   <text>
+      <body author="phrygian (chris)">
+         <s>
+            <w type="P">如</w>
+            <w type="Na">題</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">想</w>
+            <w type="VE">請問</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">港片</w>
+         </s>
+         <s>
+            <w type="Da">只</w>
+            <w type="VK">記得</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">段</w>
+            <w type="V_2">有</w>
+            <w type="Nf">個</w>
+            <w type="Na">歹徒</w>
+            <w type="D">要</w>
+            <w type="Da">另外</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">人</w>
+            <w type="VA">付錢</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">用</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">張</w>
+            <w type="Na">股票</w>
+            <w type="VD">付</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">對方</w>
+            <w type="VK">覺得</w>
+            <w type="Dfa">很</w>
+            <w type="VH">便宜</w>
+            <w type="D">就</w>
+            <w type="VE">答應</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dk">結果</w>
+         </s>
+         <s>
+            <w type="Nd">最後</w>
+            <w type="Nep">那</w>
+            <w type="Nf">隻</w>
+            <w type="Na">股票</w>
+            <w type="VH">爆天價</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">後來</w>
+            <w type="Neqa">那些</w>
+            <w type="Na">錢</w>
+            <w type="VE">發現</w>
+            <w type="SHI">是</w>
+            <w type="Na">歹徒</w>
+            <w type="D">要</w>
+            <w type="VD">拿給</w>
+            <w type="Nc">安養院</w>
+            <w type="DE">的</w>
+         </s>
+      </body>
+      <title author="phrygian (chris)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">問</w>
+            <w type="Na">片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">港片</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">買</w>
+            <w type="Na">股票</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">安養院</w>
+         </s>
+      </title>
+      <comment author="paul0325" c_type="pos">
+         <s>
+            <w type="VK">竊聽</w>
+            <w type="Na">風雲</w>
+            <w type="Neu">2</w>
+         </s>
+      </comment>
+      <comment author="phrygian" c_type="neu">
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="Nc">樓上</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="flert" c_type="neu">
+         <s>
+            <w type="VK">竊聽</w>
+            <w type="Na">風雲</w>
+            <w type="Neu">2 CATCHPLAY+</w>
+            <w type="Ncd">上面</w>
+            <w type="V_2">有</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">最近</w>
+            <w type="D">剛</w>
+            <w type="VC">看</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

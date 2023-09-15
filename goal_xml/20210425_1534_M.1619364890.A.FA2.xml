@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ggian123 (小孩當國文老師打斷他腿)</metadata>
+      <metadata name="post_id">M.1619364890.A.FA2</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 只有今天限定</metadata>
+   </teiHeader>
+   <text>
+      <body author="ggian123 (小孩當國文老師打斷他腿)">
+         <s>
+            <w type="Nd">最後</w>
+            <w type="Neu">一</w>
+            <w type="Nf">天</w>
+            <w type="DE">的</w>
+            <w type="Na">廢文</w>
+            <w type="Na">活動</w>
+            <w type="T">了</w>
+         </s>
+         <s>
+            <w type="VJ">剩下</w>
+            <w type="VJ">不</w>
+            <w type="P">到</w>
+            <w type="Neqa">半</w>
+            <w type="Na">小時</w>
+         </s>
+         <s>
+            <w type="Nh">大家</w>
+            <w type="FW">88</w>
+         </s>
+      </body>
+      <title author="ggian123 (小孩當國文老師打斷他腿)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">只有</w>
+            <w type="Nd">今天</w>
+            <w type="VK">限定</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

@@ -1,0 +1,712 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">CCY0927 (茹絮夢)</metadata>
+      <metadata name="post_id">M.1634055250.A.833</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 「野番茄」記錄高雄二二八 挖掘台灣本土記憶</metadata>
+   </teiHeader>
+   <text>
+      <body author="CCY0927 (茹絮夢)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.cna.com.tw/news/amov/202110120374</w>
+            <w type="PERIODCATEGORY">.aspx</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">野番茄</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VE">記錄</w>
+            <w type="Nc">高雄</w>
+            <w type="Neu">二二八</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">挖掘</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">本土</w>
+            <w type="Na">記憶</w>
+         </s>
+         <s>
+            <w type="Neu">2021/10/12 22</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">12</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neu">10/12</w>
+            <w type="FW"> 22</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">21 </w>
+            <w type="VC">更新</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/h</w>
+            <w type="FW">Ueg</w>
+            <w type="FW">Rbu.jpg</w>
+         </s>
+         <s>
+            <w type="Nc">韓國</w>
+            <w type="Nc">釜山</w>
+            <w type="Na">影展</w>
+            <w type="Neu">12日</w>
+            <w type="VC">播映</w>
+            <w type="A">超</w>
+            <w type="Na">廣角</w>
+            <w type="Na">紀錄片</w>
+            <w type="Na">競賽</w>
+            <w type="Na">單元</w>
+            <w type="VJ">入圍</w>
+            <w type="Na">作品</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">野番茄</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VC">舉辦</w>
+            <w type="VA">對談</w>
+            <w type="Na">活動</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">馬</w>
+         </s>
+         <s>
+            <w type="VA">來西亞</w>
+            <w type="Na">導演</w>
+            <w type="Nb">廖克發</w>
+            <w type="P">透過</w>
+            <w type="Na">視訊</w>
+            <w type="Na">方式</w>
+            <w type="VC">出席</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">接受</w>
+            <w type="Na">觀眾</w>
+            <w type="VC">提問</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nc">中央社</w>
+            <w type="Na">記者</w>
+            <w type="Nb">廖禹揚</w>
+            <w type="Nc">釜山</w>
+            <w type="VC">攝</w>
+            <w type="FW"> 110年</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="Na">月</w>
+            <w type="Nd">12日</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">中央社</w>
+            <w type="Na">記者</w>
+            <w type="Nb">廖禹揚</w>
+            <w type="Nc">釜山</w>
+            <w type="Neu">12日</w>
+            <w type="Na">專電</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="P">由</w>
+            <w type="Nc">馬來西亞</w>
+            <w type="Na">導演</w>
+            <w type="Nb">廖克發</w>
+            <w type="VC">執導</w>
+            <w type="DE">的</w>
+            <w type="Na">紀錄片</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">野番茄</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Nd">今天</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="Nc">韓國</w>
+            <w type="Nc">釜山</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+            <w type="Nc">殿堂</w>
+            <w type="VC">播出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">廖克發</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">希望</w>
+            <w type="P">透過</w>
+            <w type="VE">記錄</w>
+            <w type="Nb">二二八事件</w>
+            <w type="Neu">第二</w>
+            <w type="Na">代</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">第三</w>
+            <w type="Na">代</w>
+            <w type="DE">的</w>
+            <w type="Nh">個</w>
+         </s>
+         <s>
+            <w type="Na">體</w>
+            <w type="Na">記憶</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">挖掘出</w>
+            <w type="VG">屬於</w>
+            <w type="Nep">這</w>
+            <w type="Nf">片</w>
+            <w type="Na">土地</w>
+            <w type="DE">的</w>
+            <w type="Na">味道</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">廖克發</w>
+            <w type="VC">執導</w>
+            <w type="DE">的</w>
+            <w type="Na">紀錄片</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">野番茄</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VJ">入圍</w>
+            <w type="Nd">今年</w>
+            <w type="Nc">釜山</w>
+            <w type="Na">影展</w>
+            <w type="DE">的</w>
+            <w type="A">超</w>
+            <w type="Na">廣角</w>
+            <w type="Na">紀錄片</w>
+            <w type="Na">競賽</w>
+            <w type="Na">單元</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nh">他</w>
+            <w type="Nd">今晚</w>
+            <w type="P">透過</w>
+         </s>
+         <s>
+            <w type="Na">視訊</w>
+            <w type="Caa">與</w>
+            <w type="P">在</w>
+            <w type="Nc">海雲台</w>
+            <w type="Na">電影</w>
+            <w type="Nc">殿堂</w>
+            <w type="VC">觀賞</w>
+            <w type="Nep">此</w>
+            <w type="Nf">片</w>
+            <w type="DE">的</w>
+            <w type="Na">觀眾</w>
+            <w type="Na">對話</w>
+            <w type="VA">互動</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">分享</w>
+            <w type="VC">拍攝</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Na">紀錄片</w>
+            <w type="DE">的</w>
+            <w type="Na">想法</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">廖克發</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">原本</w>
+            <w type="SHI">是</w>
+            <w type="P">受</w>
+            <w type="VF">邀</w>
+            <w type="VC">拍攝</w>
+            <w type="VE">記錄</w>
+            <w type="Nd">二二八事件</w>
+            <w type="Nd">當時</w>
+            <w type="Nc">雄中</w>
+            <w type="Na">自衛隊</w>
+            <w type="Na">故事</w>
+            <w type="DE">的</w>
+            <w type="Na">紀錄片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="P">在</w>
+            <w type="VC">蒐集</w>
+            <w type="Na">資料</w>
+         </s>
+         <s>
+            <w type="DE">的</w>
+            <w type="Na">過程</w>
+            <w type="Ng">中</w>
+            <w type="VE">發現</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">要</w>
+            <w type="VE">記錄</w>
+            <w type="Neqa">這些</w>
+            <w type="Na">事件</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不得不</w>
+            <w type="P">從</w>
+            <w type="A">日治</w>
+            <w type="Na">時期</w>
+            <w type="DE">的</w>
+            <w type="Nc">高雄</w>
+            <w type="VL">開始</w>
+            <w type="VE">說起</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Cbb">因為</w>
+            <w type="Nd">當時</w>
+            <w type="DE">的</w>
+            <w type="Na">狀況</w>
+         </s>
+         <s>
+            <w type="D">都</w>
+            <w type="VC">影響</w>
+            <w type="A">後續</w>
+            <w type="Na">事件</w>
+            <w type="DE">的</w>
+            <w type="VC">發展</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">於是</w>
+            <w type="Nh">他</w>
+            <w type="VC">訪問</w>
+            <w type="Di">了</w>
+            <w type="Nd">當時</w>
+            <w type="Nc">雄中</w>
+            <w type="Na">自衛隊</w>
+            <w type="Na">成員</w>
+            <w type="Caa">與</w>
+            <w type="Nd">二二八事件</w>
+            <w type="VH">受難</w>
+            <w type="Na">者</w>
+            <w type="Na">家屬</w>
+            <w type="P">對</w>
+         </s>
+         <s>
+            <w type="Nd">當時</w>
+            <w type="Na">生活</w>
+            <w type="Na">環境</w>
+            <w type="DE">的</w>
+            <w type="Na">回憶</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Na">紀錄片</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">廖克發</w>
+            <w type="VC">採取</w>
+            <w type="VH">不同以往</w>
+            <w type="DE">的</w>
+            <w type="VCL">切入</w>
+            <w type="Na">方式</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">選擇</w>
+            <w type="VE">記錄</w>
+            <w type="Nh">個人</w>
+            <w type="DE">的</w>
+            <w type="Na">記憶</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Cbb">而</w>
+            <w type="VG">非</w>
+            <w type="VH">大</w>
+            <w type="Na">環境</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Na">事件</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="P">在</w>
+            <w type="Nc">台灣</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">討論</w>
+            <w type="Nb">二二八事件</w>
+            <w type="Ng">時</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">通常</w>
+            <w type="D">會</w>
+            <w type="VJ">著重</w>
+            <w type="P">在</w>
+            <w type="Nd">當時</w>
+            <w type="P">被</w>
+            <w type="VC">殺害</w>
+            <w type="DE">的</w>
+            <w type="VJ">犧牲者</w>
+            <w type="Na">身</w>
+            <w type="Ncd">上</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Cbb">但</w>
+            <w type="Nh">我</w>
+            <w type="VK">希望</w>
+         </s>
+         <s>
+            <w type="VE">記錄</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Neqa">這些</w>
+            <w type="VG">作為</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">家庭</w>
+            <w type="Na">大家長</w>
+            <w type="DE">的</w>
+            <w type="Neu">第一</w>
+            <w type="Na">代</w>
+            <w type="VA">消失</w>
+            <w type="Ng">後</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他們</w>
+            <w type="DE">的</w>
+            <w type="Neu">第二</w>
+            <w type="Na">代</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">第三</w>
+            <w type="Na">代</w>
+            <w type="VJ">受到</w>
+            <w type="Di">了</w>
+            <w type="Nep">什</w>
+         </s>
+         <s>
+            <w type="T">麼</w>
+            <w type="DE">的</w>
+            <w type="Na">影響</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="P">在</w>
+            <w type="Na">紀錄片</w>
+            <w type="Ng">中</w>
+            <w type="DE">的</w>
+            <w type="Na">訪談</w>
+            <w type="Na">內容</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">大多</w>
+            <w type="SHI">是</w>
+            <w type="P">針對</w>
+            <w type="Nh">他們</w>
+            <w type="Nh">個人</w>
+            <w type="DE">的</w>
+            <w type="Na">回憶</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">而</w>
+            <w type="D">非</w>
+            <w type="VH">直接</w>
+            <w type="D">去</w>
+            <w type="VE">討論</w>
+            <w type="Nd">二二八事件</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">因</w>
+         </s>
+         <s>
+            <w type="P">為</w>
+            <w type="Nh">他們</w>
+            <w type="Nd">當時</w>
+            <w type="D">都</w>
+            <w type="D">還</w>
+            <w type="Dfa">太</w>
+            <w type="VH">小</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="VJ">發生</w>
+            <w type="Di">了</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">事</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Neqa">這些</w>
+            <w type="P">受</w>
+            <w type="VC">訪</w>
+            <w type="Na">者</w>
+            <w type="D">未</w>
+            <w type="D">真正</w>
+            <w type="VJ">經歷</w>
+            <w type="Nd">二二八</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="D">都</w>
+            <w type="P">深受</w>
+         </s>
+         <s>
+            <w type="Nb">二二八</w>
+            <w type="Na">影響</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">對</w>
+            <w type="Nb">廖克發</w>
+            <w type="Ng">而言</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">這些</w>
+            <w type="Na">人</w>
+            <w type="DE">的</w>
+            <w type="Na">記憶</w>
+            <w type="D">就</w>
+            <w type="P">像</w>
+            <w type="VC">藏</w>
+            <w type="P">在</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">農田</w>
+            <w type="Ncd">邊</w>
+            <w type="Na">樹叢</w>
+            <w type="Ncd">裡</w>
+            <w type="DE">的</w>
+            <w type="Na">野番茄</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="P">當</w>
+            <w type="Nh">我</w>
+            <w type="VE">詢問</w>
+            <w type="Na">台灣人</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nh">你們</w>
+            <w type="VK">知道</w>
+            <w type="Nc">台灣</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="VH">土生土長</w>
+            <w type="DE">的</w>
+            <w type="Na">番茄</w>
+            <w type="T">嗎</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">很多</w>
+            <w type="Na">人</w>
+            <w type="SHI">是</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">超市</w>
+            <w type="Ncd">裡</w>
+            <w type="VD">販賣</w>
+            <w type="DE">的</w>
+            <w type="D">也</w>
+            <w type="D">多</w>
+            <w type="SHI">是</w>
+            <w type="VC">進口</w>
+            <w type="Na">番茄</w>
+         </s>
+         <s>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Cbb">而</w>
+            <w type="Neqa">這些</w>
+            <w type="VC">藏</w>
+            <w type="P">在</w>
+            <w type="Na">樹叢</w>
+            <w type="Ncd">裡</w>
+            <w type="DE">的</w>
+            <w type="VH">野番茄</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">味道</w>
+            <w type="D">通常</w>
+            <w type="P">比</w>
+            <w type="Nc">超市</w>
+            <w type="Ncd">裡</w>
+            <w type="DE">的</w>
+            <w type="Na">番茄</w>
+            <w type="Dfa">更</w>
+            <w type="VH">新鮮</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">廖克發</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">這</w>
+            <w type="Nf">次</w>
+            <w type="VC">拍攝</w>
+            <w type="P">對</w>
+            <w type="Nh">他</w>
+            <w type="Ng">來說</w>
+            <w type="SHI">是</w>
+            <w type="Nf">個</w>
+            <w type="VH">深入</w>
+            <w type="VK">了解</w>
+            <w type="Nc">台灣</w>
+            <w type="DE">的</w>
+            <w type="VH">好</w>
+            <w type="Na">機會</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">兒子</w>
+            <w type="Nd">不久</w>
+            <w type="Ng">前</w>
+            <w type="D">剛</w>
+            <w type="VA">誕生</w>
+            <w type="P">在</w>
+            <w type="Nc">台</w>
+         </s>
+         <s>
+            <w type="Na">灣</w>
+            <w type="Nep">這</w>
+            <w type="Nf">片</w>
+            <w type="Na">土地</w>
+            <w type="Ncd">上</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nh">我</w>
+            <w type="VK">希望</w>
+            <w type="VG">成為</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Dfa">更</w>
+            <w type="VK">了解</w>
+            <w type="Nc">台灣</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="VL">讓</w>
+            <w type="Nh">我</w>
+            <w type="DE">的</w>
+            <w type="Na">兒子</w>
+            <w type="VK">了解</w>
+            <w type="Nc">台灣</w>
+            <w type="VJ">發生</w>
+            <w type="Di">過</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">事</w>
+         </s>
+         <s>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="SHI">是</w>
+            <w type="Nf">個</w>
+            <w type="Nep">什麼</w>
+            <w type="Nf">樣</w>
+            <w type="DE">的</w>
+            <w type="Na">地方</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">又</w>
+            <w type="D">為什麼</w>
+            <w type="D">會</w>
+            <w type="SHI">是</w>
+            <w type="Nd">現在</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">樣子</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">編輯</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">馮昭</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Neu">1101012</w>
+         </s>
+      </body>
+      <title author="CCY0927 (茹絮夢)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">野番茄</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VE">記錄</w>
+            <w type="Nc">高雄</w>
+            <w type="Nb">二二八</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">挖掘</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">本土</w>
+            <w type="Na">記憶</w>
+         </s>
+      </title>
+      <comment author="sdf88523" c_type="neg">
+         <s>
+            <w type="SHI">是</w>
+            <w type="T">喔</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dk">那</w>
+            <w type="Nh">你</w>
+            <w type="D">要不要</w>
+            <w type="VE">探討</w>
+            <w type="Nd">一下</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">原住民</w>
+            <w type="D">怎麼</w>
+            <w type="P">被</w>
+            <w type="VC">搞</w>
+            <w type="T">的</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="sdf88523" c_type="neu">
+         <s>
+            <w type="VC">挖</w>
+            <w type="Na">墳</w>
+            <w type="D">就</w>
+            <w type="VC">挖</w>
+            <w type="Na">墳</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">說</w>
+            <w type="Nep">什麼</w>
+            <w type="VH">漂亮話</w>
+         </s>
+      </comment>
+      <comment author="will008w" c_type="pos">
+         <s>
+            <w type="Nc">樓上</w>
+            <w type="P">在</w>
+            <w type="VH">激動</w>
+            <w type="Nep">什麼</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="butmyass" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="A">優質</w>
+            <w type="Na">紀錄片</w>
+         </s>
+      </comment>
+      <comment author="movieghost" c_type="pos">
+         <s>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Na">黑柿</w>
+            <w type="Na">番茄</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">傳統</w>
+            <w type="Na">口味</w>
+            <w type="Na">切</w>
+            <w type="Na">片</w>
+            <w type="VC">沾</w>
+            <w type="Na">醬油</w>
+            <w type="VC">吃</w>
+            <w type="DE">的</w>
+            <w type="Nep">那</w>
+            <w type="Nf">種</w>
+         </s>
+      </comment>
+      <comment author="syuanling" c_type="pos">
+         <s>
+            <w type="D">原來</w>
+            <w type="Nc">臺灣</w>
+            <w type="V_2">有</w>
+            <w type="VH">野蕃茄</w>
+         </s>
+      </comment>
+      <comment author="CVIVIC" c_type="neu">
+         <s>
+            <w type="D">又</w>
+            <w type="SHI">是</w>
+            <w type="Neu">228</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">到底</w>
+            <w type="D">要</w>
+            <w type="VA">提款</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">次</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

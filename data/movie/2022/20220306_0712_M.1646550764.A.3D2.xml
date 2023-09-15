@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">lgng66133 (臭猴子)</metadata>
+      <metadata name="post_id">M.1646550764.A.3D2</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 2022 美國電影剪輯師 艾迪獎 得獎名單</metadata>
+   </teiHeader>
+   <text>
+      <body author="lgng66133 (臭猴子)">
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">劇情</w>
+            <w type="Na">電影</w>
+            <w type="Na">剪輯</w>
+         </s>
+         <s>
+            <w type="FW">Pamela</w>
+            <w type="FW"> Martin</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">王者理查</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">喜劇</w>
+            <w type="Na">電影</w>
+            <w type="Na">剪輯</w>
+         </s>
+         <s>
+            <w type="FW">Myron</w>
+            <w type="FW"> Kerstein</w>
+            <w type="FW"> &amp;amp; </w>
+            <w type="FW">Andrew</w>
+            <w type="FW"> Weisblum</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VA">倒數</w>
+            <w type="Na">時刻</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">動畫</w>
+            <w type="Na">電影</w>
+            <w type="Na">剪輯</w>
+         </s>
+         <s>
+            <w type="FW">Jeremy</w>
+            <w type="FW"> Milton</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">魔法</w>
+            <w type="Neqa">滿</w>
+            <w type="Na">屋</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="A">最佳</w>
+            <w type="Na">紀錄</w>
+            <w type="Na">電影</w>
+            <w type="Na">剪輯</w>
+         </s>
+         <s>
+            <w type="FW">Joshua</w>
+            <w type="FW"> L. </w>
+            <w type="FW">Pearson</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">靈魂樂</w>
+            <w type="DE">之</w>
+            <w type="Nd">夏</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+      </body>
+      <title author="lgng66133 (臭猴子)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 2022</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">美國</w>
+            <w type="Na">電影</w>
+            <w type="Na">剪輯師</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">艾迪獎</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">得獎</w>
+            <w type="Na">名單</w>
+         </s>
+      </title>
+      <comment author="lgng66133" c_type="neu">
+         <s>
+            <w type="VD">給到</w>
+            <w type="Na">王者</w>
+            <w type="Nb">理查</w>
+            <w type="D">還</w>
+            <w type="D">真的</w>
+            <w type="SHI">是</w>
+            <w type="D">沒想到</w>
+         </s>
+      </comment>
+      <comment author="joey0602" c_type="pos">
+         <s>
+            <w type="Na">王者</w>
+            <w type="Nb">理查</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="valentian" c_type="pos">
+         <s>
+            <w type="D">怎麽</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Na">沙丘</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

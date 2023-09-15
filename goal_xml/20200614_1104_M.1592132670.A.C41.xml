@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">XperiaZ (XperiaZ)</metadata>
+      <metadata name="post_id">M.1592132670.A.C41</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] cool好卡</metadata>
+   </teiHeader>
+   <text>
+      <body author="XperiaZ (XperiaZ)">
+         <s>
+            <w type="Neqa">卡卡卡</w>
+            <w type="Neqa">卡</w>
+            <w type="Neqa">卡卡卡</w>
+         </s>
+         <s>
+            <w type="Neu">三</w>
+            <w type="Nf">秒</w>
+            <w type="Neu">一</w>
+            <w type="Na">小卡</w>
+         </s>
+         <s>
+            <w type="Neu">五</w>
+            <w type="Nf">秒</w>
+            <w type="Neu">一</w>
+            <w type="Nf">大卡</w>
+         </s>
+         <s>
+            <w type="Neu">七</w>
+            <w type="Nf">秒</w>
+            <w type="Na">花</w>
+            <w type="VL">惹發</w>
+         </s>
+         <s>
+            <w type="VL">提早</w>
+            <w type="VA">放暑假</w>
+         </s>
+         <s>
+            <w type="VH">讚</w>
+            <w type="T">啦</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/LkQtQP9</w>
+         </s>
+      </body>
+      <title author="XperiaZ (XperiaZ)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> cool</w>
+            <w type="VH">好卡</w>
+         </s>
+      </title>
+      <comment author="skyHuan" c_type="neg">
+         <s>
+            <w type="Na">雨</w>
+            <w type="Neu">八</w>
+         </s>
+      </comment>
+      <comment author="LF25166234" c_type="neg">
+         <s>
+            <w type="VE">云</w>
+            <w type="Nb">木</w>
+         </s>
+      </comment>
+      <comment author="pipi8696044" c_type="neg">
+         <s>
+            <w type="VH">超</w>
+            <w type="VH">爛</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="VE">想</w>
+            <w type="VC">看</w>
+            <w type="Di">了</w>
+            <w type="FW">= </w>
+            <w type="FW">=</w>
+         </s>
+      </comment>
+      <comment author="cwh0105" c_type="neu">
+         <s>
+            <w type="VH">酷</w>
+            <w type="VC">斃</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

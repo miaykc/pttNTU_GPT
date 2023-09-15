@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">olmtw (olmtw)</metadata>
+      <metadata name="post_id">M.1593494662.A.E97</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 溪頭歡慶50歲了！ 1970年生7/1入園一律10</metadata>
+   </teiHeader>
+   <text>
+      <body author="olmtw (olmtw)">
+         <s>
+            <w type="Nc">溪頭</w>
+            <w type="Na">歡慶</w>
+            <w type="Neu">50</w>
+            <w type="Nf">歲</w>
+            <w type="T">了</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="FW"> 1970年</w>
+            <w type="VC">生</w>
+            <w type="Neu">7/1</w>
+            <w type="VA">入園</w>
+            <w type="D">一律</w>
+            <w type="Neu">10</w>
+            <w type="Nf">元</w>
+         </s>
+         <s>
+            <w type="Neu">2020</w>
+            <w type="DASHCATEGORY">-06</w>
+            <w type="FW">-30 12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">43</w>
+            <w type="Nb">聯合報</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">記者</w>
+            <w type="Nb">黑中亮</w>
+            <w type="FW">／</w>
+            <w type="Nc">南投</w>
+            <w type="D">即時</w>
+            <w type="VE">報導</w>
+         </s>
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Na">實驗</w>
+            <w type="Nb">林</w>
+            <w type="Nd">明天</w>
+            <w type="Nd">7月</w>
+            <w type="Nd">1日</w>
+            <w type="Na">歡慶</w>
+            <w type="Neu">71</w>
+            <w type="Na">周年慶</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">同時</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="Nc">溪頭</w>
+            <w type="Na">森林</w>
+            <w type="Nc">遊樂區</w>
+            <w type="VC">成立</w>
+            <w type="Neu">50</w>
+            <w type="Nf">年</w>
+            <w type="DE">的</w>
+            <w type="Na">日子</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台大</w>
+         </s>
+         <s>
+            <w type="Na">實驗林</w>
+            <w type="VE">宣布</w>
+            <w type="P">為</w>
+            <w type="Di">了</w>
+            <w type="VJ">紀念</w>
+            <w type="VH">難得</w>
+            <w type="DE">的</w>
+            <w type="Na">生日</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">推出</w>
+            <w type="Na">門票</w>
+            <w type="VJ">優惠</w>
+            <w type="Na">方案</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">凡是</w>
+            <w type="Neu">1970年</w>
+            <w type="VC">出</w>
+            <w type="DE">的</w>
+            <w type="VH">生</w>
+            <w type="Na">遊客</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">當日</w>
+            <w type="Neu">一</w>
+         </s>
+         <s>
+            <w type="VC">律特惠票</w>
+            <w type="Neu">10</w>
+            <w type="Nf">元</w>
+            <w type="VCL">入園</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">同</w>
+            <w type="VJ">享</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VJ">充滿</w>
+            <w type="Na">芬多精</w>
+            <w type="DE">的</w>
+            <w type="Na">森林浴</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">溪頭</w>
+            <w type="Nc">園區</w>
+            <w type="VE">指出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">溪頭</w>
+            <w type="Na">森林</w>
+            <w type="Nc">遊樂區</w>
+            <w type="VCL">位於</w>
+            <w type="Nc">南投縣</w>
+            <w type="Nc">鹿谷鄉</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="SHI">是</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nc">農學院</w>
+            <w type="Na">實驗林</w>
+            <w type="Neu">7</w>
+            <w type="Na">營</w>
+            <w type="Nc">林區</w>
+         </s>
+         <s>
+            <w type="DE">之</w>
+            <w type="Neu">一</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">區</w>
+            <w type="Ncd">內</w>
+            <w type="Neqa">遍</w>
+            <w type="VC">植</w>
+            <w type="Na">杉</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">柏</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">紅檜</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">銀杏</w>
+            <w type="Caa">與</w>
+            <w type="Na">孟宗竹</w>
+            <w type="Cab">等</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">古木</w>
+            <w type="VH">參天</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">林道</w>
+            <w type="VH">四通八達</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">除</w>
+            <w type="VA">遊玩</w>
+            <w type="PAUSECATEGORY">、</w>
+         </s>
+         <s>
+            <w type="Na">森林浴</w>
+            <w type="Ng">外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">陳列館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">竹類</w>
+            <w type="Nc">標本園</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">大學池</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">神木</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">孟宗竹林</w>
+            <w type="Cab">等</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">均</w>
+            <w type="VH">適合</w>
+            <w type="VC">進行</w>
+            <w type="V_2">有</w>
+            <w type="Na">系統</w>
+            <w type="DE">的</w>
+            <w type="Nv">植</w>
+         </s>
+         <s>
+            <w type="Na">物</w>
+            <w type="VE">觀察</w>
+            <w type="Caa">與</w>
+            <w type="VC">賞</w>
+            <w type="Na">鳥</w>
+            <w type="Na">活動</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">從</w>
+            <w type="A">日治</w>
+            <w type="Na">時期</w>
+            <w type="VH">開始</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">溪頭</w>
+            <w type="VC">開發</w>
+            <w type="P">迄</w>
+            <w type="Nd">今</w>
+            <w type="D">可</w>
+            <w type="VE">謂</w>
+            <w type="Neu">一</w>
+            <w type="Nf">座</w>
+            <w type="VH">活</w>
+            <w type="DE">的</w>
+            <w type="Na">自然</w>
+            <w type="Nc">教室</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">區</w>
+            <w type="Ncd">內</w>
+            <w type="Da">約</w>
+            <w type="V_2">有</w>
+            <w type="A">木本</w>
+            <w type="Na">植物</w>
+            <w type="Neu">300</w>
+            <w type="Nf">種</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">草</w>
+         </s>
+         <s>
+            <w type="Nes">本</w>
+            <w type="Na">植物</w>
+            <w type="Neu">1</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">300</w>
+            <w type="Nf">種</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">除了</w>
+            <w type="D">可</w>
+            <w type="P">依</w>
+            <w type="Na">植物</w>
+            <w type="Na">標示牌</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+            <w type="Na">說明</w>
+            <w type="D">逐一</w>
+            <w type="VJ">認識</w>
+            <w type="Ng">外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VCL">位於</w>
+            <w type="Nc">溪頭營</w>
+            <w type="Nc">林區</w>
+            <w type="Nc">辦公室</w>
+            <w type="Nc">二</w>
+         </s>
+         <s>
+            <w type="Nc">樓</w>
+            <w type="DE">的</w>
+            <w type="Nc">陳列館</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">展</w>
+            <w type="V_2">有</w>
+            <w type="VHC">豐富</w>
+            <w type="DE">的</w>
+            <w type="Nes">各</w>
+            <w type="Nf">種</w>
+            <w type="Na">植物</w>
+            <w type="Na">標本</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">配合</w>
+            <w type="Na">幻燈片</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">圖表</w>
+            <w type="Caa">與</w>
+            <w type="Na">文字</w>
+            <w type="VE">說明</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">讓</w>
+            <w type="Na">人</w>
+            <w type="VH">一目瞭然</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">片</w>
+            <w type="D">已</w>
+            <w type="VCL">走過</w>
+            <w type="Neqa">半</w>
+            <w type="Nf">個</w>
+            <w type="Na">世紀</w>
+            <w type="DE">的</w>
+            <w type="Na">柳杉林</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">其</w>
+            <w type="Na">樹冠層</w>
+            <w type="Dfa">相當</w>
+            <w type="VH">完整</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">森林</w>
+            <w type="Ncd">中</w>
+            <w type="Nes">各</w>
+            <w type="Nf">種</w>
+            <w type="Na">生物</w>
+            <w type="VH">包羅萬象</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">彷彿</w>
+            <w type="VCL">進</w>
+         </s>
+         <s>
+            <w type="VCL">入</w>
+            <w type="Na">生態</w>
+            <w type="Na">王國</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="P">在</w>
+            <w type="Nc">台大</w>
+            <w type="Na">實驗林</w>
+            <w type="Neu">50</w>
+            <w type="Nf">年</w>
+            <w type="Ng">來</w>
+            <w type="DE">的</w>
+            <w type="VH">精心</w>
+            <w type="VC">規劃</w>
+            <w type="Ng">下</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">建置</w>
+            <w type="VH">別出心裁</w>
+            <w type="DE">的</w>
+            <w type="Na">人工</w>
+            <w type="Na">林冠層</w>
+            <w type="Na">生態</w>
+            <w type="Nv">觀察</w>
+         </s>
+         <s>
+            <w type="DE">的</w>
+            <w type="Nc">空中</w>
+            <w type="Nc">走廊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">成為</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">台灣</w>
+            <w type="Dfa">最</w>
+            <w type="VH">著名</w>
+            <w type="DE">的</w>
+            <w type="Na">自然</w>
+            <w type="Nc">戶外</w>
+            <w type="Nv">體驗</w>
+            <w type="Na">場所</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//money.udn.com/money/story</w>
+            <w type="FW">/5658/4668360</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Google</w>
+            <w type="FW"> Chrome</w>
+            <w type="FW"> on</w>
+            <w type="FW"> Windows</w>
+            <w type="FW"> 10</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Pro</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="olmtw (olmtw)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">溪頭</w>
+            <w type="Na">歡慶</w>
+            <w type="Neu">50</w>
+            <w type="Nf">歲</w>
+            <w type="T">了</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="FW"> 1970年</w>
+            <w type="VC">生</w>
+            <w type="Neu">7/1</w>
+            <w type="VA">入園</w>
+            <w type="D">一律</w>
+            <w type="Neu">10</w>
+         </s>
+      </title>
+      <comment author="AllenHuang" c_type="pos">
+         <s>
+            <w type="Neu">1970年</w>
+            <w type="VC">出</w>
+            <w type="DE">的</w>
+            <w type="VH">生</w>
+            <w type="Na">遊客</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="Gakki" c_type="pos">
+         <s>
+            <w type="Nep">那</w>
+            <w type="VH"> 熟</w>
+            <w type="Na">遊客</w>
+            <w type="P">在</w>
+            <w type="Ncd">哪</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="b03902123" c_type="neu">
+         <s>
+            <w type="Nc">修森多概</w>
+            <w type="D">就</w>
+            <w type="D">能</w>
+            <w type="VCL">去</w>
+            <w type="DE">的</w>
+            <w type="Na">地方</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+      </comment>
+      <comment author="cwh0105" c_type="pos">
+         <s>
+            <w type="D">反正</w>
+            <w type="Nh">我</w>
+            <w type="VH">免費</w>
+            <w type="ETCCATEGORY">X</w>
+            <w type="ETCCATEGORY">D</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

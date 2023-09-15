@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">FuruyaRei (降谷零)</metadata>
+      <metadata name="post_id">M.1619005965.A.B7E</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 釣魚</metadata>
+   </teiHeader>
+   <text>
+      <body author="FuruyaRei (降谷零)" />
+      <title author="FuruyaRei (降谷零)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">釣魚</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

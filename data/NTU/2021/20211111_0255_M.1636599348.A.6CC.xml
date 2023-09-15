@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">joseph40 (五樓笨蛋)</metadata>
+      <metadata name="post_id">M.1636599348.A.6CC</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 有</metadata>
+   </teiHeader>
+   <text>
+      <body author="joseph40 (五樓笨蛋)">
+         <s>
+            <w type="V_2">有</w>
+         </s>
+      </body>
+      <title author="joseph40 (五樓笨蛋)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

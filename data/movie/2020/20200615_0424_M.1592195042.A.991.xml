@@ -1,0 +1,839 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">bluebarley (麥來亂)</metadata>
+      <metadata name="post_id">M.1592195042.A.991</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[片單] 中年以後的婚外情</metadata>
+   </teiHeader>
+   <text>
+      <body author="bluebarley (麥來亂)">
+         <s>
+            <w type="Cbb">1. </w>
+            <w type="VF">請</w>
+            <w type="VE">簡述</w>
+            <w type="Nh">自身</w>
+            <w type="VC">需求</w>
+            <w type="Na">片單</w>
+            <w type="Na">理由</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Caa">或</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">欲</w>
+            <w type="VC">尋找</w>
+            <w type="Na">電影</w>
+            <w type="DE">的</w>
+            <w type="Na">類型</w>
+            <w type="Caa">或</w>
+            <w type="Na">特徵</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="VF">請</w>
+            <w type="D">盡量</w>
+            <w type="VC">描述</w>
+            <w type="VH">清楚</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">主題</w>
+            <w type="VG">為</w>
+            <w type="VC">描述</w>
+            <w type="Na">中年</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">老年</w>
+            <w type="DE">的</w>
+            <w type="Na">婚外情</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VJ">限</w>
+            <w type="D">是否</w>
+            <w type="V_2">有</w>
+            <w type="Na">性</w>
+            <w type="Na">關係</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VG">俗稱</w>
+            <w type="Na">靈魂</w>
+            <w type="VH">出軌</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="D">亦</w>
+            <w type="Na">不</w>
+            <w type="VJ">限</w>
+            <w type="Na">性</w>
+            <w type="Na">傾向</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="P">以</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">女性</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">角色</w>
+            <w type="VH">出軌</w>
+            <w type="VI">為佳</w>
+         </s>
+         <s>
+            <w type="Cbb">若</w>
+            <w type="Na">影片</w>
+            <w type="VG">為</w>
+            <w type="Na">男性</w>
+            <w type="Na">角色</w>
+            <w type="VH">出軌</w>
+            <w type="VF">請</w>
+            <w type="VC">協助</w>
+            <w type="Na">標記</w>
+            <w type="I">唷</w>
+         </s>
+         <s>
+            <w type="Na">影片</w>
+            <w type="Na">主旨</w>
+            <w type="SHI">是</w>
+            <w type="VE">探討</w>
+            <w type="Na">心境</w>
+            <w type="VAC">轉折</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VJ">限</w>
+            <w type="Na">影片</w>
+            <w type="Na">國籍</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">影片</w>
+            <w type="Na">形式</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">紀錄片</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">動畫</w>
+            <w type="D">皆</w>
+            <w type="D">可</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="P">以</w>
+            <w type="Na">劇情片</w>
+            <w type="VI">為主</w>
+         </s>
+         <s>
+            <w type="VK">感謝</w>
+            <w type="Nh">各位</w>
+            <w type="Na">神人</w>
+            <w type="VH">大大</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="Cbb">2. </w>
+            <w type="D">已</w>
+            <w type="VK">知</w>
+            <w type="VJ">符合</w>
+            <w type="Na">需求</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+            <w type="Caa">或</w>
+            <w type="VJ">偏好</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+            <w type="Na">類型</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="P">為</w>
+            <w type="VE">避免</w>
+            <w type="VC">重複</w>
+            <w type="Na">推文</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="Da">至少</w>
+            <w type="VC">列舉</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Nc">麥迪遜</w>
+            <w type="DE">之</w>
+            <w type="Na">橋</w>
+         </s>
+         <s>
+            <w type="VA">逐夢</w>
+            <w type="Na">鬱金香</w>
+         </s>
+         <s>
+            <w type="Cbb">3. </w>
+            <w type="D">不</w>
+            <w type="VK">喜歡</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+            <w type="Na">類型</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE">           </w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="D">不</w>
+            <w type="VK">需要</w>
+            <w type="Na">板友</w>
+            <w type="VC">推薦</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+            <w type="Na">片名</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="VE">想</w>
+            <w type="Di">了</w>
+            <w type="Dfa">很</w>
+            <w type="VH">久</w>
+            <w type="D">真的</w>
+            <w type="Dk">想</w>
+            <w type="D">不</w>
+            <w type="VE">到</w>
+            <w type="FW"> &amp;gt;"&amp;lt;</w>
+         </s>
+      </body>
+      <title author="bluebarley (麥來亂)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">片單</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">中年</w>
+            <w type="Ng">以後</w>
+            <w type="DE">的</w>
+            <w type="Na">婚外情</w>
+         </s>
+      </title>
+      <comment author="dakkk" c_type="pos">
+         <s>
+            <w type="SHI">是</w>
+            <w type="Nh">誰</w>
+            <w type="D">先</w>
+            <w type="VJ">愛上</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="Qkatherine" c_type="pos">
+         <s>
+            <w type="VH">出軌</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">片名</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+      <comment author="calbert" c_type="neu">
+         <s>
+            <w type="VH">出軌</w>
+         </s>
+      </comment>
+      <comment author="Euniceeee" c_type="pos">
+         <s>
+            <w type="V_2">有想到</w>
+            <w type="Na">美劇</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">異類</w>
+         </s>
+      </comment>
+      <comment author="xinyi101" c_type="pos">
+         <s>
+            <w type="Nc">斷背山</w>
+         </s>
+      </comment>
+      <comment author="sy4826951" c_type="pos">
+         <s>
+            <w type="Nc">美國</w>
+            <w type="Na">心</w>
+            <w type="Na">玫瑰</w>
+            <w type="Na">情</w>
+         </s>
+      </comment>
+      <comment author="rogudan" c_type="neu">
+         <s>
+            <w type="Nc">麥迪遜</w>
+            <w type="DE">之</w>
+            <w type="Na">橋</w>
+         </s>
+      </comment>
+      <comment author="Christelle" c_type="pos">
+         <s>
+            <w type="FW">CHOLE</w>
+         </s>
+      </comment>
+      <comment author="Shawnny" c_type="pos">
+         <s>
+            <w type="Na">白色</w>
+            <w type="Na">情迷</w>
+         </s>
+      </comment>
+      <comment author="rubeinlove" c_type="neu">
+         <s>
+            <w type="Ncd">上面</w>
+            <w type="VE">講</w>
+            <w type="A">超多</w>
+            <w type="Na">男</w>
+            <w type="DE">的</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="rubeinlove" c_type="neu">
+         <s>
+            <w type="VCL">遠離</w>
+            <w type="Nc">天堂</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">一點</w>
+            <w type="VC">擦邊</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="cck525" c_type="pos">
+         <s>
+            <w type="Na">烈火</w>
+            <w type="Na">情人</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">男</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </comment>
+      <comment author="mimic0080" c_type="neu">
+         <s>
+            <w type="Na">型男</w>
+            <w type="Nv">飛行</w>
+            <w type="Na">日誌</w>
+         </s>
+      </comment>
+      <comment author="fancer" c_type="pos">
+         <s>
+            <w type="Na">愛情</w>
+            <w type="Na">人偶</w>
+         </s>
+      </comment>
+      <comment author="Kissfly" c_type="pos">
+         <s>
+            <w type="VC">關</w>
+            <w type="D">不</w>
+            <w type="VC">住</w>
+            <w type="DE">的</w>
+            <w type="Nv">誘惑</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">孔劉</w>
+         </s>
+      </comment>
+      <comment author="yamamumu" c_type="pos">
+         <s>
+            <w type="Na">紙</w>
+            <w type="DE">之</w>
+            <w type="Na">月</w>
+         </s>
+      </comment>
+      <comment author="Tencc" c_type="neu">
+         <s>
+            <w type="Nc">美國</w>
+            <w type="Na">心</w>
+            <w type="Na">玫瑰</w>
+            <w type="Na">情</w>
+            <w type="PERIODCATEGORY">...</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Cbb">但是</w>
+            <w type="Nh">我</w>
+            <w type="D">一直</w>
+            <w type="VJ">沒有</w>
+            <w type="Na">勇氣</w>
+            <w type="VC">看</w>
+            <w type="Neu">第二</w>
+            <w type="Nf">遍</w>
+         </s>
+      </comment>
+      <comment author="guava664251" c_type="pos">
+         <s>
+            <w type="Nes">前</w>
+            <w type="Nd">陣子</w>
+            <w type="VAC">上映</w>
+            <w type="DE">的</w>
+            <w type="Na">海</w>
+            <w type="Ncd">邊</w>
+            <w type="VA">走走</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">男方</w>
+         </s>
+      </comment>
+      <comment author="totte" c_type="pos">
+         <s>
+            <w type="VH">超完美</w>
+            <w type="Na">謀殺案</w>
+         </s>
+      </comment>
+      <comment author="yiayia0333" c_type="pos">
+         <s>
+            <w type="VC">關</w>
+            <w type="D">不</w>
+            <w type="VCL">住</w>
+            <w type="DE">的</w>
+            <w type="VC">誘惑</w>
+            <w type="FW">/</w>
+            <w type="Na">男</w>
+            <w type="Caa">與</w>
+            <w type="Na">女</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">孔劉</w>
+            <w type="Caa">和</w>
+            <w type="Nb">全度妍</w>
+            <w type="VC">主演</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">不過</w>
+            <w type="Nep">這</w>
+         </s>
+      </comment>
+      <comment author="yiayia0333" c_type="neu">
+         <s>
+            <w type="Nc">部</w>
+            <w type="Na">男女</w>
+            <w type="Na">主角</w>
+            <w type="DE">的</w>
+            <w type="Na">視角</w>
+            <w type="Dfa">滿</w>
+            <w type="VH">平均</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Da">只</w>
+            <w type="V_2">有</w>
+            <w type="Na">女</w>
+            <w type="Na">主角</w>
+            <w type="Na">視角</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="mlb99551155" c_type="pos">
+         <s>
+            <w type="Na">花樣年華</w>
+         </s>
+      </comment>
+      <comment author="Tolee" c_type="pos">
+         <s>
+            <w type="Nb">失樂園</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nh">我</w>
+            <w type="SHI">是</w>
+            <w type="Dfa">多</w>
+            <w type="VH">老</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </comment>
+      <comment author="BusyBee9939" c_type="pos">
+         <s>
+            <w type="Nc">英倫</w>
+            <w type="Na">情人</w>
+         </s>
+      </comment>
+      <comment author="kv8220" c_type="pos">
+         <s>
+            <w type="VH">出軌</w>
+         </s>
+      </comment>
+      <comment author="qa00ctm" c_type="pos">
+         <s>
+            <w type="Nb">失樂園</w>
+            <w type="VH">算</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="chuchujung" c_type="pos">
+         <s>
+            <w type="Na">男人</w>
+            <w type="Neu">四十</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">男</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </comment>
+      <comment author="softpapa" c_type="pos">
+         <s>
+            <w type="Na">烈火</w>
+            <w type="Na">情人</w>
+         </s>
+      </comment>
+      <comment author="meomeocat" c_type="pos">
+         <s>
+            <w type="Nc">古書堂</w>
+            <w type="Na">事件</w>
+            <w type="Na">手帖</w>
+         </s>
+      </comment>
+      <comment author="eoii" c_type="pos">
+         <s>
+            <w type="Na">男</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Na">愛情</w>
+            <w type="D">不用</w>
+            <w type="VC">翻譯</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="drygoat" c_type="pos">
+         <s>
+            <w type="Na">老爸</w>
+            <w type="D">行不行</w>
+         </s>
+      </comment>
+      <comment author="littlefiona" c_type="pos">
+         <s>
+            <w type="VH">出軌</w>
+            <w type="Caa">和</w>
+            <w type="VA">偷情</w>
+            <w type="D">都</w>
+            <w type="Dfa">滿</w>
+            <w type="VH">好看</w>
+            <w type="T">的</w>
+         </s>
+      </comment>
+      <comment author="littlefiona" c_type="neu">
+         <s>
+            <w type="D">也</w>
+            <w type="D">都</w>
+            <w type="V_2">有</w>
+            <w type="Na">女性</w>
+            <w type="Na">觀點</w>
+         </s>
+      </comment>
+      <comment author="bsnyyp" c_type="pos">
+         <s>
+            <w type="Na">醜聞</w>
+            <w type="Na">筆記</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">女方</w>
+            <w type="VH">出軌</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="FW">Little</w>
+            <w type="FW"> Children</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neu">兩</w>
+            <w type="Na">方</w>
+            <w type="D">皆</w>
+            <w type="VH">出軌</w>
+         </s>
+      </comment>
+      <comment author="orgre" c_type="pos">
+         <s>
+            <w type="Nc">大內</w>
+            <w type="Na">祕探</w>
+            <w type="Nb">凌凌漆</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">男</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+      <comment author="yeapdaniel" c_type="pos">
+         <s>
+            <w type="VA">玩火</w>
+         </s>
+      </comment>
+      <comment author="agiza" c_type="pos">
+         <s>
+            <w type="Na">晝顏</w>
+            <w type="Na">電影版</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="dragon50119" c_type="pos">
+         <s>
+            <w type="FW">The</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Lovers</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">兩</w>
+            <w type="Na">方</w>
+            <w type="D">皆</w>
+            <w type="VH">出軌</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">然後</w>
+            <w type="D">都</w>
+            <w type="VC">計劃好</w>
+            <w type="D">要</w>
+            <w type="P">向</w>
+            <w type="Nh">對方</w>
+            <w type="VC">提出</w>
+         </s>
+      </comment>
+      <comment author="dragon50119" c_type="neu">
+         <s>
+            <w type="VA">離婚</w>
+         </s>
+      </comment>
+      <comment author="makelove0938" c_type="pos">
+         <s>
+            <w type="V_2">有</w>
+            <w type="VK">希望</w>
+            <w type="DE">的</w>
+            <w type="Na">男人</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">男</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </comment>
+      <comment author="dancingriver" c_type="pos">
+         <s>
+            <w type="Nb">凱特</w>
+            <w type="DE">的</w>
+            <w type="Na">慾望</w>
+            <w type="Na">日記</w>
+         </s>
+      </comment>
+      <comment author="bobotaeyeon" c_type="pos">
+         <s>
+            <w type="Neu">212號</w>
+            <w type="Nc">房間</w>
+         </s>
+      </comment>
+      <comment author="celya6223" c_type="pos">
+         <s>
+            <w type="VJ">關</w>
+            <w type="D">不</w>
+            <w type="VC">住</w>
+            <w type="DE">的</w>
+            <w type="VC">誘惑</w>
+         </s>
+      </comment>
+      <comment author="eWriter" c_type="pos">
+         <s>
+            <w type="Nb">李察吉爾</w>
+            <w type="VC">演</w>
+            <w type="DE">的</w>
+            <w type="VH">出軌</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">連恩尼遜</w>
+            <w type="DE">的</w>
+            <w type="Nv">色誘</w>
+         </s>
+      </comment>
+      <comment author="zeffy" c_type="pos">
+         <s>
+            <w type="Na">愛情</w>
+            <w type="DE">的</w>
+            <w type="Ncd">盡頭</w>
+         </s>
+      </comment>
+      <comment author="z810638" c_type="pos">
+         <s>
+            <w type="Nb">失樂園</w>
+         </s>
+      </comment>
+      <comment author="butmyass" c_type="neg">
+         <s>
+            <w type="Na">紙</w>
+            <w type="DE">之</w>
+            <w type="Na">月</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">女</w>
+            <w type="VH">出軌</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">與</w>
+            <w type="Na">男</w>
+            <w type="Na">大生</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+      <comment author="plutox" c_type="pos">
+         <s>
+            <w type="VH">致命</w>
+            <w type="Na">吸引力</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">男</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </comment>
+      <comment author="plutox" c_type="neu">
+         <s>
+            <w type="Nc">美國</w>
+            <w type="Na">心</w>
+            <w type="Na">玫瑰</w>
+            <w type="Na">情</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">男</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </comment>
+      <comment author="bbbyes123" c_type="pos">
+         <s>
+            <w type="Na">斷背山</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">男</w>
+         </s>
+      </comment>
+      <comment author="xxzzyyo" c_type="pos">
+         <s>
+            <w type="Na">熱帶雨 </w>
+            <w type="D">別</w>
+            <w type="VE">問</w>
+            <w type="Nh">我</w>
+            <w type="SHI">是</w>
+            <w type="Nh">誰</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">性</w>
+            <w type="Nb">福</w>
+            <w type="VC">拉</w>
+            <w type="Na">警報</w>
+         </s>
+      </comment>
+      <comment author="ginnnyyy2929" c_type="pos">
+         <s>
+            <w type="Na">窗</w>
+            <w type="Ncd">外</w>
+            <w type="VH">有情天</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">男</w>
+            <w type="VH">已婚</w>
+            <w type="VH">出軌</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">女</w>
+            <w type="VB">訂婚</w>
+            <w type="VH">出軌</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </comment>
+      <comment author="ray198904" c_type="pos">
+         <s>
+            <w type="VD">賣</w>
+            <w type="Na">百科全書</w>
+            <w type="DE">的</w>
+            <w type="Na">女人</w>
+         </s>
+      </comment>
+      <comment author="pauljet" c_type="pos">
+         <s>
+            <w type="Na">醜聞</w>
+            <w type="Na">筆記</w>
+         </s>
+      </comment>
+      <comment author="teramars" c_type="pos">
+         <s>
+            <w type="Nb">失樂園</w>
+         </s>
+      </comment>
+      <comment author="flac" c_type="pos">
+         <s>
+            <w type="VH">致命</w>
+            <w type="DE">的</w>
+            <w type="Na">吸引力</w>
+         </s>
+      </comment>
+      <comment author="flac" c_type="neu">
+         <s>
+            <w type="Na">晝</w>
+            <w type="Na">顏</w>
+         </s>
+      </comment>
+      <comment author="Septembre" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VL">愛</w>
+            <w type="VH">故我</w>
+            <w type="P">在</w>
+         </s>
+      </comment>
+      <comment author="Septembre" c_type="neu">
+         <s>
+            <w type="P">為</w>
+            <w type="Na">愛</w>
+            <w type="VCL">遠離</w>
+         </s>
+      </comment>
+      <comment author="w792381726" c_type="pos">
+         <s>
+            <w type="VH">戀愛</w>
+            <w type="Na">倒帶</w>
+            <w type="Ng">中</w>
+         </s>
+      </comment>
+      <comment author="w792381726" c_type="neu">
+         <s>
+            <w type="Na">迴光</w>
+            <w type="Na">奏鳴曲</w>
+         </s>
+      </comment>
+      <comment author="spotlessmind" c_type="pos">
+         <s>
+            <w type="Na">畢業生</w>
+         </s>
+      </comment>
+      <comment author="doloresmaze" c_type="neu">
+         <s>
+            <w type="Nc">開羅</w>
+            <w type="Na">時間</w>
+         </s>
+      </comment>
+      <comment author="imcockroach" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="VE">想到</w>
+            <w type="Na">晝顏</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">熱帶雨</w>
+         </s>
+      </comment>
+      <comment author="paul0325" c_type="pos">
+         <s>
+            <w type="Na">花樣年華</w>
+         </s>
+      </comment>
+      <comment author="paul0325" c_type="pos">
+         <s>
+            <w type="Na">愛情</w>
+            <w type="D">不用</w>
+            <w type="VC">翻譯</w>
+         </s>
+      </comment>
+      <comment author="nostar" c_type="pos">
+         <s>
+            <w type="VC">控制</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">男女</w>
+            <w type="Na">主角</w>
+            <w type="D">都</w>
+            <w type="V_2">有</w>
+            <w type="Na">外遇</w>
+         </s>
+      </comment>
+      <comment author="loser1999" c_type="neu">
+         <s>
+            <w type="Neu">45</w>
+            <w type="FW"> Years</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">45年</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+      <comment author="gtsandevo" c_type="pos">
+         <s>
+            <w type="VC">繼承</w>
+            <w type="Na">人生</w>
+         </s>
+      </comment>
+      <comment author="firemm666" c_type="neu">
+         <s>
+            <w type="Nc">美國</w>
+            <w type="Na">心</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">玫瑰</w>
+            <w type="Na">情</w>
+         </s>
+      </comment>
+      <comment author="littenVenus" c_type="pos">
+         <s>
+            <w type="Nc">麥迪遜</w>
+            <w type="DE">之</w>
+            <w type="Na">橋</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

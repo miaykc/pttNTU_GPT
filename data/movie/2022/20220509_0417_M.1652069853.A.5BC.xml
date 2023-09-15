@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">justlikenari (我是Penny 呀呼!!)</metadata>
+      <metadata name="post_id">M.1652069853.A.5BC</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈票]5/9 13:00 奇異博士2</metadata>
+   </teiHeader>
+   <text>
+      <body author="justlikenari (我是Penny 呀呼!!)">
+         <s>
+            <w type="Cbb">因</w>
+            <w type="Nc">公司</w>
+            <w type="Nd">臨時</w>
+            <w type="VH">有事</w>
+            <w type="VA">走</w>
+            <w type="D">不</w>
+            <w type="VA">開</w>
+            <w type="VA">去</w>
+            <w type="VH">不了</w>
+            <w type="FW">@@</w>
+         </s>
+         <s>
+            <w type="VHC">麻煩</w>
+            <w type="VC">領取</w>
+            <w type="Ng">後</w>
+            <w type="Na">推文</w>
+            <w type="VE">告知</w>
+            <w type="Nd">一下</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">謝謝</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="Nc">影城</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">  MUVIE CINEMAS</w>
+            <w type="Nc">台北</w>
+            <w type="Nb">松仁威秀</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">第6</w>
+            <w type="Nc">廳</w>
+         </s>
+         <s>
+            <w type="Na">電影</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE">  </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">TITAN</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="VH">奇異</w>
+            <w type="Na">博士</w>
+            <w type="Neu">2</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VH">失控</w>
+            <w type="A">多重</w>
+            <w type="Na">宇宙</w>
+         </s>
+         <s>
+            <w type="Na">場次</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE">  </w>
+            <w type="Neu">2022-05-09</w>
+            <w type="FW"> 13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="VC">取</w>
+            <w type="Na">票</w>
+            <w type="Na">序號</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">  WJ88F9Q</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> iPhone</w>
+         </s>
+      </body>
+      <title author="justlikenari (我是Penny 呀呼!!)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="Nd">5/9 13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00 </w>
+            <w type="VH">奇異</w>
+            <w type="Na">博士</w>
+            <w type="Neu">2</w>
+         </s>
+      </title>
+      <comment author="hihi152" c_type="pos">
+         <s>
+            <w type="VH">純</w>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="yannjiunlin" c_type="pos">
+         <s>
+            <w type="VH">純</w>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="Sk8erBoi" c_type="pos">
+         <s>
+            <w type="VH">純</w>
+            <w type="VC">推</w>
+            <w type="VH">不</w>
+            <w type="VC">下</w>
+         </s>
+      </comment>
+      <comment author="Queen" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="VH">好心</w>
+            <w type="DASHCATEGORY">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+      <comment author="w710127" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="VH">好心</w>
+         </s>
+      </comment>
+      <comment author="backoc39" c_type="pos">
+         <s>
+            <w type="Na">好人</w>
+         </s>
+      </comment>
+      <comment author="showmpstage" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="Na">好人</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

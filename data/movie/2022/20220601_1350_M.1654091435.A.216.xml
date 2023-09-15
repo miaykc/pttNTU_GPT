@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">mashmabo (inception)</metadata>
+      <metadata name="post_id">M.1654091435.A.216</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 安雅泰勒喬伊菜單前導預告</metadata>
+   </teiHeader>
+   <text>
+      <body author="mashmabo (inception)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=</w>
+            <w type="FW">CAWZMssP3g</w>
+            <w type="ETCCATEGORY">M</w>
+         </s>
+         <s>
+            <w type="Nb">安雅泰勒喬伊</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">雷夫范恩斯</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">尼可拉斯霍特</w>
+         </s>
+         <s>
+            <w type="Na">劇情</w>
+            <w type="VC">描述</w>
+            <w type="Neu">一</w>
+            <w type="Nf">對</w>
+            <w type="VH">年輕</w>
+            <w type="Na">夫妻</w>
+            <w type="VCL">去</w>
+            <w type="Neu">一</w>
+            <w type="Nf">座</w>
+            <w type="VH">偏遠</w>
+            <w type="Na">島嶼</w>
+            <w type="VC">造訪</w>
+            <w type="Neu">一</w>
+            <w type="Nf">家</w>
+            <w type="Nc">餐廳</w>
+         </s>
+         <s>
+            <w type="VE">聽說</w>
+            <w type="Nep">這</w>
+            <w type="Nf">家</w>
+            <w type="Nc">餐廳</w>
+            <w type="DE">的</w>
+            <w type="Na">大廚</w>
+            <w type="D">會</w>
+            <w type="P">為</w>
+            <w type="Na">人</w>
+            <w type="VD">提供</w>
+            <w type="VH">驚喜</w>
+            <w type="DE">的</w>
+            <w type="Na">菜單</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">11.18</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">北美</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="VAC">上映</w>
+         </s>
+         <s>
+            <w type="VE">預告</w>
+            <w type="Na">質感</w>
+            <w type="D">還</w>
+            <w type="VH">不錯</w>
+         </s>
+      </body>
+      <title author="mashmabo (inception)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">安雅</w>
+            <w type="Nb">泰勒</w>
+            <w type="Nb">喬伊</w>
+            <w type="Na">菜單</w>
+            <w type="Na">前導</w>
+            <w type="VE">預告</w>
+         </s>
+      </title>
+      <comment author="archlich" c_type="pos">
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Dfa">比較</w>
+            <w type="VJ">偏</w>
+            <w type="Na">人魔</w>
+            <w type="D">還是</w>
+            <w type="Nc">布達佩斯</w>
+            <w type="VH">大</w>
+            <w type="Nc">飯店</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="mashmabo" c_type="neu">
+         <s>
+            <w type="VC">看</w>
+            <w type="Nb">維基</w>
+            <w type="VE">介紹</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="VH">驚悚</w>
+            <w type="Na">喜劇</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">人魔</w>
+            <w type="FW">+</w>
+            <w type="Nb">布達吧</w>
+         </s>
+      </comment>
+      <comment author="sure0219" c_type="pos">
+         <s>
+            <w type="P">把</w>
+            <w type="Na">顧客</w>
+            <w type="VG">變成</w>
+            <w type="Na">菜</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="sking" c_type="neu">
+         <s>
+            <w type="VJ">看</w>
+            <w type="D">不</w>
+            <w type="VJ">懂</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="VE">想要</w>
+            <w type="VC">表達</w>
+            <w type="Nep">什麼</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

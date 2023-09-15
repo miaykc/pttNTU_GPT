@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">headland (不當得利)</metadata>
+      <metadata name="post_id">M.1637733678.A.E02</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] 請問新生大樓電梯好了嗎？</metadata>
+   </teiHeader>
+   <text>
+      <body author="headland (不當得利)">
+         <s>
+            <w type="VE">請問</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VK">知道</w>
+            <w type="Na">新生</w>
+            <w type="Na">大樓</w>
+            <w type="Na">電梯</w>
+            <w type="T">好</w>
+            <w type="T">了</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="Nes">上</w>
+            <w type="Nf">週</w>
+            <w type="VCL">去</w>
+            <w type="D">不能</w>
+            <w type="VC">使用</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="VK">怕</w>
+            <w type="Nh">我</w>
+            <w type="A">電動</w>
+            <w type="Na">輪椅</w>
+            <w type="D">無法</w>
+            <w type="VA">上樓</w>
+         </s>
+      </body>
+      <title author="headland (不當得利)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">請問</w>
+            <w type="Na">新生</w>
+            <w type="Na">大樓</w>
+            <w type="Na">電梯</w>
+            <w type="T">好</w>
+            <w type="T">了</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </title>
+      <comment author="wei0506" c_type="pos">
+         <s>
+            <w type="Nd">禮拜一</w>
+            <w type="VCL">去</w>
+            <w type="D">可以</w>
+            <w type="VC">搭</w>
+         </s>
+      </comment>
+      <comment author="jzoethai" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Nd">禮拜二</w>
+            <w type="D">去</w>
+            <w type="VC">搭</w>
+            <w type="D">也</w>
+            <w type="VJ">沒</w>
+            <w type="Na">問題</w>
+            <w type="I">欸</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

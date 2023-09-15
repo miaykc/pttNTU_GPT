@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">pinecone (松果)</metadata>
+      <metadata name="post_id">M.1641216026.A.8FE</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] 理髮部現在有對外開放嗎?</metadata>
+   </teiHeader>
+   <text>
+      <body author="pinecone (松果)">
+         <s>
+            <w type="VE">請問</w>
+            <w type="Nc">理髮部</w>
+            <w type="Nd">現在</w>
+            <w type="V_2">有</w>
+            <w type="P">對</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">外</w>
+            <w type="Na">人士</w>
+            <w type="VH">開放</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="Na">小學生</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">女</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="P">到</w>
+            <w type="Na">女子</w>
+            <w type="Nc">理髮部</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VB">剪頭</w>
+            <w type="FW">+</w>
+            <w type="VA">洗頭</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">現在</w>
+            <w type="Na">價錢</w>
+            <w type="SHI">是</w>
+            <w type="Neqa">多少</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+      </body>
+      <title author="pinecone (松果)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">理髮部</w>
+            <w type="Nd">現在</w>
+            <w type="V_2">有</w>
+            <w type="P">對</w>
+            <w type="Ncd">外</w>
+            <w type="VH">開放</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </title>
+      <comment author="jerejesse" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//life.ntu.edu.tw/zh_tw/life/Others/Others</w>
+            <w type="Neu">06</w>
+         </s>
+      </comment>
+      <comment author="jerejesse" c_type="neu">
+         <s>
+            <w type="Ncd">裡面</w>
+            <w type="V_2">有</w>
+            <w type="Na">電話</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">明天</w>
+            <w type="Nv">上班</w>
+            <w type="Na">時段</w>
+            <w type="VC">打去</w>
+            <w type="VE">問</w>
+            <w type="Di">看看</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Sibelius26 (SaM)</metadata>
+      <metadata name="post_id">M.1619025233.A.0BA</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 花丸超可愛</metadata>
+   </teiHeader>
+   <text>
+      <body author="Sibelius26 (SaM)">
+         <s>
+            <w type="VC">騙</w>
+            <w type="Nh">你</w>
+            <w type="DE">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">超</w>
+            <w type="VH">醜</w>
+         </s>
+      </body>
+      <title author="Sibelius26 (SaM)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 花丸</w>
+            <w type="Dfa">超</w>
+            <w type="VH">可愛</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

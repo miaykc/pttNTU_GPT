@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">dreamcity (飛行在宇宙中的航海者號)</metadata>
+      <metadata name="post_id">M.1616592649.A.3D0</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] 梅峰農場茶葉</metadata>
+   </teiHeader>
+   <text>
+      <body author="dreamcity (飛行在宇宙中的航海者號)">
+         <s>
+            <w type="P">除了</w>
+            <w type="VC">網購</w>
+            <w type="Ng">以外</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VE">想</w>
+            <w type="VE">詢問</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">內</w>
+            <w type="DE">的</w>
+            <w type="Nc">販賣部</w>
+            <w type="Caa">或</w>
+            <w type="Nc">福利社</w>
+            <w type="V_2">有</w>
+            <w type="VD">賣</w>
+            <w type="Nc">梅峰</w>
+            <w type="Nc">山地</w>
+            <w type="Nc">農場</w>
+            <w type="DE">的</w>
+            <w type="Na">茶葉</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="Nes">各位</w>
+            <w type="PERIODCATEGORY">．</w>
+         </s>
+      </body>
+      <title author="dreamcity (飛行在宇宙中的航海者號)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">梅峰</w>
+            <w type="Nc">農場</w>
+            <w type="Na">茶葉</w>
+         </s>
+      </title>
+      <comment author="cwh0105" c_type="neu">
+         <s>
+            <w type="Nep">那</w>
+            <w type="Nep">啥</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">不要</w>
+            <w type="VD">偷</w>
+            <w type="Na">廣告</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="D">聽起來</w>
+            <w type="SHI">像是</w>
+            <w type="Nc">台大</w>
+            <w type="Nes">某</w>
+            <w type="Nf">個</w>
+            <w type="Nc">農場</w>
+            <w type="DE">的</w>
+            <w type="Na">作物</w>
+            <w type="FW"> @@</w>
+         </s>
+      </comment>
+      <comment author="cwh0105" c_type="neu">
+         <s>
+            <w type="I">喔喔 </w>
+            <w type="Nc">網站</w>
+            <w type="VE">說</w>
+            <w type="Na">農產品</w>
+            <w type="VC">展示</w>
+            <w type="Nc">中心</w>
+            <w type="V_2">有</w>
+            <w type="VD">賣</w>
+            <w type="T">喔</w>
+         </s>
+      </comment>
+      <comment author="Imotucc" c_type="pos">
+         <s>
+            <w type="Cbb">雖然</w>
+            <w type="SHI">是</w>
+            <w type="VH">無用</w>
+            <w type="Na">資訊</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但</w>
+            <w type="Nb">梅峰</w>
+            <w type="Nc">農場</w>
+            <w type="DE">的</w>
+            <w type="Nc">福利社</w>
+            <w type="D">也</w>
+            <w type="VG">算</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">內</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="a9075a9075" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Dfa">比較</w>
+            <w type="VE">想</w>
+            <w type="VC">買</w>
+            <w type="Nc">梅峰</w>
+            <w type="Nc">農場</w>
+            <w type="DE">的</w>
+            <w type="Na">水蜜桃</w>
+            <w type="Na">冰沙</w>
+         </s>
+      </comment>
+      <comment author="verdandy" c_type="pos">
+         <s>
+            <w type="D">應該</w>
+            <w type="V_2">有</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">之前</w>
+            <w type="V_2">有</w>
+            <w type="P">幫</w>
+            <w type="FW"> BOSS </w>
+            <w type="VC">買</w>
+            <w type="Di">過</w>
+         </s>
+      </comment>
+      <comment author="greywagtail" c_type="pos">
+         <s>
+            <w type="Na">鬆餅</w>
+            <w type="Nc">附近</w>
+            <w type="Na">排</w>
+            <w type="Na">牛奶</w>
+            <w type="DE">的</w>
+            <w type="Nep">那</w>
+            <w type="Nf">間</w>
+            <w type="V_2">有</w>
+            <w type="VD">賣</w>
+         </s>
+      </comment>
+      <comment author="dreamcity" c_type="neu">
+         <s>
+            <w type="VH">好</w>
+            <w type="T">喔</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">謝謝</w>
+            <w type="PERIODCATEGORY">．</w>
+         </s>
+      </comment>
+      <comment author="tomlee1130" c_type="neu">
+         <s>
+            <w type="Na">烏龍</w>
+            <w type="Dfa">很</w>
+            <w type="VH">讚</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">本</w>
+            <w type="Na">老人家</w>
+            <w type="D">強力</w>
+            <w type="VC">推薦</w>
+         </s>
+      </comment>
+      <comment author="m2724669" c_type="pos">
+         <s>
+            <w type="Dfa">很</w>
+            <w type="VH">久</w>
+            <w type="D">沒</w>
+            <w type="VCL">回</w>
+            <w type="Nc">學校</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="Nc">新</w>
+            <w type="Nc">月台</w>
+            <w type="Ncd">旁邊</w>
+            <w type="DE">的</w>
+            <w type="Nc">洞洞館</w>
+            <w type="D">應該</w>
+            <w type="D">還</w>
+            <w type="D">有</w>
+            <w type="P">在</w>
+            <w type="VD">販售</w>
+         </s>
+      </comment>
+      <comment author="dosoleil" c_type="pos">
+         <s>
+            <w type="D">真的</w>
+            <w type="Dfa">比較</w>
+            <w type="VK">需要</w>
+            <w type="Nc">臺大</w>
+            <w type="Na">水蜜桃</w>
+         </s>
+      </comment>
+      <comment author="andylin222" c_type="neu">
+         <s>
+            <w type="Nd">以前</w>
+            <w type="D">有</w>
+            <w type="P">在</w>
+            <w type="Ncd">那邊</w>
+            <w type="VC">買</w>
+            <w type="Di">過</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="D">還</w>
+            <w type="D">有沒有</w>
+         </s>
+      </comment>
+      <comment author="huuban" c_type="pos">
+         <s>
+            <w type="Nc">新</w>
+            <w type="Nc">月台</w>
+            <w type="Ncd">裡面</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="Nc">台大</w>
+            <w type="Na">農產品</w>
+            <w type="VC">展售</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

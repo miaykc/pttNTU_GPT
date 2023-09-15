@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">lin91223 (Catherine de Medici)</metadata>
+      <metadata name="post_id">M.1636642253.A.EF4</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 好涼</metadata>
+   </teiHeader>
+   <text>
+      <body author="lin91223 (Catherine de Medici)">
+         <s>
+            <w type="Dfa">好</w>
+            <w type="VH">舒服</w>
+            <w type="T">喔</w>
+         </s>
+         <s>
+            <w type="VH">開心</w>
+         </s>
+      </body>
+      <title author="lin91223 (Catherine de Medici)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dfa">好</w>
+            <w type="VH">涼</w>
+         </s>
+      </title>
+      <comment author="celtics1997" c_type="pos">
+         <s>
+            <w type="D">還</w>
+            <w type="FW"> 蠻</w>
+            <w type="FW"> 涼</w>
+            <w type="WHITESPACE"> </w>
+            <w type="DE">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">涼</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">爆 </w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

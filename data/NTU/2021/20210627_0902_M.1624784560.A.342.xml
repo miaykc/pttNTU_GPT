@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">smartcow86 (wwwwwwwwwwwwwwwwww)</metadata>
+      <metadata name="post_id">M.1624784560.A.342</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[徵求] ics組課程講義</metadata>
+   </teiHeader>
+   <text>
+      <body author="smartcow86 (wwwwwwwwwwwwwwwwww)">
+         <s>
+            <w type="Na">物品</w>
+            <w type="Na">名稱</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="VC">徵求</w>
+         </s>
+         <s>
+            <w type="Na">電腦</w>
+            <w type="VC">輔助</w>
+            <w type="Na">積體電路</w>
+            <w type="Na">系統</w>
+            <w type="Na">設計</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">CVSD</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Nb">黃俊郎</w>
+         </s>
+         <s>
+            <w type="A">數位</w>
+            <w type="Na">訊號</w>
+            <w type="VC">處理</w>
+            <w type="Na">架構</w>
+            <w type="VC">設計</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">簡韶逸</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Cbb">如</w>
+            <w type="V_2">有</w>
+            <w type="Na">作業</w>
+            <w type="FW">code</w>
+            <w type="D">會</w>
+            <w type="Dfa">更</w>
+            <w type="VH">好</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="A">類比</w>
+            <w type="Na">積體電路</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">李致毅</w>
+         </s>
+         <s>
+            <w type="VA">上課</w>
+            <w type="Na">講義</w>
+         </s>
+         <s>
+            <w type="Nv">聯絡</w>
+            <w type="Na">方式</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">站內信</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">價格</w>
+            <w type="Nc">站</w>
+            <w type="Ncd">內</w>
+            <w type="VE">細談</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Neqa">其他</w>
+            <w type="VE">說明</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+      </body>
+      <title author="smartcow86 (wwwwwwwwwwwwwwwwww)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VC">徵求</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> ics組</w>
+            <w type="Na">課程</w>
+            <w type="Na">講義</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

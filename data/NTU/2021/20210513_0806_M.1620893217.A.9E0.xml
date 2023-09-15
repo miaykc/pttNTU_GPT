@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">TeTe (T_T)</metadata>
+      <metadata name="post_id">M.1620893217.A.9E0</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] 台大有停電嗎？</metadata>
+   </teiHeader>
+   <text>
+      <body author="TeTe (T_T)">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">次</w>
+            <w type="Nb">興達</w>
+            <w type="Nc">電廠</w>
+            <w type="VH">大</w>
+            <w type="VA">跳電</w>
+         </s>
+         <s>
+            <w type="Nd">目前</w>
+            <w type="VB">分區</w>
+            <w type="VH">停電</w>
+            <w type="DE">的</w>
+            <w type="Na">計畫</w>
+            <w type="SHI">是</w>
+            <w type="FW">CD區</w>
+            <w type="D">輪流</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="D">實在</w>
+            <w type="VE">查</w>
+            <w type="D">不</w>
+            <w type="VE">到</w>
+            <w type="D">會不會</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">分區</w>
+         </s>
+         <s>
+            <w type="Nd">目前</w>
+            <w type="P">在</w>
+            <w type="Nc">工綜</w>
+            <w type="SHI">是</w>
+            <w type="D">沒</w>
+            <w type="VH">停電</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="D">有</w>
+            <w type="D">沒有</w>
+            <w type="Neqa">其他</w>
+            <w type="DE">的</w>
+            <w type="Na">地方</w>
+            <w type="VH">停電</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> Be</w>
+            <w type="FW">PTT</w>
+         </s>
+      </body>
+      <title author="TeTe (T_T)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台大</w>
+            <w type="V_2">有</w>
+            <w type="VH">停電</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </title>
+      <comment author="cb5786" c_type="pos">
+         <s>
+            <w type="D">總圖</w>
+            <w type="D">沒</w>
+            <w type="VHC">停</w>
+         </s>
+      </comment>
+      <comment author="harry9277180" c_type="pos">
+         <s>
+            <w type="Nc">社科圖</w>
+            <w type="VHC">停</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="henry2346598" c_type="pos">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Nc">機房</w>
+            <w type="VH">停電</w>
+            <w type="FW">PTT</w>
+            <w type="D">也</w>
+            <w type="D">就</w>
+            <w type="VC">掛</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="haru97724" c_type="pos">
+         <s>
+            <w type="Nc">學校</w>
+            <w type="D">有</w>
+            <w type="VD">寄</w>
+            <w type="Na">信</w>
+            <w type="Di">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">可以</w>
+            <w type="D">去</w>
+            <w type="VC">看</w>
+            <w type="Ncd">哪裡</w>
+            <w type="D">會</w>
+            <w type="VHC">停</w>
+         </s>
+      </comment>
+      <comment author="saturday5566" c_type="pos">
+         <s>
+            <w type="VHC">停</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="neu">
+         <s>
+            <w type="VHC">停</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="apple8839" c_type="pos">
+         <s>
+            <w type="Nb">霖澤</w>
+            <w type="Ncd">一帶</w>
+            <w type="V_2">有</w>
+            <w type="VHC">停</w>
+         </s>
+      </comment>
+      <comment author="bicdyueh1212" c_type="pos">
+         <s>
+            <w type="Na">信件</w>
+            <w type="Ng">裡</w>
+            <w type="V_2">有</w>
+            <w type="VC">寫</w>
+            <w type="FW">~</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

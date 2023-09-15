@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ckshchen (尖酸苛博文)</metadata>
+      <metadata name="post_id">M.1676029896.A.303</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[公告] 水桶 multiView</metadata>
+   </teiHeader>
+   <text>
+      <body author="ckshchen (尖酸苛博文)">
+         <s>
+            <w type="FW">multiView</w>
+            <w type="VG">為</w>
+            <w type="FW">dark</w>
+            <w type="DASHCATEGORY">Mood/rebuild</w>
+            <w type="DASHCATEGORY">Model</w>
+            <w type="DE">之</w>
+            <w type="VA">分身</w>
+         </s>
+         <s>
+            <w type="FW">ip</w>
+            <w type="VH">相同</w>
+            <w type="DE">的</w>
+            <w type="VA">分身</w>
+            <w type="Na">證據</w>
+            <w type="VK">如下</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.ptt.cc/bbs/movie_Picket/M.1675052952</w>
+            <w type="PERIODCATEGORY">.A.010</w>
+            <w type="Neu">.</w>
+            <w type="FW">html</w>
+         </s>
+         <s>
+            <w type="P">同</w>
+            <w type="Nes">本尊</w>
+            <w type="VH">一樣</w>
+            <w type="Neu">十</w>
+            <w type="Nf">年</w>
+         </s>
+      </body>
+      <title author="ckshchen (尖酸苛博文)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">公告</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">水桶</w>
+            <w type="FW"> multi</w>
+            <w type="FW">View</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

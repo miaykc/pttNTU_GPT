@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">fadoghome (粗心)</metadata>
+      <metadata name="post_id">M.1582962696.A.2D9</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 請問大畫特務演員</metadata>
+   </teiHeader>
+   <text>
+      <body author="fadoghome (粗心)">
+         <s>
+            <w type="VE">想</w>
+            <w type="VE">請教</w>
+            <w type="VH">大畫</w>
+            <w type="Na">特務</w>
+            <w type="Ng">中</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">角色</w>
+            <w type="SHI">是</w>
+            <w type="Nep">哪</w>
+            <w type="Nf">位</w>
+            <w type="Na">演員</w>
+            <w type="VC">飾演</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">大家</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/Xn</w>
+            <w type="FW">S1</w>
+            <w type="FW">YuW</w>
+         </s>
+      </body>
+      <title author="fadoghome (粗心)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">請問</w>
+            <w type="VH">大畫</w>
+            <w type="Na">特務</w>
+            <w type="Na">演員</w>
+         </s>
+      </title>
+      <comment author="clarkkent13" c_type="pos">
+         <s>
+            <w type="Nb">葛優</w>
+         </s>
+      </comment>
+      <comment author="godgod777" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/fpRUL7q.jpg</w>
+         </s>
+      </comment>
+      <comment author="bbdan22511" c_type="pos">
+         <s>
+            <w type="Nb">大雄</w>
+         </s>
+      </comment>
+      <comment author="wafiea708" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Nszqq</w>
+            <w type="FW">Le.png</w>
+         </s>
+      </comment>
+      <comment author="fadoghome" c_type="neu">
+         <s>
+            <w type="VK">感謝</w>
+            <w type="FW"> wafiea</w>
+            <w type="Neu">708</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">大大</w>
+         </s>
+      </comment>
+      <comment author="kyoiori100" c_type="pos">
+         <s>
+            <w type="Dfa">很</w>
+            <w type="VG">像</w>
+            <w type="Nb">天龍八部</w>
+            <w type="DE">的</w>
+            <w type="Nb">段延慶</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

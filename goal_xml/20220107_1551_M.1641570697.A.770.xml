@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Now2020 (Now)</metadata>
+      <metadata name="post_id">M.1641570697.A.770</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 用一句話形容自己的人生</metadata>
+   </teiHeader>
+   <text>
+      <body author="Now2020 (Now)">
+         <s>
+            <w type="Na">塑膠袋</w>
+         </s>
+      </body>
+      <title author="Now2020 (Now)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">用</w>
+            <w type="Neu">一</w>
+            <w type="Nf">句</w>
+            <w type="Na">話</w>
+            <w type="VE">形容</w>
+            <w type="Nh">自己</w>
+            <w type="DE">的</w>
+            <w type="Na">人生</w>
+         </s>
+      </title>
+      <comment author="eunhailoveu" c_type="neg">
+         <s>
+            <w type="Na">塑膠袋</w>
+            <w type="D">都</w>
+            <w type="P">比</w>
+            <w type="Nh">我</w>
+            <w type="VH">有用</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

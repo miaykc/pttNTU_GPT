@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">japandan (Crazy Day)</metadata>
+      <metadata name="post_id">M.1616235929.A.D67</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[選片] 西西里恐怖故事、聲魔入侵</metadata>
+   </teiHeader>
+   <text>
+      <body author="japandan (Crazy Day)">
+         <s>
+            <w type="Nh">大家</w>
+            <w type="VH">好</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VC">看過</w>
+            <w type="Nep">其中</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Caa">或</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">部</w>
+            <w type="D">都</w>
+            <w type="VC">看</w>
+            <w type="Di">過</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="VE">想</w>
+            <w type="VE">問問</w>
+            <w type="Na">評價</w>
+            <w type="VH">如何</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Nd">目前</w>
+            <w type="Na">板</w>
+            <w type="Ng">上</w>
+            <w type="D">還</w>
+            <w type="VJ">無</w>
+            <w type="Na">評論</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="Dfa">很</w>
+            <w type="VC">接受</w>
+            <w type="VH">驚悚</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VH">恐怖</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="VK">希望</w>
+            <w type="D">不要</w>
+            <w type="SHI">是</w>
+            <w type="Na">B級片</w>
+         </s>
+         <s>
+            <w type="D">先</w>
+            <w type="VK">感謝</w>
+            <w type="Na">板友</w>
+         </s>
+      </body>
+      <title author="japandan (Crazy Day)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">選片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">西西里</w>
+            <w type="VH">恐怖</w>
+            <w type="Na">故事</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">聲魔</w>
+            <w type="VCL">入侵</w>
+         </s>
+      </title>
+      <comment author="ya700" c_type="pos">
+         <s>
+            <w type="Na">聲魔</w>
+            <w type="V_2">有</w>
+            <w type="VCL">入</w>
+            <w type="Nc">柏林</w>
+            <w type="Na">影展</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">感覺</w>
+            <w type="D">好像</w>
+            <w type="VH">優</w>
+            <w type="Dfb">一點</w>
+         </s>
+      </comment>
+      <comment author="japandan" c_type="neu">
+         <s>
+            <w type="Neu">兩</w>
+            <w type="Nf">個</w>
+            <w type="Na">故事</w>
+            <w type="Na">簡介</w>
+            <w type="D">都</w>
+            <w type="Dfa">滿</w>
+            <w type="VH">有趣</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="mysmalllamb" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="V_2">有</w>
+            <w type="Na">時間</w>
+            <w type="D">會</w>
+            <w type="D">優先</w>
+            <w type="VC">看</w>
+            <w type="Na">聲魔</w>
+         </s>
+      </comment>
+      <comment author="luke13177" c_type="pos">
+         <s>
+            <w type="VC">看過</w>
+            <w type="Na">聲魔</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">覺得</w>
+            <w type="Dfa">有點</w>
+            <w type="VH">難看</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

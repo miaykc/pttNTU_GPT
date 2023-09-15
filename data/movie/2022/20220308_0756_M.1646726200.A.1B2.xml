@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">saroku123 (橄欖綠)</metadata>
+      <metadata name="post_id">M.1646726200.A.1B2</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈送] 電影文宣、北影金馬手冊</metadata>
+   </teiHeader>
+   <text>
+      <body author="saroku123 (橄欖綠)">
+         <s>
+            <w type="Nv">贈送</w>
+            <w type="Na">品項</w>
+            <w type="P">如</w>
+            <w type="Ncd">下</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Nb">A. </w>
+            <w type="Na">電影</w>
+            <w type="Na">文宣</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">歐美版</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/I6</w>
+            <w type="FW">Dl0U2</w>
+            <w type="Nf">.jpg</w>
+         </s>
+         <s>
+            <w type="Nb">B. </w>
+            <w type="Na">電影</w>
+            <w type="Na">文宣</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">亞洲版</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/4acpCD7</w>
+            <w type="FW">.jpg</w>
+         </s>
+         <s>
+            <w type="Nb">C. </w>
+            <w type="Nc">北影</w>
+            <w type="Na">手冊</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">2021</w>
+            <w type="Na">金馬</w>
+            <w type="VH">奇幻</w>
+            <w type="Na">手冊</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">2019</w>
+            <w type="Na">金馬</w>
+            <w type="Na">經典</w>
+            <w type="Na">影展</w>
+            <w type="Na">手冊</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/S5</w>
+            <w type="FW">bh</w>
+            <w type="FW">QkX.jpg</w>
+         </s>
+         <s>
+            <w type="D">可</w>
+            <w type="Neu">7-11</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neqa">全家</w>
+            <w type="Nc">店</w>
+            <w type="VCL">到</w>
+            <w type="Nc">店</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">須</w>
+            <w type="VD">支付</w>
+            <w type="Na">運費</w>
+         </s>
+         <s>
+            <w type="Na">意者</w>
+            <w type="VF">請</w>
+            <w type="Na">站內信</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="saroku123 (橄欖綠)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈送</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">電影</w>
+            <w type="Na">文宣</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">北影</w>
+            <w type="Na">金馬</w>
+            <w type="Na">手冊</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

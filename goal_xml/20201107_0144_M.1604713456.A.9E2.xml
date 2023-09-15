@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">kenness1019 (肯尼濕)</metadata>
+      <metadata name="post_id">M.1604713456.A.9E2</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] 總圖b1自習室很熱@ntulibrary</metadata>
+   </teiHeader>
+   <text>
+      <body author="kenness1019 (肯尼濕)">
+         <s>
+            <w type="P">如</w>
+            <w type="VG">題</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VHC">麻煩</w>
+            <w type="Nc">圖書館</w>
+            <w type="VC">處理</w>
+            <w type="Nd">一下</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">感謝</w>
+         </s>
+         <s>
+            <w type="Na">冷氣</w>
+            <w type="V_2">有</w>
+            <w type="P">跟</w>
+            <w type="VJ">沒有</w>
+            <w type="VH">一樣</w>
+         </s>
+      </body>
+      <title author="kenness1019 (肯尼濕)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">總圖</w>
+            <w type="FW">b1</w>
+            <w type="Nc">自習室</w>
+            <w type="Dfa">很</w>
+            <w type="VHC">熱</w>
+            <w type="FW">@ntulibrary</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

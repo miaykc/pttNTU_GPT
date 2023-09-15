@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">aha8877 (Ha)</metadata>
+      <metadata name="post_id">M.1592836852.A.AA8</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[徵求] 普通化學丙暑修欲退選者</metadata>
+   </teiHeader>
+   <text>
+      <body author="aha8877 (Ha)">
+         <s>
+            <w type="VC">徵求</w>
+            <w type="V_2">有</w>
+            <w type="VC">選上</w>
+            <w type="VH">普通</w>
+            <w type="Na">化學</w>
+            <w type="Neu">丙</w>
+            <w type="VC">暑修</w>
+            <w type="Nc">專案班</w>
+            <w type="Cbb">但是</w>
+            <w type="VE">想要</w>
+            <w type="VA">退選</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">大二</w>
+            <w type="Ng">之後</w>
+            <w type="Nc">醫學系</w>
+            <w type="Na">課業</w>
+            <w type="VG">變重</w>
+            <w type="VK">希望</w>
+            <w type="D">可以</w>
+            <w type="D">儘</w>
+         </s>
+         <s>
+            <w type="D">早</w>
+            <w type="VC">修</w>
+            <w type="Di">過</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">酬勞</w>
+            <w type="D">都</w>
+            <w type="D">可以</w>
+            <w type="VE">談</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">拜託</w>
+            <w type="VL">讓</w>
+            <w type="Nh">我</w>
+            <w type="D">能夠</w>
+            <w type="P">把</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">課</w>
+            <w type="D">趕緊</w>
+            <w type="VHC">結束掉</w>
+         </s>
+         <s>
+            <w type="Na">意者</w>
+            <w type="VA">站內信</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">一起</w>
+            <w type="VE">安排</w>
+            <w type="Na">時間</w>
+            <w type="VC">操作</w>
+            <w type="VC">加退</w>
+            <w type="VC">選</w>
+         </s>
+         <s>
+            <w type="VC">拜託</w>
+            <w type="Nh">各位</w>
+            <w type="VH">大大</w>
+         </s>
+      </body>
+      <title author="aha8877 (Ha)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VC">徵求</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">普通</w>
+            <w type="Na">化學</w>
+            <w type="Na">丙</w>
+            <w type="Nd">暑修</w>
+            <w type="VK">欲</w>
+            <w type="VA">退選</w>
+            <w type="Na">者</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

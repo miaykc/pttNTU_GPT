@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">klyuch (Meeko)</metadata>
+      <metadata name="post_id">M.1660481680.A.67D</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 殭屍/問號驚嘆號</metadata>
+   </teiHeader>
+   <text>
+      <body author="klyuch (Meeko)">
+         <s>
+            <w type="D">大概</w>
+            <w type="Neu">20多</w>
+            <w type="Nf">年</w>
+            <w type="Ng">前</w>
+            <w type="VE">看到</w>
+            <w type="DE">的</w>
+            <w type="Na">片</w>
+         </s>
+         <s>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="Na">港片</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="VC">演</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="Na">殭屍</w>
+         </s>
+         <s>
+            <w type="D">然後</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">幕</w>
+            <w type="SHI">是</w>
+            <w type="Na">頭</w>
+            <w type="Ncd">上</w>
+            <w type="V_2">有</w>
+            <w type="Na">問號</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">驚嘆號</w>
+            <w type="WHITESPACE"> </w>
+            <w type="DE">的</w>
+            <w type="Na">圖樣</w>
+            <w type="VA">掉下來</w>
+            <w type="VC">打到</w>
+            <w type="Na">頭</w>
+         </s>
+         <s>
+            <w type="VK">忘記</w>
+            <w type="SHI">是</w>
+            <w type="Nep">哪</w>
+            <w type="Nf">部</w>
+            <w type="T">了</w>
+            <w type="PERIODCATEGORY">...</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VK">知道</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </body>
+      <title author="klyuch (Meeko)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">殭屍</w>
+            <w type="FW">/</w>
+            <w type="Na">問號</w>
+            <w type="Na">驚嘆號</w>
+         </s>
+      </title>
+      <comment author="pttnowash" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VK">知道</w>
+         </s>
+      </comment>
+      <comment author="MAGGIE99" c_type="pos">
+         <s>
+            <w type="Na">電線杆</w>
+            <w type="V_2">有</w>
+            <w type="Na">鬼</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">楊采妮</w>
+            <w type="Nb">吳奇隆</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

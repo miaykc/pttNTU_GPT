@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jumprabbit (曉吐吐)</metadata>
+      <metadata name="post_id">M.1604559454.A.F82</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 一部車站/機場的懸疑/災難片</metadata>
+   </teiHeader>
+   <text>
+      <body author="jumprabbit (曉吐吐)">
+         <s>
+            <w type="D">一</w>
+            <w type="VH">開始</w>
+            <w type="Na">場景</w>
+            <w type="D">好像</w>
+            <w type="P">在</w>
+            <w type="Nc">車站</w>
+            <w type="Caa">或是</w>
+            <w type="Nc">機場</w>
+         </s>
+         <s>
+            <w type="D">突然</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">很多</w>
+            <w type="Na">人</w>
+            <w type="VA">倒下</w>
+            <w type="VH">死掉</w>
+         </s>
+         <s>
+            <w type="Nd">後來</w>
+            <w type="Na">主角</w>
+            <w type="VE">發現</w>
+            <w type="SHI">是</w>
+            <w type="Cbb">因為</w>
+            <w type="Neqa">那些</w>
+            <w type="Na">人</w>
+            <w type="SHI">是</w>
+            <w type="Cbb">因為</w>
+            <w type="VC">接觸</w>
+            <w type="Na">手機</w>
+            <w type="Da">才</w>
+            <w type="VH">這樣</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">和</w>
+            <w type="Neqa">其餘</w>
+            <w type="VC">逃過</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="VC">展開</w>
+            <w type="VH">大</w>
+            <w type="VA">逃亡</w>
+         </s>
+      </body>
+      <title author="jumprabbit (曉吐吐)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Nc">車站</w>
+            <w type="FW">/</w>
+            <w type="Nc">機場</w>
+            <w type="DE">的</w>
+            <w type="VH">懸疑</w>
+            <w type="FW">/</w>
+            <w type="Na">災難片</w>
+         </s>
+      </title>
+      <comment author="Schwarber12" c_type="pos">
+         <s>
+            <w type="Na">科技</w>
+            <w type="Na">浩劫</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="jumprabbit" c_type="neu">
+         <s>
+            <w type="D">沒</w>
+            <w type="Na">錯</w>
+            <w type="SHI">是</w>
+            <w type="Nep">這</w>
+            <w type="Nf">片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="Nf">些</w>
+            <w type="Na">細節</w>
+            <w type="VJ">記錯</w>
+            <w type="Di">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">感謝</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="ppking" c_type="pos">
+         <s>
+            <w type="Nb">史帝芬</w>
+            <w type="Na">金</w>
+            <w type="Na">手機</w>
+            <w type="Na">小說</w>
+            <w type="VC">改編</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

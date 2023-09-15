@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">x21999125x (佴弌)</metadata>
+      <metadata name="post_id">M.1579621969.A.ADA</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 兩對夫妻吵架的電影</metadata>
+   </teiHeader>
+   <text>
+      <body author="x21999125x (佴弌)">
+         <s>
+            <w type="Na">電影</w>
+            <w type="Nd">開頭</w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">個</w>
+            <w type="Na">小孩</w>
+            <w type="VA">吵架</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">對</w>
+            <w type="Na">夫妻</w>
+            <w type="P">到</w>
+            <w type="Nes">另</w>
+            <w type="Neu">一</w>
+            <w type="Nf">對</w>
+            <w type="Na">夫妻</w>
+            <w type="DE">的</w>
+            <w type="Nc">家</w>
+            <w type="Ncd">裡</w>
+            <w type="VE">理論</w>
+         </s>
+         <s>
+            <w type="D">然後</w>
+            <w type="Nep">這</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">對</w>
+            <w type="Na">夫妻</w>
+            <w type="Neqa">整</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+            <w type="D">都</w>
+            <w type="D">在</w>
+            <w type="VA">吵架</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VK">記得</w>
+            <w type="D">有沒有</w>
+            <w type="VC">吵完</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但</w>
+            <w type="Neqa">整</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+            <w type="D">都</w>
+            <w type="P">在</w>
+            <w type="VC">看</w>
+            <w type="Nh">他們</w>
+            <w type="VA">吵架</w>
+         </s>
+      </body>
+      <title author="x21999125x (佴弌)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">兩</w>
+            <w type="Nf">對</w>
+            <w type="Na">夫妻</w>
+            <w type="VA">吵架</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+         </s>
+      </title>
+      <comment author="a9a99" c_type="pos">
+         <s>
+            <w type="D">會不會</w>
+            <w type="SHI">是</w>
+            <w type="Nd">今天</w>
+            <w type="Nh">誰</w>
+            <w type="D">來</w>
+            <w type="VA">晚餐</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="oos" c_type="pos">
+         <s>
+            <w type="Nd">今晚</w>
+            <w type="Nh">誰</w>
+            <w type="VA">當家</w>
+         </s>
+      </comment>
+      <comment author="Hans14" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/ZPX6-4</w>
+            <w type="FW">Bo7XU</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">t</w>
+            <w type="Neu">=</w>
+            <w type="Neu">18</w>
+         </s>
+      </comment>
+      <comment author="a9a99" c_type="pos">
+         <s>
+            <w type="I">喔</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="Cbb">就是</w>
+            <w type="VE">講</w>
+            <w type="Nep">這</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">凱特溫斯蕾</w>
+            <w type="Caa">和</w>
+            <w type="Nb">茱蒂福斯特</w>
+         </s>
+      </comment>
+      <comment author="x21999125x" c_type="neu">
+         <s>
+            <w type="VK">感謝</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">就是</w>
+            <w type="Nd">今晚</w>
+            <w type="Nh">誰</w>
+            <w type="VA">當家</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Carnage</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

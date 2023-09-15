@@ -1,0 +1,733 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">olmtw (支持htc，支持台灣貨)</metadata>
+      <metadata name="post_id">M.1578029811.A.1E3</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] YouBike2.0 公館地區及台大校園15日起試</metadata>
+   </teiHeader>
+   <text>
+      <body author="olmtw (支持htc，支持台灣貨)">
+         <s>
+            <w type="FW">YouBike</w>
+            <w type="Neu">2.0</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">公館</w>
+            <w type="Nc">地區</w>
+            <w type="Caa">及</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">校園</w>
+            <w type="Neu">15日</w>
+            <w type="Ng">起</w>
+            <w type="VC">試辦</w>
+            <w type="Neu">3</w>
+            <w type="Nf">個</w>
+            <w type="Na">月</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">中央社</w>
+            <w type="Na">記者</w>
+            <w type="Nb">陳怡璇</w>
+            <w type="Nc">台北</w>
+            <w type="Nd">3日</w>
+            <w type="VC">電</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Nc">北市</w>
+            <w type="Nc">交通局</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">15日</w>
+            <w type="Ng">起</w>
+            <w type="P">於</w>
+            <w type="Nc">公館</w>
+            <w type="Nc">地區</w>
+            <w type="VC">試辦</w>
+            <w type="FW">You</w>
+            <w type="FW">Bike</w>
+            <w type="Neu">2.0</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VD">提供</w>
+            <w type="Neu">102</w>
+            <w type="Nc">站</w>
+            <w type="Da">共</w>
+            <w type="Da">約</w>
+            <w type="Neu">1800</w>
+            <w type="Nf">個</w>
+            <w type="Na">車柱</w>
+            <w type="Caa">及</w>
+            <w type="Neu">500</w>
+            <w type="Nf">輛</w>
+            <w type="A">新式</w>
+            <w type="A">公共</w>
+            <w type="Na">自行車</w>
+            <w type="VL">讓</w>
+            <w type="Na">民眾</w>
+            <w type="VC">體驗</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">試辦</w>
+            <w type="Neu">3</w>
+            <w type="Nf">個</w>
+            <w type="Na">月</w>
+            <w type="Ng">後</w>
+            <w type="D">再</w>
+            <w type="VE">評估</w>
+         </s>
+         <s>
+            <w type="D">是否</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">市</w>
+            <w type="VC">推動</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台北市</w>
+            <w type="Nc">交通局</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">考量</w>
+            <w type="FW">YouBike</w>
+            <w type="A">現有</w>
+            <w type="Na">系統</w>
+            <w type="P">於</w>
+            <w type="VC">設置</w>
+            <w type="Nc">租賃站</w>
+            <w type="Ng">時</w>
+            <w type="D">需</w>
+            <w type="VC">介接</w>
+            <w type="Na">市電</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">且</w>
+            <w type="VC">設置</w>
+            <w type="D">須</w>
+            <w type="VJ">達</w>
+            <w type="VH">固</w>
+         </s>
+         <s>
+            <w type="VC">定</w>
+            <w type="Na">規模</w>
+            <w type="D">方</w>
+            <w type="VJ">符合</w>
+            <w type="Na">經濟</w>
+            <w type="Na">效益</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">不利</w>
+            <w type="A">後續</w>
+            <w type="VJ">增</w>
+            <w type="Nc">站</w>
+            <w type="VC">擴展</w>
+            <w type="VC">服務</w>
+            <w type="Na">密度</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">為</w>
+            <w type="VD">提供</w>
+            <w type="D">更</w>
+            <w type="VL">便利</w>
+            <w type="DE">的</w>
+            <w type="A">公共</w>
+            <w type="Na">自行車</w>
+            <w type="VC">服務</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">推出</w>
+            <w type="FW">YouBike</w>
+            <w type="Neu">2.0</w>
+            <w type="Na">計畫</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">採</w>
+            <w type="Na">車上機</w>
+            <w type="Caa">及</w>
+            <w type="VH">輕</w>
+            <w type="Na">樁</w>
+            <w type="VC">設計</w>
+            <w type="Na">概念</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">降</w>
+         </s>
+         <s>
+            <w type="VH">低</w>
+            <w type="VC">租賃</w>
+            <w type="Nc">站</w>
+            <w type="VC">設</w>
+            <w type="Nc">站</w>
+            <w type="Na">限制</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">未來</w>
+            <w type="D">將</w>
+            <w type="P">藉由</w>
+            <w type="Na">車體</w>
+            <w type="DE">之</w>
+            <w type="Na">車機</w>
+            <w type="Na">通訊</w>
+            <w type="VG">作為</w>
+            <w type="VD">借還</w>
+            <w type="Na">車輛</w>
+            <w type="DE">的</w>
+            <w type="Nv">操作</w>
+            <w type="Na">平臺</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">除</w>
+            <w type="VJ">具備</w>
+            <w type="Na">文字</w>
+         </s>
+         <s>
+            <w type="VK">顯示</w>
+            <w type="Na">功能</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="VJ">新增</w>
+            <w type="FW">QRcode</w>
+            <w type="VA">掃碼</w>
+            <w type="VD">租</w>
+            <w type="Na">車</w>
+            <w type="VC">服務</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VE">考量</w>
+            <w type="A">既有</w>
+            <w type="Nv">租賃</w>
+            <w type="Na">站點</w>
+            <w type="P">在</w>
+            <w type="Na">捷運</w>
+            <w type="Nc">公館站</w>
+            <w type="Nc">周邊</w>
+            <w type="Nv">使用</w>
+            <w type="Na">情形</w>
+            <w type="Dfa">較</w>
+            <w type="VH">高</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">15日</w>
+            <w type="Ng">起</w>
+            <w type="D">將</w>
+            <w type="VC">試辦</w>
+            <w type="FW">You</w>
+            <w type="DASHCATEGORY">Bike</w>
+            <w type="Neu">2.0</w>
+            <w type="Na">計畫</w>
+            <w type="Neu">3</w>
+            <w type="Nf">個</w>
+         </s>
+         <s>
+            <w type="Na">月</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">範圍</w>
+            <w type="VG">為</w>
+            <w type="Nc">公館</w>
+            <w type="Nc">地區</w>
+            <w type="Caa">及</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">校園</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="A">後續</w>
+            <w type="D">再</w>
+            <w type="VE">評估</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">市</w>
+            <w type="VC">設置</w>
+            <w type="DE">的</w>
+            <w type="VH">可能</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">YouBike</w>
+            <w type="Neu">2.0</w>
+            <w type="Na">系統</w>
+            <w type="D">無法</w>
+            <w type="P">與</w>
+            <w type="A">既有</w>
+            <w type="Na">設備</w>
+            <w type="D">相互</w>
+            <w type="VD">借還</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">為</w>
+            <w type="VK">利於</w>
+            <w type="VC">辨識</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Na">車身</w>
+            <w type="Na">設計</w>
+            <w type="Ncd">上</w>
+            <w type="VC">採取</w>
+            <w type="Na">珍珠白</w>
+            <w type="Caa">及</w>
+            <w type="VH">黃</w>
+         </s>
+         <s>
+            <w type="Na">色</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">車柱</w>
+            <w type="Na">設計</w>
+            <w type="D">則</w>
+            <w type="Da">僅</w>
+            <w type="D">可</w>
+            <w type="VC">停放</w>
+            <w type="Neu">一</w>
+            <w type="Nf">輛</w>
+            <w type="Na">車</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="FW">YouBike</w>
+            <w type="Na">官網</w>
+            <w type="Na">頁籤</w>
+            <w type="Na">項目</w>
+            <w type="Ng">中</w>
+            <w type="VJ">新增</w>
+            <w type="FW">YouBike</w>
+            <w type="Neu">2.0</w>
+            <w type="Na">資訊</w>
+            <w type="VL">讓</w>
+            <w type="VC">使用</w>
+         </s>
+         <s>
+            <w type="Na">者</w>
+            <w type="VH">方便</w>
+            <w type="VC">尋找</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">編輯</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">方沛清</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Neu">1090103</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.cna.com.tw/news/firstnews/202001030061</w>
+            <w type="FW">.aspx</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Google</w>
+            <w type="FW"> Chrome</w>
+            <w type="FW"> on</w>
+            <w type="FW"> Windows</w>
+            <w type="FW"> 10</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Pro</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="FW"> CJhang</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="VC">轉錄</w>
+            <w type="P">至</w>
+            <w type="Na">看板</w>
+            <w type="FW"> NTUST_Talk</w>
+            <w type="FW">                                    01/04</w>
+            <w type="FW"> 00</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">45</w>
+         </s>
+      </body>
+      <title author="olmtw (支持htc，支持台灣貨)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> YouBike</w>
+            <w type="Neu">2.0</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">公館</w>
+            <w type="Nc">地區</w>
+            <w type="Caa">及</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">校園</w>
+            <w type="Nd">15日</w>
+            <w type="Ng">起</w>
+            <w type="VF">試</w>
+         </s>
+      </title>
+      <comment author="dreamgirl" c_type="pos">
+         <s>
+            <w type="VC">壓榨</w>
+            <w type="Na">學生</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">圖利</w>
+            <w type="Na">廠商</w>
+         </s>
+      </comment>
+      <comment author="pipi8696044" c_type="neu">
+         <s>
+            <w type="Nd">以後</w>
+            <w type="Dfa">更</w>
+            <w type="VH">難</w>
+            <w type="VA">停車</w>
+            <w type="Di">了</w>
+            <w type="ETCCATEGORY">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+      <comment author="tom282f3" c_type="pos">
+         <s>
+            <w type="VC">騎</w>
+            <w type="VH">爆</w>
+         </s>
+      </comment>
+      <comment author="MRfridge" c_type="neg">
+         <s>
+            <w type="FW">==</w>
+         </s>
+      </comment>
+      <comment author="lou3612" c_type="neu">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VE">猜</w>
+            <w type="VC">試辦完</w>
+            <w type="D">就</w>
+            <w type="VC">廢</w>
+            <w type="Na">案</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="ringo1999" c_type="pos">
+         <s>
+            <w type="D">為何</w>
+            <w type="Neqa">有</w>
+            <w type="Nf">些</w>
+            <w type="Na">人</w>
+            <w type="P">對於</w>
+            <w type="VC">改變</w>
+            <w type="DE">的</w>
+            <w type="Na">態度</w>
+            <w type="VH">如此</w>
+            <w type="Na">負面</w>
+         </s>
+      </comment>
+      <comment author="kantantantan" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="zone0016" c_type="neu">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Nc">女一</w>
+            <w type="Na">停車位</w>
+            <w type="VH">直接</w>
+            <w type="VC">砍掉</w>
+            <w type="Neu">一</w>
+            <w type="Nf">堆</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">蒸棒</w>
+         </s>
+      </comment>
+      <comment author="zone0016" c_type="neu">
+         <s>
+            <w type="Na">大一女</w>
+            <w type="Nc">附近</w>
+            <w type="DE">的</w>
+            <w type="VA">停車</w>
+            <w type="Na">亂象</w>
+            <w type="D">已經</w>
+            <w type="Dfa">很</w>
+            <w type="VH">嚴重</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">再</w>
+            <w type="VC">砍</w>
+            <w type="Na">車位</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="tom282f3" c_type="pos">
+         <s>
+            <w type="Dk">那</w>
+            <w type="D">怎麼</w>
+            <w type="D">不</w>
+            <w type="VK">怪</w>
+            <w type="Na">大一女</w>
+            <w type="D">不</w>
+            <w type="P">把</w>
+            <w type="Na">草地</w>
+            <w type="VB">讓出來</w>
+            <w type="VC">蓋</w>
+            <w type="Na">停車格</w>
+         </s>
+      </comment>
+      <comment author="electronicyi" c_type="pos">
+         <s>
+            <w type="VA">違停</w>
+            <w type="SHI">是</w>
+            <w type="Na">人</w>
+            <w type="DE">的</w>
+            <w type="Na">素養</w>
+            <w type="Na">問題</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+            <w type="D">沒</w>
+            <w type="V_2">有</w>
+            <w type="FW">You</w>
+            <w type="FW">Bike</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">2.0</w>
+            <w type="D">都</w>
+            <w type="VH">一樣</w>
+         </s>
+      </comment>
+      <comment author="electronicyi" c_type="neu">
+         <s>
+            <w type="VC">推</w>
+            <w type="Neu">2.0</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">捷運站</w>
+            <w type="VCL">到</w>
+            <w type="Nc">系館</w>
+            <w type="Dfa">更</w>
+            <w type="VH">方便</w>
+         </s>
+      </comment>
+      <comment author="skyHuan" c_type="neg">
+         <s>
+            <w type="Ncd">哪裡</w>
+            <w type="Na">負面</w>
+            <w type="FW"> 1.0</w>
+            <w type="Cbb">連</w>
+            <w type="VD">借</w>
+            <w type="D">不</w>
+            <w type="VD">到</w>
+            <w type="VD">還不了</w>
+            <w type="Na">車</w>
+            <w type="D">都</w>
+            <w type="VC">解決不了</w>
+         </s>
+      </comment>
+      <comment author="dreamgirl" c_type="neg">
+         <s>
+            <w type="Neu">500</w>
+            <w type="Na">台</w>
+            <w type="Na">車</w>
+            <w type="VJ">佔</w>
+            <w type="Di">了</w>
+            <w type="Neqa">3%</w>
+            <w type="DE">的</w>
+            <w type="Na">車位</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台大</w>
+            <w type="Na">腳踏車</w>
+            <w type="Da">至少</w>
+            <w type="Neu">5萬</w>
+            <w type="Nf">台</w>
+            <w type="VA">跑</w>
+            <w type="D">不</w>
+            <w type="VA">掉</w>
+         </s>
+      </comment>
+      <comment author="dreamgirl" c_type="neu">
+         <s>
+            <w type="VJ">佔</w>
+            <w type="Na">空間</w>
+            <w type="D">又</w>
+            <w type="VC">解決不了</w>
+            <w type="Na">交通</w>
+            <w type="Na">問題</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">只是</w>
+            <w type="P">被</w>
+            <w type="VG">當</w>
+            <w type="Na">廠商</w>
+            <w type="DE">的</w>
+            <w type="Na">白老鼠</w>
+         </s>
+      </comment>
+      <comment author="dreamgirl" c_type="neu">
+         <s>
+            <w type="Neqa">其他</w>
+            <w type="D">不</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Da">光</w>
+            <w type="D">沒有</w>
+            <w type="VD">給</w>
+            <w type="Nc">台大</w>
+            <w type="Neqa">任何</w>
+            <w type="VJ">優惠</w>
+            <w type="D">就</w>
+            <w type="Dfa">很</w>
+            <w type="D">不</w>
+            <w type="VH">合理</w>
+            <w type="FW">~~</w>
+         </s>
+      </comment>
+      <comment author="dreamgirl" c_type="neu">
+         <s>
+            <w type="Nd">今天</w>
+            <w type="Cbb">如果</w>
+            <w type="V_2">有</w>
+            <w type="Nep">什麼</w>
+            <w type="Neqa">半</w>
+            <w type="Na">小時</w>
+            <w type="VH">免費</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">感覺</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">一點</w>
+            <w type="Na">機會</w>
+         </s>
+      </comment>
+      <comment author="dreamgirl" c_type="neu">
+         <s>
+            <w type="VC">騎</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="Neu">5</w>
+            <w type="Nf">元</w>
+            <w type="Ng">起</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">一</w>
+            <w type="Nf">天</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">堂</w>
+            <w type="Na">課</w>
+            <w type="VCL">來回</w>
+            <w type="Neu">四</w>
+            <w type="Nf">趟</w>
+            <w type="D">就</w>
+            <w type="VC">要</w>
+            <w type="Neu">20</w>
+            <w type="Nf">元</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">一</w>
+            <w type="Na">學期</w>
+            <w type="Neu">2000</w>
+         </s>
+      </comment>
+      <comment author="dreamgirl" c_type="neu">
+         <s>
+            <w type="D">都</w>
+            <w type="D">可以</w>
+            <w type="VH">直接</w>
+            <w type="VC">買</w>
+            <w type="VH">新</w>
+            <w type="Na">車</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="Cascadia" c_type="pos">
+         <s>
+            <w type="VK">期待</w>
+            <w type="Neu">2.0</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">雖然</w>
+            <w type="D">一</w>
+            <w type="VH">開始</w>
+            <w type="Neu">兩</w>
+            <w type="Na">系統</w>
+            <w type="D">不</w>
+            <w type="VH">相容</w>
+            <w type="P">對</w>
+            <w type="Nh">我</w>
+            <w type="D">好像</w>
+            <w type="D">沒</w>
+            <w type="Dfa">太</w>
+            <w type="VH">大</w>
+            <w type="Na">用處</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="oxen" c_type="pos">
+         <s>
+            <w type="Na">定期票</w>
+            <w type="VH">大</w>
+            <w type="VH">勝利</w>
+         </s>
+      </comment>
+      <comment author="oxen" c_type="neu">
+         <s>
+            <w type="Cbb">只是</w>
+            <w type="Nh">我</w>
+            <w type="VK">覺得</w>
+            <w type="D">會</w>
+            <w type="P">被</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">外</w>
+            <w type="Na">人士</w>
+            <w type="VB">借光光</w>
+         </s>
+      </comment>
+      <comment author="CJhang" c_type="pos">
+         <s>
+            <w type="VC">點</w>
+            <w type="Neqa">好多</w>
+            <w type="FW">…https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/RZ4xb</w>
+            <w type="FW">Zu.jpg</w>
+         </s>
+      </comment>
+      <comment author="nutta" c_type="pos">
+         <s>
+            <w type="VC">買</w>
+            <w type="VH">新</w>
+            <w type="Na">車</w>
+            <w type="D">會</w>
+            <w type="P">被</w>
+            <w type="VD">偷</w>
+            <w type="T">啊</w>
+         </s>
+      </comment>
+      <comment author="AllenHuang" c_type="pos">
+         <s>
+            <w type="Dfa">超</w>
+            <w type="VH">划算</w>
+            <w type="Ng">以後</w>
+            <w type="VC">騎</w>
+            <w type="VCL">去</w>
+            <w type="Nc">捷運站</w>
+            <w type="Dfa">超</w>
+            <w type="VH">方便</w>
+         </s>
+      </comment>
+      <comment author="AllenHuang" c_type="pos">
+         <s>
+            <w type="Nh">大家</w>
+            <w type="Na">習慣</w>
+            <w type="Neu">2.0</w>
+            <w type="Ng">之後</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">內</w>
+            <w type="D">就</w>
+            <w type="D">不</w>
+            <w type="VK">需要</w>
+            <w type="Nh">自己</w>
+            <w type="DE">的</w>
+            <w type="Na">腳踏車</w>
+            <w type="T">了</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="thumbb85784" c_type="pos">
+         <s>
+            <w type="Da">光</w>
+            <w type="SHI">是</w>
+            <w type="VJ">省掉</w>
+            <w type="VC">找</w>
+            <w type="Na">車</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">拔</w>
+            <w type="Na">車</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">找</w>
+            <w type="Na">車位</w>
+            <w type="DE">的</w>
+            <w type="Na">時間</w>
+            <w type="D">就</w>
+            <w type="VH">值得</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

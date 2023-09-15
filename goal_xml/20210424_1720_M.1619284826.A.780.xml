@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">kororoDX (軍曹)</metadata>
+      <metadata name="post_id">M.1619284826.A.780</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 滿盈滿盈滿盈滿盈滿盈</metadata>
+   </teiHeader>
+   <text>
+      <body author="kororoDX (軍曹)">
+         <s>
+            <w type="VH">週而復始</w>
+            <w type="Neu">五</w>
+            <w type="Nf">回</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">然</w>
+            <w type="VH">盈滿</w>
+            <w type="DE">之</w>
+            <w type="Na">時</w>
+            <w type="D">便</w>
+            <w type="D">應</w>
+            <w type="VC">廢棄</w>
+         </s>
+      </body>
+      <title author="kororoDX (軍曹)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">滿</w>
+            <w type="VH">盈滿盈滿盈滿盈滿盈</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

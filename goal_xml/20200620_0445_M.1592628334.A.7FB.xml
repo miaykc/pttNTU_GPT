@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">tiffanydodo (透明吉他手)</metadata>
+      <metadata name="post_id">M.1592628334.A.7FB</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] NTU COOL 暫時停止服務 (已恢復)</metadata>
+   </teiHeader>
+   <text>
+      <body author="tiffanydodo (透明吉他手)">
+         <s>
+            <w type="Neu">13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">01 </w>
+            <w type="VC">更新</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">服務</w>
+            <w type="D">已</w>
+            <w type="VHC">恢覆</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">NTU COOL </w>
+            <w type="D">因故</w>
+            <w type="D">暫時</w>
+            <w type="VA">下線</w>
+         </s>
+         <s>
+            <w type="Nh">大家</w>
+            <w type="VH">好</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">今日</w>
+            <w type="FW">NTU COOL</w>
+            <w type="VJ">因應</w>
+            <w type="Nb">博雅</w>
+            <w type="Na">大樓</w>
+            <w type="Nd">下午</w>
+            <w type="Nd">6:</w>
+            <w type="Neu">30</w>
+            <w type="Ng">後</w>
+            <w type="D">即將</w>
+            <w type="VH">停電</w>
+            <w type="P">至</w>
+            <w type="Nd">週一</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">機房</w>
+            <w type="VCL">位於</w>
+            <w type="Nb">博雅</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">進行</w>
+         </s>
+         <s>
+            <w type="VC">備援</w>
+            <w type="Na">資料</w>
+            <w type="DE">的</w>
+            <w type="VC">搬遷</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">稍早</w>
+            <w type="P">在</w>
+            <w type="VC">進行</w>
+            <w type="Na">系統</w>
+            <w type="Nv">設定</w>
+            <w type="Ng">時</w>
+            <w type="VJ">發生</w>
+            <w type="Na">預期</w>
+            <w type="Ng">外</w>
+            <w type="DE">的</w>
+            <w type="Na">錯誤</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">因此</w>
+            <w type="Nd">目前</w>
+            <w type="FW">NTU COOL </w>
+            <w type="D">暫時</w>
+            <w type="VHC">停</w>
+         </s>
+         <s>
+            <w type="VHC">止</w>
+            <w type="VC">服務</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Na">工程師</w>
+            <w type="D">正在</w>
+            <w type="Neqa">全力</w>
+            <w type="VC">處理</w>
+            <w type="Ng">中</w>
+            <w type="Cbb">以</w>
+            <w type="D">儘快</w>
+            <w type="VHC">恢復</w>
+            <w type="Nv">服務</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VG">造成</w>
+            <w type="Nh">大家</w>
+            <w type="DE">的</w>
+            <w type="Na">困擾</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">非常</w>
+            <w type="VK">抱歉</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VC">補充</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">同學</w>
+            <w type="VE">問到</w>
+            <w type="Nd">未來</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">天</w>
+            <w type="DE">的</w>
+            <w type="VH">停機</w>
+            <w type="Na">狀況</w>
+         </s>
+         <s>
+            <w type="Na">詳情</w>
+            <w type="D">可見</w>
+            <w type="FW">NTU COOL </w>
+            <w type="VCL">登入</w>
+            <w type="Na">頁</w>
+            <w type="VE">公告</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">由於</w>
+            <w type="Nb">博雅</w>
+            <w type="Na">大樓</w>
+            <w type="Neu">6/20 18</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">30~6/21</w>
+            <w type="Neqa">全</w>
+            <w type="Nf">天</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="VH">停電</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">COOL </w>
+            <w type="DE">的</w>
+            <w type="Nc">機房</w>
+            <w type="P">在</w>
+            <w type="VH">博雅</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Nd">上</w>
+            <w type="Nf">週</w>
+            <w type="VC">收到</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="VH">停電</w>
+         </s>
+         <s>
+            <w type="DE">的</w>
+            <w type="Na">消息</w>
+            <w type="Ng">後</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">團隊</w>
+            <w type="D">就</w>
+            <w type="VL">開始</w>
+            <w type="VC">規劃</w>
+            <w type="VC">切換</w>
+            <w type="P">至</w>
+            <w type="VC">備援</w>
+            <w type="Nc">機房</w>
+            <w type="DE">的</w>
+            <w type="Neqa">所有</w>
+            <w type="Na">工作</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以免</w>
+            <w type="VL">讓</w>
+            <w type="Na">系統</w>
+            <w type="VH">停機</w>
+            <w type="Da">近</w>
+            <w type="Neu">2</w>
+            <w type="Nf">天</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">由於</w>
+            <w type="D">將</w>
+         </s>
+         <s>
+            <w type="VC">進行</w>
+            <w type="VC">備援</w>
+            <w type="Na">系統</w>
+            <w type="VC">切換</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">預計</w>
+            <w type="P">於</w>
+            <w type="FW"> 6/20 </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nd">週六</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">下午</w>
+            <w type="Neu">4:</w>
+            <w type="Neu">30</w>
+            <w type="FW">~</w>
+            <w type="Neu">7</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">30 </w>
+            <w type="Caa">以及</w>
+            <w type="Neu">6/22 </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nd">週一</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">晚上</w>
+         </s>
+         <s>
+            <w type="Neu">6</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="FW">~</w>
+            <w type="Neu">8</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00 </w>
+            <w type="Ng">之間</w>
+            <w type="VHC">暫停</w>
+            <w type="VC">服務</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VG">造成</w>
+            <w type="Nh">您</w>
+            <w type="DE">的</w>
+            <w type="Nv">不便</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">敬請</w>
+            <w type="VJ">包涵</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">若</w>
+            <w type="Nv">升級</w>
+            <w type="Na">工作</w>
+            <w type="VB">提前</w>
+            <w type="VC">完成</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">系統</w>
+            <w type="D">亦</w>
+            <w type="D">會</w>
+            <w type="VL">提早</w>
+            <w type="VHC">恢復</w>
+            <w type="VC">服務</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </body>
+      <title author="tiffanydodo (透明吉他手)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> NTU COOL </w>
+            <w type="D">暫時</w>
+            <w type="VF">停止</w>
+            <w type="VC">服務</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="D">已</w>
+            <w type="VHC">恢復</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </title>
+      <comment author="mayolane" c_type="neu">
+         <s>
+            <w type="Nc">樓下</w>
+            <w type="VC">噓</w>
+            <w type="D">還</w>
+            <w type="D">沒</w>
+            <w type="VC">考完</w>
+         </s>
+      </comment>
+      <comment author="aquariuschi" c_type="neu">
+         <s>
+            <w type="D">真的</w>
+            <w type="D">還</w>
+            <w type="D">沒</w>
+            <w type="VC">考完</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="pipi8696044" c_type="pos">
+         <s>
+            <w type="D">還</w>
+            <w type="D">沒</w>
+            <w type="VC">看完</w>
+            <w type="Nc">線上</w>
+            <w type="Na">課程</w>
+            <w type="ETCCATEGORY">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+      <comment author="thenolet" c_type="pos">
+         <s>
+            <w type="Nc">樓下</w>
+            <w type="FW">ceiba</w>
+            <w type="VC">嘲諷</w>
+         </s>
+      </comment>
+      <comment author="skyHuan" c_type="neg">
+         <s>
+            <w type="FW">ㄏㄏ</w>
+            <w type="D">真的</w>
+            <w type="D">沒</w>
+            <w type="VC">看過</w>
+            <w type="Nes">每</w>
+            <w type="Nf">週</w>
+            <w type="Da">至少</w>
+            <w type="Neu">一</w>
+            <w type="VH">壞</w>
+            <w type="DE">的</w>
+            <w type="Na">系統</w>
+         </s>
+      </comment>
+      <comment author="tiffanydodo" c_type="neu">
+         <s>
+            <w type="VC">補充</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> 13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">01</w>
+            <w type="D">已</w>
+            <w type="VHC">恢復</w>
+            <w type="VC">服務</w>
+         </s>
+      </comment>
+      <comment author="obviate" c_type="neu">
+         <s>
+            <w type="Nd">現在</w>
+            <w type="D">又</w>
+            <w type="VC">登</w>
+            <w type="D">不</w>
+            <w type="VC">進去</w>
+            <w type="Di">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">想</w>
+            <w type="VH">認真</w>
+            <w type="D">也</w>
+            <w type="VH">不行</w>
+            <w type="FW">ㄇQQ</w>
+         </s>
+      </comment>
+      <comment author="obviate" c_type="neu">
+         <s>
+            <w type="VA">哭哭</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">原來</w>
+            <w type="SHI">是</w>
+            <w type="Da">剛好</w>
+            <w type="D">在</w>
+            <w type="VC">維修</w>
+            <w type="FW">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+      <comment author="donis12345" c_type="pos">
+         <s>
+            <w type="Nes">前</w>
+            <w type="Nd">陣子</w>
+            <w type="VC">看</w>
+            <w type="Na">影片</w>
+            <w type="D">會</w>
+            <w type="FW">lag</w>
+            <w type="Nd">現在</w>
+            <w type="D">又</w>
+            <w type="VC">維修</w>
+         </s>
+      </comment>
+      <comment author="cuteemo" c_type="neg">
+         <s>
+            <w type="VH">乾 </w>
+            <w type="Na">期末考</w>
+            <w type="D">還</w>
+            <w type="D">沒</w>
+            <w type="VC">考完</w>
+            <w type="T">啦</w>
+         </s>
+      </comment>
+      <comment author="AprilMight" c_type="neu">
+         <s>
+            <w type="Cbb">既然</w>
+            <w type="VE">想</w>
+            <w type="P">把</w>
+            <w type="VG">酷</w>
+            <w type="VG">推成</w>
+            <w type="Neu">二</w>
+            <w type="Na">代</w>
+            <w type="Ncd">西靶</w>
+            <w type="Dk">那</w>
+            <w type="Nc">學校</w>
+            <w type="D">該</w>
+            <w type="VC">協助</w>
+            <w type="VC">提高</w>
+            <w type="Na">穩定度</w>
+            <w type="T">吧</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="AprilMight" c_type="neu">
+         <s>
+            <w type="D">早點</w>
+            <w type="VL">讓</w>
+            <w type="Nb">博雅</w>
+            <w type="VC">配合</w>
+            <w type="VC">延後</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">天</w>
+            <w type="VH">停電</w>
+            <w type="VH">如何</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">學生</w>
+            <w type="Na">本位</w>
+            <w type="Na">腦</w>
+         </s>
+      </comment>
+      <comment author="jimmydabang" c_type="pos">
+         <s>
+            <w type="Na">影片</w>
+            <w type="D">其實</w>
+            <w type="D">可以</w>
+            <w type="VC">下載</w>
+            <w type="T">喔</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VB">拉下來</w>
+            <w type="VC">改</w>
+            <w type="FW">mp4</w>
+            <w type="D">就</w>
+            <w type="D">能</w>
+            <w type="VC">播</w>
+            <w type="FW">~</w>
+         </s>
+      </comment>
+      <comment author="yichen860917" c_type="neu">
+         <s>
+            <w type="Nd">現在</w>
+            <w type="D">又</w>
+            <w type="VA">進</w>
+            <w type="D">不</w>
+            <w type="VCL">去</w>
+            <w type="Di">了</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="GanGaMan" c_type="neg">
+         <s>
+            <w type="Nd">現在</w>
+            <w type="Neqa">大半夜</w>
+            <w type="DE">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">還</w>
+            <w type="P">在</w>
+            <w type="VC">維修</w>
+            <w type="T">嗎</w>
+            <w type="WHITESPACE"> </w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

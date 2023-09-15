@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">arsl400 (dark hatter)</metadata>
+      <metadata name="post_id">M.1598795713.A.55D</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[討論] 阿比與阿弟3 爛番茄開盤</metadata>
+   </teiHeader>
+   <text>
+      <body author="arsl400 (dark hatter)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.rottentomatoes.com/m/bill_and_ted_face_the_music</w>
+         </s>
+         <s>
+            <w type="Nd">目前</w>
+            <w type="Na">網路</w>
+            <w type="Ncd">上</w>
+            <w type="Neu">一</w>
+            <w type="Nf">片</w>
+            <w type="Na">好評</w>
+         </s>
+         <s>
+            <w type="D">看來</w>
+            <w type="D">不會</w>
+            <w type="SHI">是</w>
+            <w type="Nep">那</w>
+            <w type="Nf">種</w>
+            <w type="VC">搞砸</w>
+            <w type="Na">類型</w>
+            <w type="DE">的</w>
+            <w type="Na">續集</w>
+         </s>
+         <s>
+            <w type="Nb">基哥</w>
+            <w type="VF">繼續</w>
+            <w type="VA">起飛</w>
+         </s>
+      </body>
+      <title author="arsl400 (dark hatter)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">阿比</w>
+            <w type="Caa">與</w>
+            <w type="Nb">阿弟</w>
+            <w type="Neu">3 </w>
+            <w type="Na">爛番茄</w>
+            <w type="VA">開盤</w>
+         </s>
+      </title>
+      <comment author="CavendishJr" c_type="neu">
+         <s>
+            <w type="Na">喜劇</w>
+            <w type="D">通常</w>
+            <w type="VH">爛蕃茄</w>
+            <w type="Na">評價</w>
+            <w type="D">都</w>
+            <w type="D">不</w>
+            <w type="VH">高</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">所以</w>
+            <w type="D">真的</w>
+            <w type="D">可</w>
+            <w type="VK">期待</w>
+         </s>
+      </comment>
+      <comment author="a21096" c_type="pos">
+         <s>
+            <w type="VK">期待</w>
+         </s>
+      </comment>
+      <comment author="Hoult" c_type="pos">
+         <s>
+            <w type="Nc">台灣</w>
+            <w type="D">會</w>
+            <w type="VCL">上</w>
+            <w type="Na">院線</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="qazxswptt" c_type="neu">
+         <s>
+            <w type="Nes">各</w>
+            <w type="Nf">家</w>
+            <w type="Nc">評分站</w>
+            <w type="Na">喜劇</w>
+            <w type="D">本來</w>
+            <w type="VH">平均</w>
+            <w type="D">就</w>
+            <w type="VH">難</w>
+            <w type="Na">高分</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+            <w type="Nep">這</w>
+            <w type="VH">開局</w>
+            <w type="D">理應</w>
+            <w type="D">不</w>
+            <w type="VH">差</w>
+         </s>
+      </comment>
+      <comment author="spaiwana" c_type="neu">
+         <s>
+            <w type="D">都</w>
+            <w type="VE">講</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">次</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">看</w>
+            <w type="VH">爛番茄</w>
+            <w type="Da">起碼</w>
+            <w type="VC">看</w>
+            <w type="Di">個</w>
+            <w type="VC">均分</w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="D">多</w>
+            <w type="D">不會</w>
+            <w type="VE">查</w>
+            <w type="Na">資料</w>
+         </s>
+      </comment>
+      <comment author="Bigcookie2" c_type="pos">
+         <s>
+            <w type="P">靠</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dfa">好猛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">以為</w>
+            <w type="Nep">這</w>
+            <w type="Nf">片</w>
+            <w type="D">會</w>
+            <w type="VB">砸</w>
+            <w type="Na">鍋</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

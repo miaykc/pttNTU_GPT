@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">lai0672 (黃金會員)</metadata>
+      <metadata name="post_id">M.1588256175.A.99C</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 韓國 警察的電影</metadata>
+   </teiHeader>
+   <text>
+      <body author="lai0672 (黃金會員)">
+         <s>
+            <w type="P">在</w>
+            <w type="Na">臉書</w>
+            <w type="VE">看到</w>
+            <w type="DE">的</w>
+            <w type="Na">短片</w>
+         </s>
+         <s>
+            <w type="Na">內容</w>
+            <w type="SHI">是</w>
+            <w type="Nc">韓國</w>
+            <w type="Na">警察</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Caa">還是</w>
+            <w type="Na">刑警</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Cbb">只要</w>
+            <w type="VC">摸到</w>
+            <w type="Nh">對方</w>
+            <w type="DE">的</w>
+            <w type="Na">身體</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">就</w>
+            <w type="D">會</w>
+            <w type="VK">知道</w>
+            <w type="Nh">對方</w>
+            <w type="V_2">有</w>
+            <w type="VC">犯</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">罪</w>
+         </s>
+         <s>
+            <w type="VE">想</w>
+            <w type="VC">求</w>
+            <w type="Na">片名</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="lai0672 (黃金會員)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問</w>
+            <w type="Na">片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">韓國</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">警察</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+         </s>
+      </title>
+      <comment author="v7q4" c_type="pos">
+         <s>
+            <w type="VH">驚心動魄</w>
+         </s>
+      </comment>
+      <comment author="lai0672" c_type="neu">
+         <s>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="T">耶</w>
+         </s>
+      </comment>
+      <comment author="chris1102" c_type="pos">
+         <s>
+            <w type="Na">韓劇</w>
+            <w type="FW">Memorist</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="MRHAUNG" c_type="pos">
+         <s>
+            <w type="D">如實</w>
+            <w type="VE">陳述</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="taylorking" c_type="pos">
+         <s>
+            <w type="Na">讀心術</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="jojobobo" c_type="pos">
+         <s>
+            <w type="VB">分屍</w>
+            <w type="ETCCATEGORY">H</w>
+         </s>
+      </comment>
+      <comment author="lai0672" c_type="neu">
+         <s>
+            <w type="SHI">是</w>
+            <w type="FW">memorist</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">感謝</w>
+            <w type="VK">感謝</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

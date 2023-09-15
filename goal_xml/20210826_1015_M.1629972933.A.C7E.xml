@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">boss580338 (考上買綠茶請我)</metadata>
+      <metadata name="post_id">M.1629972933.A.C7E</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[失物] 一串鑰匙協尋</metadata>
+   </teiHeader>
+   <text>
+      <body author="boss580338 (考上買綠茶請我)">
+         <s>
+            <w type="Na">物品</w>
+            <w type="Na">名稱</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">鑰匙</w>
+            <w type="Neu">一</w>
+            <w type="Nf">串</w>
+         </s>
+         <s>
+            <w type="VH">遺失</w>
+            <w type="FW">/</w>
+            <w type="VC">拾獲</w>
+            <w type="Na">地點</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">女九舍</w>
+            <w type="Caa">與</w>
+            <w type="VH">小椰林道</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+            <w type="FW">youbike</w>
+            <w type="FW"> 2.0</w>
+         </s>
+         <s>
+            <w type="VH">遺失</w>
+            <w type="FW">/</w>
+            <w type="VC">拾獲</w>
+            <w type="Na">時間</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nd">上午</w>
+            <w type="Neu">11點</w>
+            <w type="VC">還完</w>
+            <w type="Na">腳踏車</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">下午</w>
+            <w type="D">去</w>
+            <w type="VC">看</w>
+            <w type="D">就</w>
+            <w type="VA">消失</w>
+            <w type="Di">了</w>
+         </s>
+         <s>
+            <w type="Na">物品</w>
+            <w type="VC">描述</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Ncd">上面</w>
+            <w type="D">大概</w>
+            <w type="V_2">有</w>
+            <w type="Neu">六</w>
+            <w type="Nf">把</w>
+            <w type="Caa">還是</w>
+            <w type="Neu">五</w>
+            <w type="Nf">把</w>
+            <w type="Na">鑰匙</w>
+            <w type="VC">串</w>
+            <w type="VH">在一起</w>
+         </s>
+         <s>
+            <w type="Nv">聯絡</w>
+            <w type="Na">方式</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">站</w>
+            <w type="Ncd">內</w>
+            <w type="Na">信</w>
+         </s>
+         <s>
+            <w type="Neqa">其他</w>
+            <w type="VE">說明</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="VK">希望</w>
+            <w type="VH">好心</w>
+            <w type="Na">人士</w>
+            <w type="V_2">有</w>
+            <w type="VE">看到</w>
+            <w type="D">可以</w>
+            <w type="VA">站內信</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">因為</w>
+            <w type="Nep">其中</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Nc">宿舍</w>
+            <w type="Na">鑰匙</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">不見</w>
+            <w type="DE">的話</w>
+            <w type="Dfa">有點</w>
+            <w type="VH">難</w>
+            <w type="P">跟</w>
+            <w type="Na">房東</w>
+            <w type="VE">交代</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="VH">順利</w>
+            <w type="VC">找回</w>
+            <w type="VK">願意</w>
+            <w type="VD">提供</w>
+            <w type="Neu">500p</w>
+            <w type="VG">做為</w>
+            <w type="Na">報酬</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </body>
+      <title author="boss580338 (考上買綠茶請我)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">失物</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">串</w>
+            <w type="Na">鑰匙</w>
+            <w type="VC">協尋</w>
+         </s>
+      </title>
+      <comment author="boss580338" c_type="neu">
+         <s>
+            <w type="V_2">有</w>
+            <w type="D">去</w>
+            <w type="VC">找到</w>
+            <w type="A">原本</w>
+            <w type="DE">的</w>
+            <w type="Na">車輛</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="VE">發現</w>
+            <w type="D">已經</w>
+            <w type="D">不</w>
+            <w type="P">在</w>
+            <w type="Na">車籃</w>
+            <w type="Ncd">裡</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="ss8651twtw" c_type="neu">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">天</w>
+            <w type="VC">看看</w>
+            <w type="FW"> ubike</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">失物</w>
+            <w type="VC">招領</w>
+            <w type="D">有</w>
+            <w type="D">沒有</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

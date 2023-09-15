@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">sanandreas (睡衣派對之疆屍入侵)</metadata>
+      <metadata name="post_id">M.1596557246.A.E4E</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[討論] 衛視電影台要播空天獵了</metadata>
+   </teiHeader>
+   <text>
+      <body author="sanandreas (睡衣派對之疆屍入侵)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.fng.tw/scm/view_content.php</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">id</w>
+            <w type="Neu">=</w>
+            <w type="Neu">8774</w>
+         </s>
+         <s>
+            <w type="P">繼</w>
+            <w type="Nes">前</w>
+            <w type="Nd">一陣子</w>
+            <w type="VC">播</w>
+            <w type="Na">戰狼2</w>
+            <w type="Ng">之後</w>
+         </s>
+         <s>
+            <w type="Nc">衛視</w>
+            <w type="Nc">電影台</w>
+            <w type="D">又</w>
+            <w type="D">要</w>
+            <w type="VC">播</w>
+            <w type="VH">英勇</w>
+            <w type="DE">的</w>
+            <w type="Na">人民</w>
+            <w type="Nv">解放</w>
+            <w type="Nc">空軍</w>
+            <w type="Na">電影</w>
+            <w type="VH">空天</w>
+            <w type="VC">獵</w>
+            <w type="Di">了</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="VK">記得</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Na">片</w>
+            <w type="D">好像</w>
+            <w type="V_2">有</w>
+            <w type="Nd">一陣子</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="VH">好不好看</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </body>
+      <title author="sanandreas (睡衣派對之疆屍入侵)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">衛視</w>
+            <w type="Na">電影台</w>
+            <w type="D">要</w>
+            <w type="VC">播</w>
+            <w type="Nb">空天獵</w>
+            <w type="Di">了</w>
+         </s>
+      </title>
+      <comment author="laiyanyi" c_type="neu">
+         <s>
+            <w type="VH">普通</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">擬真度</w>
+            <w type="P">比</w>
+            <w type="FW">Ace</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Combat</w>
+            <w type="D">還</w>
+            <w type="VH">差</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Da">單</w>
+            <w type="Na">垂尾</w>
+            <w type="VC">玩</w>
+            <w type="Na">手術刀</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dfa">有點</w>
+         </s>
+      </comment>
+      <comment author="laiyanyi" c_type="neu">
+         <s>
+            <w type="VC">扯</w>
+         </s>
+      </comment>
+      <comment author="BLUEPAPER" c_type="pos">
+         <s>
+            <w type="Nc">衛視</w>
+            <w type="D">已經</w>
+            <w type="VG">變成</w>
+            <w type="Nc">中國</w>
+            <w type="Na">電影台</w>
+            <w type="T">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">進</w>
+            <w type="DE">的</w>
+            <w type="Na">片子</w>
+            <w type="D">也</w>
+            <w type="VJ">沒</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">部</w>
+            <w type="VH">好看</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="paracase" c_type="pos">
+         <s>
+            <w type="VCL">經過</w>
+            <w type="Neu">34</w>
+            <w type="Nf">年</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">還是</w>
+            <w type="VC">比不過</w>
+            <w type="Neu">1986</w>
+            <w type="DE">的</w>
+            <w type="VC">捍衛</w>
+            <w type="Na">戰士</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

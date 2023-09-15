@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">assassin5566 (刺客5566)</metadata>
+      <metadata name="post_id">M.1674170436.A.F23</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 夫妻詐領保險金的電影</metadata>
+   </teiHeader>
+   <text>
+      <body author="assassin5566 (刺客5566)">
+         <s>
+            <w type="Nh">大家</w>
+            <w type="VH">好</w>
+         </s>
+         <s>
+            <w type="VE">想</w>
+            <w type="VE">請問</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+         </s>
+         <s>
+            <w type="SHI">是</w>
+            <w type="Dfa">很</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">年</w>
+            <w type="Ng">前</w>
+            <w type="P">在</w>
+            <w type="Nc">台北</w>
+            <w type="Na">電影節</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="VC">看</w>
+            <w type="DE">的</w>
+            <w type="Na">歐洲片</w>
+         </s>
+         <s>
+            <w type="Na">劇情</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">對</w>
+            <w type="Na">夫妻</w>
+            <w type="VF">誘騙</w>
+            <w type="VH">年輕</w>
+            <w type="Na">女生</w>
+            <w type="VCL">到</w>
+            <w type="Nc">家</w>
+            <w type="Ncd">中</w>
+            <w type="Nd">後來</w>
+            <w type="VC">製造</w>
+            <w type="VH">死亡</w>
+            <w type="VE">想要</w>
+            <w type="VC">詐領</w>
+            <w type="Na">保險金</w>
+         </s>
+         <s>
+            <w type="D">然後</w>
+            <w type="P">被</w>
+            <w type="Na">保險</w>
+            <w type="Na">調查員</w>
+            <w type="VE">發現</w>
+            <w type="Ng">後</w>
+         </s>
+         <s>
+            <w type="Na">先生</w>
+            <w type="Nh">自己</w>
+            <w type="VC">私吞</w>
+            <w type="Na">理賠金</w>
+            <w type="VC">留下</w>
+            <w type="Na">妻子</w>
+            <w type="VA">跑路</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="assassin5566 (刺客5566)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問</w>
+            <w type="Na">片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">夫妻</w>
+            <w type="VC">詐領</w>
+            <w type="Na">保險金</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">lgng66133 (超音速)</metadata>
+      <metadata name="post_id">M.1676040503.A.0ED</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 2023 英國攝影師協會 入圍名單</metadata>
+   </teiHeader>
+   <text>
+      <body author="lgng66133 (超音速)">
+         <s>
+            <w type="Nep">此</w>
+            <w type="Nc">協會</w>
+            <w type="VJ">入圍</w>
+            <w type="Na">名單</w>
+            <w type="VE">公佈</w>
+            <w type="P">於</w>
+            <w type="Nb">奧斯卡</w>
+            <w type="VJ">入圍</w>
+            <w type="Na">名單</w>
+            <w type="Ng">前</w>
+         </s>
+         <s>
+            <w type="FW">James</w>
+            <w type="FW"> Friend</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">西線</w>
+            <w type="VJ">無</w>
+            <w type="Na">戰事</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="FW">Ben</w>
+            <w type="FW"> Davis</w>
+            <w type="WHITESPACE">   </w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">伊尼舍林</w>
+            <w type="DE">的</w>
+            <w type="Na">女妖</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="FW">Greig</w>
+            <w type="FW"> Fraser</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">蝙蝠俠</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="FW">Mandy</w>
+            <w type="FW"> Walker</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">貓王</w>
+            <w type="Nb">艾維斯</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="FW">Florian</w>
+            <w type="FW"> H</w>
+            <w type="FW">of</w>
+            <w type="FW">fmeister</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">TÁR</w>
+            <w type="Nb">塔爾</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+      </body>
+      <title author="lgng66133 (超音速)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 2023</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">英國</w>
+            <w type="Na">攝影師</w>
+            <w type="Nc">協會</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">入圍</w>
+            <w type="Na">名單</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

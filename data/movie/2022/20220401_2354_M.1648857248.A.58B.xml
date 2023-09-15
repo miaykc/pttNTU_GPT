@@ -1,0 +1,3342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">surenas (無)</metadata>
+      <metadata name="post_id">M.1648857248.A.58B</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 關於啟動原始碼的結局(有雷)</metadata>
+   </teiHeader>
+   <text>
+      <body author="surenas (無)">
+         <s>
+            <w type="Nep">這</w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="VH">老</w>
+            <w type="Na">問題</w>
+            <w type="T">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">不過</w>
+            <w type="Nh">我</w>
+            <w type="Nd">之前</w>
+            <w type="D">沒</w>
+            <w type="VC">看</w>
+            <w type="Di">過</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+         </s>
+         <s>
+            <w type="Nd">最近</w>
+            <w type="VC">看</w>
+            <w type="Di">了</w>
+            <w type="Ng">之後</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">很多</w>
+            <w type="Na">問題</w>
+            <w type="VE">想</w>
+            <w type="VE">請教</w>
+            <w type="Nd">一下</w>
+         </s>
+         <s>
+            <w type="D">已經</w>
+            <w type="V_2">有</w>
+            <w type="VCL">爬過</w>
+            <w type="Nc">精華區</w>
+            <w type="DE">的</w>
+            <w type="Na">文章</w>
+            <w type="WHITESPACE">    </w>
+            <w type="Cbb">不過</w>
+            <w type="D">還是</w>
+            <w type="VE">想</w>
+            <w type="VE">問</w>
+            <w type="Na">板友</w>
+            <w type="VE">確認</w>
+            <w type="Nd">一下</w>
+         </s>
+         <s>
+            <w type="Na">文長</w>
+            <w type="VF">請</w>
+            <w type="VA">見諒</w>
+         </s>
+         <s>
+            <w type="FW">------------</w>
+            <w type="Ncd">以下</w>
+            <w type="V_2">有</w>
+            <w type="Na">結局</w>
+            <w type="Na">雷</w>
+            <w type="FW">-----------------------------</w>
+         </s>
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="Nh">我</w>
+            <w type="V_2">有</w>
+            <w type="VC">講錯</w>
+            <w type="VF">請</w>
+            <w type="VC">指正</w>
+         </s>
+         <s>
+            <w type="Nd">最後</w>
+            <w type="Neu">一</w>
+            <w type="Nf">段</w>
+            <w type="Na">劇情</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Colter</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">已經</w>
+            <w type="VC">找到</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="Na">炸彈</w>
+            <w type="Na">兇手</w>
+         </s>
+         <s>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="Ncd">裡</w>
+            <w type="D">已經</w>
+            <w type="VC">抓到</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="Na">傢伙</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">也</w>
+            <w type="VC">查扣</w>
+            <w type="Di">了</w>
+            <w type="V_2">有</w>
+            <w type="Na">炸彈</w>
+            <w type="DE">的</w>
+            <w type="Na">廂型車</w>
+            <w type="WHITESPACE">    </w>
+            <w type="Na">事件</w>
+            <w type="D">已經</w>
+            <w type="VC">解決</w>
+         </s>
+         <s>
+            <w type="D">然後</w>
+            <w type="FW">Colter</w>
+            <w type="P">跟</w>
+            <w type="FW">Goodwin</w>
+            <w type="VE">說</w>
+            <w type="WHITESPACE">     </w>
+            <w type="Nh">他</w>
+            <w type="VE">想</w>
+            <w type="D">再</w>
+            <w type="VA">回去</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="WHITESPACE">     </w>
+            <w type="Nh">他</w>
+            <w type="D">可以</w>
+            <w type="VC">救</w>
+            <w type="Neqa">全</w>
+            <w type="Na">車</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+         </s>
+         <s>
+            <w type="Nh">他</w>
+            <w type="Cbb">不管</w>
+            <w type="VH">跛腳</w>
+            <w type="Na">博士</w>
+            <w type="P">跟</w>
+            <w type="FW">Goodwin</w>
+            <w type="D">怎麼</w>
+            <w type="VF">勸</w>
+            <w type="Nh">他</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">告訴</w>
+            <w type="Nh">他</w>
+            <w type="VH">真實</w>
+            <w type="Nc">世界</w>
+            <w type="Na">列車</w>
+            <w type="Na">炸彈</w>
+            <w type="D">已經</w>
+            <w type="VH">爆炸</w>
+         </s>
+         <s>
+            <w type="Nd">現在</w>
+            <w type="D">只是</w>
+            <w type="Nh">他</w>
+            <w type="FW">Colter</w>
+            <w type="DE">的</w>
+            <w type="Na">腦</w>
+            <w type="Caa">與</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VH">罹難</w>
+            <w type="Na">者</w>
+            <w type="FW">Sean</w>
+            <w type="DE">的</w>
+            <w type="Na">腦子</w>
+            <w type="VC">做</w>
+            <w type="VC">連結</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Sean</w>
+            <w type="DE">的</w>
+            <w type="Na">腦子</w>
+            <w type="D">還</w>
+            <w type="D">沒有</w>
+            <w type="D">完全</w>
+            <w type="VH">腦死</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="SHI">是</w>
+            <w type="FW">Sean</w>
+            <w type="P">在</w>
+            <w type="D">死</w>
+            <w type="Ng">前</w>
+            <w type="Neu">8</w>
+            <w type="Nf">分鐘</w>
+            <w type="DE">的</w>
+            <w type="Na">記憶</w>
+            <w type="WHITESPACE">   </w>
+            <w type="Nh">他</w>
+            <w type="D">只是</w>
+            <w type="VC">化身</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nh">我</w>
+            <w type="VK">覺得</w>
+            <w type="D">可以</w>
+            <w type="VG">理解成</w>
+            <w type="Na">靈魂</w>
+            <w type="VB">附身</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="VG">成</w>
+            <w type="FW">Sean</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="FW">Sean</w>
+            <w type="Nd">最後</w>
+            <w type="DE">的</w>
+            <w type="VK">回憶</w>
+            <w type="Ng">裡</w>
+            <w type="VC">找</w>
+            <w type="Na">線索</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">所以</w>
+            <w type="Cbb">就算</w>
+            <w type="VC">解除</w>
+            <w type="Di">了</w>
+            <w type="Na">列車</w>
+            <w type="Na">炸彈</w>
+            <w type="D">也</w>
+            <w type="VH">沒有用</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Nep">那</w>
+            <w type="SHI">是</w>
+            <w type="FW">Sean</w>
+            <w type="DE">的</w>
+            <w type="Na">腦子</w>
+            <w type="Ncd">裡</w>
+            <w type="DE">的</w>
+            <w type="VK">回憶</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE">   </w>
+            <w type="D">也</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="P">像</w>
+            <w type="P">在</w>
+            <w type="VA">做夢</w>
+            <w type="VH">一樣</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE">   </w>
+            <w type="D">無法</w>
+            <w type="VC">改變</w>
+            <w type="Na">現實</w>
+         </s>
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="FW">Colter</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="Na">時候</w>
+            <w type="Dfa">非常</w>
+            <w type="VK">堅持</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="D">也</w>
+            <w type="VE">告訴</w>
+            <w type="FW">Goodwin</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="VF">請求</w>
+         </s>
+         <s>
+            <w type="Nd">當時</w>
+            <w type="D">看起來</w>
+            <w type="VG">像是</w>
+            <w type="Na">遺願</w>
+            <w type="WHITESPACE">   </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="VE">想</w>
+            <w type="VHC">結束</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="VH">無盡</w>
+            <w type="Na">循環</w>
+         </s>
+         <s>
+            <w type="Nep">那</w>
+            <w type="D">看起來</w>
+            <w type="D">就</w>
+            <w type="SHI">像是</w>
+            <w type="Nh">他</w>
+            <w type="D">也</w>
+            <w type="VK">喜歡</w>
+            <w type="Nb">克莉絲汀娜</w>
+            <w type="WHITESPACE">    </w>
+            <w type="Cbb">只是</w>
+            <w type="VE">想</w>
+            <w type="P">在</w>
+            <w type="D">死前</w>
+            <w type="VC">做</w>
+            <w type="Di">個</w>
+            <w type="VH">好</w>
+            <w type="Na">夢</w>
+            <w type="DE">的</w>
+            <w type="Na">感覺</w>
+         </s>
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="Nh">他</w>
+            <w type="P">在</w>
+            <w type="Nd">最後</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="VCL">前往</w>
+            <w type="VK">回憶</w>
+            <w type="Ng">裡</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="D">就</w>
+            <w type="VC">拿</w>
+            <w type="Na">手機</w>
+            <w type="VD">發</w>
+            <w type="Di">了</w>
+            <w type="Na">簡訊</w>
+            <w type="VD">給</w>
+            <w type="FW">Goodwin</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="Nd">最後</w>
+            <w type="Na">結局</w>
+            <w type="Ng">時</w>
+            <w type="FW">Good</w>
+            <w type="FW">win</w>
+            <w type="VC">收到</w>
+            <w type="DE">的</w>
+            <w type="Na">訊息</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="WHITESPACE">  </w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="D">其實</w>
+            <w type="SHI">是</w>
+            <w type="V_2">有</w>
+            <w type="Na">目的</w>
+            <w type="VE">想</w>
+            <w type="VA">回去</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">而</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="VE">想</w>
+            <w type="P">在</w>
+            <w type="VHC">結束</w>
+            <w type="Na">生命</w>
+            <w type="Ng">前</w>
+            <w type="P">把</w>
+            <w type="Na">妹</w>
+            <w type="VH">成功</w>
+         </s>
+         <s>
+            <w type="VL">讓</w>
+            <w type="Nh">自己</w>
+            <w type="VH">開心</w>
+            <w type="VC">離開</w>
+            <w type="Nc">人世</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="WHITESPACE">    </w>
+            <w type="Nh">他</w>
+            <w type="SHI">是</w>
+            <w type="D">怎麼</w>
+            <w type="VK">知道</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Nc">世界</w>
+            <w type="P">在</w>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="VC">關掉</w>
+            <w type="Na">開關</w>
+            <w type="Ng">後</w>
+            <w type="D">可以</w>
+            <w type="VJ">延續</w>
+         </s>
+         <s>
+            <w type="Caa">或是</w>
+            <w type="VE">說</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="D">確實</w>
+            <w type="V_2">有</w>
+            <w type="D">在</w>
+            <w type="VE">賭</w>
+            <w type="WHITESPACE">    </w>
+            <w type="Cbb">因為</w>
+            <w type="Neu">兩</w>
+            <w type="Na">人</w>
+            <w type="VA">接吻</w>
+            <w type="DE">的</w>
+            <w type="Nd">同時</w>
+            <w type="FW">Goodwin</w>
+            <w type="VC">關掉</w>
+            <w type="Na">開關</w>
+            <w type="Di">了</w>
+         </s>
+         <s>
+            <w type="D">然後</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="VE">發現</w>
+            <w type="Neu">8</w>
+            <w type="Nf">分鐘</w>
+            <w type="VE">回溯</w>
+            <w type="D">已經</w>
+            <w type="VHC">結束</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="D">卻</w>
+            <w type="D">還</w>
+            <w type="D">能</w>
+            <w type="VJ">親</w>
+            <w type="Nb">克莉絲汀娜</w>
+            <w type="Cbb">並且</w>
+            <w type="VF">繼續</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">劇情</w>
+         </s>
+         <s>
+            <w type="P">從</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">表情</w>
+            <w type="D">來</w>
+            <w type="VC">看</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">應該</w>
+            <w type="VE">說</w>
+            <w type="D">要</w>
+            <w type="VC">看完</w>
+            <w type="Na">電影</w>
+            <w type="Na">結局</w>
+            <w type="D">再</w>
+            <w type="VA">回去</w>
+            <w type="VC">看</w>
+            <w type="Nh">他</w>
+            <w type="Nep">那</w>
+            <w type="Neu">一</w>
+            <w type="Nf">幕</w>
+            <w type="DE">的</w>
+            <w type="Na">表情</w>
+         </s>
+         <s>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="Na">表情</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="FW">""</w>
+            <w type="I">咦</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="D">沒</w>
+            <w type="VH">死</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Nc">世界</w>
+            <w type="DE">的</w>
+            <w type="Na">時間</w>
+            <w type="D">還</w>
+            <w type="P">在</w>
+            <w type="VF">繼續</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">""</w>
+         </s>
+         <s>
+            <w type="Cbb">而是</w>
+            <w type="FW">""</w>
+            <w type="D">真的</w>
+            <w type="VH">成功</w>
+            <w type="T">了</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW"> ""</w>
+            <w type="DE">的</w>
+            <w type="Na">感覺</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="DE">的</w>
+            <w type="Na">表情</w>
+            <w type="D">沒有</w>
+            <w type="VK">驚訝</w>
+            <w type="P">到</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="Na">程度</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">反而</w>
+            <w type="SHI">是</w>
+            <w type="Dfa">有點</w>
+            <w type="P">在</w>
+            <w type="VE">確認</w>
+            <w type="Na">時間</w>
+            <w type="D">還</w>
+            <w type="P">在</w>
+            <w type="VF">繼續</w>
+         </s>
+         <s>
+            <w type="Cbb">而且</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="VD">發</w>
+            <w type="Na">簡訊</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="Dfa">太</w>
+            <w type="VH">順暢</w>
+            <w type="T">了</w>
+            <w type="WHITESPACE">    </w>
+            <w type="Nep">那</w>
+            <w type="VH">明顯</w>
+            <w type="SHI">是</w>
+            <w type="Nh">他</w>
+            <w type="P">在</w>
+            <w type="Neqa">無數</w>
+            <w type="Nf">次</w>
+            <w type="Na">行動</w>
+            <w type="Ng">裡</w>
+            <w type="VB">計畫出來</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="VE">請問</w>
+            <w type="Nd">一下</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+            <w type="VC">看過</w>
+            <w type="Na">原著</w>
+            <w type="Na">小說</w>
+            <w type="DE">的</w>
+            <w type="Na">朋友</w>
+         </s>
+         <s>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="SHI">是</w>
+            <w type="VE">發現</w>
+            <w type="Di">了</w>
+            <w type="Nep">什麼</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">可以</w>
+            <w type="VH">這樣</w>
+            <w type="VA">搞</w>
+            <w type="Di">下去</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">還</w>
+            <w type="VJ">替代</w>
+            <w type="Di">了</w>
+            <w type="FW">Sean</w>
+            <w type="P">把</w>
+            <w type="P">到妹</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="D">怎麼</w>
+            <w type="VE">發現</w>
+            <w type="T">的</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="D">然後</w>
+         </s>
+         <s>
+            <w type="Nd">最後</w>
+            <w type="Na">結尾</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="WHITESPACE">  </w>
+            <w type="FW">Goodwin</w>
+            <w type="VA">上班</w>
+            <w type="Ng">時</w>
+            <w type="VC">收到</w>
+            <w type="Di">了</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="DE">的</w>
+            <w type="Na">簡訊</w>
+         </s>
+         <s>
+            <w type="Na">內容</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Nh">她</w>
+            <w type="Ng">之前</w>
+            <w type="VD">念給</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="DE">的</w>
+            <w type="Neu">一</w>
+            <w type="Nf">段</w>
+            <w type="Na">話</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">列車</w>
+            <w type="Na">炸彈</w>
+            <w type="DE">的</w>
+            <w type="Na">兇手</w>
+            <w type="Na">名字</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="FW">Goodwin</w>
+            <w type="VC">看</w>
+            <w type="Na">簡訊</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="Nh">她</w>
+            <w type="D">已經</w>
+            <w type="VCL">走進</w>
+            <w type="Na">博士</w>
+            <w type="Nc">辦公室</w>
+         </s>
+         <s>
+            <w type="Nd">這時</w>
+            <w type="Na">博士</w>
+            <w type="Caa">跟</w>
+            <w type="Nes">另</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">人</w>
+            <w type="P">在</w>
+            <w type="VA">談話</w>
+            <w type="DE">的</w>
+            <w type="Na">內容</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Nd">早上</w>
+            <w type="DE">的</w>
+            <w type="Na">列車</w>
+            <w type="Na">炸彈案</w>
+            <w type="P">被</w>
+            <w type="VHC">破</w>
+            <w type="T">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">兇手</w>
+            <w type="Na">名字</w>
+            <w type="SHI">是</w>
+            <w type="FW">xxxx</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="PERIODCATEGORY">........</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">結尾</w>
+            <w type="DE">的</w>
+            <w type="Na">時空</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Ncd">裡面</w>
+            <w type="DE">的</w>
+            <w type="FW">Goodwin</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="VC">幫</w>
+            <w type="Di">了</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="VC">關掉</w>
+            <w type="Na">生命</w>
+            <w type="VC">裝置</w>
+            <w type="DE">的</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="FW">"</w>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="FW">"</w>
+            <w type="DE">的</w>
+            <w type="FW">Good</w>
+            <w type="FW">win</w>
+         </s>
+         <s>
+            <w type="Cbb">而是</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="VC">取代</w>
+            <w type="DE">的</w>
+            <w type="FW">Sean</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">腦子</w>
+            <w type="Ncd">裡</w>
+            <w type="DE">的</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="Nh">他</w>
+            <w type="VC">出</w>
+            <w type="Na">任務</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">夢</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="D">還</w>
+            <w type="VE">告訴</w>
+            <w type="Nh">她</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">要</w>
+            <w type="Nh">她</w>
+            <w type="VC">幫忙</w>
+            <w type="FW">Colter</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">並且</w>
+            <w type="VE">告訴</w>
+            <w type="Nh">他</w>
+            <w type="Neqa">一切</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="VH">好</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="PERIODCATEGORY">.....</w>
+            <w type="Na">路線</w>
+            <w type="SHI">是</w>
+            <w type="Ncd">以下</w>
+            <w type="VH">這樣</w>
+            <w type="T">的</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="P">在</w>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="D">已經</w>
+            <w type="VH">腦死</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="P">被</w>
+            <w type="VL">用來</w>
+            <w type="P">跟</w>
+            <w type="FW">Sean</w>
+            <w type="VJ">連接</w>
+            <w type="VCL">進入</w>
+            <w type="FW">Sean</w>
+            <w type="DE">的</w>
+            <w type="Na">腦子</w>
+            <w type="Ncd">裡</w>
+            <w type="VC">找</w>
+            <w type="Na">情報</w>
+         </s>
+         <s>
+            <w type="Nd">最後</w>
+            <w type="VC">解決</w>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="DE">的</w>
+            <w type="Na">炸彈案</w>
+            <w type="WHITESPACE">      </w>
+            <w type="D">然後</w>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="VC">關閉</w>
+            <w type="VB">連線</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">時候</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="DE">的</w>
+            <w type="Na">意識</w>
+            <w type="WHITESPACE">    </w>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="FW">Sean</w>
+            <w type="DE">的</w>
+            <w type="Na">腦子</w>
+            <w type="Ncd">裡</w>
+            <w type="VG">化身成</w>
+            <w type="FW">Sean</w>
+         </s>
+         <s>
+            <w type="P">當</w>
+            <w type="VC">關閉</w>
+            <w type="DE">的</w>
+            <w type="Nd">同時</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="DE">的</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="VH">正式</w>
+            <w type="VH">死亡</w>
+         </s>
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="Cbb">因為</w>
+            <w type="Nh">他</w>
+            <w type="VH">死亡</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">意識</w>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="FW">Sean</w>
+            <w type="Na">腦子</w>
+            <w type="DE">的</w>
+            <w type="Na">時空</w>
+            <w type="Ng">裡</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">所以</w>
+            <w type="VH">斷線</w>
+            <w type="Ng">以後</w>
+            <w type="Nh">他</w>
+            <w type="D">就</w>
+            <w type="VCL">留在</w>
+            <w type="Ncd">那裡</w>
+            <w type="T">了</w>
+         </s>
+         <s>
+            <w type="Na">意識</w>
+            <w type="D">沒有</w>
+            <w type="VA">回來</w>
+            <w type="P">跟</w>
+            <w type="Na">肉體</w>
+            <w type="D">一起</w>
+            <w type="VH">死掉</w>
+         </s>
+         <s>
+            <w type="Cbb">而</w>
+            <w type="Nh">他</w>
+            <w type="VD">發</w>
+            <w type="DE">的</w>
+            <w type="Na">訊息</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="P">給</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="FW">""Sean</w>
+            <w type="Na">腦子</w>
+            <w type="Ncd">裡</w>
+            <w type="DE">的</w>
+            <w type="Na">時空</w>
+            <w type="FW">""</w>
+            <w type="DE">的</w>
+            <w type="FW">Goodwin</w>
+         </s>
+         <s>
+            <w type="VF">請</w>
+            <w type="Nh">她</w>
+            <w type="D">務必</w>
+            <w type="D">要</w>
+            <w type="VC">幫忙</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+            <w type="Ng">裡</w>
+            <w type="DE">的</w>
+            <w type="FW">Colter</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="Nd">一大早</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="DE">的</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="D">已經</w>
+            <w type="VG">化身成</w>
+            <w type="FW">Sean</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nh">他</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="FW">Sean</w>
+            <w type="T">了</w>
+            <w type="T">啦</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="VC">解決</w>
+            <w type="Di">了</w>
+            <w type="Na">火車</w>
+            <w type="Na">炸彈案</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">所以</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+            <w type="Ng">裡</w>
+            <w type="D">已經</w>
+            <w type="VJ">沒有</w>
+            <w type="Na">火車</w>
+            <w type="VH">爆炸</w>
+            <w type="P">跟</w>
+            <w type="Neu">第二</w>
+            <w type="Nf">次</w>
+            <w type="Nc">芝加哥</w>
+            <w type="VH">爆炸</w>
+         </s>
+         <s>
+            <w type="Dk">也就是說</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+            <w type="Ng">裡</w>
+            <w type="DE">的</w>
+            <w type="Na">植物人</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="Nd">目前</w>
+            <w type="D">會</w>
+            <w type="VJ">無</w>
+            <w type="Na">案</w>
+            <w type="D">可</w>
+            <w type="VC">辦</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="D">也</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Na">博士</w>
+            <w type="VE">說</w>
+            <w type="DE">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">等</w>
+            <w type="Nes">下</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="V_2">有</w>
+            <w type="VC">出</w>
+            <w type="Neqa">任何</w>
+            <w type="VH">危險</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Nh">我們</w>
+            <w type="VJ">發揮</w>
+            <w type="Na">功用</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="Nd">最後</w>
+            <w type="Nep">那</w>
+            <w type="Nf">段</w>
+            <w type="Na">話</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">說</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">原始碼</w>
+            <w type="V_2">有</w>
+            <w type="VH">強大</w>
+            <w type="DE">的</w>
+            <w type="Na">力量</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">你們</w>
+            <w type="VE">以為</w>
+            <w type="Nh">你們</w>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="VE">回溯</w>
+            <w type="Neu">8</w>
+            <w type="Nf">分鐘</w>
+         </s>
+         <s>
+            <w type="VH">實際</w>
+            <w type="Ng">上</w>
+            <w type="Nh">你們</w>
+            <w type="VC">打開</w>
+            <w type="Di">了</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VH">新世界</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">段</w>
+            <w type="Na">話</w>
+            <w type="DE">的</w>
+            <w type="Na">意思</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="VE">說</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">博士</w>
+            <w type="VE">認為</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">人</w>
+            <w type="DE">的</w>
+            <w type="Na">大腦</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VC">暫存</w>
+            <w type="Nc">區域</w>
+            <w type="VK">記住</w>
+            <w type="Nes">近</w>
+            <w type="Neu">8</w>
+            <w type="Nf">分鐘</w>
+            <w type="DE">的</w>
+            <w type="Na">資訊</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Nv">研究</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="VC">利用</w>
+            <w type="Na">腦子</w>
+            <w type="Na">頻率</w>
+            <w type="VH">相近</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="VA">進去</w>
+         </s>
+         <s>
+            <w type="VG">等於</w>
+            <w type="SHI">是</w>
+            <w type="FW">""</w>
+            <w type="VC">讀取</w>
+            <w type="FW">"" </w>
+            <w type="Nep">這</w>
+            <w type="Neu">8</w>
+            <w type="Nf">分鐘</w>
+            <w type="DE">的</w>
+            <w type="Na">記憶</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE">   </w>
+            <w type="Cbb">因為</w>
+            <w type="Nh">我們</w>
+            <w type="Na">眼睛</w>
+            <w type="VE">看到</w>
+         </s>
+         <s>
+            <w type="Na">耳朵</w>
+            <w type="VC">接收</w>
+            <w type="DE">的</w>
+            <w type="Na">資訊</w>
+            <w type="D">其實</w>
+            <w type="Dfa">遠</w>
+            <w type="VJ">超過</w>
+            <w type="Nh">我們</w>
+            <w type="VK">想像</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">只是</w>
+            <w type="Nh">我們</w>
+            <w type="Na">腦子</w>
+            <w type="P">在</w>
+            <w type="D">當下</w>
+            <w type="Da">只</w>
+            <w type="D">會</w>
+            <w type="VC">截取</w>
+            <w type="Na">需要</w>
+            <w type="DE">的</w>
+            <w type="Neqa">部分</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VK">需要</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="VC">略過</w>
+            <w type="WHITESPACE">  </w>
+            <w type="Cbb">而</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="FW">"</w>
+            <w type="VB">附身</w>
+            <w type="FW">"</w>
+            <w type="VH">一樣</w>
+            <w type="DE">的</w>
+            <w type="Na">動作</w>
+            <w type="VA">進去</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="VCL">去</w>
+            <w type="Ncd">裡面</w>
+            <w type="FW">""</w>
+            <w type="VC">讀取</w>
+            <w type="FW">"</w>
+            <w type="Neqa">這些</w>
+            <w type="Na">資訊</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="VC">重覆</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">會</w>
+            <w type="VC">找到</w>
+            <w type="Nd">當時</w>
+            <w type="DE">的</w>
+            <w type="VH">重要</w>
+            <w type="Na">情報</w>
+         </s>
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="VE">發現</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Na">人</w>
+            <w type="DE">的</w>
+            <w type="Na">意識</w>
+            <w type="Ncd">裡面</w>
+            <w type="D">其實</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Nc">世界</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+         </s>
+         <s>
+            <w type="Na">常態</w>
+            <w type="Na">狀態</w>
+            <w type="Ng">下</w>
+            <w type="Nh">我們</w>
+            <w type="Ncd">外部</w>
+            <w type="DE">的</w>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">跟</w>
+            <w type="Na">意識</w>
+            <w type="Nc">世界</w>
+            <w type="SHI">是</w>
+            <w type="D">完全</w>
+            <w type="VH">一樣</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="Na">博士</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">原始碼</w>
+            <w type="VE">研究</w>
+            <w type="WHITESPACE">   </w>
+            <w type="VCL">進入</w>
+            <w type="Di">了</w>
+            <w type="Na">意識</w>
+            <w type="Nc">世界</w>
+         </s>
+         <s>
+            <w type="Na">博士</w>
+            <w type="D">一直</w>
+            <w type="VE">認為</w>
+            <w type="Nep">這</w>
+            <w type="D">就</w>
+            <w type="P">跟</w>
+            <w type="D">去</w>
+            <w type="VC">調</w>
+            <w type="Na">大樓</w>
+            <w type="DE">的</w>
+            <w type="VC">監視</w>
+            <w type="Na">錄影機</w>
+            <w type="DE">的</w>
+            <w type="Na">畫面</w>
+            <w type="VH">一樣</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="VH">實際</w>
+            <w type="Ng">上</w>
+            <w type="Nh">他</w>
+            <w type="SHI">是</w>
+            <w type="VCL">進入</w>
+            <w type="Na">意識</w>
+            <w type="Na">時空</w>
+            <w type="WHITESPACE">    </w>
+            <w type="Cbb">所以</w>
+            <w type="D">其實</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="D">最好</w>
+            <w type="D">不要</w>
+            <w type="VC">改變</w>
+            <w type="Ncd">裡面</w>
+            <w type="DE">的</w>
+            <w type="Na">事情</w>
+            <w type="VH">太多</w>
+         </s>
+         <s>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="VC">做</w>
+            <w type="DE">的</w>
+            <w type="Na">事</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">哪怕</w>
+            <w type="P">在</w>
+            <w type="Ncd">裡面</w>
+            <w type="VA">殺人</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">都</w>
+            <w type="VJ">影響不了</w>
+            <w type="Na">博士</w>
+            <w type="DE">的</w>
+            <w type="Na">現實</w>
+            <w type="Na">時空</w>
+         </s>
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="Na">博士</w>
+            <w type="P">用</w>
+            <w type="Nep">這</w>
+            <w type="Nf">種</w>
+            <w type="Na">方式</w>
+            <w type="VCL">進入</w>
+            <w type="Na">意識</w>
+            <w type="Na">時空</w>
+            <w type="Ng">裡</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">其實</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">種</w>
+            <w type="VJ">擾亂</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">跟</w>
+            <w type="Nh">他</w>
+            <w type="VE">認為</w>
+            <w type="DE">的</w>
+            <w type="VC">讀取</w>
+            <w type="Na">記憶</w>
+            <w type="D">並</w>
+            <w type="VH">不同</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="Na">火車</w>
+            <w type="D">會</w>
+            <w type="VH">爆炸</w>
+            <w type="DE">的</w>
+            <w type="Na">前提</w>
+            <w type="Ng">之下</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="P">在</w>
+            <w type="Ncd">裡面</w>
+            <w type="D">幹嘛</w>
+            <w type="D">都</w>
+            <w type="D">可以</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">亂</w>
+            <w type="VC">打</w>
+            <w type="Na">乘客</w>
+            <w type="D">也</w>
+            <w type="VH">行</w>
+         </s>
+         <s>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Na">火車版</w>
+            <w type="DE">的</w>
+            <w type="Na">俠盜獵車手</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但是</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">前提</w>
+            <w type="SHI">是</w>
+            <w type="Na">火車</w>
+            <w type="D">會</w>
+            <w type="VC">炸</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">車</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="D">其實</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="VH">死</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="P">當</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="D">真的</w>
+            <w type="VC">解決</w>
+            <w type="Na">列車</w>
+            <w type="Na">炸彈</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">就</w>
+            <w type="VH">確確實實</w>
+            <w type="VC">影響</w>
+            <w type="Di">了</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+            <w type="DE">的</w>
+            <w type="Nd">未來</w>
+         </s>
+         <s>
+            <w type="VH">直接</w>
+            <w type="VK">造成</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+            <w type="Ng">裡</w>
+            <w type="DE">的</w>
+            <w type="Na">植物人</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="VJ">沒有</w>
+            <w type="Na">機會</w>
+            <w type="VA">出場</w>
+         </s>
+         <s>
+            <w type="Nh">他</w>
+            <w type="Cbb">之所以</w>
+            <w type="D">要</w>
+            <w type="VC">留</w>
+            <w type="Nep">這</w>
+            <w type="Nf">段</w>
+            <w type="Na">訊息</w>
+            <w type="VD">給</w>
+            <w type="FW">Good</w>
+            <w type="FW">win</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="Nh">他</w>
+            <w type="D">已經</w>
+            <w type="VE">發現</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">狀況</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="Neqa">無數</w>
+            <w type="Nf">次</w>
+            <w type="VC">重覆</w>
+            <w type="DE">的</w>
+            <w type="Na">過程</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">立場</w>
+            <w type="D">要</w>
+            <w type="VC">解決</w>
+            <w type="Nep">這</w>
+            <w type="Na">案子</w>
+            <w type="D">已經</w>
+            <w type="Dfa">很</w>
+            <w type="VH">簡單</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">可以</w>
+            <w type="VH">無限</w>
+            <w type="VA">接關</w>
+            <w type="T">嘛</w>
+         </s>
+         <s>
+            <w type="D">遲早</w>
+            <w type="D">會</w>
+            <w type="VC">找到</w>
+            <w type="Na">兇手</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但是</w>
+            <w type="Nh">他</w>
+            <w type="P">在</w>
+            <w type="Nes">每</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="VH">失敗</w>
+            <w type="Caa">跟</w>
+            <w type="VH">重來</w>
+            <w type="DE">的</w>
+            <w type="Na">過程</w>
+            <w type="Ng">中</w>
+         </s>
+         <s>
+            <w type="D">其實</w>
+            <w type="V_2">有</w>
+            <w type="Na">可能</w>
+            <w type="D">會</w>
+            <w type="VC">創造出</w>
+            <w type="Neqa">其他</w>
+            <w type="DE">的</w>
+            <w type="VH">平行</w>
+            <w type="Na">時空</w>
+         </s>
+         <s>
+            <w type="VA">舉例</w>
+            <w type="D">來</w>
+            <w type="VE">說</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="Caa">跟</w>
+            <w type="Nb">克莉絲汀娜</w>
+            <w type="D">都</w>
+            <w type="P">被</w>
+            <w type="Na">兇手</w>
+            <w type="P">在</w>
+            <w type="Nc">停車場</w>
+            <w type="VC">槍殺</w>
+            <w type="DE">的</w>
+            <w type="Nep">那</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+         </s>
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="Nb">克莉絲汀娜</w>
+            <w type="D">沒有</w>
+            <w type="P">跟</w>
+            <w type="Nd">過去</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">然後</w>
+            <w type="Cbb">只有</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="P">被</w>
+            <w type="VC">槍殺</w>
+         </s>
+         <s>
+            <w type="Dk">那麼</w>
+            <w type="D">是否</w>
+            <w type="D">會</w>
+            <w type="VC">創造出</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">炸彈</w>
+            <w type="VH">爆炸</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">火車</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="D">依然</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="VH">死</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但</w>
+            <w type="Da">唯獨</w>
+            <w type="Nb">克莉絲汀娜</w>
+            <w type="VH">活</w>
+            <w type="Di">著</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">種</w>
+            <w type="VH">平行</w>
+            <w type="Na">時空</w>
+            <w type="T">呢</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nh">他</w>
+            <w type="P">被</w>
+            <w type="Na">火車</w>
+            <w type="VC">壓死</w>
+            <w type="Nep">那</w>
+            <w type="Neu">一</w>
+            <w type="Nf">段</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">克莉絲汀娜</w>
+            <w type="SHI">是</w>
+            <w type="VH">活</w>
+            <w type="Di">著</w>
+            <w type="T">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但</w>
+            <w type="Na">火車</w>
+            <w type="D">還是</w>
+            <w type="VC">炸</w>
+            <w type="Di">了</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="SHI">是</w>
+            <w type="D">已經</w>
+            <w type="VK">查覺到</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">狀況</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="VD">傳</w>
+            <w type="Na">簡訊</w>
+            <w type="VD">給</w>
+            <w type="FW">Goodwin</w>
+            <w type="SHI">是</w>
+            <w type="D">要</w>
+         </s>
+         <s>
+            <w type="VC">救</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+            <w type="Ng">裡</w>
+            <w type="DE">的</w>
+            <w type="Nh">自己</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">不然</w>
+            <w type="D">當</w>
+            <w type="Nes">下</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="Na">案件</w>
+            <w type="VJ">發生</w>
+            <w type="Ng">時</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+            <w type="DE">的</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="D">會</w>
+            <w type="P">被</w>
+            <w type="VC">啟動</w>
+         </s>
+         <s>
+            <w type="D">然後</w>
+            <w type="VC">完成</w>
+            <w type="Na">任務</w>
+            <w type="Ng">後</w>
+            <w type="P">被</w>
+            <w type="VC">消去</w>
+            <w type="Na">記憶</w>
+            <w type="VC">重置</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="D">永遠</w>
+            <w type="D">也</w>
+            <w type="VH">死不了</w>
+            <w type="D">永遠</w>
+            <w type="D">都</w>
+            <w type="P">在</w>
+            <w type="VC">重覆</w>
+            <w type="VC">解決</w>
+            <w type="VH">不同</w>
+            <w type="DE">的</w>
+            <w type="Na">案子</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="Nh">他</w>
+            <w type="VF">請</w>
+            <w type="FW">Goodwin</w>
+            <w type="D">要</w>
+            <w type="P">對</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+            <w type="DE">的</w>
+            <w type="Nh">自己</w>
+            <w type="VE">說</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">"</w>
+            <w type="Neqa">一切</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="VH">好</w>
+            <w type="T">的</w>
+            <w type="FW">"</w>
+         </s>
+         <s>
+            <w type="D">就是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="VK">相信</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+            <w type="DE">的</w>
+            <w type="Nh">自己</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">會</w>
+            <w type="Cbb">因為</w>
+            <w type="Nep">這</w>
+            <w type="Nf">句</w>
+            <w type="Na">話</w>
+            <w type="VHC">振作</w>
+            <w type="Di">起來</w>
+            <w type="VC">找到</w>
+            <w type="VC">脫離</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Nc">地獄</w>
+            <w type="VJ">獲得</w>
+            <w type="VH">幸福</w>
+            <w type="DE">的</w>
+            <w type="Na">方法</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="Nh">他</w>
+            <w type="D">就是</w>
+            <w type="Cbb">因為</w>
+            <w type="Nep">這</w>
+            <w type="Nf">句</w>
+            <w type="Na">話</w>
+            <w type="VHC">振作</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="VC">寫</w>
+            <w type="Di">了</w>
+            <w type="Neu">一</w>
+            <w type="VH">大</w>
+            <w type="Nf">堆</w>
+            <w type="WHITESPACE">   </w>
+            <w type="Nh">我</w>
+            <w type="SHI">是</w>
+            <w type="VE">想</w>
+            <w type="VE">問</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="Ncd">上面</w>
+            <w type="VH">這樣</w>
+            <w type="DE">的</w>
+            <w type="VC">解讀</w>
+            <w type="V_2">有</w>
+            <w type="D">沒有</w>
+            <w type="Na">錯</w>
+         </s>
+         <s>
+            <w type="D">還是</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE">    </w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">請問</w>
+            <w type="V_2">有</w>
+            <w type="VC">看過</w>
+            <w type="Na">小說</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">原著</w>
+            <w type="Ng">裡</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="SHI">是</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">時候</w>
+            <w type="VE">發現</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">如何</w>
+            <w type="VE">發現</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="Neqa">整</w>
+            <w type="Nf">個</w>
+            <w type="Na">過程</w>
+            <w type="WHITESPACE">   </w>
+            <w type="Caa">以及</w>
+            <w type="VE">發現</w>
+            <w type="Na">解法</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="Nep">這</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">意識</w>
+            <w type="Ng">裡</w>
+            <w type="DE">的</w>
+            <w type="VH">平行</w>
+            <w type="Na">時空</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dk">那麼</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="D">就</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="VCL">進入</w>
+            <w type="FW">Sean</w>
+            <w type="DE">的</w>
+            <w type="Na">腦子</w>
+            <w type="Ncd">裡</w>
+            <w type="VC">讀取</w>
+            <w type="Na">記憶</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="Cbb">就算</w>
+            <w type="Cbb">連</w>
+            <w type="FW">Sean</w>
+            <w type="DE">的</w>
+            <w type="Na">腦子</w>
+            <w type="D">也</w>
+            <w type="P">被</w>
+            <w type="VC">關閉</w>
+            <w type="VH">死亡</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">其實</w>
+            <w type="D">並</w>
+            <w type="D">沒有</w>
+            <w type="VC">影響</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="VC">贏回</w>
+            <w type="Di">了</w>
+            <w type="VH">新</w>
+            <w type="Na">人生</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="DE">的</w>
+            <w type="Na">腦子</w>
+            <w type="Caa">與</w>
+            <w type="FW">Sean</w>
+            <w type="DE">的</w>
+            <w type="Na">腦子</w>
+            <w type="Na">同步率</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">只是</w>
+            <w type="VL">用來</w>
+            <w type="VL">讓</w>
+            <w type="Nh">他</w>
+            <w type="VCL">進入</w>
+            <w type="FW">Sean</w>
+            <w type="Na">腦子</w>
+            <w type="DE">的</w>
+            <w type="Na">基礎</w>
+         </s>
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="Nh">他</w>
+            <w type="D">其實</w>
+            <w type="VCL">進入</w>
+            <w type="FW">Sean</w>
+            <w type="DE">的</w>
+            <w type="Na">腦子</w>
+            <w type="Ng">以後</w>
+         </s>
+         <s>
+            <w type="D">並</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="VC">讀取</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">而是</w>
+            <w type="P">藉由</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="FW">"</w>
+            <w type="Na">記憶</w>
+            <w type="Nc">區域</w>
+            <w type="FW">"</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">去</w>
+            <w type="VCL">進入</w>
+            <w type="Na">意識</w>
+            <w type="VH">平行</w>
+            <w type="Na">時空</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="FW">Sean</w>
+            <w type="DE">的</w>
+            <w type="Na">腦子</w>
+            <w type="D">其實</w>
+            <w type="Da">只</w>
+            <w type="SHI">是</w>
+            <w type="Nf">個</w>
+            <w type="Na">通道</w>
+            <w type="T">而已</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="VH">這樣</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="P">以</w>
+            <w type="Na">腦洞</w>
+            <w type="VC">大開</w>
+            <w type="DE">的</w>
+            <w type="Na">時空</w>
+            <w type="Na">理論</w>
+            <w type="D">來</w>
+            <w type="VC">看</w>
+         </s>
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="A">原來</w>
+            <w type="Na">博士</w>
+            <w type="Nep">什麼</w>
+            <w type="D">都</w>
+            <w type="D">沒有</w>
+            <w type="VC">做</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dk">那麼</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Na">列車</w>
+            <w type="Na">炸彈</w>
+            <w type="VH">爆炸</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">然後</w>
+            <w type="Nc">芝加哥</w>
+            <w type="Na">炸彈</w>
+            <w type="D">也</w>
+            <w type="D">會</w>
+            <w type="VC">炸</w>
+         </s>
+         <s>
+            <w type="D">就</w>
+            <w type="D">完全</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Na">直線</w>
+            <w type="DE">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="P">跟</w>
+            <w type="Na">意識</w>
+            <w type="Nc">世界</w>
+            <w type="VH">同步</w>
+         </s>
+         <s>
+            <w type="P">當</w>
+            <w type="Na">博士</w>
+            <w type="VC">開啟</w>
+            <w type="Di">了</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">原始碼</w>
+            <w type="VE">回溯</w>
+            <w type="Na">任務</w>
+            <w type="Ng">後</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">其實</w>
+            <w type="VC">開啟</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="VH">平行</w>
+            <w type="Nc">世界</w>
+            <w type="VH">無限</w>
+            <w type="VHC">增加</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="WHITESPACE">  </w>
+            <w type="Na">現實</w>
+            <w type="Na">世界</w>
+            <w type="VF">派</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="VC">找</w>
+            <w type="Na">炸彈客</w>
+            <w type="FW">---</w>
+            <w type="VC">找到</w>
+            <w type="D">就</w>
+            <w type="VA">回來</w>
+            <w type="D">別</w>
+            <w type="VC">做</w>
+            <w type="A">多餘</w>
+            <w type="DE">的</w>
+            <w type="Na">事</w>
+         </s>
+         <s>
+            <w type="Nh">他</w>
+            <w type="VCL">去</w>
+            <w type="Na">意識</w>
+            <w type="Nc">世界</w>
+            <w type="VC">找到</w>
+            <w type="Na">炸彈客</w>
+            <w type="Ng">後</w>
+            <w type="VCL">回到</w>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="P">被</w>
+            <w type="VC">重置</w>
+            <w type="FW">---</w>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="VC">解決</w>
+            <w type="Neu">第二</w>
+            <w type="Nf">件</w>
+            <w type="Na">爆炸案</w>
+         </s>
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="Na">意識</w>
+            <w type="Nc">世界</w>
+            <w type="Ncd">裡</w>
+            <w type="DE">的</w>
+            <w type="Na">列車</w>
+            <w type="Na">炸彈</w>
+            <w type="D">依然</w>
+            <w type="D">會</w>
+            <w type="VC">炸</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">因為</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="D">只是</w>
+            <w type="VC">找到</w>
+            <w type="Na">炸彈客</w>
+            <w type="D">就</w>
+            <w type="VA">閃</w>
+            <w type="Na">人</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="Na">意識</w>
+            <w type="Nc">世界</w>
+            <w type="D">也</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+            <w type="Na">博士</w>
+            <w type="VL">開始</w>
+            <w type="VC">啟動</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Nc">世界</w>
+            <w type="DE">的</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="VF">繼續</w>
+            <w type="VC">找</w>
+            <w type="Na">炸彈客</w>
+         </s>
+         <s>
+            <w type="D">就</w>
+            <w type="VH">這樣</w>
+            <w type="D">一直</w>
+            <w type="VF">繼續</w>
+            <w type="Di">下去</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">出現</w>
+            <w type="Nes">下</w>
+            <w type="Neu">一</w>
+            <w type="Nf">層</w>
+            <w type="DE">的</w>
+            <w type="Na">意識</w>
+            <w type="Nc">世界</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">再</w>
+            <w type="Nes">下</w>
+            <w type="Neu">一</w>
+            <w type="Nf">層</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">再</w>
+            <w type="Nes">下</w>
+            <w type="Neu">一</w>
+            <w type="Nf">層</w>
+         </s>
+         <s>
+            <w type="Cbb">而</w>
+            <w type="Cbb">如果</w>
+            <w type="Na">現實</w>
+            <w type="FW">Goodwin</w>
+            <w type="D">沒有</w>
+            <w type="VC">幫助</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">而是</w>
+            <w type="P">把</w>
+            <w type="Nh">他</w>
+            <w type="VC">重置</w>
+         </s>
+         <s>
+            <w type="Dk">那麼</w>
+            <w type="Na">博士</w>
+            <w type="D">就</w>
+            <w type="D">會</w>
+            <w type="P">用</w>
+            <w type="Nh">他</w>
+            <w type="VF">繼續</w>
+            <w type="VC">解決</w>
+            <w type="Nes">下</w>
+            <w type="Neu">一</w>
+            <w type="Nf">件</w>
+            <w type="Na">案子</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="D">就是</w>
+            <w type="Nes">每</w>
+            <w type="Neu">一</w>
+            <w type="Nf">件</w>
+            <w type="Na">案子</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="VC">製造出</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VH">平行</w>
+            <w type="Na">時空</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">而且</w>
+            <w type="D">還是</w>
+            <w type="D">不斷</w>
+            <w type="VC">下</w>
+            <w type="Neu">一</w>
+            <w type="Nf">層</w>
+            <w type="Nes">下</w>
+            <w type="Neu">一</w>
+            <w type="Nf">層</w>
+         </s>
+         <s>
+            <w type="D">其實</w>
+            <w type="D">會</w>
+            <w type="VK">造成</w>
+            <w type="Na">時空</w>
+            <w type="VH">大</w>
+            <w type="VH">混亂</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="FW">Goodwin</w>
+            <w type="D">看起來</w>
+            <w type="Nd">一時</w>
+            <w type="D">不</w>
+            <w type="VK">忍心</w>
+            <w type="Cbb">而</w>
+            <w type="VC">幫助</w>
+            <w type="Di">了</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">並且</w>
+            <w type="VL">讓</w>
+            <w type="Nh">他</w>
+            <w type="VH">死亡</w>
+         </s>
+         <s>
+            <w type="D">其實</w>
+            <w type="SHI">是</w>
+            <w type="VE">避免</w>
+            <w type="D">可能</w>
+            <w type="D">會</w>
+            <w type="VJ">發生</w>
+            <w type="DE">的</w>
+            <w type="PERIODCATEGORY">.....</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="I">嗯</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="D">也</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="D">會</w>
+            <w type="VH">怎樣</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="DE">的</w>
+            <w type="Na">時空</w>
+            <w type="VH">大亂</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neqa">大量</w>
+            <w type="VH">平行</w>
+            <w type="Na">時空</w>
+            <w type="VH">出現</w>
+         </s>
+         <s>
+            <w type="DE">的</w>
+            <w type="VH">危險</w>
+            <w type="Na">情況</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">博士</w>
+            <w type="VE">說</w>
+            <w type="Di">過</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">項目</w>
+            <w type="Nd">目前</w>
+            <w type="Da">只有</w>
+            <w type="Nb">傑克葛倫霍</w>
+            <w type="D">可以</w>
+            <w type="VC">做</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">所以</w>
+            <w type="Nh">他</w>
+            <w type="D">一</w>
+            <w type="VH">死</w>
+            <w type="Na">計畫</w>
+            <w type="VHC">結束</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="DE">的</w>
+            <w type="VK">理解</w>
+            <w type="VH">正確</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="Cbb">不管</w>
+            <w type="VH">怎麼說</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Na">片</w>
+            <w type="Dfa">很</w>
+            <w type="VH">棒</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">大家</w>
+         </s>
+      </body>
+      <title author="surenas (無)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">關於</w>
+            <w type="VC">啟動</w>
+            <w type="Na">原始碼</w>
+            <w type="DE">的</w>
+            <w type="Na">結局</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nb">有</w>
+            <w type="Na">雷</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </title>
+      <comment author="eric01208" c_type="pos">
+         <s>
+            <w type="Nh">你</w>
+            <w type="VC">寫</w>
+            <w type="DE">的</w>
+            <w type="Nh">我</w>
+            <w type="Dfa">好</w>
+            <w type="VH">亂</w>
+            <w type="T">啊</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">推</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">看</w>
+            <w type="V_2">有</w>
+            <w type="D">沒</w>
+            <w type="V_2">有</w>
+            <w type="VH">大神</w>
+            <w type="VE">回答</w>
+         </s>
+      </comment>
+      <comment author="brella" c_type="neu">
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="VA">停留</w>
+            <w type="P">在</w>
+            <w type="Na">火車</w>
+            <w type="Nd">最後</w>
+            <w type="VA">接吻</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">個人</w>
+            <w type="VE">認為</w>
+            <w type="VH">完美</w>
+            <w type="Na">結局</w>
+         </s>
+      </comment>
+      <comment author="surenas" c_type="neu">
+         <s>
+            <w type="Dk">據說</w>
+            <w type="D">好像</w>
+            <w type="Na">小說</w>
+            <w type="Na">原著</w>
+            <w type="D">也</w>
+            <w type="D">沒有</w>
+            <w type="VHC">停</w>
+            <w type="P">在</w>
+            <w type="VA">接吻</w>
+            <w type="FW">~~</w>
+            <w type="D">就</w>
+            <w type="D">真的</w>
+            <w type="SHI">是</w>
+            <w type="VH">這樣</w>
+            <w type="VC">寫</w>
+         </s>
+      </comment>
+      <comment author="surenas" c_type="neu">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VK">覺得</w>
+            <w type="VHC">停</w>
+            <w type="P">在</w>
+            <w type="VA">接吻</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="VH">浪漫</w>
+            <w type="Na">愛情片</w>
+            <w type="FW">~~</w>
+            <w type="Dfa">很</w>
+            <w type="VH">感人</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="surenas" c_type="neu">
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="Ncd">後面</w>
+            <w type="VC">加</w>
+            <w type="D">這麼</w>
+            <w type="Neu">一</w>
+            <w type="Nf">段</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Na">時空片</w>
+            <w type="FW">~</w>
+            <w type="Cbb">而且</w>
+            <w type="D">還</w>
+            <w type="VC">燒</w>
+            <w type="Na">腦</w>
+         </s>
+      </comment>
+      <comment author="surenas" c_type="neu">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VK">覺得</w>
+            <w type="Nd">最後</w>
+            <w type="Nep">那</w>
+            <w type="Nf">段</w>
+            <w type="SHI">是</w>
+            <w type="Dfa">滿</w>
+            <w type="VH">重要</w>
+            <w type="VE">解釋</w>
+            <w type="FW">~</w>
+            <w type="VC">讀取</w>
+            <w type="VK">回憶</w>
+            <w type="P">跟</w>
+            <w type="Na">時空</w>
+            <w type="DE">的</w>
+            <w type="Na">差別</w>
+         </s>
+      </comment>
+      <comment author="surenas" c_type="neu">
+         <s>
+            <w type="D">有沒有</w>
+            <w type="VC">加</w>
+            <w type="Nep">這</w>
+            <w type="Neu">一</w>
+            <w type="Nf">段</w>
+            <w type="D">會</w>
+            <w type="VH">差</w>
+            <w type="Dfa">這麼</w>
+            <w type="VH">大</w>
+            <w type="FW">~</w>
+            <w type="Cbb">而且</w>
+            <w type="D">都</w>
+            <w type="VH">好看</w>
+            <w type="FW">~</w>
+            <w type="Dfa">滿</w>
+            <w type="VH">好玩</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="surenas" c_type="neu">
+         <s>
+            <w type="VJ">對不起</w>
+            <w type="Nh">我</w>
+            <w type="VC">寫</w>
+            <w type="DE">得</w>
+            <w type="Dfa">很</w>
+            <w type="VH">亂</w>
+            <w type="FW">~~</w>
+            <w type="Na">邏輯</w>
+            <w type="D">不</w>
+            <w type="VH">好</w>
+            <w type="VF">請</w>
+            <w type="VA">見諒</w>
+            <w type="FW">~</w>
+            <w type="Na">時空片</w>
+            <w type="Dfa">好</w>
+            <w type="VH">難</w>
+            <w type="VE">敘述</w>
+         </s>
+      </comment>
+      <comment author="eric01208" c_type="pos">
+         <s>
+            <w type="D">沒</w>
+            <w type="VC">看</w>
+            <w type="Di">過</w>
+            <w type="Na">小說</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">不過</w>
+            <w type="Nh">我</w>
+            <w type="P">以</w>
+            <w type="VA">觀</w>
+            <w type="Na">影</w>
+            <w type="DE">的</w>
+            <w type="VK">理解</w>
+         </s>
+      </comment>
+      <comment author="eric01208" c_type="neu">
+         <s>
+            <w type="Na">博士</w>
+            <w type="VE">認為</w>
+            <w type="SHI">是</w>
+            <w type="VCL">進入</w>
+            <w type="FW">Sean</w>
+            <w type="DE">的</w>
+            <w type="Na">意識</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="Na">過程</w>
+            <w type="Ng">中</w>
+         </s>
+      </comment>
+      <comment author="eric01208" c_type="neu">
+         <s>
+            <w type="Nb">傑克</w>
+            <w type="VE">發現</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">行動</w>
+            <w type="D">可以</w>
+            <w type="VJ">超出</w>
+            <w type="Na">火車</w>
+            <w type="Na">範圍</w>
+            <w type="Dfa">很</w>
+            <w type="VH">遠</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+      </comment>
+      <comment author="eric01208" c_type="neu">
+         <s>
+            <w type="VK">意味</w>
+            <w type="Di">著</w>
+            <w type="D">並非</w>
+            <w type="Da">單</w>
+            <w type="P">在</w>
+            <w type="FW">Sean</w>
+            <w type="DE">的</w>
+            <w type="Na">意識</w>
+            <w type="Ncd">裡面</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+      </comment>
+      <comment author="eric01208" c_type="neu">
+         <s>
+            <w type="Cbb">而</w>
+            <w type="D">可能</w>
+            <w type="SHI">是</w>
+            <w type="Nes">另</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VH">平行</w>
+            <w type="Na">時空</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+      </comment>
+      <comment author="eric01208" c_type="neu">
+         <s>
+            <w type="Cbb">而</w>
+            <w type="Na">電影</w>
+            <w type="Nd">最後</w>
+            <w type="D">也</w>
+            <w type="VE">驗證</w>
+            <w type="Di">了</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">想法</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">實際</w>
+            <w type="Nes">各</w>
+            <w type="Nf">種</w>
+            <w type="VCL">穿越</w>
+            <w type="Na">細節</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+      </comment>
+      <comment author="eric01208" c_type="neu">
+         <s>
+            <w type="VK">感覺</w>
+            <w type="Na">編劇</w>
+            <w type="Nh">自己</w>
+            <w type="D">也</w>
+            <w type="D">沒</w>
+            <w type="VE">想好</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">直接</w>
+            <w type="VA">遇事</w>
+            <w type="D">不決</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">量子</w>
+            <w type="Na">力學</w>
+         </s>
+      </comment>
+      <comment author="eric01208" c_type="neu">
+         <s>
+            <w type="FW">Goodwin</w>
+            <w type="DE">的</w>
+            <w type="Neqa">部分</w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="VH">單純</w>
+            <w type="VK">覺得</w>
+            <w type="Nh">她</w>
+            <w type="Dfa">比較</w>
+            <w type="VH">通情達理</w>
+         </s>
+      </comment>
+      <comment author="eric01208" c_type="pos">
+         <s>
+            <w type="Na">編劇</w>
+            <w type="VC">埋</w>
+            <w type="Di">了</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Dfa">很</w>
+            <w type="VH">有意思</w>
+            <w type="Cbb">但</w>
+            <w type="D">沒</w>
+            <w type="VE">解釋</w>
+            <w type="DE">的</w>
+            <w type="Na">梗</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+      </comment>
+      <comment author="eric01208" c_type="neu">
+         <s>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="VCL">穿越</w>
+            <w type="Ng">時</w>
+            <w type="D">會</w>
+            <w type="VE">看到</w>
+            <w type="DE">的</w>
+            <w type="Nc">芝加哥</w>
+            <w type="Na">地標</w>
+            <w type="FW">Cloud</w>
+            <w type="FW"> Gate</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+      </comment>
+      <comment author="eric01208" c_type="neu">
+         <s>
+            <w type="VE">暗示</w>
+            <w type="Nh">他</w>
+            <w type="D">可以</w>
+            <w type="VE">預知</w>
+            <w type="Nd">未來</w>
+         </s>
+      </comment>
+      <comment author="hn022" c_type="pos">
+         <s>
+            <w type="Nc">2樓</w>
+            <w type="FW">+1</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="Nd">當初</w>
+            <w type="VC">看完</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="VH">這樣</w>
+            <w type="DE">的</w>
+            <w type="Na">感覺</w>
+         </s>
+      </comment>
+      <comment author="zapzone" c_type="pos">
+         <s>
+            <w type="A">多元</w>
+            <w type="Na">宇宙</w>
+            <w type="DE">的</w>
+            <w type="Na">始祖片</w>
+         </s>
+      </comment>
+      <comment author="madeathmao" c_type="neu">
+         <s>
+            <w type="Nc">樓上</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">宣言</w>
+            <w type="Dfa">很</w>
+            <w type="VH">容易</w>
+            <w type="VC">引起</w>
+            <w type="Na">爭議</w>
+            <w type="T">喔</w>
+         </s>
+      </comment>
+      <comment author="brella" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Nd">當時</w>
+            <w type="VE">以為</w>
+            <w type="Na">片子</w>
+            <w type="D">已經</w>
+            <w type="VHC">結束</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">imdb</w>
+            <w type="D">本來</w>
+            <w type="D">要</w>
+            <w type="VD">給</w>
+            <w type="Neu">9</w>
+         </s>
+      </comment>
+      <comment author="brella" c_type="neu">
+         <s>
+            <w type="Nd">後來</w>
+            <w type="VC">改</w>
+            <w type="FW">8</w>
+         </s>
+      </comment>
+      <comment author="ja1295" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VE">認為</w>
+            <w type="SHI">是</w>
+            <w type="VC">開創</w>
+            <w type="Di">了</w>
+            <w type="Neu">2</w>
+            <w type="Nf">個</w>
+            <w type="VH">平行</w>
+            <w type="Na">時空</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="SHI">是</w>
+            <w type="Nh">他</w>
+            <w type="VG">變成</w>
+            <w type="Na">教師</w>
+            <w type="DE">的</w>
+            <w type="Na">身份</w>
+         </s>
+      </comment>
+      <comment author="ja1295" c_type="neu">
+         <s>
+            <w type="Nes">另</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="SHI">是</w>
+            <w type="D">還</w>
+            <w type="D">沒</w>
+            <w type="VC">執行</w>
+            <w type="Na">任務</w>
+            <w type="DE">的</w>
+            <w type="Nh">他</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但</w>
+            <w type="D">已</w>
+            <w type="VK">知</w>
+            <w type="Na">兇手</w>
+         </s>
+      </comment>
+      <comment author="angellll" c_type="neu">
+         <s>
+            <w type="D">就</w>
+            <w type="VH">無窮</w>
+            <w type="Na">迴圈</w>
+            <w type="T">而已</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">不用</w>
+            <w type="VE">想</w>
+            <w type="VH">太多</w>
+            <w type="VC">摟</w>
+         </s>
+      </comment>
+      <comment author="s101881" c_type="pos">
+         <s>
+            <w type="Nes">同</w>
+            <w type="Nc">二樓</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">覺得</w>
+            <w type="VH">那樣</w>
+            <w type="Dfa">最</w>
+            <w type="VH">美</w>
+         </s>
+      </comment>
+      <comment author="maydayholic" c_type="pos">
+         <s>
+            <w type="VH">多元</w>
+            <w type="Na">宇宙</w>
+            <w type="Na">始祖</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="VCL">回到</w>
+            <w type="Nd">未來</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="scrwer" c_type="pos">
+         <s>
+            <w type="VH">認真</w>
+            <w type="VE">說</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VHC">停</w>
+            <w type="P">在</w>
+            <w type="VA">接吻</w>
+            <w type="Nd">現在</w>
+            <w type="D">根本</w>
+            <w type="D">不會</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VE">討論</w>
+         </s>
+      </comment>
+      <comment author="ChildX" c_type="neu">
+         <s>
+            <w type="VCL">回到</w>
+            <w type="Nd">未來</w>
+            <w type="SHI">是</w>
+            <w type="A">單一</w>
+            <w type="Na">宇宙</w>
+            <w type="T">吧</w>
+            <w type="ETCCATEGORY"> 復</w>
+            <w type="Neu">4</w>
+            <w type="VA">吐槽</w>
+            <w type="VCL">過</w>
+         </s>
+      </comment>
+      <comment author="signm" c_type="pos">
+         <s>
+            <w type="D">其實</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="VH">平行</w>
+            <w type="Na">宇宙</w>
+            <w type="Na">概念</w>
+            <w type="Na">電影</w>
+            <w type="T">而已</w>
+         </s>
+      </comment>
+      <comment author="signm" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/wAb</w>
+            <w type="DASHCATEGORY">Rko</w>
+            <w type="DASHCATEGORY">Rf4</w>
+            <w type="FW">x4</w>
+         </s>
+      </comment>
+      <comment author="signm" c_type="neu">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Na">影評</w>
+            <w type="V_2">有</w>
+            <w type="Dfa">比較</w>
+            <w type="VH">詳細</w>
+            <w type="VE">解釋</w>
+         </s>
+      </comment>
+      <comment author="mefifthfloor" c_type="neu">
+         <s>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="Nes">同</w>
+            <w type="Na">時空</w>
+            <w type="Na">時間線</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">可是</w>
+            <w type="Na">主角</w>
+            <w type="Nes">每</w>
+            <w type="VA">回去</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="VC">衍生出</w>
+         </s>
+      </comment>
+      <comment author="mefifthfloor" c_type="neu">
+         <s>
+            <w type="VH">新</w>
+            <w type="DE">的</w>
+            <w type="VJ">替代</w>
+            <w type="Na">現實</w>
+            <w type="Na">時間線</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">可是</w>
+            <w type="D">不</w>
+            <w type="VC">影響</w>
+            <w type="A">原先</w>
+            <w type="DE">的</w>
+            <w type="Na">現實</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VG">類似</w>
+            <w type="VA">復</w>
+         </s>
+      </comment>
+      <comment author="mefifthfloor" c_type="neu">
+         <s>
+            <w type="Nb">仇</w>
+            <w type="Neu">四</w>
+            <w type="VE">講</w>
+            <w type="T">的</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="hn512kimo" c_type="pos">
+         <s>
+            <w type="VH">真心</w>
+            <w type="D">也</w>
+            <w type="VK">覺得</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Dfa">很</w>
+            <w type="VH">好看</w>
+            <w type="Na">方法</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Ncd">後面</w>
+            <w type="V_2">有</w>
+            <w type="VH">感人</w>
+         </s>
+      </comment>
+      <comment author="dakkk" c_type="pos">
+         <s>
+            <w type="D">其實</w>
+            <w type="Nh">我</w>
+            <w type="VK">覺得</w>
+            <w type="Na">走向</w>
+            <w type="Dfa">比較</w>
+            <w type="VG">像</w>
+            <w type="Na">蝴蝶</w>
+            <w type="Na">效應</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="VH">平行</w>
+            <w type="Na">宇宙</w>
+         </s>
+      </comment>
+      <comment author="Gary9163" c_type="pos">
+         <s>
+            <w type="D">都</w>
+            <w type="VJ">沒</w>
+            <w type="Na">人</w>
+            <w type="VK">覺得</w>
+            <w type="FW">Sean</w>
+            <w type="Dfa">很</w>
+            <w type="VHC">可憐</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Nh">本人</w>
+            <w type="DE">的</w>
+            <w type="Na">意識</w>
+            <w type="D">就</w>
+            <w type="VH">這樣</w>
+            <w type="P">被</w>
+            <w type="VC">佔領</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="frzzve" c_type="pos">
+         <s>
+            <w type="Nc">樓上</w>
+            <w type="DE">的</w>
+            <w type="VE">討論</w>
+            <w type="P">在</w>
+            <w type="Na">神力</w>
+            <w type="Neu">1984</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="VG">類似</w>
+            <w type="DE">的</w>
+            <w type="D">哈哈</w>
+         </s>
+      </comment>
+      <comment author="frzzve" c_type="neu">
+         <s>
+            <w type="VE">建議</w>
+            <w type="A">原</w>
+            <w type="FW">po</w>
+            <w type="D">可以</w>
+            <w type="VJ">善用</w>
+            <w type="Na">標點符號</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="Dfa">很</w>
+            <w type="VE">想</w>
+            <w type="VH">認真</w>
+            <w type="VC">看完</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="D">沒</w>
+         </s>
+      </comment>
+      <comment author="frzzve" c_type="neu">
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">標點符號</w>
+            <w type="Nh">我</w>
+            <w type="D">真</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="Ncd">哪裡</w>
+            <w type="D">該</w>
+            <w type="VA">停頓</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">應該</w>
+            <w type="Neqa">不少</w>
+            <w type="Na">人</w>
+            <w type="P">像</w>
+            <w type="Nh">我</w>
+            <w type="SHI">是</w>
+         </s>
+      </comment>
+      <comment author="frzzve" c_type="neu">
+         <s>
+            <w type="VH">直接</w>
+            <w type="VA">滑下來</w>
+            <w type="VC">看</w>
+            <w type="Na">推文</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Na">文章</w>
+            <w type="Cbb">就算</w>
+            <w type="VH">長</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">段落</w>
+            <w type="VH">分明</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">標點符</w>
+         </s>
+      </comment>
+      <comment author="frzzve" c_type="neu">
+         <s>
+            <w type="Na">號</w>
+            <w type="VH">正確</w>
+            <w type="VC">使用</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">會</w>
+            <w type="Dfa">比較</w>
+            <w type="VH">好讀</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="a29966259" c_type="pos">
+         <s>
+            <w type="P">跟</w>
+            <w type="Nb">丹佐</w>
+            <w type="Nc">華盛頓</w>
+            <w type="DE">的</w>
+            <w type="Na">時空</w>
+            <w type="Na">線索</w>
+            <w type="Dfa">很</w>
+            <w type="VG">像</w>
+            <w type="T">耶 </w>
+            <w type="D">都</w>
+            <w type="VH">好看</w>
+         </s>
+      </comment>
+      <comment author="k1400" c_type="pos">
+         <s>
+            <w type="VA">定格</w>
+            <w type="Dfa">最</w>
+            <w type="VH">美</w>
+            <w type="Neu">+1</w>
+         </s>
+      </comment>
+      <comment author="derrick1220" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">片</w>
+            <w type="P">跟</w>
+            <w type="Na">海灘</w>
+            <w type="VH">1樣</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neqa">很多</w>
+            <w type="Na">老外</w>
+            <w type="D">會</w>
+            <w type="VC">呼完</w>
+            <w type="Na">麻</w>
+            <w type="D">再</w>
+            <w type="VC">看</w>
+         </s>
+      </comment>
+      <comment author="funsheep27" c_type="neg">
+         <s>
+            <w type="D">能不能</w>
+            <w type="VH">好好</w>
+            <w type="VC">用</w>
+            <w type="Nf">個</w>
+            <w type="Na">標點符號</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">一</w>
+            <w type="Nf">堆</w>
+            <w type="Na">字</w>
+            <w type="VC">塞</w>
+            <w type="VH">在一起</w>
+            <w type="ETCCATEGORY">…</w>
+         </s>
+      </comment>
+      <comment author="Cishang" c_type="pos">
+         <s>
+            <w type="VHC">停</w>
+            <w type="P">在</w>
+            <w type="VA">接吻</w>
+            <w type="D">就</w>
+            <w type="VG">如同</w>
+            <w type="Ncd">上面</w>
+            <w type="VE">講</w>
+            <w type="DE">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">沒有</w>
+            <w type="Na">人</w>
+            <w type="D">會</w>
+            <w type="VE">討論</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="LeftVision" c_type="pos">
+         <s>
+            <w type="Nh">他</w>
+            <w type="VB">打電話</w>
+            <w type="P">給</w>
+            <w type="Na">父親</w>
+            <w type="Nep">那</w>
+            <w type="Nf">段</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="P">在</w>
+            <w type="Nc">戲院</w>
+            <w type="VH">淚流滿面</w>
+         </s>
+      </comment>
+      <comment author="rebuildModel" c_type="neg">
+         <s>
+            <w type="Nh">你</w>
+            <w type="VK">喜歡</w>
+            <w type="Nep">哪</w>
+            <w type="Neu">一</w>
+            <w type="Nf">種</w>
+            <w type="Na">解釋</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">都</w>
+            <w type="D">可以</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Na">電影</w>
+            <w type="Nh">本身</w>
+            <w type="D">沒</w>
+            <w type="D">那麼</w>
+            <w type="VH">清楚</w>
+            <w type="VC">定義</w>
+         </s>
+      </comment>
+      <comment author="sunnyyoung" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Da">只</w>
+            <w type="VK">覺得</w>
+            <w type="Ncd">哪</w>
+            <w type="V_2">有</w>
+            <w type="Na">辦法</w>
+            <w type="P">在</w>
+            <w type="Neu">八</w>
+            <w type="Nf">分鐘</w>
+            <w type="VC">做</w>
+            <w type="Neqa">哪麼多</w>
+            <w type="Na">事</w>
+         </s>
+      </comment>
+      <comment author="XXPLUS" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">宇宙</w>
+            <w type="DE">的</w>
+            <w type="Nd">開頭</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="FW">Sean</w>
+            <w type="D">必須</w>
+            <w type="D">先</w>
+            <w type="VH">死掉</w>
+            <w type="Da">才</w>
+            <w type="D">能</w>
+            <w type="VC">拿</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">記憶</w>
+         </s>
+      </comment>
+      <comment author="XXPLUS" c_type="neu">
+         <s>
+            <w type="D">來</w>
+            <w type="VC">搞</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">算</w>
+            <w type="VI">沒辦法</w>
+            <w type="DE">的</w>
+            <w type="Na">事</w>
+         </s>
+      </comment>
+      <comment author="eric01208" c_type="pos">
+         <s>
+            <w type="Nes">某</w>
+            <w type="Nc">義大利</w>
+            <w type="Na">主廚</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> 8</w>
+            <w type="Nf">分鐘</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="Na">爸</w>
+            <w type="D">可以</w>
+            <w type="P">幫</w>
+            <w type="Nh">我</w>
+            <w type="VC">生</w>
+            <w type="Neu">8</w>
+            <w type="Na">兄弟</w>
+            <w type="PARENTHESISCATEGORY"> XD</w>
+         </s>
+      </comment>
+      <comment author="XXPLUS" c_type="pos">
+         <s>
+            <w type="Na">死者</w>
+            <w type="Na">大腦</w>
+            <w type="Na">記憶</w>
+            <w type="Na">載體</w>
+            <w type="FW">+</w>
+            <w type="Na">高科技</w>
+            <w type="Na">儀器</w>
+            <w type="FW">+</w>
+            <w type="Na">儀器</w>
+            <w type="Ncd">內</w>
+            <w type="DE">的</w>
+            <w type="VJ">適任</w>
+            <w type="Na">者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">三</w>
+         </s>
+      </comment>
+      <comment author="XXPLUS" c_type="neu">
+         <s>
+            <w type="Na">者</w>
+            <w type="VJ">缺一不可</w>
+         </s>
+      </comment>
+      <comment author="wumuray" c_type="pos">
+         <s>
+            <w type="VD">給</w>
+            <w type="Neu">31樓</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VCL">回到</w>
+            <w type="Nd">未來</w>
+            <w type="SHI">是</w>
+            <w type="VH">平行</w>
+            <w type="Nc">世界</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Neu">第二</w>
+            <w type="Nf">部</w>
+            <w type="Na">博士</w>
+            <w type="V_2">有</w>
+            <w type="VE">說</w>
+            <w type="Di">過</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+      </comment>
+      <comment author="wumuray" c_type="neu">
+         <s>
+            <w type="Nb">畢夫</w>
+            <w type="VH">有錢</w>
+            <w type="DE">的</w>
+            <w type="Nd">未來</w>
+            <w type="Caa">跟</w>
+            <w type="Na">主角</w>
+            <w type="D">本來</w>
+            <w type="DE">的</w>
+            <w type="Nd">未來</w>
+            <w type="D">就</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Nes">同</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">時空</w>
+            <w type="VC">背</w>
+         </s>
+      </comment>
+      <comment author="wumuray" c_type="neu">
+         <s>
+            <w type="Na">景</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="XXPLUS" c_type="pos">
+         <s>
+            <w type="VCL">回到</w>
+            <w type="Nd">未來</w>
+            <w type="SHI">是</w>
+            <w type="Na">單線</w>
+            <w type="Na">宇宙</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="Na">蝴蝶</w>
+            <w type="Na">效應</w>
+            <w type="P">跟</w>
+            <w type="Na">因果</w>
+            <w type="Na">悖論</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+         </s>
+      </comment>
+      <comment author="XXPLUS" c_type="neu">
+         <s>
+            <w type="Cbb">然</w>
+            <w type="D">不會</w>
+            <w type="VC">搞到</w>
+            <w type="Nd">過去</w>
+            <w type="DE">的</w>
+            <w type="Na">爸</w>
+            <w type="Na">媽</w>
+            <w type="D">不</w>
+            <w type="VHC">結合</w>
+            <w type="D">會</w>
+            <w type="VL">導致</w>
+            <w type="D">已</w>
+            <w type="VA">存在</w>
+            <w type="DE">的</w>
+            <w type="Na">主角</w>
+            <w type="VG">變</w>
+         </s>
+      </comment>
+      <comment author="XXPLUS" c_type="neu">
+         <s>
+            <w type="VH">透明</w>
+            <w type="VH">快</w>
+            <w type="VA">消失</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">若</w>
+            <w type="Nep">這</w>
+            <w type="Na">系列</w>
+            <w type="SHI">是</w>
+            <w type="VH">平行</w>
+            <w type="Na">宇宙論</w>
+            <w type="Cba">的話</w>
+            <w type="VH">大</w>
+            <w type="D">可以</w>
+            <w type="VE">管</w>
+            <w type="Nh">他</w>
+         </s>
+      </comment>
+      <comment author="XXPLUS" c_type="neu">
+         <s>
+            <w type="D">去</w>
+            <w type="VH">死</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Nd">過去</w>
+            <w type="D">怎樣</w>
+            <w type="VC">搞</w>
+            <w type="D">甚至</w>
+            <w type="FW">ntr</w>
+            <w type="Nh">自己</w>
+            <w type="Na">老媽</w>
+            <w type="D">都</w>
+            <w type="VH">沒關係</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">反正</w>
+         </s>
+      </comment>
+      <comment author="XXPLUS" c_type="neu">
+         <s>
+            <w type="Nh">自己</w>
+            <w type="DE">的</w>
+            <w type="Na">宇宙</w>
+            <w type="D">不會</w>
+            <w type="Cbb">因為</w>
+            <w type="P">被</w>
+            <w type="Nd">過去</w>
+            <w type="P">被</w>
+            <w type="VC">介入</w>
+            <w type="Cbb">而</w>
+            <w type="VC">改變</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

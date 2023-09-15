@@ -1,0 +1,978 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">YSae9 (就簡單)</metadata>
+      <metadata name="post_id">M.1656917312.A.2F2</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] 台大周邊蔬食地圖</metadata>
+   </teiHeader>
+   <text>
+      <body author="YSae9 (就簡單)">
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Nc">公館</w>
+            <w type="Na">生活圈</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">周邊</w>
+            <w type="Na">蔬食</w>
+            <w type="Na">美食</w>
+            <w type="Na">地圖</w>
+         </s>
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Na">動物</w>
+            <w type="Na">權利</w>
+            <w type="Nc">發展社</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">收集</w>
+            <w type="VC">整理</w>
+         </s>
+         <s>
+            <w type="Na">蔬食</w>
+            <w type="Na">美食</w>
+            <w type="Na">地圖</w>
+         </s>
+         <s>
+            <w type="FW">Google</w>
+            <w type="Na">地圖</w>
+            <w type="Na">電子版</w>
+            <w type="WHITESPACE"> </w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.google.com/maps/d/edit</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">mid</w>
+            <w type="FW">=1</w>
+            <w type="FW">vchAtmEaUzZc_LG-lqZGKYIZH_GxUeaN&amp;amp;usp=sharing</w>
+         </s>
+         <s>
+            <w type="FW">Google</w>
+            <w type="Na">文件版</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//docs.google.com/document/d/1aKZ9AZTF8</w>
+            <w type="FW">qA_hJIXzTLDhJwTYOJDhhgx/edit</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">usp=drivesdk</w>
+            <w type="FW">&amp;amp;ouid</w>
+            <w type="Neu">=110524908525283756647</w>
+            <w type="FW">&amp;amp;rtp</w>
+            <w type="FW">of</w>
+            <w type="FW">=true</w>
+            <w type="FW">&amp;amp;sd</w>
+            <w type="FW">=true</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">地圖</w>
+            <w type="Na">簡介</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Na">蔬食</w>
+            <w type="Na">美食</w>
+            <w type="Na">地圖</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">依</w>
+            <w type="Nc">餐廳</w>
+            <w type="Na">區域</w>
+            <w type="VG">分為</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">公館</w>
+            <w type="Nc">夜市</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">新生南路</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">科技</w>
+            <w type="Na">大樓</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Da">共</w>
+            <w type="Neu">三</w>
+            <w type="Nc">區</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">為</w>
+            <w type="Nc">台大</w>
+            <w type="Na">學生</w>
+            <w type="D">經常</w>
+            <w type="VCL">前往</w>
+            <w type="VA">用餐</w>
+            <w type="DE">的</w>
+            <w type="Na">飲食</w>
+            <w type="Na">生活圈</w>
+            <w type="Na">範圍</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VK">希望</w>
+            <w type="P">透過</w>
+            <w type="VC">收集</w>
+            <w type="Na">網路</w>
+            <w type="Na">資料</w>
+            <w type="Caa">與</w>
+            <w type="Nh">個人</w>
+            <w type="Na">經驗</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">整理</w>
+         </s>
+         <s>
+            <w type="Na">蔬食</w>
+            <w type="Na">美食</w>
+            <w type="Na">清單</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">和</w>
+            <w type="Na">同學</w>
+            <w type="Na">們</w>
+            <w type="VJ">分享</w>
+            <w type="VG">作為</w>
+            <w type="Na">蔬食</w>
+            <w type="Na">選項</w>
+            <w type="VC">參考</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">素食</w>
+            <w type="Caa">與</w>
+            <w type="Na">蛋奶素</w>
+            <w type="DE">的</w>
+            <w type="Na">分別</w>
+            <w type="D">可以</w>
+            <w type="VC">看</w>
+            <w type="FW">google</w>
+            <w type="Na">文件檔</w>
+            <w type="T">喔</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">* </w>
+            <w type="Nes">每</w>
+            <w type="Nf">家</w>
+            <w type="Nc">餐廳</w>
+            <w type="Na">名稱</w>
+            <w type="Ng">後</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">附上</w>
+            <w type="Na">網路</w>
+            <w type="Nb">食記</w>
+            <w type="Na">文章</w>
+            <w type="D">可</w>
+            <w type="VF">供</w>
+            <w type="VC">參考</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">美食</w>
+            <w type="Na">清單</w>
+            <w type="VC">收集</w>
+            <w type="VC">整理</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Na">動物</w>
+            <w type="Na">權利</w>
+            <w type="Nc">發展社</w>
+            <w type="DASHCATEGORY"> NTUAR</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">素別</w>
+            <w type="Caa">與</w>
+            <w type="Na">餐點</w>
+            <w type="Na">類型</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">資料</w>
+            <w type="Na">來源</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="VH">素</w>
+            <w type="VH">易</w>
+            <w type="VC">食</w>
+            <w type="FW"> Suiis</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//food.suiis.com/mapsearch.aspx</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">動權社</w>
+            <w type="Nc">粉專</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.facebook.com/ntuar</w>
+            <w type="Neu">09/</w>
+         </s>
+         <s>
+            <w type="Na">蔬食</w>
+            <w type="Na">美食</w>
+            <w type="Na">地圖</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">餐廳</w>
+            <w type="Na">資訊</w>
+            <w type="Cbb">若</w>
+            <w type="VC">輸入</w>
+            <w type="V_2">有</w>
+            <w type="Na">誤</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Caa">或</w>
+            <w type="Na">店家</w>
+            <w type="Na">資訊</w>
+            <w type="D">有</w>
+            <w type="VC">更新</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">很</w>
+            <w type="VJ">歡迎</w>
+            <w type="Nh">您</w>
+            <w type="Na">私訊</w>
+            <w type="Nc">粉專</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VD">提供</w>
+            <w type="Nh">我</w>
+         </s>
+         <s>
+            <w type="Na">們</w>
+            <w type="VC">修正</w>
+            <w type="Na">建議</w>
+            <w type="Caa">或</w>
+            <w type="VA">指教</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">您</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">公館</w>
+            <w type="Nc">夜市</w>
+            <w type="Nc">周邊</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Nc">夜市</w>
+            <w type="Na">小吃</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Na">素食</w>
+            <w type="Na">地瓜球</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.girlslifeplan.com/v-photoball/</w>
+         </s>
+         <s>
+            <w type="Nc">公館</w>
+            <w type="FW">VEGAN</w>
+            <w type="Na">素食</w>
+            <w type="A">麻辣</w>
+            <w type="Na">臭豆腐</w>
+            <w type="FW">-No.</w>
+            <w type="Neu">54號</w>
+            <w type="Nc">攤</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//halokkvision.com/taipeifood-gong</w>
+            <w type="FW">guanveganspicy</w>
+            <w type="FW">tofu/</w>
+         </s>
+         <s>
+            <w type="Nc">龍潭</w>
+            <w type="Na">豆花</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//letsplay.tw/longtan-douhua/</w>
+         </s>
+         <s>
+            <w type="Na">生機</w>
+            <w type="Na">沙拉船</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.pinblog.tw/2016/02/blog-post_25</w>
+            <w type="PERIODCATEGORY">.html</w>
+         </s>
+         <s>
+            <w type="VH">速肚</w>
+            <w type="Caa">與</w>
+            <w type="Na">雞情</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//food.suiis.com/comm_display</w>
+            <w type="FW">.aspx</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">comm_id</w>
+            <w type="FW">=100007130</w>
+         </s>
+         <s>
+            <w type="Nc">公館</w>
+            <w type="Nc">夜市</w>
+            <w type="Nb"> - </w>
+            <w type="Na">素食</w>
+            <w type="Na">鹹酥雞</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//ihungrybear.com/restaurant</w>
+            <w type="FW">s/7qGwBQD/</w>
+         </s>
+         <s>
+            <w type="Na">恩典</w>
+            <w type="VA">養生</w>
+            <w type="Na">活力</w>
+            <w type="Na">生菜捲</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.walkerland.com.tw/article/view/270620</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">page</w>
+            <w type="FW">=full</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Nc">異國</w>
+            <w type="Na">特色</w>
+            <w type="Na">料理</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Na">諦</w>
+            <w type="PERIODCATEGORY">・</w>
+            <w type="FW">VEGANISM </w>
+            <w type="Da">共</w>
+            <w type="VH">響</w>
+            <w type="Na">空間</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//ifoodie.tw/post/5</w>
+            <w type="FW">f01</w>
+            <w type="FW">a4528</w>
+            <w type="FW">c</w>
+            <w type="Neu">906</w>
+            <w type="FW">d</w>
+            <w type="Neu">6745963</w>
+            <w type="FW">aa4</w>
+         </s>
+         <s>
+            <w type="Nb">新卡莎</w>
+            <w type="Na">素食</w>
+            <w type="Nc">西餐廳</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//saliha.pixnet.net/blog/post/428189708</w>
+         </s>
+         <s>
+            <w type="Na">炸豆</w>
+            <w type="Na">丸子</w>
+            <w type="Na">國王</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//ksjourney.life/felafalking/</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="A">台式</w>
+            <w type="Na">料理</w>
+            <w type="Caa">及</w>
+            <w type="Na">自助餐</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="VC">蒸</w>
+            <w type="Dfb">夠</w>
+            <w type="Na">臭</w>
+            <w type="Na">素食</w>
+            <w type="VC">蒸</w>
+            <w type="Na">臭豆腐</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//lololo</w>
+            <w type="Neu">223344</w>
+            <w type="PERIODCATEGORY">.pixnet.net/blog/post/332430898</w>
+         </s>
+         <s>
+            <w type="VC">料理</w>
+            <w type="Nb">王</w>
+            <w type="VH">健康</w>
+            <w type="Na">素食</w>
+            <w type="Na">自助餐</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//food.suiis.com/main.aspx</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">id</w>
+            <w type="FW">=</w>
+            <w type="Neu">700038218</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="A">中式</w>
+            <w type="Na">料理</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Na">小</w>
+            <w type="Na">蔬杭</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">絕對</w>
+            <w type="Na">蔬食</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">二活店</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.walkerland.com.tw/article/view/200317</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">page</w>
+            <w type="FW">=full</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Nc">便利商店</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Nb">7-ELEVEN </w>
+            <w type="Nb">博源</w>
+            <w type="Nc">門市</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.7-11</w>
+            <w type="PERIODCATEGORY">.com.tw/freshfoods/18_veg/index.aspx</w>
+         </s>
+         <s>
+            <w type="Neu">二</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">新生南路</w>
+            <w type="Nc">周邊</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="A">日式</w>
+            <w type="Na">料理</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Dfa">好</w>
+            <w type="VE">想</w>
+            <w type="VC">吃</w>
+            <w type="Na">冰 かき氷</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">日式</w>
+            <w type="Na">蔬食</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台大</w>
+            <w type="Nc">公館店</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//joy</w>
+            <w type="FW">celohas.com/iwantice</w>
+            <w type="FW">somuch/</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="A">台式</w>
+            <w type="Na">料理</w>
+            <w type="Caa">及</w>
+            <w type="Na">自助餐</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Nb">中一</w>
+            <w type="Nc">蔬食園</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//food.suiis.com/main.aspx</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">id</w>
+            <w type="FW">=</w>
+            <w type="Neu">700092335</w>
+         </s>
+         <s>
+            <w type="Na">金湯匙</w>
+            <w type="Nc">豆花坊</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">素食</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">簡餐</w>
+            <w type="Na">便當</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.pinblog.tw/2019/11/Goldspoon.html</w>
+         </s>
+         <s>
+            <w type="Nb">素德</w>
+            <w type="Na">蔬食</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//resina</w>
+            <w type="Neu">17</w>
+            <w type="PERIODCATEGORY">.pixnet.net/blog/post/324146566</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Nc">異國</w>
+            <w type="Na">特色</w>
+            <w type="Na">料理</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Na">彩椒</w>
+            <w type="Nc">廚房</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//jingxuan.tw/cai-jiao-kitchen-and-quichez-pie/</w>
+         </s>
+         <s>
+            <w type="Neu">3 Idiots</w>
+            <w type="FW"> Toast</w>
+            <w type="FW"> &amp;amp; </w>
+            <w type="FW">Curry</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">三</w>
+            <w type="Nf">個</w>
+            <w type="Na">傻瓜</w>
+            <w type="Na">蔬食</w>
+            <w type="Nc">印度</w>
+            <w type="Nc">餐廳</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Nc">公館店</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.walkerland.com.tw/article/view/284235</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">飲料</w>
+            <w type="Caa">與</w>
+            <w type="Na">甜點</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Na">靈感</w>
+            <w type="Na">咖啡</w>
+            <w type="FW"> Vegan</w>
+            <w type="FW"> C</w>
+            <w type="FW">of</w>
+            <w type="FW">fee</w>
+            <w type="FW"> Shop</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=E5</w>
+            <w type="FW">uFTwXeT-E</w>
+         </s>
+         <s>
+            <w type="Nb">德滿芬</w>
+            <w type="Nc">專門店</w>
+            <w type="FW"> Der</w>
+            <w type="FW"> Muffin</w>
+            <w type="FW"> Mann</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//styleme.pixnet.net/post/224465592</w>
+         </s>
+         <s>
+            <w type="Neu">三</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">科技</w>
+            <w type="Na">大樓</w>
+            <w type="Nc">周邊</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="A">台式</w>
+            <w type="Na">料理</w>
+            <w type="Caa">及</w>
+            <w type="Na">自助餐</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Na">人人</w>
+            <w type="Na">素食麵館</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">樂業店</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.inote.tw/%E4%</w>
+            <w type="FW">BA%BA%E4%</w>
+            <w type="FW">BA</w>
+            <w type="VH">%BA</w>
+            <w type="VH">%E7%</w>
+            <w type="FW">B4%</w>
+            <w type="FW">A0%</w>
+            <w type="FW">E9%</w>
+            <w type="FW">A3%</w>
+            <w type="Neu">9F</w>
+            <w type="VH">%</w>
+            <w type="FW">E</w>
+            <w type="Neqa">9</w>
+            <w type="VH">%</w>
+            <w type="FW">BA</w>
+            <w type="VH">%</w>
+            <w type="FW">B5%</w>
+            <w type="FW">E9%</w>
+            <w type="FW">A4%</w>
+            <w type="FW">A8-</w>
+            <w type="VH">%</w>
+            <w type="FW">E5%</w>
+            <w type="FW">A4%</w>
+            <w type="FW">A7%</w>
+            <w type="FW">E5%</w>
+            <w type="FW">AE</w>
+            <w type="VH">%</w>
+            <w type="Neu">89</w>
+         </s>
+         <s>
+            <w type="Na">蔬菓</w>
+            <w type="FW">in</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.pokem.tw/2020/03/Sugoin-Vegan.Intro.html</w>
+         </s>
+         <s>
+            <w type="Neqa">全</w>
+            <w type="Nc">國</w>
+            <w type="Na">食養</w>
+            <w type="VH">健康</w>
+            <w type="Na">素食</w>
+            <w type="Na">自助餐</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">大安</w>
+            <w type="Nc">復興店</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//ihungrybear.com/restaurants/K7KkQV7/</w>
+         </s>
+         <s>
+            <w type="VH">開心</w>
+            <w type="Nc">農場</w>
+            <w type="Nc">素食店</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.barrelleaf.com/happy-farm-2018</w>
+            <w type="DASHCATEGORY">-03/</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Nc">異國</w>
+            <w type="Na">特色</w>
+            <w type="Na">料理</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="FW">Ooh</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Cha</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Cha </w>
+            <w type="Na">自然</w>
+            <w type="Na">食</w>
+            <w type="Na">科技</w>
+            <w type="Na">大樓</w>
+            <w type="FW"> &amp;amp; </w>
+            <w type="FW">Hooch</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.triplew.tw/ooh-cha-cha-x-hooch.html</w>
+         </s>
+         <s>
+            <w type="FW">Loving</w>
+            <w type="FW"> Hut</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VL">愛家</w>
+            <w type="Nc">國際</w>
+            <w type="Na">餐飲</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台北</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">和平店</w>
+         </s>
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.lovinghut.com/portal/tw/aboutus.php</w>
+         </s>
+         <s>
+            <w type="Nb">仁里居</w>
+            <w type="FW">｜</w>
+            <w type="Nc">大安</w>
+            <w type="Na">森林</w>
+            <w type="Nc">公園</w>
+            <w type="Na">蔬食</w>
+            <w type="Nc">餐廳</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//froda.pixnet.net/blog/post/226665983-yuliyourhome</w>
+         </s>
+         <s>
+            <w type="Nb">卡帛</w>
+            <w type="Na">素食</w>
+            <w type="VC">烘培</w>
+            <w type="PERIODCATEGORY">‧</w>
+            <w type="Na">義式</w>
+            <w type="Nc">廚房</w>
+            <w type="PERIODCATEGORY">‧</w>
+            <w type="Na">港式</w>
+            <w type="Na">餐點</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">總店</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//jingxuan.tw/kapok-vege/</w>
+         </s>
+         <s>
+            <w type="FW">Flavor</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> India</w>
+            <w type="FW"> Vegetarian</w>
+            <w type="FW"> Restaurant</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">品</w>
+            <w type="PERIODCATEGORY">·</w>
+            <w type="Nc">印度</w>
+            <w type="Na">蔬食</w>
+            <w type="Nc">餐廳</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//greenmedia.today/article_detail.php</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">cid</w>
+            <w type="FW">=58</w>
+            <w type="FW">&amp;amp;mid</w>
+            <w type="FW">=470</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">飲料</w>
+            <w type="Caa">與</w>
+            <w type="Na">甜點</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="FW">NUTTEA </w>
+            <w type="FW">Nut</w>
+            <w type="FW"> Mylk</w>
+            <w type="FW"> Tea </w>
+            <w type="Na">堅果</w>
+            <w type="Na">奶 </w>
+            <w type="PERIODCATEGORY">·</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">茶</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.girlslifeplan.com/post-357386738/</w>
+         </s>
+      </body>
+      <title author="YSae9 (就簡單)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台大</w>
+            <w type="Nc">周邊</w>
+            <w type="Na">蔬食</w>
+            <w type="Na">地圖</w>
+         </s>
+      </title>
+      <comment author="acer4545" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="kinokonoko" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="VC">推</w>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="ip116" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="D">還</w>
+            <w type="VE">以為</w>
+            <w type="SHI">是</w>
+            <w type="VC">封城</w>
+            <w type="Ng">時</w>
+            <w type="D">可以</w>
+            <w type="VC">吃</w>
+            <w type="DE">的</w>
+            <w type="Na">野草</w>
+            <w type="Na">地圖</w>
+         </s>
+      </comment>
+      <comment author="jzoethai" c_type="pos">
+         <s>
+            <w type="VC">大推</w>
+         </s>
+      </comment>
+      <comment author="gjo3gjo3gjo3" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="Dolce" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="beeeans" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="bfyl6902002" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="shaqiantsai" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="D">還</w>
+            <w type="D">不</w>
+            <w type="VC">推爆</w>
+         </s>
+      </comment>
+      <comment author="maozz" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="FW">～～～</w>
+         </s>
+      </comment>
+      <comment author="joannhte" c_type="pos">
+         <s>
+            <w type="Na">科技</w>
+            <w type="Na">大樓</w>
+            <w type="Ncd">對面</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">青山</w>
+            <w type="Na">素食</w>
+            <w type="I">唷</w>
+         </s>
+      </comment>
+      <comment author="alan23273850" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="gruenherz" c_type="pos">
+         <s>
+            <w type="Nc">應力所</w>
+            <w type="Nc">週邊</w>
+            <w type="V_2">有</w>
+            <w type="Na">香蕉</w>
+            <w type="Cab">等</w>
+            <w type="Na">果樹</w>
+         </s>
+      </comment>
+      <comment author="perry429" c_type="neg">
+         <s>
+            <w type="VH">嘔</w>
+         </s>
+      </comment>
+      <comment author="sincere77" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="VC">整理</w>
+         </s>
+      </comment>
+      <comment author="chamber" c_type="pos">
+         <s>
+            <w type="V_2">有</w>
+            <w type="D">沒</w>
+            <w type="V_2">有</w>
+            <w type="Na">素食</w>
+            <w type="VH">友善</w>
+            <w type="Nc">餐廳</w>
+            <w type="DE">的</w>
+            <w type="Na">地圖</w>
+            <w type="FW">～</w>
+            <w type="VK">包括</w>
+            <w type="Neqa">其他</w>
+            <w type="V_2">有</w>
+            <w type="VD">提供</w>
+            <w type="Na">葷</w>
+            <w type="VH">素</w>
+            <w type="DE">的</w>
+            <w type="Nc">餐廳</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+         </s>
+      </comment>
+      <comment author="chamber" c_type="neu">
+         <s>
+            <w type="VA">許願</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </comment>
+      <comment author="andy3021515" c_type="pos">
+         <s>
+            <w type="FW">PUSH</w>
+         </s>
+      </comment>
+      <comment author="sctivcrmn" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="peter0987" c_type="pos">
+         <s>
+            <w type="FW">Ooh</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Cha</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Cha</w>
+            <w type="P">跟</w>
+            <w type="Neu">三</w>
+            <w type="Nf">個</w>
+            <w type="Na">傻瓜</w>
+            <w type="D">好像</w>
+            <w type="VF">停止</w>
+            <w type="VA">營業</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

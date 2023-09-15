@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">IsonaEi (生科小熊貓)</metadata>
+      <metadata name="post_id">M.1590646915.A.4D1</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] 關於投票的地點</metadata>
+   </teiHeader>
+   <text>
+      <body author="IsonaEi (生科小熊貓)">
+         <s>
+            <w type="FW">MD</w>
+            <w type="SHI">是</w>
+            <w type="D">沒有</w>
+            <w type="VC">準備</w>
+            <w type="Na">雨備</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="Na">雨</w>
+            <w type="VC">下</w>
+            <w type="D">那麼</w>
+            <w type="VH">大</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">地</w>
+            <w type="Ncd">上</w>
+            <w type="D">都</w>
+            <w type="SHI">是</w>
+            <w type="VH">積水</w>
+         </s>
+         <s>
+            <w type="Na">人</w>
+            <w type="Caa">和</w>
+            <w type="Na">票</w>
+            <w type="D">都</w>
+            <w type="VH">濕答答</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">蓋</w>
+            <w type="DE">的</w>
+            <w type="Na">印</w>
+            <w type="D">都</w>
+            <w type="P">被</w>
+            <w type="Na">水</w>
+            <w type="VC">弄糊</w>
+            <w type="Di">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">這樣</w>
+            <w type="D">會不會</w>
+            <w type="P">被</w>
+            <w type="VG">當</w>
+            <w type="Na">無效票</w>
+            <w type="T">啊</w>
+         </s>
+         <s>
+            <w type="P">像</w>
+            <w type="Nd">去年</w>
+            <w type="VH">一樣</w>
+            <w type="VC">借好</w>
+            <w type="Nc">室</w>
+            <w type="Ncd">內</w>
+            <w type="Na">場地</w>
+            <w type="SHI">是</w>
+            <w type="V_2">有</w>
+            <w type="D">那麼</w>
+            <w type="VH">困難</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </body>
+      <title author="IsonaEi (生科小熊貓)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">關於</w>
+            <w type="VA">投票</w>
+            <w type="DE">的</w>
+            <w type="Na">地點</w>
+         </s>
+      </title>
+      <comment author="TeTe" c_type="pos">
+         <s>
+            <w type="Caa">還</w>
+            <w type="V_2">有</w>
+            <w type="D">去</w>
+            <w type="VA">投票</w>
+            <w type="T">歐</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Nep">這</w>
+            <w type="Nf">種</w>
+            <w type="Na">學生</w>
+            <w type="VA">自治</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="P">比</w>
+            <w type="Nh">誰</w>
+            <w type="Na">票數</w>
+            <w type="VH">低</w>
+            <w type="DE">的</w>
+            <w type="T">嗎</w>
+            <w type="FW">=</w>
+            <w type="Neu"> =</w>
+         </s>
+      </comment>
+      <comment author="tom282f3" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="D">也</w>
+            <w type="Dfa">很</w>
+            <w type="VH">好奇</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">去年</w>
+            <w type="D">都</w>
+            <w type="VCL">在</w>
+            <w type="Nc">室</w>
+            <w type="Ncd">內</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">今年</w>
+            <w type="D">怎麼</w>
+            <w type="VG">變成</w>
+            <w type="Nc">室</w>
+            <w type="Ncd">外</w>
+         </s>
+      </comment>
+      <comment author="cuteemo" c_type="neu">
+         <s>
+            <w type="Nc">應力所</w>
+            <w type="DE">的</w>
+            <w type="P">在</w>
+            <w type="Nc">室</w>
+            <w type="Ncd">內</w>
+            <w type="FW">ㄟ</w>
+         </s>
+      </comment>
+      <comment author="nodnarb1027" c_type="pos">
+         <s>
+            <w type="Nc">醫學院</w>
+            <w type="VC">選</w>
+            <w type="DE">的</w>
+            <w type="Na">場地</w>
+            <w type="VJ">超鳥</w>
+         </s>
+      </comment>
+      <comment author="hakka5566" c_type="pos">
+         <s>
+            <w type="Na">水源</w>
+            <w type="Nc">校區</w>
+            <w type="VJ">沒</w>
+            <w type="Na">票點</w>
+            <w type="D">真的</w>
+            <w type="VH">爛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">沒空</w>
+            <w type="VCL">去</w>
+            <w type="Nc">總區</w>
+            <w type="T">啦</w>
+         </s>
+      </comment>
+      <comment author="hsnuTARDIS" c_type="neu">
+         <s>
+            <w type="VC">設</w>
+            <w type="P">在</w>
+            <w type="Nc">室</w>
+            <w type="Ncd">外</w>
+            <w type="SHI">是</w>
+            <w type="P">為</w>
+            <w type="Di">了</w>
+            <w type="VC">配合</w>
+            <w type="Nc">學校</w>
+            <w type="VA">防疫</w>
+            <w type="Na">措施</w>
+            <w type="PERIODCATEGORY">...</w>
+            <w type="FW">QQ</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

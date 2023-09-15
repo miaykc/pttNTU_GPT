@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">a80568911 (SuckyBalls)</metadata>
+      <metadata name="post_id">M.1672202081.A.B2F</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 線索很少 可能是戰爭片</metadata>
+   </teiHeader>
+   <text>
+      <body author="a80568911 (SuckyBalls)">
+         <s>
+            <w type="VA">上班</w>
+            <w type="D">突然</w>
+            <w type="VE">想到</w>
+            <w type="DE">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">記憶</w>
+            <w type="Dfa">有點</w>
+            <w type="VH">久遠</w>
+         </s>
+         <s>
+            <w type="Da">只</w>
+            <w type="VK">記得</w>
+            <w type="D">大概</w>
+            <w type="SHI">是</w>
+            <w type="VE">講</w>
+            <w type="Nb">A</w>
+            <w type="DE">地</w>
+            <w type="Na">戰爭</w>
+            <w type="FW">B</w>
+            <w type="DE">地</w>
+            <w type="D">來</w>
+            <w type="VC">幫</w>
+            <w type="VC">打</w>
+         </s>
+         <s>
+            <w type="Dk">結果</w>
+            <w type="Na">戰爭</w>
+            <w type="VC">打到</w>
+            <w type="Neqa">一半</w>
+            <w type="FW">B</w>
+            <w type="Nc">國</w>
+            <w type="D">就</w>
+            <w type="VHC">中離</w>
+            <w type="Di">了</w>
+         </s>
+         <s>
+            <w type="Nc">B國</w>
+            <w type="Na">士兵</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="D">好像</w>
+            <w type="SHI">是</w>
+            <w type="Na">男</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="P">被</w>
+            <w type="VC">撤走</w>
+            <w type="Ng">之前</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="VE">講</w>
+            <w type="Neqa">一些</w>
+            <w type="Nh">我</w>
+            <w type="Dfa">很</w>
+            <w type="VH">羞愧</w>
+            <w type="Dfa">很</w>
+            <w type="VK">抱歉</w>
+            <w type="Cab">之類</w>
+            <w type="DE">的</w>
+            <w type="Na">台詞</w>
+         </s>
+         <s>
+            <w type="Da">只</w>
+            <w type="VK">記得</w>
+            <w type="VH">這樣</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">因為</w>
+            <w type="Na">印象</w>
+            <w type="D">不</w>
+            <w type="VH">深</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">感覺</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Nes">近</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">年</w>
+            <w type="DE">的</w>
+            <w type="Na">片</w>
+         </s>
+         <s>
+            <w type="VK">感謝</w>
+         </s>
+      </body>
+      <title author="a80568911 (SuckyBalls)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問</w>
+            <w type="Na">片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">線索</w>
+            <w type="VH">很少</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">可能</w>
+            <w type="SHI">是</w>
+            <w type="Na">戰爭片</w>
+         </s>
+      </title>
+      <comment author="BF109Pilot" c_type="pos">
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">男女</w>
+            <w type="D">一起</w>
+            <w type="VA">洗澡</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有的話</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Na">星艦</w>
+            <w type="Na">戰將</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">X</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+      <comment author="ivorysoap" c_type="neu">
+         <s>
+            <w type="Nb">盧旺達</w>
+            <w type="VH">大</w>
+            <w type="Nc">飯店</w>
+         </s>
+      </comment>
+      <comment author="matchkiwi" c_type="pos">
+         <s>
+            <w type="Nc">盧安達</w>
+            <w type="Nc">飯店</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VC">撤走</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="Nb">維和</w>
+            <w type="Na">部隊</w>
+         </s>
+      </comment>
+      <comment author="ghostl40809" c_type="neu">
+         <s>
+            <w type="SHI">是</w>
+            <w type="Nb">維和</w>
+            <w type="Na">部隊</w>
+            <w type="T">嗎</w>
+            <w type="Caa">還是</w>
+            <w type="Na">媒體</w>
+            <w type="Na">記者群</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="a80568911" c_type="neu">
+         <s>
+            <w type="VE">想</w>
+            <w type="Di">起來</w>
+            <w type="T">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">盧安達</w>
+            <w type="Nc">飯店</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VJ">沒</w>
+            <w type="Na">錯</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">看來</w>
+            <w type="Nh">我</w>
+            <w type="Neqa">很多</w>
+            <w type="Na">東西</w>
+            <w type="VJ">記錯</w>
+         </s>
+      </comment>
+      <comment author="a80568911" c_type="neu">
+         <s>
+            <w type="T">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">感謝</w>
+            <w type="Nh">各位</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

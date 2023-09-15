@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">irenYujing (芋津)</metadata>
+      <metadata name="post_id">M.1680782488.A.510</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[失物] 總圖B1wifi</metadata>
+   </teiHeader>
+   <text>
+      <body author="irenYujing (芋津)">
+         <s>
+            <w type="Na">物品</w>
+            <w type="Na">名稱</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">B1</w>
+            <w type="Nc">自習室</w>
+            <w type="FW">WIFI</w>
+         </s>
+         <s>
+            <w type="VH">遺失</w>
+            <w type="FW">/</w>
+            <w type="VC">拾獲</w>
+            <w type="Na">地點</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">B1A</w>
+            <w type="Nc">區</w>
+         </s>
+         <s>
+            <w type="VH">遺失</w>
+            <w type="FW">/</w>
+            <w type="VC">拾獲</w>
+            <w type="Na">時間</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nd">晚上</w>
+            <w type="A">尖峰</w>
+            <w type="Na">時間</w>
+         </s>
+         <s>
+            <w type="Na">物品</w>
+            <w type="VC">描述</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VC">看</w>
+            <w type="FW">COOL</w>
+            <w type="Na">影片</w>
+            <w type="Dfa">很</w>
+            <w type="VK">需要</w>
+            <w type="DE">的</w>
+            <w type="VHC">穩定</w>
+            <w type="Na">網路</w>
+         </s>
+         <s>
+            <w type="Nv">聯絡</w>
+            <w type="Na">方式</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Neqa">其他</w>
+            <w type="VE">說明</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">人</w>
+            <w type="Neqa">很多</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="D">好像</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="VH">這樣</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">上</w>
+            <w type="Na">學期</w>
+            <w type="Nd">期末</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="VH">同樣</w>
+            <w type="Na">情形</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/zg</w>
+            <w type="FW">TZVSe.png</w>
+         </s>
+      </body>
+      <title author="irenYujing (芋津)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">失物</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">總圖</w>
+            <w type="FW">B1</w>
+            <w type="FW">wifi</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

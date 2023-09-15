@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">lovemeorhim (黑眼星人)</metadata>
+      <metadata name="post_id">M.1675242642.A.B46</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[失物] 獸醫系陳同學學生證</metadata>
+   </teiHeader>
+   <text>
+      <body author="lovemeorhim (黑眼星人)">
+         <s>
+            <w type="Nc">宜蘭</w>
+            <w type="Nc">抹茶山</w>
+            <w type="Na">步道</w>
+            <w type="VC">拾獲</w>
+         </s>
+         <s>
+            <w type="Nc">獸醫系</w>
+            <w type="FW">B07</w>
+            <w type="Nb">陳</w>
+            <w type="Na">同學</w>
+            <w type="Na">學生證</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/iDU1iBn.jpg</w>
+         </s>
+         <s>
+            <w type="VF">請</w>
+            <w type="Na">站內信</w>
+            <w type="Caa">或</w>
+            <w type="Na">水球</w>
+            <w type="Nh">我</w>
+         </s>
+      </body>
+      <title author="lovemeorhim (黑眼星人)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">失物</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">獸醫系</w>
+            <w type="Nb">陳</w>
+            <w type="Na">同學</w>
+            <w type="Na">學生證</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

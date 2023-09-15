@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Haeniel (路人甲)</metadata>
+      <metadata name="post_id">M.1595085989.A.A38</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 新光影城網路訂票卡住</metadata>
+   </teiHeader>
+   <text>
+      <body author="Haeniel (路人甲)">
+         <s>
+            <w type="Nd">今天</w>
+            <w type="Da">剛好</w>
+            <w type="VA">來</w>
+            <w type="Nc">桃園</w>
+            <w type="VC">玩</w>
+            <w type="VE">想</w>
+            <w type="VA">朝聖</w>
+         </s>
+         <s>
+            <w type="Nb">新光</w>
+            <w type="Nc">影城</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="V_2">有</w>
+            <w type="Na">床</w>
+            <w type="DE">的</w>
+            <w type="Nc">影廳</w>
+         </s>
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="VC">訂</w>
+            <w type="Na">票</w>
+            <w type="D">一直</w>
+            <w type="VK">卡在</w>
+            <w type="VC">選擇</w>
+            <w type="Na">套餐</w>
+            <w type="Ncd">那邊</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="V_2">有</w>
+            <w type="VH">相同</w>
+            <w type="Na">問題</w>
+            <w type="T">嗎</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> iPhone</w>
+         </s>
+      </body>
+      <title author="Haeniel (路人甲)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">新光影城</w>
+            <w type="Na">網路</w>
+            <w type="Na">訂票卡</w>
+            <w type="VCL">住</w>
+         </s>
+      </title>
+      <comment author="speed2" c_type="pos">
+         <s>
+            <w type="VF">試</w>
+            <w type="Nv">營運</w>
+            <w type="Na">期間</w>
+            <w type="VJ">沒有</w>
+            <w type="Na">餐點</w>
+            <w type="T">吧</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="VH">直接</w>
+            <w type="VCL">跳過</w>
+            <w type="D">就</w>
+            <w type="D">可以</w>
+            <w type="VC">訂</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="winnie30891" c_type="pos">
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">餐點</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">好像</w>
+            <w type="SHI">是</w>
+            <w type="Neqa">滿</w>
+            <w type="Nc">廳</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但</w>
+            <w type="Na">系統</w>
+            <w type="D">沒</w>
+            <w type="VC">更新</w>
+            <w type="Cbb">所以</w>
+            <w type="VC">訂不了</w>
+         </s>
+      </comment>
+      <comment author="lalalapoint" c_type="pos">
+         <s>
+            <w type="SHI">是</w>
+            <w type="FW"> APP </w>
+            <w type="V_2">有</w>
+            <w type="Na">問題</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">換成</w>
+            <w type="Na">筆電</w>
+            <w type="D">就</w>
+            <w type="D">可以</w>
+            <w type="VC">訂</w>
+            <w type="Na">票</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="lalalapoint" c_type="neu">
+         <s>
+            <w type="Cbb">但</w>
+            <w type="Na">餐點</w>
+            <w type="VD">提供</w>
+            <w type="DE">的</w>
+            <w type="D">不</w>
+            <w type="VH">優</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="Nd">週一</w>
+            <w type="Nd">平日</w>
+            <w type="Nd">晚</w>
+            <w type="VC">拿到</w>
+            <w type="Na">爆米花</w>
+            <w type="FW"> + </w>
+            <w type="A">瓶裝</w>
+         </s>
+      </comment>
+      <comment author="lalalapoint" c_type="neu">
+         <s>
+            <w type="Na">蘋果汁</w>
+            <w type="FW"> + </w>
+            <w type="Neu">一</w>
+            <w type="Na">碟</w>
+            <w type="VH">小</w>
+            <w type="Na">零嘴</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VH">小</w>
+            <w type="Na">饅頭</w>
+            <w type="FW">+</w>
+            <w type="Na">飛機</w>
+            <w type="Na">餅乾</w>
+            <w type="FW">+</w>
+            <w type="Na">巧克力</w>
+            <w type="FW">+</w>
+            <w type="Na">軟糖</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+      <comment author="lalalapoint" c_type="neu">
+         <s>
+            <w type="FW">+ </w>
+            <w type="Na">麵包</w>
+         </s>
+      </comment>
+      <comment author="lalalapoint" c_type="neu">
+         <s>
+            <w type="VG">號稱</w>
+            <w type="VH">無限</w>
+            <w type="VD">供應</w>
+            <w type="DE">的</w>
+            <w type="Na">熱飲</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">僅有</w>
+            <w type="VHC">熱</w>
+            <w type="Na">茶</w>
+            <w type="Caa">與</w>
+            <w type="Na">咖啡</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="VD">提供</w>
+            <w type="Na">奶精</w>
+            <w type="Caa">與</w>
+         </s>
+      </comment>
+      <comment author="lalalapoint" c_type="neu">
+         <s>
+            <w type="Na">糖</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ccugoo (小麥)</metadata>
+      <metadata name="post_id">M.1656051195.A.266</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[心情] 雷雨交加</metadata>
+   </teiHeader>
+   <text>
+      <body author="ccugoo (小麥)">
+         <s>
+            <w type="Nc">大安區</w>
+            <w type="Nd">現在</w>
+            <w type="Na">雷聲</w>
+            <w type="VH">不斷</w>
+         </s>
+         <s>
+            <w type="Ncd">外面</w>
+            <w type="Na">雨</w>
+            <w type="Dfa">超</w>
+            <w type="VH">大</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="P">在</w>
+            <w type="Nc">學校</w>
+            <w type="DE">的</w>
+            <w type="Na">朋朋</w>
+         </s>
+         <s>
+            <w type="VK">注意</w>
+            <w type="VH">安全</w>
+         </s>
+      </body>
+      <title author="ccugoo (小麥)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">心情</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">雷雨</w>
+            <w type="VH">交加</w>
+         </s>
+      </title>
+      <comment author="cuteSquirrel" c_type="neu">
+         <s>
+            <w type="Nb">豪</w>
+         </s>
+      </comment>
+      <comment author="mark0204" c_type="neg">
+         <s>
+            <w type="I">喔</w>
+         </s>
+      </comment>
+      <comment author="stoiclogic" c_type="pos">
+         <s>
+            <w type="VHC">暖</w>
+         </s>
+      </comment>
+      <comment author="Xperia" c_type="neu">
+         <s>
+            <w type="VHC">暖</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

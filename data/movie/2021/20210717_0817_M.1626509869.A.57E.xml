@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ap4619 (Too)</metadata>
+      <metadata name="post_id">M.1626509869.A.57E</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] MIB beatbox橋段</metadata>
+   </teiHeader>
+   <text>
+      <body author="ap4619 (Too)">
+         <s>
+            <w type="VH">單純</w>
+            <w type="VH">好奇</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/lr7pygg</w>
+            <w type="FW">Tmm</w>
+            <w type="ETCCATEGORY">Y</w>
+         </s>
+         <s>
+            <w type="Neu">1</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">47</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="VJ">夾雜</w>
+            <w type="DE">的</w>
+            <w type="Na">笑聲</w>
+         </s>
+         <s>
+            <w type="SHI">是</w>
+            <w type="FW">beatbox</w>
+            <w type="D">真的</w>
+            <w type="VB">做</w>
+            <w type="DE">得</w>
+            <w type="VA">出來</w>
+            <w type="T">的</w>
+            <w type="T">嗎</w>
+         </s>
+         <s>
+            <w type="Caa">還是</w>
+            <w type="SHI">是</w>
+            <w type="Nd">後製</w>
+            <w type="VA">出來</w>
+            <w type="T">的</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="SHI">是</w>
+            <w type="D">真的</w>
+            <w type="Nep">那</w>
+            <w type="D">也</w>
+            <w type="Dfa">太</w>
+            <w type="VH">厲害</w>
+            <w type="T">了</w>
+            <w type="T">吧</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </body>
+      <title author="ap4619 (Too)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> MIB beatbox</w>
+            <w type="Na">橋段</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

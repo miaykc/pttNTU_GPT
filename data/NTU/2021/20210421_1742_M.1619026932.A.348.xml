@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">karmel (Stanley)</metadata>
+      <metadata name="post_id">M.1619026932.A.348</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 現在才發現有廢文週</metadata>
+   </teiHeader>
+   <text>
+      <body author="karmel (Stanley)">
+         <s>
+            <w type="P">如</w>
+            <w type="Na">題</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">現在</w>
+            <w type="Da">才</w>
+            <w type="VE">發現</w>
+            <w type="V_2">有</w>
+            <w type="Nd">廢文週</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="D">就</w>
+            <w type="VH">這樣</w>
+         </s>
+      </body>
+      <title author="karmel (Stanley)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">現在</w>
+            <w type="Da">才</w>
+            <w type="VE">發現</w>
+            <w type="V_2">有</w>
+            <w type="Na">廢文週</w>
+         </s>
+      </title>
+      <comment author="maozz" c_type="pos">
+         <s>
+            <w type="FW">XD</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="VJ">歡迎</w>
+         </s>
+      </comment>
+      <comment author="taipoo" c_type="neu">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="VJ">專屬</w>
+            <w type="A">廢文</w>
+            <w type="Nd">周</w>
+            <w type="FW">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

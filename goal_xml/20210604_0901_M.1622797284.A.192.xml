@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">olmtw (olmtw)</metadata>
+      <metadata name="post_id">M.1622797284.A.192</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 水流成河！台大時雨量209毫米破紀錄 北</metadata>
+   </teiHeader>
+   <text>
+      <body author="olmtw (olmtw)">
+         <s>
+            <w type="Na">水流成</w>
+            <w type="Na">河</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="Nc">台大</w>
+            <w type="Na">時</w>
+            <w type="Na">雨量</w>
+            <w type="Neu">209</w>
+            <w type="Nf">毫米</w>
+            <w type="VA">破紀錄</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">北市</w>
+            <w type="Na">災害</w>
+            <w type="VA">應變</w>
+            <w type="Nc">中心</w>
+            <w type="Na">一</w>
+            <w type="Na">級</w>
+            <w type="VC">開設</w>
+         </s>
+         <s>
+            <w type="Na">新頭殼</w>
+            <w type="FW">newtalk</w>
+            <w type="FW"> | </w>
+            <w type="Nb">顏得智</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">綜合</w>
+            <w type="VE">報導</w>
+         </s>
+         <s>
+            <w type="VC">發布</w>
+            <w type="FW"> 2021.06.04</w>
+            <w type="FW"> | 14</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">31</w>
+         </s>
+         <s>
+            <w type="VJ">受到</w>
+            <w type="Na">彩雲</w>
+            <w type="Na">颱風</w>
+            <w type="Caa">及</w>
+            <w type="Na">梅雨</w>
+            <w type="Na">鋒面</w>
+            <w type="VC">接近</w>
+            <w type="VC">影響</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">今</w>
+            <w type="Nd">(12)</w>
+            <w type="Nd">日</w>
+            <w type="Nd">中午</w>
+            <w type="Nd">12時</w>
+            <w type="Ng">起</w>
+            <w type="Nc">北市</w>
+            <w type="D">即</w>
+            <w type="VL">開始</w>
+            <w type="V_2">有</w>
+            <w type="Na">持續性</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="VH">強</w>
+            <w type="VA">對流</w>
+            <w type="VC">發展</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">市中心</w>
+            <w type="V_2">有</w>
+            <w type="Nd">瞬間</w>
+            <w type="VH">強</w>
+            <w type="VA">降雨</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">文山</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">大安</w>
+            <w type="Caa">及</w>
+            <w type="Nc">信義區</w>
+            <w type="Ng">時</w>
+            <w type="Na">雨量</w>
+            <w type="D">均</w>
+            <w type="VJ">超過</w>
+            <w type="Neu">100</w>
+            <w type="Nf">毫米</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">測站</w>
+            <w type="Dfa">更</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Na">小時</w>
+            <w type="VC">突破</w>
+            <w type="Neu">200</w>
+            <w type="Nf">毫米</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台北市</w>
+            <w type="Nc">大安區</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nc">測站</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">於</w>
+            <w type="Neu">13時</w>
+            <w type="Caa">至</w>
+            <w type="Neu">14</w>
+            <w type="Ng">時</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">一</w>
+            <w type="Na">小時</w>
+            <w type="Na">雨量</w>
+            <w type="VJ">達到</w>
+            <w type="Neu">209</w>
+            <w type="Nf">毫米</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">若</w>
+            <w type="VC">累積</w>
+         </s>
+         <s>
+            <w type="Na">雨量</w>
+            <w type="Na">數字</w>
+            <w type="VG">為</w>
+            <w type="VH">真</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">將</w>
+            <w type="VC">突破</w>
+            <w type="Nc">台北市</w>
+            <w type="Caa">以及</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">本島</w>
+            <w type="Nc">測站</w>
+            <w type="Nd">整點</w>
+            <w type="Ng">時</w>
+            <w type="Na">雨量</w>
+            <w type="Na">紀錄</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nc">水利署</w>
+            <w type="D">已</w>
+            <w type="VE">發布</w>
+         </s>
+         <s>
+            <w type="Nc">南港區</w>
+            <w type="VA">淹水</w>
+            <w type="Neu">一</w>
+            <w type="Nf">級</w>
+            <w type="VA">警戒</w>
+            <w type="Caa">及</w>
+            <w type="Nc">松山區</w>
+            <w type="Neu">一</w>
+            <w type="Nf">級</w>
+            <w type="VA">警戒</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nc">水利處</w>
+            <w type="Nd">稍早</w>
+            <w type="VC">通知</w>
+            <w type="Nc">南港區</w>
+            <w type="Nc">南深</w>
+            <w type="Na">陸閘門</w>
+            <w type="Cbb">因為</w>
+         </s>
+         <s>
+            <w type="VCL">逼近</w>
+            <w type="Nv">警戒</w>
+            <w type="Na">水位</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可能</w>
+            <w type="D">隨時</w>
+            <w type="VC">關閉</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">水利處</w>
+            <w type="D">也</w>
+            <w type="D">已</w>
+            <w type="VC">通知</w>
+            <w type="Nes">各</w>
+            <w type="Nc">區里</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">因</w>
+            <w type="Nd">目前</w>
+            <w type="Nd">瞬間</w>
+            <w type="VH">強</w>
+            <w type="VA">降雨</w>
+            <w type="VH">遠</w>
+            <w type="VJ">大於</w>
+            <w type="Na">下水道</w>
+            <w type="DE">的</w>
+            <w type="Na">容量</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+            <w type="VH">積水</w>
+            <w type="Na">狀況</w>
+         </s>
+         <s>
+            <w type="VJ">發生</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">如</w>
+            <w type="V_2">有</w>
+            <w type="Nc">地下室</w>
+            <w type="DE">的</w>
+            <w type="D">應</w>
+            <w type="D">盡速</w>
+            <w type="VC">關上</w>
+            <w type="VH">防水</w>
+            <w type="Na">閘門</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VHC">減少</w>
+            <w type="Na">積水</w>
+            <w type="VCL">進入</w>
+            <w type="Nc">地下室</w>
+            <w type="VG">造成</w>
+            <w type="Na">損失</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">水利署</w>
+            <w type="D">亦</w>
+            <w type="VE">通報</w>
+            <w type="Nc">萬華區</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">中正區</w>
+            <w type="VG">提升為</w>
+            <w type="VA">淹水</w>
+            <w type="Neu">一</w>
+            <w type="Na">級</w>
+            <w type="VA">警戒</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VJ">因應</w>
+            <w type="Neu">0604</w>
+            <w type="Nd">午後</w>
+            <w type="VH">強</w>
+            <w type="VA">降雨</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台北</w>
+         </s>
+         <s>
+            <w type="Nc">市</w>
+            <w type="Na">災害</w>
+            <w type="VA">應變</w>
+            <w type="Nc">中心</w>
+            <w type="Na">一</w>
+            <w type="Na">級</w>
+            <w type="VC">開設</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">消防局</w>
+            <w type="Cab">等</w>
+            <w type="Neu">29</w>
+            <w type="Nf">個</w>
+            <w type="Na">單位</w>
+            <w type="D">立即</w>
+            <w type="VF">派員</w>
+            <w type="VCL">進駐</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">各</w>
+            <w type="Nc">區</w>
+            <w type="Na">災害</w>
+            <w type="VA">應變</w>
+            <w type="Nc">中心</w>
+         </s>
+         <s>
+            <w type="D">亦</w>
+            <w type="Nd">同時</w>
+            <w type="VC">成立</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neqa">全</w>
+            <w type="Nc">國</w>
+            <w type="A">局屬</w>
+            <w type="Nc">測站</w>
+            <w type="Neqa">整點</w>
+            <w type="Ng">時</w>
+            <w type="Na">雨量</w>
+            <w type="Na">紀錄</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">發生</w>
+            <w type="P">於</w>
+            <w type="Nd">1974年</w>
+            <w type="Nd">7月</w>
+            <w type="Nd">6日</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">於</w>
+            <w type="Nc">澎湖</w>
+            <w type="Nc">測站</w>
+            <w type="Neu">一</w>
+            <w type="Na">小時</w>
+            <w type="VA">降下</w>
+         </s>
+         <s>
+            <w type="Neu">214</w>
+            <w type="Nf">毫米</w>
+            <w type="DE">的</w>
+            <w type="Na">短時</w>
+            <w type="VH">強</w>
+            <w type="VA">降雨</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">不過</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nc">測站</w>
+            <w type="D">並非</w>
+            <w type="VG">屬於</w>
+            <w type="Nc">中央</w>
+            <w type="Nc">氣象局</w>
+            <w type="A">局屬</w>
+            <w type="Nc">測站</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//newtalk.tw/news/view/2021-06</w>
+            <w type="DASHCATEGORY">-04/584202</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Google</w>
+            <w type="FW"> Chrome</w>
+            <w type="FW"> on</w>
+            <w type="FW"> Windows</w>
+            <w type="FW"> 10</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Pro</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="olmtw (olmtw)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="DASHCATEGORY"> 水</w>
+            <w type="VG">流成</w>
+            <w type="Na">河</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="Nc">台大</w>
+            <w type="Ng">時</w>
+            <w type="Na">雨量</w>
+            <w type="Neu">209</w>
+            <w type="Nf">毫米</w>
+            <w type="VA">破紀錄</w>
+            <w type="DASHCATEGORY"> 北</w>
+         </s>
+      </title>
+      <comment author="eunhailoveu" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="Nb">柯</w>
+            <w type="ETCCATEGORY">P</w>
+         </s>
+      </comment>
+      <comment author="kosoj6" c_type="pos">
+         <s>
+            <w type="VH">無聊</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="VC">要</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="ChinaDogKMT" c_type="pos">
+         <s>
+            <w type="D">幹</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Nc">基隆路</w>
+            <w type="Na">機車</w>
+            <w type="VH">立體</w>
+            <w type="Nc">停車場</w>
+            <w type="VH">還好</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="whatzup1124" c_type="pos">
+         <s>
+            <w type="D">同</w>
+            <w type="VE">問</w>
+            <w type="Nc">樓上</w>
+            <w type="ETCCATEGORY">…</w>
+         </s>
+      </comment>
+      <comment author="mollusca" c_type="pos">
+         <s>
+            <w type="Nc">基隆路</w>
+            <w type="Nc">停車場</w>
+            <w type="VJ">沒</w>
+            <w type="Na">事</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="jzoethai" c_type="pos">
+         <s>
+            <w type="Nc">舟山河</w>
+            <w type="D">會</w>
+            <w type="VC">影響</w>
+            <w type="Nc">基隆路</w>
+            <w type="FW">ㄇ</w>
+         </s>
+      </comment>
+      <comment author="BASEGO" c_type="pos">
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/vaLJelj.jpg</w>
+         </s>
+      </comment>
+      <comment author="cwh0105" c_type="pos">
+         <s>
+            <w type="Nc">樓上</w>
+            <w type="Ncd">上</w>
+            <w type="V_2">有</w>
+            <w type="VE">聽</w>
+            <w type="Di">過</w>
+            <w type="Nc">基隆河</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="taipoo" c_type="neu">
+         <s>
+            <w type="D">可以</w>
+            <w type="VA">游泳</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

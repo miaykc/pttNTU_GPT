@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">cwh0105 (Ex咖哩棒)</metadata>
+      <metadata name="post_id">M.1624323996.A.D71</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 誰一百?</metadata>
+   </teiHeader>
+   <text>
+      <body author="cwh0105 (Ex咖哩棒)">
+         <s>
+            <w type="Na">考卷</w>
+            <w type="D">不</w>
+            <w type="VC">寫</w>
+            <w type="Na">名字</w>
+            <w type="T">喔</w>
+         </s>
+         <s>
+            <w type="D">還</w>
+            <w type="VC">考</w>
+            <w type="Neu">一百</w>
+            <w type="Nf">分</w>
+         </s>
+         <s>
+            <w type="Nh">誰</w>
+            <w type="Neu">一百</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="FW">ψcwh</w>
+            <w type="Neu">0105</w>
+            <w type="FW">      ◤ ◤◤  ◤ ◤ ◢◤ ◤ ◤◤◤   ◤    ◤◢      ◣   ◥   ◣▋</w>
+         </s>
+      </body>
+      <title author="cwh0105 (Ex咖哩棒)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">誰</w>
+            <w type="Neu">一百</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </title>
+      <comment author="Imotucc" c_type="neu">
+         <s>
+            <w type="Nc">五樓</w>
+         </s>
+      </comment>
+      <comment author="howard0113" c_type="pos">
+         <s>
+            <w type="D">卡卡</w>
+            <w type="VA">壓</w>
+            <w type="VA">哭</w>
+         </s>
+      </comment>
+      <comment author="chun10396974" c_type="pos">
+         <s>
+            <w type="D">卡卡</w>
+            <w type="VA">壓</w>
+            <w type="VA">哭</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="neu">
+         <s>
+            <w type="Nb">卷哥</w>
+            <w type="Nb">卷姊</w>
+         </s>
+      </comment>
+      <comment author="Imotucc" c_type="pos">
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="SHI">是</w>
+            <w type="Nh">誰</w>
+         </s>
+      </comment>
+      <comment author="Imotucc" c_type="neu">
+         <s>
+            <w type="I">幹</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">五樓</w>
+            <w type="Ncd">哪</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一百</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">五樓</w>
+            <w type="Nd">期末</w>
+            <w type="Na">報告</w>
+            <w type="D">根本</w>
+            <w type="D">不會</w>
+            <w type="VC">寫</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">費</w>
+            <w type="Na">文字山</w>
+         </s>
+      </comment>
+      <comment author="dannyko" c_type="pos">
+         <s>
+            <w type="I">齁</w>
+            <w type="VK">希裡</w>
+            <w type="Nep">那</w>
+            <w type="T">咧</w>
+         </s>
+      </comment>
+      <comment author="jason90814" c_type="pos">
+         <s>
+            <w type="Nb">卡卡西</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

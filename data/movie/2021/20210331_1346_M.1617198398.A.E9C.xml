@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">revanchist (revanchist)</metadata>
+      <metadata name="post_id">M.1617198398.A.E9C</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 請問兩部港片</metadata>
+   </teiHeader>
+   <text>
+      <body author="revanchist (revanchist)">
+         <s>
+            <w type="Neu">十幾二十幾</w>
+            <w type="Nd">年</w>
+            <w type="Ng">前</w>
+            <w type="Na">第四台</w>
+            <w type="VE">看到</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Da">只</w>
+            <w type="VK">記得</w>
+            <w type="Neqa">一些</w>
+            <w type="Na">片段</w>
+         </s>
+         <s>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="Na">港片</w>
+         </s>
+         <s>
+            <w type="Cbb">1</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+            <w type="COMMACATEGORY">,</w>
+         </s>
+         <s>
+            <w type="Na">某人</w>
+            <w type="P">對</w>
+            <w type="Na">某人</w>
+            <w type="VE">說</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">如果</w>
+            <w type="Nd">現在</w>
+            <w type="SHI">是</w>
+            <w type="VA">抗戰</w>
+            <w type="Ng">時</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">你</w>
+            <w type="D">一定</w>
+            <w type="SHI">是</w>
+            <w type="Na">漢奸</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+         <s>
+            <w type="Cbb">2</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Neu">第二</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+            <w type="COMMACATEGORY">,</w>
+         </s>
+         <s>
+            <w type="Nes">某</w>
+            <w type="Na">保安</w>
+            <w type="Na">人員</w>
+            <w type="Nd">夜晚</w>
+            <w type="VC">巡視</w>
+            <w type="Nc">表演廳</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">看到</w>
+            <w type="Neu">一</w>
+            <w type="Nf">台</w>
+            <w type="VH">大</w>
+            <w type="Na">鋼琴</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">坐下來</w>
+            <w type="VF">試</w>
+            <w type="Di">著</w>
+            <w type="VC">彈奏</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="FW"> revanchist</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="VC">轉錄</w>
+            <w type="P">至</w>
+            <w type="Na">看板</w>
+            <w type="FW"> HK-movie</w>
+            <w type="FW">                                  03/31 22</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">13</w>
+         </s>
+      </body>
+      <title author="revanchist (revanchist)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">請問</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">部</w>
+            <w type="Na">港片</w>
+         </s>
+      </title>
+      <comment author="natsunoumi" c_type="pos">
+         <s>
+            <w type="Neu">1</w>
+            <w type="SHI">是</w>
+            <w type="P">與</w>
+            <w type="Na">龍</w>
+            <w type="VA">共舞</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="D">還</w>
+            <w type="VE">說</w>
+            <w type="Nh">他</w>
+            <w type="V_2">有</w>
+            <w type="Nc">日本</w>
+            <w type="Na">血統</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

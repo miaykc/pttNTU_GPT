@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Balderston (Balderston)</metadata>
+      <metadata name="post_id">M.1668324497.A.C64</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈票］金馬影展</metadata>
+   </teiHeader>
+   <text>
+      <body author="Balderston (Balderston)">
+         <s>
+            <w type="Na">金馬</w>
+            <w type="Na">影展</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">張</w>
+            <w type="VD">送愛</w>
+            <w type="Na">影人</w>
+         </s>
+         <s>
+            <w type="Neu">11/15 </w>
+            <w type="Cbb">（</w>
+            <w type="Neu">二</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Neu">18</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">40</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="VL">愛</w>
+            <w type="VH">故我</w>
+            <w type="P">在</w>
+         </s>
+         <s>
+            <w type="Neu">第二</w>
+            <w type="Nf">排</w>
+            <w type="Ncd">中間</w>
+            <w type="DE">的</w>
+            <w type="Na">位子</w>
+         </s>
+         <s>
+            <w type="Na">意者</w>
+            <w type="Nc">站內信</w>
+            <w type="VD">索取</w>
+            <w type="VC">取</w>
+            <w type="Na">票</w>
+            <w type="Na">序號</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> iPhone</w>
+         </s>
+      </body>
+      <title author="Balderston (Balderston)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">］</w>
+            <w type="Na">金馬</w>
+            <w type="Na">影展</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

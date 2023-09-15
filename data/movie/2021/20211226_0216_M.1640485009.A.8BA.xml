@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">YuKinoBiki (孔夫己)</metadata>
+      <metadata name="post_id">M.1640485009.A.8BA</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">［贈票］蜘蛛人 無家日</metadata>
+   </teiHeader>
+   <text>
+      <body author="YuKinoBiki (孔夫己)">
+         <s>
+            <w type="Nc">林口</w>
+            <w type="Nc">威秀</w>
+            <w type="FW"> 12/26</w>
+            <w type="FW"> 10</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">30 </w>
+            <w type="Neu">兩</w>
+            <w type="Na">人</w>
+            <w type="Na">票</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="D">來不及</w>
+            <w type="VA">到場</w>
+            <w type="Caa">及</w>
+            <w type="VA">退票</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">所以</w>
+            <w type="VD">送出</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="D">能夠</w>
+            <w type="D">即時</w>
+            <w type="VCL">趕到</w>
+            <w type="DE">的</w>
+            <w type="Na">鄉民</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">儘快</w>
+            <w type="VA">站</w>
+            <w type="Ncd">內</w>
+            <w type="Nh">我</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> Be</w>
+            <w type="FW">PTT</w>
+         </s>
+      </body>
+      <title author="YuKinoBiki (孔夫己)">
+         <s>
+            <w type="PARENTHESISCATEGORY">［</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">］</w>
+            <w type="Na">蜘蛛人</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">無家日</w>
+         </s>
+      </title>
+      <comment author="YuKinoBiki" c_type="neu">
+         <s>
+            <w type="D">已</w>
+            <w type="VD">贈出</w>
+         </s>
+      </comment>
+      <comment author="pttnowash" c_type="pos">
+         <s>
+            <w type="VJ">剩</w>
+            <w type="Neu">13</w>
+            <w type="Nf">分鐘</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">對方</w>
+            <w type="SHI">是</w>
+            <w type="D">怎麼</w>
+            <w type="VD">交</w>
+            <w type="Na">票根</w>
+            <w type="VCL">趕到</w>
+            <w type="Nc">現場</w>
+            <w type="VA">看</w>
+            <w type="Na">電影</w>
+            <w type="T">的</w>
+            <w type="FW">@@</w>
+         </s>
+      </comment>
+      <comment author="Sparrow02002" c_type="pos">
+         <s>
+            <w type="D">可能</w>
+            <w type="Da">剛好</w>
+            <w type="P">在</w>
+            <w type="Nc">現場</w>
+            <w type="VC">買</w>
+            <w type="Na">票</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

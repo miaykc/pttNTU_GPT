@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">fantas99 (無一)</metadata>
+      <metadata name="post_id">M.1600616746.A.8A0</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">Re: [請益] 天能簡單一個觀念問題</metadata>
+   </teiHeader>
+   <text>
+      <body author="fantas99 (無一)">
+         <s>
+            <w type="Na">逆轉門</w>
+         </s>
+         <s>
+            <w type="VC">出口</w>
+            <w type="FW">   ^^     </w>
+            <w type="Nc">入口</w>
+         </s>
+         <s>
+            <w type="Na">窗</w>
+         </s>
+         <s>
+            <w type="FW">B     </w>
+            <w type="Na">窗</w>
+            <w type="FW">      A     ==&amp;gt; </w>
+            <w type="Cbb">如果</w>
+            <w type="FW">   A</w>
+            <w type="VJ">沒有</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">從</w>
+            <w type="Na">對照窗</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">看到</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">逆行</w>
+            <w type="DE">的</w>
+            <w type="Nh">自己</w>
+         </s>
+         <s>
+            <w type="D">也</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="DASHCATEGORY">B</w>
+            <w type="VJ">沒有</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">遇見</w>
+            <w type="VA">逆行</w>
+            <w type="DE">的</w>
+            <w type="ETCCATEGORY">A</w>
+         </s>
+         <s>
+            <w type="Dk">那麼</w>
+            <w type="FW"> A</w>
+            <w type="D">就</w>
+            <w type="D">不會</w>
+            <w type="VCL">進入</w>
+            <w type="Na">逆轉門</w>
+         </s>
+         <s>
+            <w type="Na">逆轉門</w>
+         </s>
+         <s>
+            <w type="VC">出口</w>
+            <w type="FW">   ^^     </w>
+            <w type="Nc">入口</w>
+         </s>
+         <s>
+            <w type="Na">窗</w>
+         </s>
+         <s>
+            <w type="Na">窗</w>
+            <w type="FW">      A B    ==&amp;gt; </w>
+            <w type="Cbb">如果</w>
+            <w type="FW"> A</w>
+            <w type="VCL">進入</w>
+            <w type="Na">逆轉門</w>
+         </s>
+         <s>
+            <w type="Dk">那麼</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">B</w>
+            <w type="VE">看到</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">順行</w>
+            <w type="DASHCATEGORY">A</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">前進</w>
+            <w type="P">往</w>
+            <w type="Nc">入口</w>
+         </s>
+         <s>
+            <w type="VA">逆行</w>
+            <w type="DASHCATEGORY">A</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">倒退</w>
+            <w type="P">往</w>
+            <w type="VC">出口</w>
+         </s>
+      </body>
+      <title author="fantas99 (無一)">
+         <s>
+            <w type="FW">Re</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">天</w>
+            <w type="D">能</w>
+            <w type="VH">簡單</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">觀念</w>
+            <w type="Na">問題</w>
+         </s>
+      </title>
+      <comment author="prawinra" c_type="pos">
+         <s>
+            <w type="Cbb">如</w>
+            <w type="VC">圖示</w>
+            <w type="Nes">同</w>
+            <w type="Na">空間</w>
+            <w type="Cbb">而</w>
+            <w type="Na">時間</w>
+            <w type="VH">反向</w>
+            <w type="DE">的</w>
+            <w type="FW"> A</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">是否</w>
+            <w type="P">與</w>
+            <w type="FW"> B </w>
+            <w type="SHI">是</w>
+            <w type="Nes">同</w>
+            <w type="Neu">一</w>
+            <w type="Na">人</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

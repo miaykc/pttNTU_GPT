@@ -1,0 +1,759 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Reewalker (報告饅頭班長不夠)</metadata>
+      <metadata name="post_id">M.1611809684.A.7E0</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 拍電影作遊戲 司法院天價1.2億元宣傳國</metadata>
+   </teiHeader>
+   <text>
+      <body author="Reewalker (報告饅頭班長不夠)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//udn.com/news/story/6656/5210456</w>
+         </s>
+         <s>
+            <w type="VC">拍</w>
+            <w type="Na">電影</w>
+            <w type="VC">作</w>
+            <w type="Na">遊戲</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">司法院</w>
+            <w type="Na">天價</w>
+            <w type="Neu">1.2億</w>
+            <w type="Nf">元</w>
+            <w type="VC">宣傳</w>
+            <w type="Na">國民</w>
+            <w type="Na">法官</w>
+            <w type="VB">挨轟</w>
+         </s>
+         <s>
+            <w type="Neu">2021-01-27 20</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">24 </w>
+            <w type="Nb">聯合報</w>
+            <w type="FW"> / </w>
+            <w type="Na">記者</w>
+            <w type="Nb">蔡佩芳</w>
+            <w type="FW">／</w>
+            <w type="Nc">台北</w>
+            <w type="D">即時</w>
+            <w type="VE">報導</w>
+         </s>
+         <s>
+            <w type="VJ">因應</w>
+            <w type="Na">國民</w>
+            <w type="Na">法官法</w>
+            <w type="Na">新制</w>
+            <w type="D">將</w>
+            <w type="P">在</w>
+            <w type="Neu">2003年</w>
+            <w type="VA">上路</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">司法院</w>
+            <w type="VC">編列</w>
+            <w type="VJ">高達</w>
+            <w type="Neu">1億2000萬</w>
+            <w type="Nf">元</w>
+            <w type="Na">預算</w>
+            <w type="VC">宣導</w>
+            <w type="Na">國民</w>
+            <w type="Na">法</w>
+            <w type="Na">官制</w>
+         </s>
+         <s>
+            <w type="Nf">度</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">宣傳</w>
+            <w type="Na">方式</w>
+            <w type="VK">包括</w>
+            <w type="VC">拍</w>
+            <w type="Na">電影</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">做</w>
+            <w type="Na">動畫</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">遊戲</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">國民黨</w>
+            <w type="Nc">立院</w>
+            <w type="Na">黨團</w>
+            <w type="VC">批評</w>
+            <w type="VH">敗家</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">要求</w>
+            <w type="Neqa">全數</w>
+            <w type="VC">刪除</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="P">經</w>
+         </s>
+         <s>
+            <w type="Na">朝野</w>
+            <w type="VE">協商</w>
+            <w type="Ng">後</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">減列</w>
+            <w type="Neu">5000萬</w>
+            <w type="Nf">元</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VF">要求</w>
+            <w type="Nc">司法院</w>
+            <w type="VC">提出</w>
+            <w type="Na">專案</w>
+            <w type="Na">報告</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">立法院</w>
+            <w type="Na">朝野</w>
+            <w type="VE">協商</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">中華民國</w>
+            <w type="Nd">110年度</w>
+            <w type="Nc">中央政府</w>
+            <w type="Na">總預算案</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Na">國民黨團</w>
+            <w type="VE">指出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">司法院</w>
+            <w type="VC">編列</w>
+            <w type="VH">鉅</w>
+         </s>
+         <s>
+            <w type="Na">額</w>
+            <w type="Na">預算</w>
+            <w type="VK">包括</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">2000萬</w>
+            <w type="Nf">元</w>
+            <w type="VC">開發</w>
+            <w type="Na">電影</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">影音</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">動畫</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">遊戲</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">手游</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">APP</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">桌游</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">實境</w>
+            <w type="Na">遊戲</w>
+            <w type="Cab">等</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+         </s>
+         <s>
+            <w type="Neu">2000萬</w>
+            <w type="Nf">元</w>
+            <w type="Caa">與</w>
+            <w type="Na">網紅</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">網紅</w>
+            <w type="Na">節目</w>
+            <w type="VH">合作</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Neu">900萬</w>
+            <w type="Nf">元</w>
+            <w type="VC">找</w>
+            <w type="Na">代言人</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">IP</w>
+            <w type="Na">人物</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">舉辦</w>
+            <w type="Na">記者會</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Neu">3900萬</w>
+            <w type="Nf">元</w>
+            <w type="P">在</w>
+         </s>
+         <s>
+            <w type="Na">電視</w>
+            <w type="Na">媒體</w>
+            <w type="Na">廣告</w>
+            <w type="VC">託播</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VH">合作</w>
+            <w type="Na">電視</w>
+            <w type="Na">節目</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">電視</w>
+            <w type="Na">電影</w>
+            <w type="Na">紀錄片</w>
+            <w type="Cab">等</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">國民黨</w>
+            <w type="VA">提案</w>
+            <w type="VE">指出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">鉅額</w>
+            <w type="VC">宣傳</w>
+            <w type="Na">預算</w>
+            <w type="VH">直接</w>
+            <w type="VA">打臉</w>
+            <w type="Nc">司法院</w>
+            <w type="Nd">當初</w>
+            <w type="VG">稱</w>
+            <w type="Neqa">八成</w>
+            <w type="Na">國人</w>
+            <w type="VC">支持</w>
+            <w type="Na">國民</w>
+            <w type="Na">法官</w>
+            <w type="Na">政策</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">若</w>
+            <w type="Na">民</w>
+         </s>
+         <s>
+            <w type="VC">調</w>
+            <w type="VH">屬實</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不需</w>
+            <w type="VC">編列</w>
+            <w type="Dfa">這般</w>
+            <w type="VH">龐大</w>
+            <w type="Na">預算</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">且</w>
+            <w type="Neu">1億2000萬</w>
+            <w type="Nf">元</w>
+            <w type="VL">用來</w>
+            <w type="VC">宣傳</w>
+            <w type="Na">國民</w>
+            <w type="Na">法官</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">方法</w>
+            <w type="VJ">涵蓋</w>
+            <w type="Na">電影</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">手</w>
+         </s>
+         <s>
+            <w type="VCL">遊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">不如</w>
+            <w type="D">先</w>
+            <w type="VC">改善</w>
+            <w type="VL">讓</w>
+            <w type="Na">民眾</w>
+            <w type="VJ">看</w>
+            <w type="DE">得</w>
+            <w type="VJ">懂</w>
+            <w type="DE">的</w>
+            <w type="Na">判決書</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VA">提案</w>
+            <w type="P">將</w>
+            <w type="Nep">這</w>
+            <w type="Nf">筆</w>
+            <w type="Na">預算</w>
+            <w type="Neqa">全數</w>
+            <w type="VC">刪除</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">司法院</w>
+            <w type="Na">秘書長</w>
+            <w type="Nb">林輝煌</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">國民</w>
+            <w type="Na">法官法</w>
+            <w type="VC">通過</w>
+            <w type="Ng">後</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">希望</w>
+            <w type="Na">國民</w>
+            <w type="VH">普遍</w>
+            <w type="VJ">認知</w>
+            <w type="Cbb">且</w>
+            <w type="V_2">有</w>
+            <w type="Na">好感</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">讓</w>
+            <w type="VC">接到</w>
+            <w type="Na">通知</w>
+         </s>
+         <s>
+            <w type="DE">的</w>
+            <w type="VH">候選</w>
+            <w type="Na">國民</w>
+            <w type="Na">法官</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">多數</w>
+            <w type="D">都</w>
+            <w type="VK">願意</w>
+            <w type="VG">擔任</w>
+            <w type="Na">國民</w>
+            <w type="Na">法官</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">必須</w>
+            <w type="VC">進行</w>
+            <w type="Na">宣傳</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">希望</w>
+            <w type="Nc">立法院</w>
+            <w type="D">大力</w>
+            <w type="VC">支持</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">國民黨</w>
+            <w type="Na">書記長</w>
+            <w type="Nb">林奕華</w>
+            <w type="VE">認為</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">現在</w>
+            <w type="Na">疫情</w>
+            <w type="VH">嚴峻</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">為</w>
+            <w type="A">單一</w>
+            <w type="VH">新</w>
+            <w type="Na">制度</w>
+            <w type="VC">宣傳</w>
+            <w type="VC">花費</w>
+            <w type="Neu">1億2000萬</w>
+            <w type="Nf">元</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">對不起</w>
+         </s>
+         <s>
+            <w type="Na">納稅人</w>
+            <w type="DE">的</w>
+            <w type="Na">錢</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Na">立委</w>
+            <w type="Nb">吳怡玎</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">同意</w>
+            <w type="VH">新</w>
+            <w type="Na">制度</w>
+            <w type="VK">需要</w>
+            <w type="VC">宣傳</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="Dfa">同樣</w>
+            <w type="SHI">是</w>
+            <w type="Na">新制</w>
+            <w type="DE">的</w>
+            <w type="Na">民事</w>
+            <w type="Na">商業</w>
+            <w type="Na">事件</w>
+            <w type="VC">審理</w>
+         </s>
+         <s>
+            <w type="Na">法</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Da">僅</w>
+            <w type="VC">編列</w>
+            <w type="Neu">65萬</w>
+            <w type="Nf">元</w>
+            <w type="VC">宣傳</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">國民</w>
+            <w type="Na">法官法</w>
+            <w type="D">卻</w>
+            <w type="VC">編列</w>
+            <w type="Neu">1億2000萬</w>
+            <w type="Nf">元</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nc">日本</w>
+            <w type="Nd">當初</w>
+            <w type="VG">為</w>
+            <w type="Na">國民</w>
+            <w type="Na">法官</w>
+            <w type="VC">宣傳</w>
+            <w type="Na">費用</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">年</w>
+            <w type="Na">新台幣</w>
+            <w type="Neu">3.6億</w>
+            <w type="Nf">元</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="Nc">日本</w>
+            <w type="Na">人口</w>
+            <w type="SHI">是</w>
+            <w type="Nc">我國</w>
+            <w type="Neu">5.5</w>
+            <w type="Na">倍</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VB">相較</w>
+            <w type="Ng">之下</w>
+            <w type="Nc">司法院</w>
+            <w type="VC">編列</w>
+            <w type="DE">的</w>
+            <w type="Na">預算</w>
+            <w type="Dfa">太</w>
+            <w type="VH">高</w>
+            <w type="T">了</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nb">鄭麗</w>
+         </s>
+         <s>
+            <w type="Na">文</w>
+            <w type="Dfa">更</w>
+            <w type="D">直</w>
+            <w type="VE">呼</w>
+            <w type="Dfa">太</w>
+            <w type="VH">沒</w>
+            <w type="Na">天良</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VH">敗家</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">民進黨</w>
+            <w type="Nc">立院</w>
+            <w type="Na">黨團</w>
+            <w type="Na">總召</w>
+            <w type="Nb">柯建銘</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不能</w>
+            <w type="VC">接受</w>
+            <w type="VA">敗家</w>
+            <w type="DE">的</w>
+            <w type="Na">說法</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台灣</w>
+            <w type="VH">重大</w>
+            <w type="Na">司法</w>
+            <w type="Na">變革</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">從</w>
+            <w type="Na">法官</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">律</w>
+         </s>
+         <s>
+            <w type="Na">師</w>
+            <w type="D">都</w>
+            <w type="D">要</w>
+            <w type="D">重新</w>
+            <w type="VA">受訓</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">新</w>
+            <w type="Na">制度</w>
+            <w type="D">一定</w>
+            <w type="D">要</w>
+            <w type="VC">宣傳</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nb">民進黨</w>
+            <w type="VC">提出</w>
+            <w type="VA">折衝</w>
+            <w type="Na">方案</w>
+            <w type="VG">為</w>
+            <w type="VC">刪除</w>
+            <w type="Neu">4800萬</w>
+            <w type="Nf">元</w>
+            <w type="VC">併</w>
+            <w type="Na">專案</w>
+            <w type="Na">報告</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nv">刪除</w>
+            <w type="Na">比例</w>
+            <w type="VG">為</w>
+            <w type="Neqa">四成</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="SHI">是</w>
+            <w type="Nd">當初</w>
+            <w type="Na">朝野</w>
+            <w type="Na">共識</w>
+            <w type="Na">政令</w>
+            <w type="Na">宣導費</w>
+            <w type="Na">通案</w>
+            <w type="VC">刪除</w>
+            <w type="Neqa">兩成</w>
+            <w type="DE">的</w>
+            <w type="Neu">兩</w>
+            <w type="Na">倍</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nd">最後</w>
+            <w type="Na">朝野</w>
+            <w type="Na">共識</w>
+            <w type="VC">刪除</w>
+         </s>
+         <s>
+            <w type="Neu">5000萬</w>
+            <w type="Nf">元</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">司法院</w>
+            <w type="D">仍</w>
+            <w type="VK">需</w>
+            <w type="Na">專案</w>
+            <w type="VE">報告</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">此外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Nc">司法院</w>
+            <w type="Na">預算</w>
+            <w type="VC">審查</w>
+            <w type="Na">過程</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">對於</w>
+            <w type="Na">公務員</w>
+            <w type="VC">懲戒</w>
+            <w type="Nc">委員會</w>
+            <w type="Nes">前</w>
+            <w type="Na">委員長</w>
+            <w type="Nb">石木欽</w>
+            <w type="Caa">與</w>
+            <w type="Na">富商</w>
+            <w type="Nb">鍾茂鍾</w>
+            <w type="D">不</w>
+         </s>
+         <s>
+            <w type="P">當</w>
+            <w type="VA">往來</w>
+            <w type="P">遭</w>
+            <w type="VC">彈劾</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">重傷</w>
+            <w type="Na">司法</w>
+            <w type="Na">公信力</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">朝野</w>
+            <w type="D">也</w>
+            <w type="VC">達成</w>
+            <w type="Na">共識</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">下</w>
+            <w type="Na">會期</w>
+            <w type="D">將</w>
+            <w type="P">在</w>
+            <w type="Na">司法</w>
+            <w type="Caa">及</w>
+            <w type="Na">法制</w>
+            <w type="Nc">委員會</w>
+            <w type="VC">成立</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+         </s>
+         <s>
+            <w type="VC">審檢</w>
+            <w type="Na">調警</w>
+            <w type="Na">人員</w>
+            <w type="VK">涉及</w>
+            <w type="Nb">翁茂鍾案</w>
+            <w type="VC">重創</w>
+            <w type="Na">司法</w>
+            <w type="VJ">信任</w>
+            <w type="Na">案</w>
+            <w type="Na">真相</w>
+            <w type="VC">調閱</w>
+            <w type="Na">專案</w>
+            <w type="Na">小組</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="D">如何</w>
+            <w type="Na">嘴砲</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">反駁</w>
+            <w type="Nh">對方</w>
+            <w type="DE">的</w>
+            <w type="Na">重點</w>
+            <w type="FW">──◢◣█</w>
+            <w type="D">確實</w>
+            <w type="VE">指出</w>
+            <w type="Nh">人家</w>
+            <w type="Na">論點</w>
+            <w type="DE">的</w>
+            <w type="Na">錯誤性</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">         ψQSWEET</w>
+         </s>
+         <s>
+            <w type="VC">駁斥</w>
+            <w type="FW">──────◢    ◣█</w>
+            <w type="P">用</w>
+            <w type="Na">引言</w>
+            <w type="VE">指出</w>
+            <w type="Nh">對方</w>
+            <w type="VH">錯誤</w>
+            <w type="Caa">或</w>
+            <w type="VH">矛盾</w>
+            <w type="DE">的</w>
+            <w type="Na">地方</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW"> █</w>
+            <w type="A">優質</w>
+            <w type="Na">論文</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="Na">嘴砲王</w>
+            <w type="WHITESPACE">  </w>
+            <w type="VH">相反</w>
+            <w type="DE">的</w>
+            <w type="Na">觀點</w>
+            <w type="FW">──◢████◣█</w>
+            <w type="VC">列出</w>
+            <w type="VH">相反</w>
+            <w type="DE">的</w>
+            <w type="Na">論點</w>
+            <w type="Cbb">並</w>
+            <w type="P">以</w>
+            <w type="Na">事實</w>
+            <w type="VG">當</w>
+            <w type="Na">證據</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW"> █  </w>
+            <w type="Nc">辯論社</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="D">應該</w>
+            <w type="VH">出現</w>
+            <w type="WHITESPACE">  </w>
+            <w type="VH">矛盾</w>
+            <w type="FW">────◢██████◣█</w>
+            <w type="VC">列出</w>
+            <w type="VH">相反</w>
+            <w type="DE">的</w>
+            <w type="Na">論點</w>
+            <w type="Cbb">但</w>
+            <w type="D">不</w>
+            <w type="D">加以</w>
+            <w type="VE">證實</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW"> ██</w>
+            <w type="Na">論壇</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="DE">的</w>
+            <w type="Na">元素</w>
+            <w type="WHITESPACE">    </w>
+            <w type="Nv">攻擊</w>
+            <w type="Na">態度</w>
+            <w type="DASHCATEGORY">─◢████████◣█</w>
+            <w type="VE">質疑</w>
+            <w type="Nh">對方</w>
+            <w type="DE">的</w>
+            <w type="Na">態度</w>
+            <w type="Caa">和</w>
+            <w type="Na">口氣</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE">   </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW"> ██</w>
+            <w type="Na">匿名版</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Na">人身攻擊</w>
+            <w type="FW">↘</w>
+            <w type="Na">偏見</w>
+            <w type="FW">↗  ▄▄▄▄▄▄▄▄▄▄▄▄█</w>
+            <w type="Nv">攻擊</w>
+            <w type="Na">身份</w>
+            <w type="Caa">和</w>
+            <w type="Na">能耐</w>
+            <w type="FW">█</w>
+            <w type="VC">幹你娘</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">█ </w>
+            <w type="Na">小朋友</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </body>
+      <title author="Reewalker (報告饅頭班長不夠)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">拍</w>
+            <w type="Na">電影</w>
+            <w type="VC">作</w>
+            <w type="Na">遊戲</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">司法院</w>
+            <w type="Na">天價</w>
+            <w type="Neu">1.2億</w>
+            <w type="Nf">元</w>
+            <w type="Nc">宣傳</w>
+            <w type="Nc">國</w>
+         </s>
+      </title>
+      <comment author="butmyass" c_type="neg">
+         <s>
+            <w type="D">為什麼</w>
+            <w type="SHI">是</w>
+            <w type="Na">手</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VA">游</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">桌</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VA">游</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Nb">蔡佩芳</w>
+            <w type="Nh">你</w>
+            <w type="VE">說說</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="vendor" c_type="pos">
+         <s>
+            <w type="Neu">2003年</w>
+            <w type="VA">上路</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Na">時空</w>
+            <w type="VA">旅行</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="kyouya" c_type="pos">
+         <s>
+            <w type="Neu">2003年</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Neu">18</w>
+            <w type="Nf">年</w>
+            <w type="Ng">前</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="darkbbyy" c_type="neu">
+         <s>
+            <w type="VC">噴</w>
+            <w type="Nb">魏導</w>
+            <w type="VC">浪費</w>
+            <w type="Na">稅金</w>
+            <w type="DE">的</w>
+            <w type="D">都</w>
+            <w type="VA">消失</w>
+            <w type="T">了</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

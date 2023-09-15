@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">smallsix (\自助餐吃起來/)</metadata>
+      <metadata name="post_id">M.1619088823.A.A0A</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 拜託回窩信</metadata>
+   </teiHeader>
+   <text>
+      <body author="smallsix (\自助餐吃起來/)">
+         <s>
+            <w type="Nd">期中</w>
+            <w type="Na">科目</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Na">廢物</w>
+            <w type="Na">菸酒</w>
+            <w type="VH">生迷</w>
+            <w type="V_2">有</w>
+            <w type="Nd">期中</w>
+            <w type="FW">lar</w>
+         </s>
+         <s>
+            <w type="Na">報告</w>
+            <w type="FW">or</w>
+            <w type="Na">考試</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">人生</w>
+            <w type="FW">ㄉ</w>
+            <w type="Na">試驗</w>
+         </s>
+         <s>
+            <w type="Na">教授</w>
+            <w type="VC">拜託</w>
+            <w type="Na">回</w>
+            <w type="Na">窩信</w>
+            <w type="Neu">55555</w>
+            <w type="VC">煎熬</w>
+         </s>
+      </body>
+      <title author="smallsix (\自助餐吃起來/)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">拜託</w>
+            <w type="Na">回</w>
+            <w type="Na">窩信</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

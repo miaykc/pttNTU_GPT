@@ -1,0 +1,558 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">XI (MAN)</metadata>
+      <metadata name="post_id">M.1666280143.A.BE5</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 天空之城持續吸金 數位版11月登台</metadata>
+   </teiHeader>
+   <text>
+      <body author="XI (MAN)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//ent.ltn.com.tw/news/paper/1546654</w>
+         </s>
+         <s>
+            <w type="Nb">天空之城</w>
+            <w type="VL">持續</w>
+            <w type="VC">吸</w>
+            <w type="Na">金</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">數位版</w>
+            <w type="Neu">11月</w>
+            <w type="VA">登台</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//img.ltn.com.tw/Upload/ent/page/800/2022/10/20/35</w>
+            <w type="FW">.jpg</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">天空之城</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="A">數位</w>
+            <w type="Na">紀念版</w>
+            <w type="Neu">11月</w>
+            <w type="D">將</w>
+            <w type="P">在</w>
+            <w type="Nc">台</w>
+            <w type="VAC">上映</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neu">甲</w>
+            <w type="Ncd">上</w>
+            <w type="VD">提供</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">〔</w>
+            <w type="Na">記者</w>
+            <w type="Nb">鍾志均</w>
+            <w type="FW">／</w>
+            <w type="A">綜合</w>
+            <w type="VE">報導</w>
+            <w type="PARENTHESISCATEGORY">〕</w>
+            <w type="Na">經典</w>
+            <w type="Nb">吉卜力</w>
+            <w type="Na">動畫</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">天空之城</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VC">推出</w>
+            <w type="A">數位</w>
+            <w type="Na">紀念版</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">確定</w>
+            <w type="Neu">11月</w>
+            <w type="VCL">登上</w>
+         </s>
+         <s>
+            <w type="Nc">台灣</w>
+            <w type="VH">大</w>
+            <w type="Nc">銀幕</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">該</w>
+            <w type="Nf">片</w>
+            <w type="VJ">充滿</w>
+            <w type="Na">導演</w>
+            <w type="Nb">宮崎駿</w>
+            <w type="DE">的</w>
+            <w type="Na">社會</w>
+            <w type="VJ">關懷</w>
+            <w type="Na">理念</w>
+            <w type="Caa">與</w>
+            <w type="Na">世界觀</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">屢</w>
+            <w type="VJ">獲</w>
+            <w type="Nc">日本</w>
+            <w type="Na">觀眾</w>
+            <w type="VC">票選</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="A">最佳</w>
+            <w type="VAC">動</w>
+         </s>
+         <s>
+            <w type="VC">畫</w>
+            <w type="Na">電影</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">名</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">對</w>
+            <w type="Nc">日本</w>
+            <w type="VH">流行</w>
+            <w type="Na">文化</w>
+            <w type="DE">的</w>
+            <w type="Na">影響</w>
+            <w type="Dfa">非常</w>
+            <w type="VH">深遠</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">天空之城</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">故事</w>
+            <w type="VC">設定</w>
+            <w type="P">在</w>
+            <w type="Neu">19世紀</w>
+            <w type="Nd">後期</w>
+            <w type="DE">的</w>
+            <w type="VC">虛構</w>
+            <w type="Na">國家</w>
+            <w type="Ncd">裡</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">少年</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nb">巴魯</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="P">和</w>
+            <w type="VJ">擁有</w>
+            <w type="VH">強大</w>
+            <w type="Na">水晶</w>
+            <w type="DE">的</w>
+            <w type="Na">少女</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nb">希達</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VA">相遇</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">一起</w>
+            <w type="VC">尋找</w>
+            <w type="Na">傳說</w>
+            <w type="Ng">中</w>
+            <w type="DE">的</w>
+            <w type="Nb">天空之城</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">拉普達</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="DE">的</w>
+            <w type="VA">冒險</w>
+            <w type="Nv">經歷</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nes">該</w>
+            <w type="Nf">片</w>
+            <w type="VAC">上映</w>
+            <w type="D">至今</w>
+            <w type="VCL">邁入</w>
+            <w type="Neu">第36</w>
+            <w type="Nf">年</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">日本</w>
+            <w type="Nb">吉卜力</w>
+            <w type="Na">樂園</w>
+            <w type="Ng">中</w>
+            <w type="Na">重現</w>
+            <w type="Na">片</w>
+            <w type="Ng">中</w>
+            <w type="Na">經典</w>
+            <w type="Na">角色</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">機器人兵</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">打造</w>
+            <w type="Da">幾乎</w>
+         </s>
+         <s>
+            <w type="VH">真實</w>
+            <w type="Na">比例</w>
+            <w type="DE">的</w>
+            <w type="Na">飛船</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">讓</w>
+            <w type="Na">樂園</w>
+            <w type="Na">門票</w>
+            <w type="Neqa">全數</w>
+            <w type="VC">秒殺</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dk">足見</w>
+            <w type="Na">人氣</w>
+            <w type="DE">之</w>
+            <w type="Nv">高</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">另外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">天空之城</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="P">截至</w>
+            <w type="Nd">今年</w>
+            <w type="Dfa">更</w>
+            <w type="P">在</w>
+            <w type="Na">票房</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">影像</w>
+            <w type="Caa">和</w>
+            <w type="Na">配樂</w>
+            <w type="Na">方面</w>
+            <w type="DE">的</w>
+            <w type="Na">總收入</w>
+            <w type="VJ">達到</w>
+            <w type="Nes">近</w>
+            <w type="Neu">2億</w>
+            <w type="Na">美金</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Da">約</w>
+            <w type="Nc">台</w>
+         </s>
+         <s>
+            <w type="Na">幣</w>
+            <w type="Neu">64億</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">經濟</w>
+            <w type="Na">效應</w>
+            <w type="Dfa">十分</w>
+            <w type="VH">驚人</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">天空之城</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="A">數位</w>
+            <w type="Na">紀念版</w>
+            <w type="P">於</w>
+            <w type="Neu">11月</w>
+            <w type="Neu">25日</w>
+            <w type="P">在</w>
+            <w type="Nc">台</w>
+            <w type="VAC">上映</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">佛</w>
+            <w type="D">沒</w>
+            <w type="VE">說</w>
+            <w type="A">小乘</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">大乘</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nb">上座部</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">馬哈希</w>
+            <w type="Na">尊者</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">具戒經</w>
+            <w type="VE">講記</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VC">拆穿</w>
+            <w type="P">假</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">大乘</w>
+            <w type="Na">經典</w>
+            <w type="DE">的</w>
+            <w type="Na">騙局</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">上座部</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">明昆</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="A">南傳</w>
+            <w type="Na">菩薩道</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="SHI">是</w>
+            <w type="Nb">真</w>
+            <w type="Nb">釋迦牟尼佛</w>
+            <w type="DE">的</w>
+            <w type="Na">菩薩</w>
+            <w type="VH">成佛</w>
+            <w type="DE">之</w>
+            <w type="Na">道</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">大乘</w>
+            <w type="SHI">是</w>
+            <w type="VH">假</w>
+            <w type="Na">菩薩</w>
+            <w type="VH">成佛</w>
+            <w type="DE">之</w>
+            <w type="Na">道</w>
+         </s>
+         <s>
+            <w type="Nb">妙法蓮華經</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">華嚴經</w>
+            <w type="DASHCATEGORY"> 心經</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">金剛經</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">楞伽經</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">梵網經</w>
+            <w type="Na">菩薩</w>
+            <w type="VC">戒</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">圓覺經</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">楞嚴經</w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">大乘</w>
+            <w type="VH">假</w>
+            <w type="Na">佛經</w>
+         </s>
+         <s>
+            <w type="Nb">阿彌陀佛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">藥師佛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">大乘</w>
+            <w type="VH">假</w>
+            <w type="Na">佛</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">觀世音</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">文殊</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">普賢</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">維摩詰</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">龍樹</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">地藏王</w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">大乘</w>
+            <w type="VH">假</w>
+            <w type="Na">菩薩</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.ptt.cc/bbs/IA/M.1588944610</w>
+            <w type="PERIODCATEGORY">.A.D9C.html</w>
+         </s>
+         <s>
+            <w type="Nb">上座部</w>
+            <w type="Nb">佛教</w>
+            <w type="Nb">目犍連</w>
+            <w type="Nb">子</w>
+            <w type="Nb">帝須</w>
+            <w type="P">和</w>
+            <w type="Nep">那</w>
+            <w type="D">先</w>
+            <w type="VHC">破</w>
+            <w type="Na">偽經</w>
+            <w type="Nb">大乘</w>
+            <w type="Nc">十方</w>
+            <w type="Nes">諸</w>
+            <w type="Na">佛</w>
+         </s>
+      </body>
+      <title author="XI (MAN)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">天空之城</w>
+            <w type="VL">持續</w>
+            <w type="VC">吸</w>
+            <w type="Na">金</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">數位版</w>
+            <w type="Neu">11月</w>
+            <w type="VA">登台</w>
+         </s>
+      </title>
+      <comment author="jenqjia" c_type="pos">
+         <s>
+            <w type="Nb">巴魯斯</w>
+            <w type="FW">～～～</w>
+         </s>
+      </comment>
+      <comment author="clurinzler" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="D">必須</w>
+            <w type="VC">看</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">人</w>
+            <w type="P">像</w>
+            <w type="Na">垃圾</w>
+            <w type="VH">一樣</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">哈</w>
+            <w type="D">哈</w>
+            <w type="D">哈</w>
+            <w type="D">哈</w>
+            <w type="D">哈</w>
+         </s>
+      </comment>
+      <comment author="GrowUp" c_type="pos">
+         <s>
+            <w type="Nb">希達</w>
+            <w type="I">啊</w>
+            <w type="I">啊</w>
+            <w type="I">啊</w>
+            <w type="I">啊</w>
+            <w type="I">啊</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="littlewhite" c_type="pos">
+         <s>
+            <w type="Nc">天</w>
+            <w type="Ncd">上</w>
+            <w type="VA">掉下來</w>
+            <w type="DE">的</w>
+            <w type="Na">禮物</w>
+         </s>
+      </comment>
+      <comment author="joey0602" c_type="pos">
+         <s>
+            <w type="Nb">巴魯斯</w>
+            <w type="FW">～</w>
+         </s>
+      </comment>
+      <comment author="toyamaK52" c_type="pos">
+         <s>
+            <w type="FW">864</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="eternalmi16" c_type="pos">
+         <s>
+            <w type="Nb">巴魯斯</w>
+            <w type="FW">～～～</w>
+         </s>
+      </comment>
+      <comment author="a435007" c_type="pos">
+         <s>
+            <w type="D">永遠</w>
+            <w type="Na">經典</w>
+         </s>
+      </comment>
+      <comment author="samsonfu" c_type="pos">
+         <s>
+            <w type="Nb">巴魯斯</w>
+            <w type="FW">～～～</w>
+         </s>
+      </comment>
+      <comment author="HankPym" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="DE">的</w>
+            <w type="Na">眼睛</w>
+         </s>
+      </comment>
+      <comment author="BABY19831016" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="D">真的</w>
+            <w type="D">從小到大</w>
+            <w type="D">都</w>
+            <w type="VC">看</w>
+            <w type="D">不</w>
+            <w type="VH">膩</w>
+         </s>
+      </comment>
+      <comment author="dorina" c_type="pos">
+         <s>
+            <w type="VC">看</w>
+            <w type="D">不</w>
+            <w type="VH">膩</w>
+            <w type="FW">+1 </w>
+            <w type="Na">配樂</w>
+            <w type="D">也</w>
+            <w type="VK">難忘</w>
+         </s>
+      </comment>
+      <comment author="XXfrederXX" c_type="pos">
+         <s>
+            <w type="Nb">巴魯斯</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="togmogo" c_type="pos">
+         <s>
+            <w type="Nb">孜婆</w>
+            <w type="VH">年</w>
+            <w type="VH">大</w>
+            <w type="Caa">和</w>
+            <w type="Na">撫子</w>
+            <w type="Neu">七</w>
+            <w type="Na">變化</w>
+         </s>
+      </comment>
+      <comment author="prinspetal" c_type="pos">
+         <s>
+            <w type="Na">吐司蛋</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="lcew" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="VH">好</w>
+            <w type="Na">希望</w>
+            <w type="V_2">有</w>
+            <w type="FW">IMAX</w>
+         </s>
+      </comment>
+      <comment author="IVicole" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="DE">的</w>
+            <w type="Na">最愛</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+      </comment>
+      <comment author="riddlerkuo" c_type="neu">
+         <s>
+            <w type="Na">人</w>
+            <w type="VH">帥</w>
+            <w type="D">真</w>
+            <w type="VH">好</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

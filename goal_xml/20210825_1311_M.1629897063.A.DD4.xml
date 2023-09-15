@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">freshbud (萌蘖)</metadata>
+      <metadata name="post_id">M.1629897063.A.DD4</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] 畢業生流向調查</metadata>
+   </teiHeader>
+   <text>
+      <body author="freshbud (萌蘖)">
+         <s>
+            <w type="VE">請問</w>
+            <w type="Nep">這</w>
+            <w type="Nf">次</w>
+            <w type="DE">的</w>
+            <w type="Na">畢業生</w>
+            <w type="Nv">流向</w>
+            <w type="Nv">調查</w>
+            <w type="V_2">有</w>
+            <w type="Na">科系</w>
+            <w type="Caa">或是</w>
+            <w type="Na">碩學士</w>
+            <w type="DE">的</w>
+            <w type="Na">限制</w>
+            <w type="T">嗎</w>
+         </s>
+         <s>
+            <w type="Na">網頁</w>
+            <w type="SHI">是</w>
+            <w type="VC">寫</w>
+         </s>
+         <s>
+            <w type="Neu">110年</w>
+            <w type="Nv">調查</w>
+            <w type="Na">對象</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">108學年度</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">106學年度</w>
+            <w type="Caa">及</w>
+            <w type="Neu">104學年度</w>
+            <w type="DE">之</w>
+            <w type="Nes">本</w>
+            <w type="Na">國籍</w>
+            <w type="Na">畢業生</w>
+         </s>
+         <s>
+            <w type="Nh">在下</w>
+            <w type="SHI">是</w>
+            <w type="Nd">108年度</w>
+            <w type="DE">的</w>
+            <w type="Na">畢業生</w>
+         </s>
+         <s>
+            <w type="Cbb">但是</w>
+            <w type="Nv">輸入</w>
+            <w type="Na">資料</w>
+            <w type="VC">寫</w>
+            <w type="D">不</w>
+            <w type="VE">調查</w>
+            <w type="DE">的</w>
+            <w type="Na">對象</w>
+         </s>
+      </body>
+      <title author="freshbud (萌蘖)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">畢業生</w>
+            <w type="VCL">流向</w>
+            <w type="Nv">調查</w>
+         </s>
+      </title>
+      <comment author="pig8409" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VC">填完</w>
+            <w type="Nd">最後</w>
+            <w type="VA">抽獎</w>
+            <w type="Na">資訊</w>
+            <w type="D">要</w>
+            <w type="VD">送出</w>
+            <w type="D">一直</w>
+            <w type="VCL">跑出</w>
+            <w type="Na">錯誤</w>
+            <w type="FW">==</w>
+         </s>
+      </comment>
+      <comment author="bencake" c_type="pos">
+         <s>
+            <w type="Na">密碼</w>
+            <w type="SHI">是</w>
+            <w type="Na">身分證</w>
+            <w type="Na">字號</w>
+            <w type="T">哦</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">填錯</w>
+            <w type="D">會</w>
+            <w type="VK">顯示</w>
+            <w type="A">非</w>
+            <w type="Nv">調查</w>
+            <w type="Na">對象</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

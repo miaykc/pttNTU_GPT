@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">WatsonAmelia (AmeliaWatson)</metadata>
+      <metadata name="post_id">M.1624336157.A.540</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] Gura在嗎</metadata>
+   </teiHeader>
+   <text>
+      <body author="WatsonAmelia (AmeliaWatson)">
+         <s>
+            <w type="Nh">我</w>
+            <w type="P">跟</w>
+            <w type="FW">Gura</w>
+            <w type="VC">貼貼</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="D">哈洽馬洽馬</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">貼貼</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">Gura</w>
+            <w type="D">沒</w>
+            <w type="VA">來</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">不仲</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+         </s>
+      </body>
+      <title author="WatsonAmelia (AmeliaWatson)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> Gura</w>
+            <w type="VCL">在</w>
+            <w type="T">嗎</w>
+         </s>
+      </title>
+      <comment author="chun10396974" c_type="neg">
+         <s>
+            <w type="FW">wake</w>
+            <w type="FW"> up</w>
+         </s>
+      </comment>
+      <comment author="Imotucc" c_type="neu">
+         <s>
+            <w type="D">為甚麼</w>
+            <w type="Nc">海面</w>
+            <w type="Ncd">上</w>
+            <w type="VA">飄</w>
+            <w type="Di">著</w>
+            <w type="Neu">一</w>
+            <w type="Nf">層</w>
+            <w type="VH">厚厚</w>
+            <w type="DE">的</w>
+            <w type="Na">油</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">你</w>
+            <w type="V_2">有</w>
+            <w type="Na">頭緒</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="lunar" c_type="neg">
+         <s>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="howard0113" c_type="neg">
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/AMfUJ51</w>
+            <w type="FW">.</w>
+            <w type="FW">jpg</w>
+         </s>
+      </comment>
+      <comment author="AkaiHaato" c_type="pos">
+         <s>
+            <w type="VC">哈洽馬洽馬</w>
+            <w type="FW">~</w>
+         </s>
+      </comment>
+      <comment author="howard0113" c_type="pos">
+         <s>
+            <w type="Nb">哈洽馬</w>
+            <w type="VA">下去</w>
+            <w type="Di">了</w>
+            <w type="T">啦</w>
+            <w type="ETCCATEGORY">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+      <comment author="Imotucc" c_type="pos">
+         <s>
+            <w type="VC">哈洽</w>
+            <w type="Na">馬洽馬</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">哈洽</w>
+            <w type="Na">馬洽馬</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">哈洽</w>
+            <w type="Na">馬洽</w>
+            <w type="Na">馬</w>
+         </s>
+      </comment>
+      <comment author="andy880913" c_type="pos">
+         <s>
+            <w type="Na">砧板</w>
+            <w type="Dfa">很</w>
+            <w type="VH">讚</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

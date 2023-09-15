@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">rtfgyrtfgy (澎湖趙又廷)</metadata>
+      <metadata name="post_id">M.1618934395.A.E1A</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 幹你台大姿勢王</metadata>
+   </teiHeader>
+   <text>
+      <body author="rtfgyrtfgy (澎湖趙又廷)">
+         <s>
+            <w type="Nc">北半球</w>
+            <w type="Na">高氣壓</w>
+            <w type="A">逆時針</w>
+         </s>
+         <s>
+            <w type="VC">幹</w>
+            <w type="Nh">你</w>
+            <w type="Nc">台大</w>
+            <w type="Na">姿勢王</w>
+         </s>
+      </body>
+      <title author="rtfgyrtfgy (澎湖趙又廷)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">幹</w>
+            <w type="Nh">你</w>
+            <w type="Nc">台大</w>
+            <w type="Na">姿勢王</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

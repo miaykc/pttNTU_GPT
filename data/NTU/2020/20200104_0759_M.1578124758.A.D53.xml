@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">a28206900 (芋津)</metadata>
+      <metadata name="post_id">M.1578124758.A.D53</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 電電電電電電電</metadata>
+   </teiHeader>
+   <text>
+      <body author="a28206900 (芋津)">
+         <s>
+            <w type="Na">電電</w>
+            <w type="Na">電電</w>
+            <w type="Na">電電</w>
+            <w type="Na">電火</w>
+            <w type="Na">王</w>
+         </s>
+         <s>
+            <w type="Nb">王電火</w>
+            <w type="VC">看</w>
+            <w type="Di">著</w>
+            <w type="Na">電火</w>
+            <w type="Nb">王</w>
+            <w type="D">毋</w>
+            <w type="VK">知</w>
+            <w type="VK">欲</w>
+            <w type="D">按</w>
+            <w type="D">怎</w>
+            <w type="VC">展</w>
+         </s>
+         <s>
+            <w type="D">竟然</w>
+            <w type="P">到</w>
+            <w type="Nd">最近</w>
+            <w type="Da">才</w>
+            <w type="VK">知道</w>
+            <w type="Nep">這</w>
+            <w type="Nf">首</w>
+            <w type="Na">歌</w>
+         </s>
+         <s>
+            <w type="Nd">最近</w>
+            <w type="VK">發覺</w>
+            <w type="Neqa">好多</w>
+            <w type="VH">獨立</w>
+            <w type="Na">樂團</w>
+            <w type="D">都</w>
+            <w type="Dfa">好</w>
+            <w type="VH">讚</w>
+         </s>
+         <s>
+            <w type="VE">聽</w>
+            <w type="Na">歌</w>
+            <w type="Dfa">好</w>
+            <w type="VH">爽</w>
+         </s>
+         <s>
+            <w type="Nh">你</w>
+            <w type="Nh">各位</w>
+            <w type="Nd">期末</w>
+            <w type="VB">加油</w>
+         </s>
+      </body>
+      <title author="a28206900 (芋津)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">電</w>
+            <w type="Na">電</w>
+            <w type="Na">電</w>
+            <w type="Na">電</w>
+            <w type="Na">電</w>
+            <w type="Na">電</w>
+            <w type="Na">電</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

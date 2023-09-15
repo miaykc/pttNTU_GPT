@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">j2046g (集體寂寞意識)</metadata>
+      <metadata name="post_id">M.1633465868.A.836</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">贈票 10/8 光點華山 一點焰火書寫</metadata>
+   </teiHeader>
+   <text>
+      <body author="j2046g (集體寂寞意識)">
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.wmw.org.tw/tw/category/9</w>
+         </s>
+         <s>
+            <w type="Na">焰火</w>
+            <w type="VC">書寫</w>
+            <w type="Neu">10/8</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">五</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="Neu">13</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">00 </w>
+            <w type="Na">光點</w>
+            <w type="Nc">華山</w>
+            <w type="Neu">一</w>
+            <w type="Nc">廳</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VH">開映</w>
+            <w type="Ng">前</w>
+            <w type="Neu">40</w>
+            <w type="Nf">分鐘</w>
+            <w type="VL">開始</w>
+            <w type="VA">劃位</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">張</w>
+            <w type="Na">票</w>
+         </s>
+         <s>
+            <w type="VF">請</w>
+            <w type="Na">私信</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VI">感恩</w>
+         </s>
+      </body>
+      <title author="j2046g (集體寂寞意識)">
+         <s>
+            <w type="VD">贈票</w>
+            <w type="FW"> 10/8</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">光點</w>
+            <w type="Nc">華山</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">點</w>
+            <w type="Na">焰火</w>
+            <w type="VC">書寫</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

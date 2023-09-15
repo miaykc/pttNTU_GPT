@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ntuteaching (計資中心教學研究組)</metadata>
+      <metadata name="post_id">M.1641798378.A.D23</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[網宣] Excel2019初階應用 即將開課歡迎報名</metadata>
+   </teiHeader>
+   <text>
+      <body author="ntuteaching (計資中心教學研究組)">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Nc">計中</w>
+            <w type="Neu">110W</w>
+            <w type="Na">資訊</w>
+            <w type="Na">應用</w>
+            <w type="Na">課程</w>
+            <w type="Nh">你</w>
+            <w type="D">還</w>
+            <w type="P">在</w>
+            <w type="VC">等</w>
+            <w type="Nep">什麼</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="D">快</w>
+            <w type="D">來</w>
+            <w type="VA">報名</w>
+         </s>
+         <s>
+            <w type="FW">Excel</w>
+            <w type="Neu">2019</w>
+            <w type="A">初階</w>
+            <w type="Na">應用</w>
+         </s>
+         <s>
+            <w type="Na">課程</w>
+            <w type="Na">簡介</w>
+         </s>
+         <s>
+            <w type="Nes">本</w>
+            <w type="Na">課程</w>
+            <w type="D">乃</w>
+            <w type="P">針對</w>
+            <w type="VC">初學</w>
+            <w type="Na">者</w>
+            <w type="VC">規劃</w>
+            <w type="DE">的</w>
+            <w type="Na">課程</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">將</w>
+            <w type="VE">介紹</w>
+            <w type="FW">Excel</w>
+            <w type="DE">的</w>
+            <w type="A">基本</w>
+            <w type="VC">操作</w>
+            <w type="Na">技巧</w>
+            <w type="Caa">及</w>
+            <w type="VC">製作</w>
+            <w type="Nes">各</w>
+            <w type="Nf">種</w>
+            <w type="VB">試算</w>
+            <w type="Na">統計</w>
+            <w type="DE">的</w>
+            <w type="Na">報</w>
+         </s>
+         <s>
+            <w type="Na">表</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">圖表</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">內容</w>
+            <w type="VK">包括</w>
+            <w type="Na">資料</w>
+            <w type="Nv">輸入</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">公式</w>
+            <w type="Caa">及</w>
+            <w type="VH">常用</w>
+            <w type="Na">函數</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">統計圖</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">資料</w>
+            <w type="Nv">篩選</w>
+            <w type="Caa">與</w>
+            <w type="VC">列印</w>
+            <w type="Nv">設定</w>
+            <w type="Cab">等</w>
+            <w type="Na">應用</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">課程</w>
+            <w type="Na">大綱</w>
+         </s>
+         <s>
+            <w type="Neu">1.Excel</w>
+            <w type="Na">環境</w>
+            <w type="Caa">及</w>
+            <w type="VC">操作</w>
+            <w type="VE">介紹</w>
+         </s>
+         <s>
+            <w type="Cbb">2</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Na">工作表</w>
+            <w type="VC">製作</w>
+            <w type="Caa">與</w>
+            <w type="VC">編輯</w>
+         </s>
+         <s>
+            <w type="Cbb">3</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">常用</w>
+            <w type="Na">公式</w>
+            <w type="Caa">及</w>
+            <w type="Na">函數</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VJ">包含</w>
+            <w type="Na">文字</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">統計</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VJ">參照</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">日期</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">時間</w>
+            <w type="Nes">各</w>
+            <w type="Nf">類</w>
+            <w type="Na">函數</w>
+            <w type="VC">演練</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">4</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Na">統計圖表</w>
+            <w type="VC">製作</w>
+         </s>
+         <s>
+            <w type="FW">5</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Na">資料</w>
+            <w type="Na">清單</w>
+            <w type="DE">的</w>
+            <w type="Na">管理</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">排序</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">篩選</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">小計</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">web</w>
+            <w type="VE">查詢</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">6</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VA">排版</w>
+            <w type="Caa">與</w>
+            <w type="VC">列印</w>
+            <w type="VC">設定</w>
+         </s>
+         <s>
+            <w type="Na">課程</w>
+            <w type="Na">資訊</w>
+         </s>
+         <s>
+            <w type="Nv">授課</w>
+            <w type="Na">教師</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">黃淑玲</w>
+            <w type="Na">講師</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">計中</w>
+            <w type="VA">教學</w>
+            <w type="Nc">研究組</w>
+            <w type="VH">資深</w>
+            <w type="Na">講師</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="VA">上課</w>
+            <w type="Nc">教室</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">R206</w>
+         </s>
+         <s>
+            <w type="Nv">上課</w>
+            <w type="Na">時數</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">15</w>
+            <w type="Na">小時</w>
+         </s>
+         <s>
+            <w type="Nv">收費</w>
+            <w type="Na">金額</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">三</w>
+            <w type="Nc">校</w>
+            <w type="Na">系統</w>
+            <w type="Na">教職員</w>
+            <w type="Na">生</w>
+            <w type="Neu">1200</w>
+            <w type="Nf">元</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="A">一般</w>
+            <w type="Na">民眾</w>
+            <w type="Neu">1500</w>
+            <w type="Nf">元</w>
+         </s>
+         <s>
+            <w type="Dfa">最</w>
+            <w type="VH">新</w>
+            <w type="Na">課程</w>
+            <w type="Na">資訊</w>
+            <w type="D">都</w>
+            <w type="P">在</w>
+            <w type="Ncd">這裡</w>
+         </s>
+         <s>
+            <w type="FW">|</w>
+            <w type="Na">文書</w>
+            <w type="VC">處理</w>
+            <w type="Na">系列</w>
+            <w type="FW">|</w>
+         </s>
+         <s>
+            <w type="FW">Excel</w>
+            <w type="Neu">2019</w>
+            <w type="A">初階</w>
+            <w type="Na">應用</w>
+            <w type="FW"> 1/12</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">13</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">18</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">19</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">20 </w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neu">二三四</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="FW"> 9:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="FW">|</w>
+            <w type="Na">統計</w>
+            <w type="Na">分析</w>
+            <w type="Na">系列</w>
+            <w type="FW">|</w>
+         </s>
+         <s>
+            <w type="FW">SPSS</w>
+            <w type="Na">統計</w>
+            <w type="VC">分析</w>
+            <w type="Na">基礎</w>
+            <w type="VA">入門</w>
+            <w type="FW"> 1/19</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">20</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Neu">21 </w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nb">三四五</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="FW"> 9:</w>
+            <w type="Neu">10</w>
+            <w type="DASHCATEGORY">-12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-16</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="FW">|</w>
+            <w type="Na">高效能</w>
+            <w type="VC">運算</w>
+            <w type="Na">系列</w>
+            <w type="FW">|</w>
+         </s>
+         <s>
+            <w type="FW">MATLAB</w>
+            <w type="A">基礎</w>
+            <w type="Na">程式</w>
+            <w type="Na">技術</w>
+            <w type="FW"> 2/11</w>
+            <w type="Neu">（</w>
+            <w type="Neu">五</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="FW"> 9:</w>
+            <w type="Neu">10</w>
+            <w type="FW">-12</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">20</w>
+            <w type="DASHCATEGORY">-16</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">10</w>
+         </s>
+         <s>
+            <w type="VH">詳細</w>
+            <w type="Na">資訊</w>
+            <w type="Caa">與</w>
+            <w type="Dfa">最</w>
+            <w type="VH">新</w>
+            <w type="Na">課程</w>
+            <w type="Na">資訊</w>
+            <w type="VJ">歡迎</w>
+            <w type="Ng">上</w>
+            <w type="Na">資訊</w>
+            <w type="Na">應用</w>
+            <w type="Na">課程</w>
+            <w type="Nc">網站</w>
+            <w type="VE">查詢</w>
+            <w type="Caa">暨</w>
+            <w type="VA">報名</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//webpageprodvm.ntu.edu.tw/e-learning/</w>
+         </s>
+      </body>
+      <title author="ntuteaching (計資中心教學研究組)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nb">網宣</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> Excel</w>
+            <w type="Neu">2019</w>
+            <w type="A">初階</w>
+            <w type="Na">應用</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">即將</w>
+            <w type="VA">開課</w>
+            <w type="VJ">歡迎</w>
+            <w type="VA">報名</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

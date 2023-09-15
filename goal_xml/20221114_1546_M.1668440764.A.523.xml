@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">AAAB ()</metadata>
+      <metadata name="post_id">M.1668440764.A.523</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] 針對10/31日體育室預約網站系統遭攻擊事</metadata>
+   </teiHeader>
+   <text>
+      <body author="AAAB ()">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//rent.pe.ntu.edu.tw/news/</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="Neu">K=9</w>
+         </s>
+         <s>
+            <w type="Neu">2022年</w>
+            <w type="Neu">11月</w>
+            <w type="Neu">14日</w>
+         </s>
+         <s>
+            <w type="P">針對</w>
+            <w type="Neu">10/31日</w>
+            <w type="Nc">體育室</w>
+            <w type="VC">預約</w>
+            <w type="Nc">網站</w>
+            <w type="Na">系統</w>
+            <w type="P">遭</w>
+            <w type="VC">攻擊</w>
+            <w type="Na">事件</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">將</w>
+            <w type="VC">採取</w>
+            <w type="Nv">防範</w>
+            <w type="Na">措施</w>
+            <w type="P">如下</w>
+         </s>
+         <s>
+            <w type="P">於</w>
+            <w type="Neu">111年</w>
+            <w type="Neu">11月</w>
+            <w type="Neu">10日</w>
+            <w type="VL">開始</w>
+            <w type="VC">執行</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VC">預約</w>
+            <w type="VH">新</w>
+            <w type="Na">系統</w>
+            <w type="VA">上線</w>
+            <w type="Ng">後</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Neu">10/31</w>
+            <w type="VD">搶票</w>
+            <w type="Na">連線數</w>
+            <w type="VJ">達</w>
+            <w type="Neu">54萬餘</w>
+            <w type="Nf">筆</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">網路</w>
+            <w type="Na">設備</w>
+            <w type="VC">調整</w>
+            <w type="Ng">後</w>
+            <w type="VG">為</w>
+            <w type="Neu">8萬多</w>
+            <w type="Nf">筆</w>
+            <w type="Na">連線數</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VJ">相差</w>
+            <w type="Da">近</w>
+            <w type="Neu">7</w>
+            <w type="Na">倍</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可能</w>
+            <w type="VJ">發生</w>
+            <w type="Na">情形</w>
+            <w type="VG">如</w>
+            <w type="Ncd">下</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Neu">（1）</w>
+            <w type="VC">使用</w>
+            <w type="Na">機器人</w>
+            <w type="VC">訂</w>
+            <w type="Na">票</w>
+            <w type="VJ">失去</w>
+            <w type="VJ">原有</w>
+            <w type="Na">公平性</w>
+            <w type="Na">原則</w>
+         </s>
+         <s>
+            <w type="Cbb">（2）</w>
+            <w type="P">對</w>
+            <w type="Na">網路</w>
+            <w type="Nv">攻擊</w>
+            <w type="Na">使用量</w>
+            <w type="Dfa">過</w>
+            <w type="VH">大</w>
+            <w type="Nep">其</w>
+            <w type="VL">足以</w>
+            <w type="VJ">影響到</w>
+            <w type="Nh">他人</w>
+            <w type="Nc">線上</w>
+            <w type="VC">訂</w>
+            <w type="Na">票</w>
+            <w type="Na">權利</w>
+         </s>
+         <s>
+            <w type="Cbb">（3）</w>
+            <w type="P">對</w>
+            <w type="Na">系統</w>
+            <w type="Nv">攻擊</w>
+            <w type="VK">造成</w>
+            <w type="VH">異常</w>
+            <w type="Na">行為</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+         </s>
+         <s>
+            <w type="Nes">本</w>
+            <w type="Nc">室</w>
+            <w type="VC">採取</w>
+            <w type="A">下列</w>
+            <w type="Na">措施</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">A</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Na">系統</w>
+            <w type="Na">公告</w>
+            <w type="VB">連線</w>
+            <w type="FW">IP</w>
+            <w type="Na">位置</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">B</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="VC">阻斷</w>
+            <w type="VB">連線</w>
+            <w type="FW">IP</w>
+         </s>
+      </body>
+      <title author="AAAB ()">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">針對</w>
+            <w type="Nd">10/31日</w>
+            <w type="Nc">體育室</w>
+            <w type="VC">預約</w>
+            <w type="Nc">網站</w>
+            <w type="Na">系統</w>
+            <w type="P">遭</w>
+            <w type="VC">攻擊</w>
+            <w type="Na">事</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

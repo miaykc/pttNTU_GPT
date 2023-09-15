@@ -1,0 +1,832 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">NTUSCP (D-7129)</metadata>
+      <metadata name="post_id">M.1585407910.A.833</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] NTU-SCP-1929</metadata>
+   </teiHeader>
+   <text>
+      <body author="NTUSCP (D-7129)">
+         <s>
+            <w type="Na">項目</w>
+            <w type="Na">名稱</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nb"> SCP-1929</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">三寶</w>
+         </s>
+         <s>
+            <w type="Na">項目</w>
+            <w type="Na">等級</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Keter</w>
+         </s>
+         <s>
+            <w type="VH">特殊</w>
+            <w type="Nv">收容</w>
+            <w type="Na">措施</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="Na">項目</w>
+            <w type="FW">SCP-1929</w>
+            <w type="D">無法</w>
+            <w type="P">被</w>
+            <w type="VC">收容</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Da">僅</w>
+            <w type="D">能</w>
+            <w type="P">以</w>
+            <w type="Na">路</w>
+            <w type="Ncd">上</w>
+            <w type="VC">設置</w>
+            <w type="DE">之</w>
+            <w type="Na">標語</w>
+            <w type="Caa">以及</w>
+            <w type="Nc">基金會</w>
+            <w type="Na">官方</w>
+            <w type="VC">進行</w>
+            <w type="VC">遏止</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">但</w>
+            <w type="Nep">其</w>
+            <w type="Nv">遏止</w>
+            <w type="Na">效</w>
+         </s>
+         <s>
+            <w type="Cbb">果</w>
+            <w type="Dfa">相當</w>
+            <w type="VH">有限</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VC">描述</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="FW">SCP-1929</w>
+            <w type="VG">為</w>
+            <w type="Neu">一</w>
+            <w type="Na">模因</w>
+            <w type="Na">複合體</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Da">僅</w>
+            <w type="VA">存在</w>
+            <w type="P">於</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nc">校園</w>
+            <w type="Na">範圍</w>
+            <w type="Ncd">內</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VJ">有別於</w>
+            <w type="Nc">台灣</w>
+            <w type="VH">常見</w>
+            <w type="DE">之</w>
+            <w type="VH">低智商</w>
+            <w type="Na">智人</w>
+         </s>
+         <s>
+            <w type="Na">亞種</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="VG">俗稱</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Neu">三</w>
+            <w type="Na">寶</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Homo</w>
+            <w type="DASHCATEGORY"> sapiens</w>
+            <w type="DASHCATEGORY"> idiotes</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Ncd">以下</w>
+            <w type="VG">稱</w>
+            <w type="DE">之</w>
+            <w type="FW">idiotes</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="VJ">受到</w>
+            <w type="Nep">此</w>
+            <w type="Na">模</w>
+            <w type="P">因</w>
+         </s>
+         <s>
+            <w type="Na">複合體</w>
+            <w type="D">所</w>
+            <w type="VC">影響</w>
+            <w type="DE">的</w>
+            <w type="Na">受體</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">即</w>
+            <w type="FW">SCP-1929-a</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">其</w>
+            <w type="Na">行為</w>
+            <w type="Caa">和</w>
+            <w type="FW">Homo</w>
+            <w type="DASHCATEGORY"> sapiens</w>
+            <w type="FW"> idiotes</w>
+            <w type="V_2">有</w>
+            <w type="VH">相當</w>
+            <w type="DE">的</w>
+            <w type="Na">差異</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="V_2">有</w>
+         </s>
+         <s>
+            <w type="VJ">別於</w>
+            <w type="FW">idiotes</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">SCP-1929-a</w>
+            <w type="Na">年齡</w>
+            <w type="VH">分布</w>
+            <w type="Dfa">較</w>
+            <w type="VH">低</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">多</w>
+            <w type="VC">騎乘</w>
+            <w type="Na">自行車</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="FW">Idiotes</w>
+            <w type="Neqa">多半</w>
+            <w type="D">會</w>
+            <w type="VA">下車</w>
+            <w type="VJ">關注</w>
+            <w type="Nep">其</w>
+            <w type="VH">受害</w>
+         </s>
+         <s>
+            <w type="Na">者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">SCP-1929-a</w>
+            <w type="D">則</w>
+            <w type="D">多</w>
+            <w type="VG">為</w>
+            <w type="VC">採取</w>
+            <w type="VA">肇事</w>
+            <w type="VA">逃逸</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">抑或</w>
+            <w type="SHI">是</w>
+            <w type="VH">義正嚴詞</w>
+            <w type="VE">檢討</w>
+            <w type="VH">受害</w>
+            <w type="Na">者</w>
+            <w type="DE">之</w>
+            <w type="Na">行為</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">關於</w>
+            <w type="FW">SCP-1929</w>
+            <w type="DE">之</w>
+            <w type="VD">傳遞</w>
+            <w type="Na">模式</w>
+            <w type="D">仍</w>
+            <w type="VG">屬</w>
+            <w type="VJ">未知</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Da">僅</w>
+            <w type="VC">觀測到</w>
+            <w type="Nd">雨天</w>
+            <w type="Ng">時</w>
+            <w type="Nep">其</w>
+            <w type="VC">傳播</w>
+            <w type="Na">效力</w>
+            <w type="Dfa">較</w>
+            <w type="VH">高</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">推估</w>
+            <w type="D">應</w>
+            <w type="VG">為</w>
+            <w type="Nd">下雨天</w>
+            <w type="Ng">時</w>
+         </s>
+         <s>
+            <w type="Na">騎士</w>
+            <w type="D">需</w>
+            <w type="VC">空出</w>
+            <w type="Neu">一</w>
+            <w type="Nf">隻</w>
+            <w type="Na">手</w>
+            <w type="VA">撐傘</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">導致</w>
+            <w type="Nes">該</w>
+            <w type="Na">模</w>
+            <w type="P">因</w>
+            <w type="Dfa">更</w>
+            <w type="VH">容易</w>
+            <w type="VCL">侵入</w>
+            <w type="Na">受體</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">而</w>
+            <w type="P">受</w>
+            <w type="FW">SCP-1929</w>
+            <w type="Nf">處</w>
+            <w type="VH">發</w>
+            <w type="DE">的</w>
+            <w type="Na">地點</w>
+            <w type="Neqa">多半</w>
+            <w type="VJ">落於</w>
+         </s>
+         <s>
+            <w type="Na">椰林</w>
+            <w type="Na">大道</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">小椰林道</w>
+            <w type="Cab">等</w>
+            <w type="Na">交通</w>
+            <w type="Na">樞紐</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nd">日前</w>
+            <w type="VC">觀測到</w>
+            <w type="FW">SCP-1929</w>
+            <w type="VH">易</w>
+            <w type="VH">出現</w>
+            <w type="P">在</w>
+            <w type="Neu">一</w>
+            <w type="Nf">類</w>
+            <w type="Na">自行車</w>
+            <w type="Na">騎士</w>
+            <w type="Ncd">上</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">即</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">火影</w>
+            <w type="Na">忍者</w>
+            <w type="Na">騎士</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nes">該</w>
+            <w type="Nf">類</w>
+            <w type="Na">騎士</w>
+            <w type="VA">騎車</w>
+            <w type="D">不</w>
+         </s>
+         <s>
+            <w type="P">以</w>
+            <w type="Na">雙手</w>
+            <w type="VC">握住</w>
+            <w type="Na">龍頭</w>
+            <w type="VC">控制</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">而是</w>
+            <w type="P">將</w>
+            <w type="Na">手</w>
+            <w type="VC">懸掛</w>
+            <w type="P">於</w>
+            <w type="Na">車</w>
+            <w type="Ncd">外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">抑或</w>
+            <w type="SHI">是</w>
+            <w type="P">將</w>
+            <w type="Na">雙手</w>
+            <w type="VC">攬</w>
+            <w type="P">於</w>
+            <w type="Ncd">後方</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">實行</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">火影</w>
+            <w type="Na">忍者</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+         </s>
+         <s>
+            <w type="Na">式</w>
+            <w type="Cbb">以</w>
+            <w type="VHC">降低</w>
+            <w type="Na">風阻</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VE">實驗</w>
+            <w type="Na">內容</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="P">將</w>
+            <w type="P">受</w>
+            <w type="VF">試</w>
+            <w type="Na">者</w>
+            <w type="VC">放置</w>
+            <w type="P">於</w>
+            <w type="Na">交通</w>
+            <w type="Na">樞紐</w>
+            <w type="Nc">處</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">以</w>
+            <w type="VH">高速</w>
+            <w type="Na">攝影機</w>
+            <w type="VC">觀測</w>
+            <w type="Nep">其</w>
+            <w type="Na">運動</w>
+            <w type="Na">模式</w>
+         </s>
+         <s>
+            <w type="FW">**</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">次</w>
+            <w type="Na">實驗</w>
+         </s>
+         <s>
+            <w type="P">受</w>
+            <w type="VF">試</w>
+            <w type="Na">者</w>
+            <w type="FW">D-3312</w>
+            <w type="P">於</w>
+            <w type="Na">椰林</w>
+            <w type="Na">大道</w>
+            <w type="Ncd">上</w>
+            <w type="P">受</w>
+            <w type="VC">偵測</w>
+            <w type="VG">為</w>
+            <w type="Na">項目</w>
+            <w type="DE">之</w>
+            <w type="VJ">感染</w>
+            <w type="Na">者</w>
+         </s>
+         <s>
+            <w type="Neu">100</w>
+            <w type="FW">m</w>
+            <w type="Na">直線</w>
+            <w type="Na">跑道</w>
+            <w type="Na">試驗</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nb"> D-3312</w>
+            <w type="VC">彎出</w>
+            <w type="Na">跑道</w>
+            <w type="VA">自摔</w>
+            <w type="P">於</w>
+            <w type="Na">椰子樹</w>
+            <w type="Ncd">旁</w>
+         </s>
+         <s>
+            <w type="Neu">100</w>
+            <w type="FW">m</w>
+            <w type="Na">直線</w>
+            <w type="Na">跑道</w>
+            <w type="Na">試驗</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nb"> D-3312</w>
+            <w type="Na">高速</w>
+            <w type="VC">追撞</w>
+            <w type="Ncd">前方</w>
+            <w type="VH">正常</w>
+            <w type="VA">行駛</w>
+            <w type="DE">之</w>
+            <w type="Na">路人</w>
+         </s>
+         <s>
+            <w type="VA">右轉</w>
+            <w type="Na">跑道</w>
+            <w type="Na">試驗</w>
+            <w type="WHITESPACE">    </w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nb"> D-3312</w>
+            <w type="P">由</w>
+            <w type="Ncd">內側</w>
+            <w type="VH">直接</w>
+            <w type="VC">切</w>
+            <w type="P">往</w>
+            <w type="Ncd">右方</w>
+            <w type="Na">車道</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">撞擊</w>
+            <w type="Ncd">外側</w>
+            <w type="Na">車道</w>
+            <w type="Na">騎士</w>
+         </s>
+         <s>
+            <w type="FW">D-3312</w>
+            <w type="Na">腿骨</w>
+            <w type="VH">骨折</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VHC">暫停</w>
+            <w type="Na">實驗</w>
+         </s>
+         <s>
+            <w type="FW">**</w>
+            <w type="Neu">第二</w>
+            <w type="Nf">次</w>
+            <w type="Na">實驗</w>
+         </s>
+         <s>
+            <w type="P">受</w>
+            <w type="VF">試</w>
+            <w type="Na">者</w>
+            <w type="FW">D-0916</w>
+            <w type="P">於</w>
+            <w type="Na">椰林</w>
+            <w type="Na">大道</w>
+            <w type="Ncd">上</w>
+            <w type="P">受</w>
+            <w type="VC">偵測</w>
+            <w type="VG">為</w>
+            <w type="Na">項目</w>
+            <w type="DE">之</w>
+            <w type="VJ">感染</w>
+            <w type="Na">者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">感染</w>
+            <w type="Ng">前</w>
+            <w type="VG">為</w>
+            <w type="Na">自行車</w>
+            <w type="Nv">競速</w>
+            <w type="Na">選手</w>
+         </s>
+         <s>
+            <w type="Neu">100</w>
+            <w type="FW">m</w>
+            <w type="Na">直線</w>
+            <w type="Na">跑道</w>
+            <w type="Na">試驗</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nb"> D-0916</w>
+            <w type="D">起初</w>
+            <w type="VH">正常</w>
+            <w type="VA">行駛</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">至</w>
+            <w type="Neu">25m</w>
+            <w type="Nc">處</w>
+            <w type="VF">意圖</w>
+            <w type="VC">控制</w>
+            <w type="Neu">一</w>
+            <w type="Ncd">旁</w>
+            <w type="Na">騎士</w>
+            <w type="DE">之</w>
+            <w type="Na">龍頭</w>
+         </s>
+         <s>
+            <w type="VL">導致</w>
+            <w type="Neu">兩</w>
+            <w type="Na">人</w>
+            <w type="VHC">摔傷</w>
+         </s>
+         <s>
+            <w type="Na">道路</w>
+            <w type="VC">駕駛</w>
+            <w type="WHITESPACE">        </w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> D-0916</w>
+            <w type="Na">高速</w>
+            <w type="VC">撞擊</w>
+            <w type="Neu">一</w>
+            <w type="VHC">停</w>
+            <w type="P">在</w>
+            <w type="Na">路</w>
+            <w type="Ncd">旁</w>
+            <w type="VC">接送</w>
+            <w type="Na">兒童</w>
+            <w type="DE">的</w>
+            <w type="Na">娃娃車</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">D-0916</w>
+            <w type="VH">堅</w>
+         </s>
+         <s>
+            <w type="VG">稱</w>
+            <w type="Na">娃娃車</w>
+            <w type="Na">司機</w>
+            <w type="VA">違規</w>
+         </s>
+         <s>
+            <w type="VA">左轉</w>
+            <w type="Na">跑道</w>
+            <w type="Na">試驗</w>
+            <w type="WHITESPACE">    </w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> D-0916</w>
+            <w type="P">同</w>
+            <w type="Neu">D-3312</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">由</w>
+            <w type="Ncd">內側</w>
+            <w type="Na">車道</w>
+            <w type="D">不</w>
+            <w type="P">經</w>
+            <w type="D">回頭</w>
+            <w type="VE">檢查</w>
+            <w type="D">便</w>
+            <w type="VC">變換</w>
+            <w type="Na">車道</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">衝撞</w>
+            <w type="Neu">一</w>
+            <w type="Ncd">旁</w>
+         </s>
+         <s>
+            <w type="Na">行人</w>
+         </s>
+         <s>
+            <w type="FW">**</w>
+            <w type="Neu">第三</w>
+            <w type="Nf">次</w>
+            <w type="Na">實驗</w>
+         </s>
+         <s>
+            <w type="P">受</w>
+            <w type="VF">試</w>
+            <w type="Na">者</w>
+            <w type="FW">D-9447</w>
+            <w type="P">於</w>
+            <w type="Neu">118巷</w>
+            <w type="Ncd">中</w>
+            <w type="P">受</w>
+            <w type="VC">偵測</w>
+            <w type="VG">為</w>
+            <w type="Na">火影</w>
+            <w type="Na">忍者</w>
+            <w type="Cab">等</w>
+            <w type="VG">即</w>
+            <w type="Na">項目</w>
+            <w type="VJ">感染</w>
+            <w type="Na">者</w>
+         </s>
+         <s>
+            <w type="Neu">100</w>
+            <w type="FW">m</w>
+            <w type="Na">直線</w>
+            <w type="Na">跑道</w>
+            <w type="Na">試驗</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> D-9447</w>
+            <w type="D">不</w>
+            <w type="P">以</w>
+            <w type="Na">雙手</w>
+            <w type="VC">握</w>
+            <w type="Na">龍頭</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">而是</w>
+            <w type="VC">採取</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">火影</w>
+            <w type="Na">忍者</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">式</w>
+            <w type="Na">騎乘</w>
+            <w type="Na">法</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Ncd">後</w>
+            <w type="VC">衝撞</w>
+            <w type="Neu">一</w>
+            <w type="Ncd">旁</w>
+            <w type="VA">行駛</w>
+            <w type="DE">之</w>
+            <w type="Na">車輛</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並且</w>
+            <w type="VF">恐嚇</w>
+            <w type="Na">車主</w>
+            <w type="D">要</w>
+            <w type="VC">使出</w>
+            <w type="Na">須佐能</w>
+            <w type="VE">呼</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">MegaF</w>
+            <w type="Na">博士</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">”路</w>
+            <w type="Ncd">上</w>
+            <w type="I">他媽的</w>
+            <w type="Neu">三</w>
+            <w type="Na">寶</w>
+            <w type="D">已經</w>
+            <w type="VH">夠多</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">現在</w>
+            <w type="Nep">這</w>
+            <w type="VH">該死</w>
+            <w type="DE">的</w>
+            <w type="Neu">1929</w>
+            <w type="D">又</w>
+            <w type="D">來</w>
+            <w type="VA">惹事</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+            <w type="ETCCATEGORY">”</w>
+         </s>
+         <s>
+            <w type="FW">D█▊█</w>
+            <w type="Na">博士</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nb">”</w>
+            <w type="VE">認為</w>
+            <w type="Nb">SCP-1929-a</w>
+            <w type="D">應</w>
+            <w type="Nd">永久</w>
+            <w type="VC">吊銷</w>
+            <w type="Na">車證</w>
+            <w type="Caa">以及</w>
+            <w type="Na">擁</w>
+            <w type="Na">車權</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="ETCCATEGORY">”</w>
+         </s>
+         <s>
+            <w type="FW">R██</w>
+            <w type="Na">博士</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">”</w>
+            <w type="Nd">早上</w>
+            <w type="Da">才</w>
+            <w type="P">被</w>
+            <w type="Ncd">內側</w>
+            <w type="Na">車道</w>
+            <w type="DE">的</w>
+            <w type="FW">SCP-1929-a</w>
+            <w type="VC">衝撞</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">三</w>
+            <w type="Na">寶</w>
+            <w type="D">都</w>
+            <w type="D">去</w>
+            <w type="VC">吃</w>
+            <w type="Na">屎</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+            <w type="ETCCATEGORY">”</w>
+         </s>
+      </body>
+      <title author="NTUSCP (D-7129)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> NTU-SCP-1929</w>
+         </s>
+      </title>
+      <comment author="Sashacx" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="FW">ntuscp</w>
+         </s>
+      </comment>
+      <comment author="tom282f3" c_type="neg">
+         <s>
+            <w type="Neu">-1 Thaumiel</w>
+            <w type="D">不</w>
+            <w type="VC">改</w>
+            <w type="T">喔</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="D">要</w>
+            <w type="FW">downvote</w>
+         </s>
+      </comment>
+      <comment author="ssd860505da" c_type="neu">
+         <s>
+            <w type="FW">scp</w>
+            <w type="SHI">是</w>
+            <w type="Nep">什麼</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Na">伺服器</w>
+            <w type="Ncd">上</w>
+            <w type="VD">傳</w>
+            <w type="VC">下載</w>
+            <w type="Na">檔案</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="tom282f3" c_type="pos">
+         <s>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="A">共同</w>
+            <w type="VC">創作</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">在</w>
+            <w type="VH">相同</w>
+            <w type="DE">的</w>
+            <w type="Na">故事</w>
+            <w type="Na">架構</w>
+            <w type="Ng">下</w>
+            <w type="Nh">大家</w>
+            <w type="Nh">自己</w>
+            <w type="VC">寫</w>
+         </s>
+      </comment>
+      <comment author="tom282f3" c_type="neu">
+         <s>
+            <w type="A">正規</w>
+            <w type="DE">的</w>
+            <w type="VC">寫</w>
+            <w type="Cba">的話</w>
+            <w type="WHITESPACE"> </w>
+            <w type="SHI">是</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">社群</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">會</w>
+            <w type="VC">審查</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">幫忙</w>
+            <w type="VC">改寫</w>
+            <w type="Cab">之類</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="tom282f3" c_type="neu">
+         <s>
+            <w type="VJ">達到</w>
+            <w type="Na">社群</w>
+            <w type="VC">認可</w>
+            <w type="DE">的</w>
+            <w type="Na">標準</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">就</w>
+            <w type="D">能</w>
+            <w type="VG">成為</w>
+            <w type="VH">正式</w>
+            <w type="DE">的</w>
+            <w type="VC">創作</w>
+         </s>
+      </comment>
+      <comment author="tom282f3" c_type="neu">
+         <s>
+            <w type="Na">背景</w>
+            <w type="SHI">是</w>
+            <w type="FW">SCP</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">組織</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VL">負責</w>
+            <w type="VC">收容</w>
+            <w type="D">會</w>
+            <w type="VC">危害</w>
+            <w type="Na">人類</w>
+            <w type="DE">的</w>
+            <w type="A">超自然</w>
+            <w type="Na">物件</w>
+         </s>
+      </comment>
+      <comment author="tom282f3" c_type="neu">
+         <s>
+            <w type="Nes">每</w>
+            <w type="Nf">個</w>
+            <w type="Na">物件</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Nh">自己</w>
+            <w type="DE">的</w>
+            <w type="Na">檔案</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">編號</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="FW">SCP-XXXX</w>
+         </s>
+      </comment>
+      <comment author="cwh0105" c_type="neg">
+         <s>
+            <w type="VJ">沒</w>
+            <w type="Na">梗</w>
+            <w type="VA">滾</w>
+            <w type="T">啦</w>
+         </s>
+      </comment>
+      <comment author="Creeperforev" c_type="pos">
+         <s>
+            <w type="D">就</w>
+            <w type="VE">說</w>
+            <w type="D">要</w>
+            <w type="VC">加</w>
+            <w type="FW">j</w>
+         </s>
+      </comment>
+      <comment author="chaoannricar" c_type="pos">
+         <s>
+            <w type="VC">幫推</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+         </s>
+      </comment>
+      <comment author="SamThunder" c_type="pos">
+         <s>
+            <w type="VHC">笑死</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

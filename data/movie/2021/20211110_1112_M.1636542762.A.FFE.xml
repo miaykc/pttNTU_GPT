@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">qpr322 (龍魚)</metadata>
+      <metadata name="post_id">M.1636542762.A.FFE</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 2021 東京影展 得獎名單</metadata>
+   </teiHeader>
+   <text>
+      <body author="qpr322 (龍魚)">
+         <s>
+            <w type="FW">－ </w>
+            <w type="A">主</w>
+            <w type="Na">競賽</w>
+            <w type="Na">單元</w>
+            <w type="FW"> －</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">評審團</w>
+            <w type="Na">主席</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="FW">- Isabelle</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Huppert</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">法國</w>
+            <w type="Na">女</w>
+            <w type="Na">演員</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">代表作</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nh">她</w>
+            <w type="DE">的</w>
+            <w type="VH">危險</w>
+            <w type="Na">遊戲</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">鋼琴</w>
+            <w type="Na">教師</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">評審團</w>
+            <w type="Na">成員</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="DASHCATEGORY">- </w>
+            <w type="Nb">青山真治</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">日本</w>
+            <w type="Na">男</w>
+            <w type="Na">導演</w>
+            <w type="FW">／</w>
+            <w type="Na">編劇</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">代表作</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">東京</w>
+            <w type="Nc">公園</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="A">人造</w>
+            <w type="Nc">天堂</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="FW">- Chris</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Fujiwara</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">美國</w>
+            <w type="Na">男</w>
+            <w type="Na">影評</w>
+            <w type="FW">／</w>
+            <w type="Na">策展人</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">代表作</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">愛丁堡</w>
+            <w type="Na">影展</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">費比西</w>
+            <w type="Na">影評人</w>
+         </s>
+         <s>
+            <w type="DASHCATEGORY">- </w>
+            <w type="Nb">鄭碧雪</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">馬來西亞</w>
+            <w type="Na">女</w>
+            <w type="Na">製片</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">代表作</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">瘋狂</w>
+            <w type="DE">的</w>
+            <w type="Na">石頭</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">長頸鹿</w>
+            <w type="Na">女孩</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Nb"> 世武裕子</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">日本</w>
+            <w type="Na">女</w>
+            <w type="Na">電影</w>
+            <w type="Na">配樂家</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">代表作</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="D">日日</w>
+            <w type="SHI">是</w>
+            <w type="VH">好</w>
+            <w type="Na">日</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">羊</w>
+            <w type="Caa">與</w>
+            <w type="Na">鋼</w>
+            <w type="DE">之</w>
+            <w type="Na">森</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">東京</w>
+            <w type="Na">大獎</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Vera</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Dreams</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> the</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Sea</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">｜</w>
+            <w type="FW">Kaltrina</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Krasniqi</w>
+            <w type="FW">｜</w>
+            <w type="Nc">科索沃</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Ncd">北</w>
+            <w type="Nc">馬其頓</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">阿爾巴尼亞</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/flaaV</w>
+            <w type="Neu">49</w>
+            <w type="FW">.</w>
+            <w type="FW">jpg</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">評審團</w>
+            <w type="Na">特別獎</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">La </w>
+            <w type="FW">Civil</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">｜</w>
+            <w type="FW">Teodora</w>
+            <w type="FW"> Ana</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Mihai</w>
+            <w type="FW">｜</w>
+            <w type="Nc">比利時</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">羅馬尼亞</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">墨西哥</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/8</w>
+            <w type="FW">TjpYiG.jpg</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">導演</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Poet</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">｜</w>
+            <w type="FW">Darezhan</w>
+            <w type="FW"> Omirbaev</w>
+            <w type="FW">｜</w>
+            <w type="Nc">哈薩克</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Rqoq</w>
+            <w type="FW">YrM.jpg</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">女</w>
+            <w type="Na">演員</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="FW">－ Julia</w>
+            <w type="FW"> Chávez</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">The</w>
+            <w type="FW"> Other</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Tom</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">｜</w>
+            <w type="FW">Rodrigo</w>
+            <w type="FW"> Plá</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Laura</w>
+            <w type="FW"> Santullo</w>
+            <w type="FW">｜</w>
+            <w type="Nc">墨西哥</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">美國</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/FQfahgn.jpg</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">男</w>
+            <w type="Na">演員</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="FW">－ Amir Aghaee</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Fatih</w>
+            <w type="FW"> Al</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Bar</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Yildiz</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Onur</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Buldu</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">The</w>
+            <w type="FW"> Four</w>
+            <w type="FW"> Walls</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">｜</w>
+            <w type="FW">Bahman</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Ghobadi</w>
+            <w type="FW">｜</w>
+            <w type="Nc">土耳其</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/U4NBLtx.jpg</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">藝術</w>
+            <w type="Na">貢獻獎</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Crane</w>
+            <w type="FW"> Lantern</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">｜</w>
+            <w type="FW">Hilal</w>
+            <w type="FW"> Baydarov</w>
+            <w type="FW">｜</w>
+            <w type="Nc">亞塞拜然</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/u</w>
+            <w type="FW">H47</w>
+            <w type="FW">Fj</w>
+            <w type="Neu">3.jpg</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">觀眾</w>
+            <w type="Nv">票選獎</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">ちょっ</w>
+            <w type="FW">と</w>
+            <w type="VE">思</w>
+            <w type="FW">い</w>
+            <w type="VC">出</w>
+            <w type="FW">した</w>
+            <w type="FW">だけ</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">｜</w>
+            <w type="Nb">松居大悟</w>
+            <w type="FW">｜</w>
+            <w type="Nc">日本</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/XEW7XAR.jpg</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">特別</w>
+            <w type="VE">提及</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">ちょっ</w>
+            <w type="FW">と</w>
+            <w type="VE">思</w>
+            <w type="FW">い</w>
+            <w type="VC">出</w>
+            <w type="FW">した</w>
+            <w type="FW">だけ</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">｜</w>
+            <w type="Nb">松居大悟</w>
+            <w type="FW">｜</w>
+            <w type="Nc">日本</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/x9</w>
+            <w type="FW">PxDAJ.jpg</w>
+         </s>
+         <s>
+            <w type="FW">－ </w>
+            <w type="Nc">亞洲</w>
+            <w type="Nd">未來</w>
+            <w type="Na">單元</w>
+            <w type="FW"> －</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">評審團</w>
+            <w type="Na">成員</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="DASHCATEGORY">- </w>
+            <w type="Nb">韓燕麗</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">中國</w>
+            <w type="Na">女</w>
+            <w type="Na">學者</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">代表作</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">東京</w>
+            <w type="Nc">大學</w>
+         </s>
+         <s>
+            <w type="DASHCATEGORY">- </w>
+            <w type="Nb">北條誠人</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">日本</w>
+            <w type="Na">男</w>
+            <w type="Na">電影</w>
+            <w type="Nc">公司</w>
+            <w type="Na">經理</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">代表作</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Euro</w>
+            <w type="FW"> Space</w>
+         </s>
+         <s>
+            <w type="DASHCATEGORY">- </w>
+            <w type="Nb">石井裕也</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">日本</w>
+            <w type="Na">男</w>
+            <w type="Na">導演</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">代表作</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">東京</w>
+            <w type="Nc">夜空</w>
+            <w type="Dfa">最</w>
+            <w type="Na">深藍</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">宅男</w>
+            <w type="DE">的</w>
+            <w type="VH">戀愛</w>
+            <w type="Na">字典</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">亞洲</w>
+            <w type="Nd">未來</w>
+            <w type="Na">單元</w>
+            <w type="A">最佳</w>
+            <w type="Na">影片</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">World</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Northern</w>
+            <w type="FW"> Hemisphere</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">｜</w>
+            <w type="FW">Hossein</w>
+            <w type="FW"> Tehrani</w>
+            <w type="FW">｜</w>
+            <w type="Nc">伊朗</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Ka3s893</w>
+            <w type="FW">.</w>
+            <w type="FW">jpg</w>
+         </s>
+      </body>
+      <title author="qpr322 (龍魚)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 2021</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">東京</w>
+            <w type="Na">影展</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nv">得獎</w>
+            <w type="Na">名單</w>
+         </s>
+      </title>
+      <comment author="sentital" c_type="pos">
+         <s>
+            <w type="Nc">美國</w>
+            <w type="Na">女孩</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="D">沒</w>
+            <w type="VJ">中</w>
+            <w type="FW">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

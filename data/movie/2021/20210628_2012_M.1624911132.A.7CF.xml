@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">GGY5566 (Dick)</metadata>
+      <metadata name="post_id">M.1624911132.A.7CF</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 神一部片</metadata>
+   </teiHeader>
+   <text>
+      <body author="GGY5566 (Dick)">
+         <s>
+            <w type="VE">想</w>
+            <w type="VE">問</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">片名</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但</w>
+            <w type="Da">只</w>
+            <w type="VK">記得</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">橋段</w>
+         </s>
+         <s>
+            <w type="Na">男</w>
+            <w type="Na">主角</w>
+            <w type="P">為了</w>
+            <w type="VC">找</w>
+            <w type="Neu">一</w>
+            <w type="Nf">顆</w>
+            <w type="Na">鑽石</w>
+            <w type="VC">翻遍</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">棟</w>
+            <w type="Nc">樓</w>
+         </s>
+         <s>
+            <w type="Dk">結果</w>
+            <w type="VE">發現</w>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="Na">老闆</w>
+            <w type="Na">身</w>
+            <w type="Ncd">上</w>
+         </s>
+         <s>
+            <w type="D">隨即</w>
+            <w type="VC">拉</w>
+            <w type="Na">繩索</w>
+            <w type="P">往</w>
+            <w type="Nc">樓下</w>
+            <w type="VA">過去</w>
+         </s>
+         <s>
+            <w type="VC">搶走</w>
+            <w type="Na">老闆</w>
+            <w type="DE">的</w>
+            <w type="Na">鑽石</w>
+            <w type="P">以</w>
+            <w type="VC">洗刷</w>
+            <w type="Na">冤屈</w>
+         </s>
+      </body>
+      <title author="GGY5566 (Dick)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問</w>
+            <w type="Na">片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">神</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">片</w>
+         </s>
+      </title>
+      <comment author="plutox" c_type="pos">
+         <s>
+            <w type="Na">男</w>
+            <w type="Na">主角</w>
+            <w type="V_2">有</w>
+            <w type="VA">站</w>
+            <w type="P">在</w>
+            <w type="Na">大樓</w>
+            <w type="Ncd">外面</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Na">女</w>
+            <w type="Na">主角</w>
+            <w type="SHI">是</w>
+            <w type="VC">談判</w>
+            <w type="Na">專家</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="GGY5566" c_type="neu">
+         <s>
+            <w type="VJ">沒</w>
+            <w type="Na">錯</w>
+         </s>
+      </comment>
+      <comment author="bowenabo" c_type="pos">
+         <s>
+            <w type="VH">驚天換日</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="sonans" c_type="neu">
+         <s>
+            <w type="VH">驚天換日</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">不過</w>
+            <w type="Nh">你</w>
+            <w type="VJ">記錯</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="VC">用</w>
+            <w type="Na">繩索</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="SHI">是</w>
+            <w type="VH">直接</w>
+            <w type="VA">跳</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

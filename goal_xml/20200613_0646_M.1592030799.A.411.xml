@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">maozz (天才香菜少女)</metadata>
+      <metadata name="post_id">M.1592030799.A.411</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 請問</metadata>
+   </teiHeader>
+   <text>
+      <body author="maozz (天才香菜少女)">
+         <s>
+            <w type="Na">廢文</w>
+            <w type="V_2">有</w>
+            <w type="Da">至少</w>
+            <w type="VE">要</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">個</w>
+            <w type="Na">字</w>
+            <w type="T">嗎</w>
+         </s>
+      </body>
+      <title author="maozz (天才香菜少女)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">請問</w>
+         </s>
+      </title>
+      <comment author="cwh0105" c_type="neg">
+         <s>
+            <w type="VJ">沒有</w>
+            <w type="T">喔</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

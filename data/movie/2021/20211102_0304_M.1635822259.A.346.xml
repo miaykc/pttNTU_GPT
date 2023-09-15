@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">yeahhuman (人)</metadata>
+      <metadata name="post_id">M.1635822259.A.346</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 請問奧斯卡獎或金像獎入圍方式</metadata>
+   </teiHeader>
+   <text>
+      <body author="yeahhuman (人)">
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="V_2">有</w>
+            <w type="Nes">同</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">主角</w>
+            <w type="Nd">同年</w>
+            <w type="VC">拍</w>
+            <w type="Di">了</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">部</w>
+            <w type="VH">好</w>
+            <w type="Na">電影</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">都</w>
+            <w type="VH">值得</w>
+            <w type="VJ">入圍</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="D">可能</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">個</w>
+            <w type="D">都</w>
+            <w type="VJ">入圍</w>
+            <w type="A">最佳</w>
+            <w type="Na">主角</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="P">對</w>
+            <w type="Na">規則</w>
+            <w type="D">不</w>
+            <w type="VH">熟</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">所以</w>
+            <w type="VB">請益</w>
+            <w type="Nd">一下</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="yeahhuman (人)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">請問</w>
+            <w type="Nb">奧斯卡獎</w>
+            <w type="Caa">或</w>
+            <w type="Nb">金像獎</w>
+            <w type="VJ">入圍</w>
+            <w type="Na">方式</w>
+         </s>
+      </title>
+      <comment author="sleepyrat" c_type="neu">
+         <s>
+            <w type="Nb">金球獎</w>
+            <w type="Dfa">比較</w>
+            <w type="V_2">有</w>
+            <w type="Na">可能</w>
+         </s>
+      </comment>
+      <comment author="james885" c_type="neu">
+         <s>
+            <w type="D">沒有</w>
+            <w type="VE">規定</w>
+            <w type="Na">演員</w>
+            <w type="D">不能</w>
+            <w type="VC">重複</w>
+            <w type="VJ">入圍</w>
+            <w type="Nes">同</w>
+            <w type="Nf">個</w>
+            <w type="Na">獎項</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">只是</w>
+            <w type="VJ">沒</w>
+            <w type="Na">人</w>
+            <w type="VE">做到</w>
+            <w type="Di">過</w>
+         </s>
+      </comment>
+      <comment author="james885" c_type="neu">
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="Nes">同</w>
+            <w type="Nf">屆</w>
+            <w type="P">以</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">部</w>
+            <w type="Na">電影</w>
+            <w type="D">分別</w>
+            <w type="VJ">入圍</w>
+            <w type="Na">主角</w>
+            <w type="Caa">與</w>
+            <w type="Na">配角</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">最近</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+         </s>
+      </comment>
+      <comment author="james885" c_type="neu">
+         <s>
+            <w type="SHI">是</w>
+            <w type="Neu">2019年</w>
+            <w type="DE">的</w>
+            <w type="Nb">史嘉蕾</w>
+            <w type="Nb">喬韓森</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">維基</w>
+            <w type="VC">搜尋</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nd">同年</w>
+            <w type="VJ">獲</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">項</w>
+            <w type="Nb">奧</w>
+         </s>
+      </comment>
+      <comment author="james885" c_type="neu">
+         <s>
+            <w type="Nb">斯卡</w>
+            <w type="Nb">金像獎</w>
+            <w type="VC">提名</w>
+            <w type="Na">演員</w>
+            <w type="Na">列表</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="D">應該</w>
+            <w type="VE">查</w>
+            <w type="DE">得</w>
+            <w type="VE">到</w>
+            <w type="VH">完整</w>
+            <w type="Na">名單</w>
+         </s>
+      </comment>
+      <comment author="james885" c_type="neu">
+         <s>
+            <w type="VC">更正</w>
+            <w type="Nd">一下</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">演技</w>
+            <w type="Na">類</w>
+            <w type="D">似乎</w>
+            <w type="V_2">有</w>
+            <w type="Na">限制</w>
+            <w type="Nes">同</w>
+            <w type="Na">演員</w>
+            <w type="Nes">同</w>
+            <w type="Na">獎項</w>
+            <w type="D">重複</w>
+            <w type="VJ">入圍</w>
+         </s>
+      </comment>
+      <comment author="james885" c_type="neu">
+         <s>
+            <w type="Nes">上</w>
+            <w type="Neu">一</w>
+            <w type="Nf">屆</w>
+            <w type="Neu">94</w>
+            <w type="Nf">屆</w>
+            <w type="DE">的</w>
+            <w type="Na">規則</w>
+            <w type="FW">Rule</w>
+            <w type="FW"> Six</w>
+            <w type="Neu">第5</w>
+            <w type="Nf">點</w>
+            <w type="V_2">有</w>
+            <w type="Na">規定</w>
+            <w type="Da">只</w>
+            <w type="D">能</w>
+            <w type="VC">選</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VCL">入</w>
+         </s>
+      </comment>
+      <comment author="yeahhuman" c_type="neu">
+         <s>
+            <w type="Cbb">只是</w>
+            <w type="Da">剛好</w>
+            <w type="VE">想到</w>
+            <w type="Nd">今年</w>
+            <w type="Na">俗女</w>
+            <w type="VC">養成</w>
+            <w type="Na">記2</w>
+            <w type="Caa">和</w>
+            <w type="Nc">四樓</w>
+            <w type="DE">的</w>
+            <w type="Nc">天堂</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+      </comment>
+      <comment author="james885" c_type="neu">
+         <s>
+            <w type="VC">圍</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">參考</w>
+            <w type="Na">規則</w>
+            <w type="FW">PDF檔</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//bit.ly/3CENv3U</w>
+         </s>
+      </comment>
+      <comment author="yeahhuman" c_type="neu">
+         <s>
+            <w type="D">都</w>
+            <w type="SHI">是</w>
+            <w type="Nes">同</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">女</w>
+            <w type="Na">主角</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">演技</w>
+            <w type="D">也</w>
+            <w type="D">不</w>
+            <w type="VH">差</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">所以</w>
+            <w type="Da">才</w>
+            <w type="VE">想到</w>
+            <w type="Nep">這</w>
+            <w type="Na">問題</w>
+         </s>
+      </comment>
+      <comment author="jasonyeh" c_type="pos">
+         <s>
+            <w type="P">在</w>
+            <w type="Nb">奧斯卡</w>
+            <w type="Na">理論</w>
+            <w type="Ncd">上</w>
+            <w type="SHI">是</w>
+            <w type="VH">可能</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="VH">實際</w>
+            <w type="Ng">上</w>
+            <w type="D">沒</w>
+            <w type="VJ">發生</w>
+            <w type="Di">過</w>
+         </s>
+      </comment>
+      <comment author="a9a99" c_type="neu">
+         <s>
+            <w type="Na">導演</w>
+            <w type="V_2">有</w>
+            <w type="VJ">發生</w>
+            <w type="Di">過</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">人</w>
+            <w type="VJ">入圍</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">個</w>
+            <w type="Na">名額</w>
+         </s>
+      </comment>
+      <comment author="Beandou" c_type="pos">
+         <s>
+            <w type="V_2">有</w>
+            <w type="VH">可能</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="VJ">出於</w>
+            <w type="VA">投票</w>
+            <w type="Na">機制</w>
+            <w type="D">會</w>
+            <w type="P">比</w>
+            <w type="Nb">金馬獎</w>
+            <w type="Cab">等</w>
+            <w type="Na">中小型</w>
+            <w type="Na">評審</w>
+         </s>
+      </comment>
+      <comment author="Beandou" c_type="neu">
+         <s>
+            <w type="Na">團</w>
+            <w type="VH">爽</w>
+            <w type="VJ">入圍</w>
+            <w type="Na">機率</w>
+            <w type="VH">低</w>
+         </s>
+      </comment>
+      <comment author="Beandou" c_type="neu">
+         <s>
+            <w type="FW">*</w>
+            <w type="A">雙</w>
+         </s>
+      </comment>
+      <comment author="Beandou" c_type="neu">
+         <s>
+            <w type="FW">*</w>
+            <w type="Nh">我</w>
+            <w type="VK">覺得</w>
+         </s>
+      </comment>
+      <comment author="RachelMcAdam" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Da">只</w>
+            <w type="VK">知道</w>
+            <w type="D">可以</w>
+            <w type="Nd">同時</w>
+            <w type="VJ">獲得</w>
+            <w type="Nb">奧斯卡</w>
+            <w type="Caa">和</w>
+            <w type="Na">金酸莓</w>
+            <w type="DE">的</w>
+            <w type="Na">女</w>
+            <w type="Na">主角</w>
+         </s>
+      </comment>
+      <comment author="jumper" c_type="pos">
+         <s>
+            <w type="Na">推文</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="D">都</w>
+            <w type="VC">貼</w>
+            <w type="Na">規則</w>
+            <w type="T">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">同</w>
+            <w type="Na">人</w>
+            <w type="Nes">同</w>
+            <w type="Na">獎</w>
+            <w type="Da">只</w>
+            <w type="D">能</w>
+            <w type="D">一</w>
+            <w type="VJ">入圍</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">怎麼</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+         </s>
+      </comment>
+      <comment author="jumper" c_type="neu">
+         <s>
+            <w type="VE">說</w>
+            <w type="D">可能</w>
+         </s>
+      </comment>
+      <comment author="jumper" c_type="neu">
+         <s>
+            <w type="Na">演技類</w>
+            <w type="Na">獎項</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

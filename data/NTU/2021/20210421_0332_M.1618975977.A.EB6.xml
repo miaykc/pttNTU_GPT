@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ann141414 (海底撈火鍋)</metadata>
+      <metadata name="post_id">M.1618975977.A.EB6</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 肥到校</metadata>
+   </teiHeader>
+   <text>
+      <body author="ann141414 (海底撈火鍋)">
+         <s>
+            <w type="Nb">肥肥</w>
+            <w type="D">剛</w>
+            <w type="VA">到校</w>
+         </s>
+         <s>
+            <w type="VHC">肥</w>
+            <w type="VA">到</w>
+            <w type="Nc">校</w>
+         </s>
+         <s>
+            <w type="VC">廢</w>
+            <w type="P">到</w>
+            <w type="VA">笑</w>
+         </s>
+         <s>
+            <w type="D">嗚嗚</w>
+            <w type="D">嗚嗚</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/2t</w>
+            <w type="Neu">86</w>
+            <w type="FW">HFB.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/G3NsAm8</w>
+            <w type="FW">.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/MgcQKiJ.jpg</w>
+         </s>
+      </body>
+      <title author="ann141414 (海底撈火鍋)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="Na"> 肥</w>
+            <w type="VA">到校</w>
+         </s>
+      </title>
+      <comment author="Imotucc" c_type="neg">
+         <s>
+            <w type="VH">胖</w>
+            <w type="VH">呆</w>
+            <w type="VE">說</w>
+            <w type="DE">的</w>
+            <w type="VH">對</w>
+         </s>
+      </comment>
+      <comment author="Imotucc" c_type="neu">
+         <s>
+            <w type="VH">可惡</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">簽名檔</w>
+         </s>
+      </comment>
+      <comment author="ann141414" c_type="neu">
+         <s>
+            <w type="I">幹</w>
+            <w type="VK">抱歉</w>
+            <w type="VH">失手</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="ann141414" c_type="neu">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Dfa">好</w>
+            <w type="VH">可恥</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="D">真的</w>
+            <w type="VA">笑</w>
+            <w type="Di">了</w>
+            <w type="DASHCATEGORY"> XDDDDDDDDDDD</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

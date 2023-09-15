@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">shin3044 (shin)</metadata>
+      <metadata name="post_id">M.1631475136.A.45E</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 單車台灣片</metadata>
+   </teiHeader>
+   <text>
+      <body author="shin3044 (shin)">
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Nd">小時候</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Da">約</w>
+            <w type="Neu">20</w>
+            <w type="Nf">年</w>
+            <w type="Ng">前</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="P">在</w>
+            <w type="Nc">電影台</w>
+            <w type="VE">看到</w>
+            <w type="DE">的</w>
+            <w type="Na">台灣片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Da">只</w>
+            <w type="VK">記得</w>
+            <w type="SHI">是</w>
+            <w type="D">不</w>
+            <w type="VL">愛</w>
+            <w type="VA">讀書</w>
+            <w type="DE">的</w>
+            <w type="Na">高中生</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">很</w>
+            <w type="D">會</w>
+            <w type="VC">騎</w>
+            <w type="Na">腳</w>
+         </s>
+         <s>
+            <w type="Na">踏車</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">平常</w>
+            <w type="VC">練習</w>
+            <w type="D">都</w>
+            <w type="SHI">是</w>
+            <w type="VC">騎</w>
+            <w type="Na">腳踏車</w>
+            <w type="VC">追</w>
+            <w type="Na">公車</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="D">有沒有</w>
+            <w type="VH">大大</w>
+            <w type="VK">知道</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Na">片</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </body>
+      <title author="shin3044 (shin)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">單車</w>
+            <w type="Na">台灣片</w>
+         </s>
+      </title>
+      <comment author="nolimits" c_type="pos">
+         <s>
+            <w type="Nb">李國毅</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="Afae" c_type="pos">
+         <s>
+            <w type="Na">單車</w>
+            <w type="VA">上路</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Cbb">但</w>
+            <w type="V_2">有</w>
+            <w type="VC">追</w>
+            <w type="Na">公車</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="gofPTT" c_type="pos">
+         <s>
+            <w type="Na">小卒</w>
+            <w type="Na">戰將</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="IKUZO" c_type="pos">
+         <s>
+            <w type="Nb">江祖</w>
+            <w type="VH">平</w>
+            <w type="D">正</w>
+         </s>
+      </comment>
+      <comment author="maxgxking" c_type="neu">
+         <s>
+            <w type="Na">愛情</w>
+            <w type="Na">靈藥</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="cosingtako" c_type="pos">
+         <s>
+            <w type="D">沒</w>
+            <w type="VE">說</w>
+            <w type="Na">台灣片</w>
+            <w type="Nh">我</w>
+            <w type="VE">以為</w>
+            <w type="P">在</w>
+            <w type="VE">講</w>
+            <w type="Nv">灌籃</w>
+            <w type="Na">高手</w>
+         </s>
+      </comment>
+      <comment author="shin3044" c_type="neu">
+         <s>
+            <w type="D">真的</w>
+            <w type="SHI">是</w>
+            <w type="Na">小卒</w>
+            <w type="Na">戰將</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">感謝</w>
+            <w type="VH">大大</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

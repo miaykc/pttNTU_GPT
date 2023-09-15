@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">qpr322 (龍魚)</metadata>
+      <metadata name="post_id">M.1580373062.A.EAB</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 2020 美國攝影師協會獎 得獎名單</metadata>
+   </teiHeader>
+   <text>
+      <body author="qpr322 (龍魚)">
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">院線</w>
+            <w type="Na">電影</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Neu">1917</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Roger</w>
+            <w type="FW"> Deakins</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">聚光燈獎</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">The</w>
+            <w type="FW"> Lighthouse</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Jarin</w>
+            <w type="FW"> Blaschke</w>
+         </s>
+      </body>
+      <title author="qpr322 (龍魚)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 2020</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">美國</w>
+            <w type="Na">攝影師</w>
+            <w type="Nc">協會</w>
+            <w type="Na">獎</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">得獎</w>
+            <w type="Na">名單</w>
+         </s>
+      </title>
+      <comment author="lgng66133" c_type="neu">
+         <s>
+            <w type="D">不</w>
+            <w type="VK">意外</w>
+            <w type="DE">的</w>
+            <w type="Na">獎項</w>
+            <w type="FW">X</w>
+            <w type="ETCCATEGORY">D</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

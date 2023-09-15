@@ -1,0 +1,1004 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">hTCU11 (Squeeze)</metadata>
+      <metadata name="post_id">M.1665571952.A.4F3</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 泰晤士世界大學排名 台大全球187退步74名</metadata>
+   </teiHeader>
+   <text>
+      <body author="hTCU11 (Squeeze)">
+         <s>
+            <w type="Cbb">1</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Na">媒體</w>
+            <w type="Na">來源</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nc">中央社</w>
+         </s>
+         <s>
+            <w type="Cbb">2</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="Na">標題</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="Nb">泰晤士</w>
+            <w type="Nc">世界</w>
+            <w type="Nc">大學</w>
+            <w type="VG">排名</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台大</w>
+            <w type="Nc">全球</w>
+            <w type="Neu">187</w>
+            <w type="VH">退步</w>
+            <w type="Neu">74</w>
+            <w type="Nf">名</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">亞洲</w>
+            <w type="Nc">大學</w>
+            <w type="VC">超越</w>
+            <w type="Nb">清交成</w>
+         </s>
+         <s>
+            <w type="Cbb">3</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Na">日期</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">署名</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">2022年</w>
+            <w type="Neu">10月</w>
+            <w type="Neu">12日</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">陳韻聿</w>
+         </s>
+         <s>
+            <w type="Cbb">4</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="Na">內文</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="Nc">英國</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nb">泰晤士</w>
+            <w type="A">高等</w>
+            <w type="Na">教育</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">特刊</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">THE</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Nd">今天</w>
+            <w type="VE">公布</w>
+            <w type="Neu">2023年</w>
+            <w type="Nc">世界</w>
+            <w type="Nc">大學</w>
+            <w type="VG">排名</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">英國</w>
+            <w type="DE">的</w>
+            <w type="Nc">牛津</w>
+            <w type="Nc">大學</w>
+            <w type="Cbb">連</w>
+         </s>
+         <s>
+            <w type="D">續</w>
+            <w type="Neu">第7</w>
+            <w type="Nf">年</w>
+            <w type="VJ">蟬聯</w>
+            <w type="Nc">世界</w>
+            <w type="Neu">第一</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="D">則</w>
+            <w type="SHI">是</w>
+            <w type="Nc">台灣</w>
+            <w type="DE">的</w>
+            <w type="Na">排行榜</w>
+            <w type="Na">龍頭</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">不過</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nep">此</w>
+            <w type="Nf">次</w>
+            <w type="P">在</w>
+            <w type="Nc">全球</w>
+            <w type="VG">排名</w>
+            <w type="Neu">第187</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">2022年</w>
+            <w type="D">則</w>
+            <w type="SHI">是</w>
+            <w type="Neu">第113</w>
+            <w type="Nf">名</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">根據</w>
+            <w type="Nb">泰晤士</w>
+            <w type="A">高等</w>
+            <w type="Na">教育</w>
+            <w type="Na">特刊</w>
+            <w type="Na">排行榜</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">英國</w>
+            <w type="Caa">與</w>
+            <w type="Nc">美國</w>
+            <w type="DE">的</w>
+            <w type="Nc">大學</w>
+            <w type="Na">院校</w>
+            <w type="VC">囊括</w>
+            <w type="Nc">世界</w>
+            <w type="Nes">前</w>
+            <w type="Neu">10</w>
+            <w type="Nf">名</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">名</w>
+            <w type="SHI">是</w>
+            <w type="Nc">英國</w>
+         </s>
+         <s>
+            <w type="Nc">牛津</w>
+            <w type="Nc">大學</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">University</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> Oxford</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">第2</w>
+            <w type="Nf">名</w>
+            <w type="SHI">是</w>
+            <w type="Nc">美國</w>
+            <w type="Nb">哈佛</w>
+            <w type="Nc">大學</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Harvard</w>
+            <w type="FW"> University</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nc">英國</w>
+            <w type="Nc">劍橋</w>
+            <w type="Nc">大學</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">University</w>
+            <w type="FW"> of</w>
+            <w type="FW"> Cambridge</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="P">與</w>
+            <w type="Nc">美國</w>
+            <w type="Nb">史丹佛</w>
+            <w type="Nc">大學</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Stanford</w>
+            <w type="FW"> University</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="VG">並列</w>
+            <w type="Neu">第3</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">美國</w>
+            <w type="Nc">麻省理工</w>
+            <w type="Nc">學院</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Massachusetts</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Institute</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Technology</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="D">則</w>
+            <w type="VG">名列</w>
+            <w type="Neu">第5</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VG">排名</w>
+            <w type="Neu">第6</w>
+            <w type="Caa">至</w>
+            <w type="Neu">第10</w>
+            <w type="Nf">名</w>
+            <w type="D">依序</w>
+            <w type="SHI">是</w>
+            <w type="Nc">美國</w>
+            <w type="Nc">加州</w>
+            <w type="Na">理工</w>
+            <w type="Nc">學院</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">California</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Institute</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Technology</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+         </s>
+         <s>
+            <w type="Nc">美國</w>
+            <w type="Nc">普林斯頓</w>
+            <w type="Nc">大學</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Princeton</w>
+            <w type="FW"> University</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">美國</w>
+            <w type="Nc">加州</w>
+            <w type="Nc">大學</w>
+            <w type="Nc">柏克萊</w>
+            <w type="Nc">分校</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">University</w>
+         </s>
+         <s>
+            <w type="FW">of</w>
+            <w type="FW"> Cali</w>
+            <w type="FW">fornia</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Berkeley</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">美國</w>
+            <w type="Nb">耶魯</w>
+            <w type="Nc">大學</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Yale</w>
+            <w type="FW"> University</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">英國</w>
+            <w type="Na">帝國</w>
+            <w type="Na">理工</w>
+            <w type="Nc">學院</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+         </s>
+         <s>
+            <w type="FW">Imperial</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">College</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">London</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台灣</w>
+            <w type="Na">方面</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">THE</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">今年</w>
+            <w type="V_2">有</w>
+            <w type="Neu">43</w>
+            <w type="Nf">所</w>
+            <w type="VJ">來自</w>
+            <w type="Nc">台灣</w>
+            <w type="DE">的</w>
+            <w type="Nc">大學</w>
+            <w type="Na">院校</w>
+            <w type="VCL">進入</w>
+            <w type="Nc">世界</w>
+            <w type="VG">排名</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">數量</w>
+            <w type="VC">創</w>
+            <w type="Na">歷史</w>
+            <w type="Na">新高</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nep">其中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="Neu">3</w>
+            <w type="Nf">所</w>
+            <w type="Nc">大學</w>
+            <w type="Na">院校</w>
+            <w type="Nd">今年</w>
+            <w type="D">首次</w>
+            <w type="VCL">入榜</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">包括</w>
+            <w type="Nc">中國</w>
+            <w type="Na">文化</w>
+            <w type="Nc">大學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">虎尾</w>
+            <w type="Na">科技</w>
+            <w type="Nc">大學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">高雄</w>
+            <w type="Na">科技</w>
+            <w type="Nc">大學</w>
+         </s>
+         <s>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nh">它們</w>
+            <w type="DE">的</w>
+            <w type="Nc">世界</w>
+            <w type="Na">排名</w>
+            <w type="D">都</w>
+            <w type="P">在</w>
+            <w type="Neu">1501+</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neu">第1501</w>
+            <w type="Nf">名</w>
+            <w type="Ng">以後</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Na">區間</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">至於</w>
+            <w type="Nc">台灣</w>
+            <w type="DE">的</w>
+            <w type="Na">排行榜</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">名列</w>
+            <w type="Nes">前</w>
+            <w type="Neu">10</w>
+            <w type="D">依序</w>
+            <w type="SHI">是</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">中國</w>
+            <w type="Na">醫藥</w>
+            <w type="Nc">大學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">台北</w>
+            <w type="Na">醫學</w>
+            <w type="Nc">大學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">亞洲</w>
+            <w type="Nc">大學</w>
+         </s>
+         <s>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">清華</w>
+            <w type="Nc">大學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">陽明</w>
+            <w type="Na">交通</w>
+            <w type="Nc">大學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VH">成功</w>
+            <w type="Nc">大學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">科技</w>
+            <w type="Nc">大學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">雲林</w>
+            <w type="Na">科技</w>
+            <w type="Nc">大學</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">中山</w>
+            <w type="Nc">大學</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nep">其中</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Da">僅</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="VCL">進入</w>
+            <w type="Nc">世界</w>
+            <w type="Na">排行榜</w>
+            <w type="Nes">前</w>
+            <w type="Neu">200</w>
+            <w type="Nf">名</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">THE</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">2023年</w>
+            <w type="Nc">世界</w>
+            <w type="Nc">大學</w>
+            <w type="VG">排名</w>
+            <w type="VJ">納入</w>
+            <w type="Neu">104</w>
+            <w type="Nf">個</w>
+            <w type="Na">國家</w>
+            <w type="Nc">地區</w>
+            <w type="DE">的</w>
+            <w type="Neu">1799</w>
+            <w type="Nf">所</w>
+            <w type="Nc">大學</w>
+            <w type="Na">院校</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">較</w>
+            <w type="Nes">前</w>
+            <w type="Neu">一</w>
+            <w type="Nf">年</w>
+            <w type="VHC">增加</w>
+            <w type="Neu">137</w>
+         </s>
+         <s>
+            <w type="Cbb">所</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="SHI">是</w>
+            <w type="FW">THE</w>
+            <w type="Nc">世界</w>
+            <w type="Nc">大學</w>
+            <w type="VG">排名</w>
+            <w type="VJ">長達</w>
+            <w type="Neu">19</w>
+            <w type="Nf">年</w>
+            <w type="Na">歷史</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">規模</w>
+            <w type="Dfa">最</w>
+            <w type="VH">大</w>
+            <w type="DE">的</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="Nc">世界</w>
+            <w type="Nc">大學</w>
+            <w type="VG">排名</w>
+            <w type="Na">變化</w>
+            <w type="Na">趨勢</w>
+            <w type="Na">方面</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">THE</w>
+            <w type="VE">指出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">名列</w>
+            <w type="Nc">世界</w>
+            <w type="Nes">前</w>
+            <w type="Neu">100</w>
+            <w type="VH">強</w>
+            <w type="DE">的</w>
+            <w type="Nc">美國</w>
+            <w type="Nc">大學</w>
+            <w type="Na">院校</w>
+            <w type="Na">總數</w>
+            <w type="VL">持續</w>
+            <w type="VA">下滑</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">由</w>
+            <w type="Neu">2018年</w>
+            <w type="Na">最高峰</w>
+            <w type="DE">的</w>
+            <w type="Neu">43所</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VA">下降</w>
+            <w type="P">至</w>
+            <w type="Neu">2023年</w>
+            <w type="Na">榜單</w>
+            <w type="DE">的</w>
+            <w type="Neu">34</w>
+            <w type="Nf">所</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">中國</w>
+            <w type="V_2">有</w>
+            <w type="Neu">7</w>
+            <w type="Nf">所</w>
+            <w type="Nc">大學</w>
+            <w type="Na">院校</w>
+            <w type="VCL">進入</w>
+            <w type="Nc">世界</w>
+            <w type="VG">排行</w>
+            <w type="Nes">前</w>
+            <w type="Neu">100</w>
+            <w type="Nf">名</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">其中</w>
+            <w type="VG">名列</w>
+            <w type="Nc">世界</w>
+            <w type="Nes">前</w>
+            <w type="Neu">50</w>
+            <w type="V_2">有</w>
+            <w type="Nc">北京</w>
+            <w type="Nb">清華</w>
+            <w type="Nc">大學</w>
+            <w type="Caa">和</w>
+            <w type="Nc">北京</w>
+            <w type="Nc">大學</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">世界</w>
+            <w type="VG">排名</w>
+            <w type="D">分別</w>
+            <w type="SHI">是</w>
+            <w type="Neu">第16</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">第17</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">THE</w>
+            <w type="Nc">世界</w>
+            <w type="Nc">大學</w>
+            <w type="VG">排名</w>
+            <w type="P">依據</w>
+            <w type="SHI">是</w>
+            <w type="P">對</w>
+            <w type="Neu">1550萬</w>
+            <w type="Nf">份</w>
+            <w type="VE">研究</w>
+            <w type="Na">出版品</w>
+            <w type="Caa">和</w>
+            <w type="Neu">1億2100萬</w>
+            <w type="Nf">次</w>
+            <w type="VH">相關</w>
+            <w type="VC">引用</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">以及</w>
+            <w type="VJ">超過</w>
+            <w type="Neu">4萬</w>
+            <w type="Nf">份</w>
+         </s>
+         <s>
+            <w type="Na">年度</w>
+            <w type="Na">學術</w>
+            <w type="Na">聲譽</w>
+            <w type="Na">調查</w>
+            <w type="Na">回函</w>
+            <w type="Caa">和</w>
+            <w type="Neu">數十萬</w>
+            <w type="Nf">筆</w>
+            <w type="Na">數據</w>
+            <w type="DE">的</w>
+            <w type="Na">分析</w>
+            <w type="Na">結果</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">涵蓋</w>
+            <w type="VA">教學</w>
+            <w type="Na">環境</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">國際</w>
+            <w type="VJ">展望</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">產業</w>
+            <w type="VC">連結</w>
+         </s>
+         <s>
+            <w type="Cab">等</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">採用</w>
+            <w type="Neu">13</w>
+            <w type="Nf">個</w>
+            <w type="Na">績效</w>
+            <w type="Na">指標</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">THE</w>
+            <w type="Na">首席</w>
+            <w type="Na">知識官</w>
+            <w type="Nb">巴堤</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Phil</w>
+            <w type="FW"> Baty</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="VE">指出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">整體</w>
+            <w type="Cbb">而言</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台灣</w>
+            <w type="P">在</w>
+            <w type="Nc">世界</w>
+            <w type="Nc">大學</w>
+            <w type="VG">排名</w>
+            <w type="DE">的</w>
+            <w type="Na">表現</w>
+            <w type="D">依然</w>
+            <w type="VH">突出</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">且</w>
+            <w type="Nep">其中</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">所</w>
+            <w type="Nc">大學</w>
+            <w type="Na">院校</w>
+            <w type="DE">的</w>
+            <w type="Nc">世界</w>
+            <w type="VG">排名</w>
+            <w type="VA">上升</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nc">台灣</w>
+            <w type="DE">的</w>
+            <w type="Nc">大學</w>
+            <w type="Na">院校</w>
+            <w type="VL">持續</w>
+            <w type="VH">積極</w>
+            <w type="VC">推動</w>
+            <w type="Na">知識</w>
+            <w type="VD">轉移</w>
+            <w type="Caa">與</w>
+            <w type="Na">企業</w>
+            <w type="Na">協</w>
+         </s>
+         <s>
+            <w type="VC">作</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">值得</w>
+            <w type="VK">肯定</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">5</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="VC">連結</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Caa">或</w>
+            <w type="VH">短網址</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.cna.com.tw/news/ahel/202210120182</w>
+            <w type="PERIODCATEGORY">.aspx</w>
+         </s>
+         <s>
+            <w type="Neu">6</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VE">備註</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">人</w>
+            <w type="Neu">一</w>
+            <w type="Nf">天</w>
+            <w type="Da">只</w>
+            <w type="D">能</w>
+            <w type="VC">張貼</w>
+            <w type="Neu">一</w>
+            <w type="Nf">則</w>
+            <w type="Na">新聞</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">被</w>
+            <w type="VC">刪</w>
+            <w type="Caa">或</w>
+            <w type="P">自刪</w>
+            <w type="D">也</w>
+            <w type="VG">算</w>
+            <w type="Na">額度</w>
+            <w type="Ncd">內</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">超</w>
+            <w type="VC">貼</w>
+            <w type="Na">者</w>
+            <w type="Na">水桶</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VK">注意</w>
+         </s>
+      </body>
+      <title author="hTCU11 (Squeeze)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">泰晤士</w>
+            <w type="Nc">世界</w>
+            <w type="Nc">大學</w>
+            <w type="VG">排名</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台大</w>
+            <w type="Nc">全球</w>
+            <w type="Neu">187</w>
+            <w type="VH">退步</w>
+            <w type="Neu">74</w>
+            <w type="Nf">名</w>
+         </s>
+      </title>
+      <comment author="jason90814" c_type="neu">
+         <s>
+            <w type="D">真</w>
+            <w type="PERIODCATEGORY">‧</w>
+            <w type="Nc">學店</w>
+         </s>
+      </comment>
+      <comment author="eunhailoveu" c_type="pos">
+         <s>
+            <w type="Nc">亞洲</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Nc">台灣</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">合理</w>
+         </s>
+      </comment>
+      <comment author="CK0663" c_type="pos">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="V_2">有</w>
+            <w type="Nep">什麼</w>
+            <w type="VH">了不起</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">爛</w>
+            <w type="Nc">台大</w>
+         </s>
+      </comment>
+      <comment author="finderri" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/GNbb</w>
+            <w type="FW">CYy.jpg</w>
+         </s>
+      </comment>
+      <comment author="oboesoul" c_type="pos">
+         <s>
+            <w type="Nc">亞洲</w>
+            <w type="Nc">大學</w>
+            <w type="D">有</w>
+            <w type="VD">給</w>
+            <w type="Na">錢</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="tibo96033" c_type="pos">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="V_2">有</w>
+            <w type="Nep">什麼</w>
+            <w type="VH">了不起</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">爛</w>
+            <w type="Nc">台大</w>
+            <w type="PERIODCATEGORY">.jpg</w>
+         </s>
+      </comment>
+      <comment author="dj7061214" c_type="pos">
+         <s>
+            <w type="VE">看看</w>
+            <w type="D">就</w>
+            <w type="VH">好</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="AllenHuang" c_type="pos">
+         <s>
+            <w type="Nb">管中閔</w>
+            <w type="VA">下台</w>
+            <w type="Ng">之後</w>
+            <w type="D">應該</w>
+            <w type="D">會</w>
+            <w type="VA">爬回來</w>
+            <w type="T">啦</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可以</w>
+            <w type="VC">買進</w>
+            <w type="Di">了</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="tinawyht35" c_type="neu">
+         <s>
+            <w type="VC">等</w>
+            <w type="VH">新</w>
+            <w type="Na">校長</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="jzoethai" c_type="pos">
+         <s>
+            <w type="D">真</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VH">爛</w>
+            <w type="Nc">台大</w>
+         </s>
+      </comment>
+      <comment author="zzzz8931" c_type="pos">
+         <s>
+            <w type="FW">THE </w>
+            <w type="VG">排名</w>
+            <w type="Na">台灣人</w>
+            <w type="VK">在意</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="AllenHuang" c_type="pos">
+         <s>
+            <w type="VK">在意</w>
+            <w type="T">啊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">不然</w>
+            <w type="Na">新聞</w>
+            <w type="D">幹嘛</w>
+            <w type="VC">報</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">校方</w>
+            <w type="D">幹嘛</w>
+            <w type="VD">回</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="AllenHuang" c_type="neu">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Nh">自己</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="VC">搞</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">排名</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="Da">才</w>
+            <w type="D">真的</w>
+            <w type="SHI">是</w>
+            <w type="VJ">沒</w>
+            <w type="Na">人</w>
+            <w type="VK">在意</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="Karrigan777" c_type="pos">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="D">動不動</w>
+            <w type="D">就</w>
+            <w type="VH">斷電</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">真的</w>
+            <w type="Dfa">很</w>
+            <w type="D">不</w>
+            <w type="VH">優</w>
+            <w type="T">啊</w>
+         </s>
+      </comment>
+      <comment author="shaqiantsai" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Na">排名</w>
+            <w type="D">根本</w>
+            <w type="D">不</w>
+            <w type="VH">可信</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="VH">大大葉</w>
+            <w type="D">竟然</w>
+            <w type="VD">輸給</w>
+            <w type="Nc">學店</w>
+            <w type="VH">爛</w>
+            <w type="Nc">台大</w>
+            <w type="Caa">和</w>
+            <w type="Nc">亞洲</w>
+         </s>
+      </comment>
+      <comment author="aure0914" c_type="pos">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="V_2">有</w>
+            <w type="Nep">什麼</w>
+            <w type="VH">了不起</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">爛</w>
+            <w type="Nc">台大</w>
+         </s>
+      </comment>
+      <comment author="bicdyueh1212" c_type="neu">
+         <s>
+            <w type="VH">爛</w>
+            <w type="Nc">台大</w>
+         </s>
+      </comment>
+      <comment author="shadowpriest" c_type="neg">
+         <s>
+            <w type="D">幸好</w>
+            <w type="VE">管</w>
+            <w type="D">要</w>
+            <w type="VA">下台</w>
+            <w type="Di">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">沒用</w>
+            <w type="DE">的</w>
+            <w type="Na">東西</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">當初</w>
+            <w type="VC">捧</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="D">根本</w>
+            <w type="Na">小丑</w>
+         </s>
+      </comment>
+      <comment author="kmchao33" c_type="pos">
+         <s>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nc">店</w>
+            <w type="Nc"> 糞</w>
+            <w type="Nc">校</w>
+         </s>
+      </comment>
+      <comment author="appleball200" c_type="pos">
+         <s>
+            <w type="Nb">管明明</w>
+            <w type="SHI">是</w>
+            <w type="Cbb">因為</w>
+            <w type="P">被</w>
+            <w type="Nb">民進黨</w>
+            <w type="VC">惡</w>
+            <w type="VC">搞</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">當</w>
+            <w type="Nh">大家</w>
+            <w type="Na">眼睛</w>
+            <w type="VH">瞎</w>
+            <w type="T">了</w>
+            <w type="T">啊</w>
+         </s>
+      </comment>
+      <comment author="mark0204" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//reurl.cc/AONpzj</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">到底</w>
+            <w type="Nh">誰</w>
+            <w type="FW">"</w>
+            <w type="Na">眼睛</w>
+            <w type="VH">瞎</w>
+            <w type="T">了</w>
+            <w type="T">啊</w>
+            <w type="FW">"</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

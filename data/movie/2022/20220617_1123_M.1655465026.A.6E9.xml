@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">iantan733 ()</metadata>
+      <metadata name="post_id">M.1655465026.A.6E9</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 內容講述小三通開放的電影</metadata>
+   </teiHeader>
+   <text>
+      <body author="iantan733 ()">
+         <s>
+            <w type="Dfa">很</w>
+            <w type="VH">久</w>
+            <w type="Ng">以前</w>
+            <w type="VC">看過</w>
+            <w type="DE">的</w>
+            <w type="Na">老片</w>
+         </s>
+         <s>
+            <w type="Na">內容</w>
+            <w type="VE">講述</w>
+            <w type="Na">小三通</w>
+            <w type="VC">開放</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neqa">許多</w>
+            <w type="Na">老兵</w>
+            <w type="D">終於</w>
+            <w type="D">可以</w>
+            <w type="VA">回家</w>
+         </s>
+         <s>
+            <w type="D">卻</w>
+            <w type="VE">發現</w>
+            <w type="VH">可能</w>
+            <w type="Na">妻子</w>
+            <w type="VC">改嫁</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">小孩</w>
+            <w type="D">都</w>
+            <w type="D">不</w>
+            <w type="VJ">認識</w>
+            <w type="Nh">自己</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="VC">拿</w>
+            <w type="Na">關鍵字</w>
+            <w type="VC">餵</w>
+            <w type="Na">狗</w>
+            <w type="D">都</w>
+            <w type="VC">找</w>
+            <w type="D">不</w>
+            <w type="VC">到</w>
+         </s>
+         <s>
+            <w type="VC">拜託</w>
+            <w type="Nh">各位</w>
+            <w type="VH">大</w>
+            <w type="Na">神</w>
+            <w type="T">了</w>
+         </s>
+      </body>
+      <title author="iantan733 ()">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問</w>
+            <w type="Na">片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">內容</w>
+            <w type="VE">講述</w>
+            <w type="Na">小三通</w>
+            <w type="VC">開放</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+         </s>
+      </title>
+      <comment author="J7565J" c_type="pos">
+         <s>
+            <w type="SHI">是</w>
+            <w type="VC">開放</w>
+            <w type="VA">返鄉</w>
+            <w type="Nv">探親</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">還是</w>
+            <w type="VC">開放</w>
+            <w type="VH">小三通</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="Na">小三通</w>
+            <w type="Ng">之前</w>
+            <w type="D">已經</w>
+            <w type="VC">開</w>
+         </s>
+      </comment>
+      <comment author="J7565J" c_type="neu">
+         <s>
+            <w type="VC">放</w>
+            <w type="VA">探親</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="GipsyDanger" c_type="pos">
+         <s>
+            <w type="VH">團圓</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="mefifthfloor" c_type="neu">
+         <s>
+            <w type="Nb">孫越</w>
+            <w type="DE">的</w>
+            <w type="Na">海峽</w>
+            <w type="Nc">兩岸</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="selfless77" c_type="neu">
+         <s>
+            <w type="Nb">小三通</w>
+            <w type="P">跟</w>
+            <w type="Nc">兩岸</w>
+            <w type="VA">探親</w>
+            <w type="Nd">年代</w>
+            <w type="VH">差</w>
+            <w type="Neqa">很多</w>
+            <w type="I">唷</w>
+         </s>
+      </comment>
+      <comment author="godgod777" c_type="pos">
+         <s>
+            <w type="VH">團圓</w>
+         </s>
+      </comment>
+      <comment author="ZE553KL" c_type="neu">
+         <s>
+            <w type="Na">香蕉</w>
+            <w type="Nc">天堂</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">李立群</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">張世 </w>
+            <w type="Dfa">很</w>
+            <w type="VH">好看</w>
+            <w type="DE">的</w>
+            <w type="VH">老</w>
+            <w type="Na">國片</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

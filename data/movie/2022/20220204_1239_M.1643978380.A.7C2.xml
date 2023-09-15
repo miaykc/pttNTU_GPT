@@ -1,0 +1,670 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Yijhen0525 (吹雪)</metadata>
+      <metadata name="post_id">M.1643978380.A.7C2</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[閒聊]《鐵達尼號》船上設施場景建模</metadata>
+   </teiHeader>
+   <text>
+      <body author="Yijhen0525 (吹雪)">
+         <s>
+            <w type="Nep">這</w>
+            <w type="SHI">是</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">鐵達尼號</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">榮譽</w>
+            <w type="Caa">與</w>
+            <w type="Na">榮耀</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">團隊</w>
+            <w type="VC">製作</w>
+            <w type="DE">的</w>
+            <w type="Nb">鐵達尼號</w>
+            <w type="VA">建模</w>
+         </s>
+         <s>
+            <w type="Nd">未來</w>
+            <w type="D">可以</w>
+            <w type="VH">完整</w>
+            <w type="VE">探索</w>
+            <w type="Nb">鐵達尼號</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">目前</w>
+            <w type="DE">的</w>
+            <w type="FW">Demo</w>
+            <w type="Na">版</w>
+            <w type="D">已經</w>
+            <w type="P">把</w>
+            <w type="A">主要</w>
+            <w type="Na">設施</w>
+            <w type="VB">做出來</w>
+         </s>
+         <s>
+            <w type="D">可以</w>
+            <w type="VE">探索</w>
+            <w type="Neqa">30%</w>
+            <w type="Ng">左右</w>
+            <w type="DE">的</w>
+            <w type="Nb">鐵達尼號</w>
+         </s>
+         <s>
+            <w type="Ncd">以下</w>
+            <w type="D">就</w>
+            <w type="D">來</w>
+            <w type="VC">貼</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">團隊</w>
+            <w type="VC">製作</w>
+            <w type="DE">的</w>
+            <w type="Nb">鐵達尼號</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+            <w type="Na">設施</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">貼</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="A">主要</w>
+            <w type="Na">場景</w>
+         </s>
+         <s>
+            <w type="Na">艦橋</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/KzWOxT2.png </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">操舵室</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/y</w>
+            <w type="Neu">5JkaYe.png</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">主艦橋</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Ib2QFRi.png</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="P">從</w>
+            <w type="Nc">主艦橋</w>
+            <w type="VA">看出去</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/0UXEcSV.png</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">主艦橋</w>
+            <w type="P">往</w>
+            <w type="Na">船</w>
+            <w type="DE">的</w>
+            <w type="Ncd">右</w>
+            <w type="Na">舷</w>
+            <w type="D">方</w>
+            <w type="VC">看</w>
+         </s>
+         <s>
+            <w type="VH">大</w>
+            <w type="Na">樓梯</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/9</w>
+            <w type="FW">wRqJBq.png</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">大</w>
+            <w type="Na">樓梯</w>
+            <w type="DE">的</w>
+            <w type="Na">圓頂</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/er</w>
+            <w type="FW">WQKbf.png</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dfa">最</w>
+            <w type="VH">著名</w>
+            <w type="DE">的</w>
+            <w type="VH">大</w>
+            <w type="Na">樓梯</w>
+            <w type="Na">場景</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VCL">位於</w>
+            <w type="FW">A</w>
+            <w type="Na">甲板</w>
+            <w type="Caa">和</w>
+            <w type="Na">頂</w>
+            <w type="Na">甲板</w>
+            <w type="Ng">之間</w>
+         </s>
+         <s>
+            <w type="Na">電梯</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="P">從</w>
+            <w type="FW">A</w>
+            <w type="Na">甲板</w>
+            <w type="P">到</w>
+            <w type="FW">E</w>
+            <w type="Na">甲板</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/f7TuLZL.png</w>
+         </s>
+         <s>
+            <w type="Na">頭等艙</w>
+            <w type="Nc">吸菸室</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nb">鐵達尼號</w>
+            <w type="VC">設計</w>
+            <w type="Na">者</w>
+            <w type="Na">電影</w>
+            <w type="Ncd">後段</w>
+            <w type="D">就</w>
+            <w type="P">在</w>
+            <w type="Ncd">這邊</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/5</w>
+            <w type="FW">Doixb</w>
+            <w type="FW">P.png</w>
+         </s>
+         <s>
+            <w type="Na">棕櫚</w>
+            <w type="Nc">咖啡廳</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">A</w>
+            <w type="Na">甲板</w>
+            <w type="Ncd">後段</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/6</w>
+            <w type="FW">Zltvnk.png</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="FW">B</w>
+            <w type="Na">甲板</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">處</w>
+            <w type="Nc">巴黎</w>
+            <w type="Nc">咖啡廳</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">位在</w>
+            <w type="Nb">鐵達尼號</w>
+            <w type="DE">的</w>
+            <w type="A">單點</w>
+            <w type="Nc">餐廳</w>
+            <w type="Ncd">旁</w>
+         </s>
+         <s>
+            <w type="FW">B</w>
+            <w type="Na">甲板</w>
+            <w type="DE">的</w>
+            <w type="Nh">私人</w>
+            <w type="Nc">長廊</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/JRLSpw</w>
+            <w type="Neu">9</w>
+            <w type="PERIODCATEGORY">.png</w>
+         </s>
+         <s>
+            <w type="Nc">主餐廳</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">D</w>
+            <w type="Na">甲板</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/qr1</w>
+            <w type="FW">sb7</w>
+            <w type="FW">v.png</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/RB7rgms.png</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">電影</w>
+            <w type="Ng">中</w>
+            <w type="DE">的</w>
+            <w type="Na">圓桌</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/x4xBG2b.png</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">主餐廳</w>
+            <w type="DE">的</w>
+            <w type="Nep">其中</w>
+            <w type="Neu">一</w>
+            <w type="Nf">桌</w>
+            <w type="DE">的</w>
+            <w type="VC">擺設</w>
+         </s>
+         <s>
+            <w type="Nb">鐵達尼號</w>
+            <w type="Da">總共</w>
+            <w type="V_2">有</w>
+            <w type="Neu">四</w>
+            <w type="Nf">間</w>
+            <w type="Nc">餐廳</w>
+         </s>
+         <s>
+            <w type="Na">頭等艙</w>
+            <w type="P">除了</w>
+            <w type="D">能</w>
+            <w type="P">在</w>
+            <w type="Nc">主餐廳</w>
+            <w type="VA">用餐</w>
+            <w type="Ng">外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">還</w>
+            <w type="D">能</w>
+            <w type="P">在</w>
+            <w type="A">單點</w>
+            <w type="Nc">餐廳</w>
+            <w type="VA">用餐</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VCL">位在</w>
+            <w type="FW">B</w>
+            <w type="Na">甲板</w>
+         </s>
+         <s>
+            <w type="Neqa">其餘</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">間</w>
+            <w type="D">分別</w>
+            <w type="SHI">是</w>
+            <w type="Na">二等艙</w>
+            <w type="Nc">餐廳</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">D</w>
+            <w type="Na">甲板</w>
+            <w type="Ncd">後段</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">和</w>
+            <w type="Na">三等艙</w>
+            <w type="Nc">餐廳</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">F</w>
+            <w type="Na">甲板</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Na">特等艙</w>
+            <w type="Na">艙房</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">A</w>
+            <w type="Na">甲板</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/cSqQoQ1.png</w>
+         </s>
+         <s>
+            <w type="Na">頭等艙</w>
+            <w type="Na">艙房</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">C-55</w>
+            <w type="Nf">號</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/hcHgn</w>
+            <w type="FW">C1.png</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/tu4aO9O.png</w>
+         </s>
+         <s>
+            <w type="Nb">C-55</w>
+            <w type="Na">艙房</w>
+            <w type="SHI">是</w>
+            <w type="Na">電影</w>
+            <w type="Ng">中</w>
+            <w type="VA">躺</w>
+            <w type="P">在</w>
+            <w type="Na">床</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+            <w type="VH">老</w>
+            <w type="Na">夫妻</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他們</w>
+            <w type="D">所</w>
+            <w type="VCL">住</w>
+            <w type="DE">的</w>
+            <w type="Na">艙房</w>
+         </s>
+         <s>
+            <w type="Na">二等艙</w>
+            <w type="Na">艙房</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">C</w>
+            <w type="Na">甲板</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/zxptvJx.png</w>
+         </s>
+         <s>
+            <w type="Na">三等艙</w>
+            <w type="Na">艙房</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Neu">8</w>
+            <w type="Na">人</w>
+            <w type="Na">房</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">E</w>
+            <w type="Na">甲板</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/dp0VfpS.png</w>
+         </s>
+         <s>
+            <w type="VC">貼</w>
+            <w type="Neqa">這些</w>
+            <w type="Na">艙房</w>
+            <w type="D">主要</w>
+            <w type="SHI">是</w>
+            <w type="VL">讓</w>
+            <w type="Nh">大家</w>
+            <w type="VK">知道</w>
+            <w type="Nb">鐵達尼號</w>
+            <w type="VH">不同</w>
+            <w type="Na">價位</w>
+            <w type="DE">的</w>
+            <w type="Na">艙房</w>
+            <w type="Na">差異</w>
+         </s>
+         <s>
+            <w type="Na">電影</w>
+            <w type="Na">台詞</w>
+            <w type="VE">提到</w>
+            <w type="DE">的</w>
+            <w type="Na">郵務</w>
+            <w type="Ng">間</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/L8</w>
+            <w type="FW">XWoWY.png</w>
+         </s>
+         <s>
+            <w type="Nc">鍋爐室</w>
+            <w type="Na">場景</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/k</w>
+            <w type="FW">OkrVzy.png</w>
+         </s>
+         <s>
+            <w type="Na">艦尾</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/h</w>
+            <w type="FW">ABcis</w>
+            <w type="FW">4.png</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/1</w>
+            <w type="FW">r9Ockr.png</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Fl</w>
+            <w type="FW">Q8</w>
+            <w type="FW">Rz</w>
+            <w type="Neu">6</w>
+            <w type="Nf">.png</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/7</w>
+            <w type="FW">r2</w>
+            <w type="FW">hi</w>
+            <w type="Neu">49</w>
+            <w type="PERIODCATEGORY">.png</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/kzrp</w>
+            <w type="Neu">495</w>
+            <w type="FW">.</w>
+            <w type="FW">png</w>
+         </s>
+         <s>
+            <w type="D">暫時</w>
+            <w type="D">就</w>
+            <w type="D">先</w>
+            <w type="VC">貼</w>
+            <w type="Neqa">這些</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">這些</w>
+            <w type="D">都</w>
+            <w type="SHI">是</w>
+            <w type="Na">電影</w>
+            <w type="DE">的</w>
+            <w type="A">主要</w>
+            <w type="Na">場景</w>
+         </s>
+         <s>
+            <w type="FW">Demo</w>
+            <w type="D">能</w>
+            <w type="VC">逛</w>
+            <w type="DE">的</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="VH">更多</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">電影</w>
+            <w type="D">沒有</w>
+            <w type="VC">帶到</w>
+            <w type="D">就</w>
+            <w type="D">沒</w>
+            <w type="VC">貼</w>
+            <w type="Di">了</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">團隊</w>
+            <w type="D">最早</w>
+            <w type="D">就</w>
+            <w type="P">以</w>
+            <w type="VC">放出</w>
+            <w type="Nb">鐵達尼號</w>
+            <w type="Na">沉船</w>
+            <w type="VH">完整</w>
+            <w type="Nv">模擬</w>
+            <w type="Cbb">而</w>
+            <w type="VH">成名</w>
+            <w type="DE">的</w>
+         </s>
+      </body>
+      <title author="Yijhen0525 (吹雪)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VC">閒聊</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">鐵達尼號</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">船</w>
+            <w type="Ncd">上</w>
+            <w type="Na">設施</w>
+            <w type="Na">場景</w>
+            <w type="Na">建模</w>
+         </s>
+      </title>
+      <comment author="wafiea708" c_type="pos">
+         <s>
+            <w type="Nd">最近</w>
+            <w type="VC">看</w>
+            <w type="Di">了</w>
+            <w type="Nf">組</w>
+            <w type="Nb">鐵達尼號</w>
+            <w type="DE">的</w>
+            <w type="Na">樂高版</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">看</w>
+            <w type="Di">著</w>
+            <w type="Na">艦橋</w>
+            <w type="Neqa">部分</w>
+            <w type="D">都</w>
+            <w type="P">像</w>
+            <w type="Nb">樂高</w>
+         </s>
+      </comment>
+      <comment author="wafiea708" c_type="neu">
+         <s>
+            <w type="Ncd">內部</w>
+            <w type="D">看來</w>
+            <w type="D">則</w>
+            <w type="SHI">是</w>
+            <w type="Dfa">相當</w>
+            <w type="VH">典雅</w>
+         </s>
+      </comment>
+      <comment author="sirines" c_type="pos">
+         <s>
+            <w type="VE">想要</w>
+            <w type="V_2">有</w>
+            <w type="Na">手印</w>
+            <w type="DE">的</w>
+            <w type="Nep">那</w>
+            <w type="Nf">台</w>
+            <w type="Na">車車</w>
+         </s>
+      </comment>
+      <comment author="evitalee6937" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Na">姐</w>
+            <w type="D">剛</w>
+            <w type="VC">組完</w>
+            <w type="Nb">鐵達尼號</w>
+            <w type="Nb">樂高</w>
+            <w type="FW">XDDDD</w>
+         </s>
+      </comment>
+      <comment author="sunnyyoung" c_type="pos">
+         <s>
+            <w type="D">再</w>
+            <w type="VC">加</w>
+            <w type="Di">個</w>
+            <w type="Na">冰山</w>
+            <w type="D">就</w>
+            <w type="Neqa">100%</w>
+         </s>
+      </comment>
+      <comment author="dolphan" c_type="pos">
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="VJ">分享</w>
+         </s>
+      </comment>
+      <comment author="swatch44" c_type="pos">
+         <s>
+            <w type="FW">you</w>
+            <w type="FW"> jump</w>
+            <w type="FW"> i</w>
+            <w type="FW"> jump</w>
+         </s>
+      </comment>
+      <comment author="edwardtp" c_type="neg">
+         <s>
+            <w type="VJ">沒有</w>
+            <w type="Na">車震</w>
+            <w type="DE">的</w>
+            <w type="Na">車車</w>
+         </s>
+      </comment>
+      <comment author="natsunoumi" c_type="pos">
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="VJ">分享</w>
+         </s>
+      </comment>
+      <comment author="sunny8456" c_type="pos">
+         <s>
+            <w type="I">哇嗚</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">謝謝</w>
+            <w type="VJ">分享</w>
+            <w type="FW">～</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">看到</w>
+            <w type="D">就</w>
+            <w type="D">會</w>
+            <w type="VE">想到</w>
+            <w type="Na">劇情</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="innjoyy" c_type="pos">
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="VJ">分享</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

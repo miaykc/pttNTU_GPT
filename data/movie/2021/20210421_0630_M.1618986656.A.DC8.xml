@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">tj920614 (鄰家老王)</metadata>
+      <metadata name="post_id">M.1618986656.A.DC8</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 一部有愛爾蘭小精靈的恐怖片</metadata>
+   </teiHeader>
+   <text>
+      <body author="tj920614 (鄰家老王)">
+         <s>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="VH">現代</w>
+            <w type="Na">時空</w>
+            <w type="DE">的</w>
+            <w type="Na">恐怖片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">劇情</w>
+            <w type="D">好像</w>
+            <w type="SHI">是</w>
+            <w type="Neu">一</w>
+            <w type="Nf">群</w>
+            <w type="Na">學生</w>
+            <w type="VD">偷</w>
+            <w type="Di">了</w>
+            <w type="Nc">愛爾蘭</w>
+            <w type="VH">小</w>
+            <w type="Na">精靈</w>
+            <w type="DE">的</w>
+            <w type="Na">金塊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dk">結果</w>
+            <w type="P">被</w>
+            <w type="Nc">愛爾蘭</w>
+            <w type="VH">小</w>
+         </s>
+         <s>
+            <w type="Na">精靈</w>
+            <w type="VC">追殺</w>
+         </s>
+         <s>
+            <w type="Na">學生</w>
+            <w type="P">把</w>
+            <w type="Nc">愛爾蘭</w>
+            <w type="VH">小</w>
+            <w type="Na">精靈</w>
+            <w type="VCL">關到</w>
+            <w type="Na">火爐</w>
+            <w type="Ncd">裡</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dk">結果</w>
+            <w type="Na">火爐</w>
+            <w type="VH">爆炸</w>
+            <w type="Nc">愛爾蘭</w>
+            <w type="VH">小</w>
+            <w type="Na">精靈</w>
+            <w type="VA">跑出來</w>
+            <w type="VC">大開殺戒</w>
+         </s>
+         <s>
+            <w type="Dfa">有點</w>
+            <w type="VH">久遠</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">更</w>
+            <w type="VH">細</w>
+            <w type="DE">的</w>
+            <w type="Na">情節</w>
+            <w type="D">可能</w>
+            <w type="D">不</w>
+            <w type="VH">清楚</w>
+         </s>
+      </body>
+      <title author="tj920614 (鄰家老王)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="V_2">有</w>
+            <w type="Nc">愛爾蘭</w>
+            <w type="VH">小</w>
+            <w type="Na">精靈</w>
+            <w type="DE">的</w>
+            <w type="Na">恐怖片</w>
+         </s>
+      </title>
+      <comment author="WishingTree" c_type="pos">
+         <s>
+            <w type="SHI">是</w>
+            <w type="FW">leprechaun</w>
+            <w type="Na">系列</w>
+            <w type="T">嗎</w>
+            <w type="FW">~</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="elytseerf" c_type="pos">
+         <s>
+            <w type="V_2">有</w>
+            <w type="VC">唱</w>
+            <w type="FW">Mary</w>
+            <w type="FW"> had</w>
+            <w type="FW"> a</w>
+            <w type="FW"> little</w>
+            <w type="FW"> lamp</w>
+            <w type="DE">的</w>
+            <w type="Na">鬼精靈</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="tj920614" c_type="neu">
+         <s>
+            <w type="VH">對</w>
+            <w type="T">耶</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+            <w type="SHI">是</w>
+            <w type="Na">鬼精靈</w>
+            <w type="Na">系列</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">各位</w>
+            <w type="VH">大大</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

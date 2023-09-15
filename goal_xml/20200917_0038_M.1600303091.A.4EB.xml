@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Tsumabuki (Satoshi)</metadata>
+      <metadata name="post_id">M.1600303091.A.4EB</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[網宣] 9/17 原分所演講歡迎大家！</metadata>
+   </teiHeader>
+   <text>
+      <body author="Tsumabuki (Satoshi)">
+         <s>
+            <w type="FW">Hi</w>
+            <w type="Nh">大家</w>
+            <w type="COMMACATEGORY">,</w>
+         </s>
+         <s>
+            <w type="P">對</w>
+            <w type="Na">生物</w>
+            <w type="Na">細胞</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">影像</w>
+            <w type="VE">判斷</w>
+            <w type="Cab">等</w>
+            <w type="Na">技術</w>
+            <w type="V_2">有</w>
+            <w type="Na">興趣</w>
+            <w type="DE">的</w>
+            <w type="Na">朋友</w>
+         </s>
+         <s>
+            <w type="Nd">今日</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nd">9/17</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Nd">下午</w>
+            <w type="Nd">三點半</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">原分所</w>
+            <w type="Nb">浦大邦</w>
+            <w type="Nc">講堂</w>
+         </s>
+         <s>
+            <w type="VJ">歡迎</w>
+            <w type="D">來</w>
+            <w type="VE">聽</w>
+            <w type="Na">演講</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="Nc">中研院</w>
+            <w type="Nc">原分所</w>
+            <w type="Na">演講</w>
+            <w type="VE">公告</w>
+         </s>
+         <s>
+            <w type="Na">題目</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Optoproteomics</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Image-Guided</w>
+            <w type="FW"> Subcellular</w>
+            <w type="FW"> Protein</w>
+            <w type="FW"> Identification</w>
+         </s>
+         <s>
+            <w type="VA">演講</w>
+            <w type="Na">者</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">廖仲麒</w>
+            <w type="Na">博士</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">中研院</w>
+            <w type="Nc">原分所</w>
+            <w type="Na">研究員</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Na">時間</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nd">9/17</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nd">週四</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Nd">下午</w>
+            <w type="Neu">3</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">30</w>
+         </s>
+         <s>
+            <w type="Na">地點</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">原分所</w>
+            <w type="Nb">浦大邦</w>
+            <w type="Nc">講堂</w>
+            <w type="WHITESPACE">　</w>
+            <w type="Nc">臺大</w>
+            <w type="Nc">校園</w>
+            <w type="Ncd">內</w>
+         </s>
+         <s>
+            <w type="VC">聯絡</w>
+            <w type="Nc">窗口</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">許良彥</w>
+            <w type="Na">博士</w>
+         </s>
+         <s>
+            <w type="FW">IAMS Lecture</w>
+            <w type="FW"> Announcement</w>
+         </s>
+         <s>
+            <w type="FW">Title</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Optoproteomics</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Image-Guided</w>
+            <w type="FW"> Subcellular</w>
+            <w type="FW"> Protein</w>
+            <w type="FW"> Identification</w>
+            <w type="FW">  Speaker</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Dr. Jung-Chi</w>
+            <w type="FW"> Liao</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Institute</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> Atomic</w>
+            <w type="FW"> and</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Molecular</w>
+            <w type="FW"> Sciences</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Academia Sinica</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">Time</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> 3</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">30</w>
+            <w type="FW"> PM</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> September</w>
+            <w type="FW">  17</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Thursday</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> 2020  Place</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Dr. </w>
+            <w type="FW">Poe</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Lecture</w>
+            <w type="FW"> Hall</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> IAMS</w>
+         </s>
+         <s>
+            <w type="FW">Contact</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Dr. Liang-Yan</w>
+            <w type="FW"> Hsu</w>
+         </s>
+      </body>
+      <title author="Tsumabuki (Satoshi)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nb">網宣</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 9/17 </w>
+            <w type="Nc">原分所</w>
+            <w type="VA">演講</w>
+            <w type="VJ">歡迎</w>
+            <w type="Nh">大家</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </title>
+      <comment author="dfec1234" c_type="pos">
+         <s>
+            <w type="P">幫</w>
+            <w type="VC">推</w>
+            <w type="Di">個</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">原分所</w>
+            <w type="VCL">在</w>
+            <w type="Nb">小福和</w>
+            <w type="Na">化學</w>
+            <w type="Nc">系館</w>
+            <w type="DE">的</w>
+            <w type="Ncd">旁邊</w>
+            <w type="T">而已</w>
+            <w type="T">喔</w>
+         </s>
+      </comment>
+      <comment author="scott123321" c_type="pos">
+         <s>
+            <w type="Nc">化工系</w>
+            <w type="Na">正對面</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

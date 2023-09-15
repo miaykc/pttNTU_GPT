@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">happy50615 (Lung)</metadata>
+      <metadata name="post_id">M.1579323551.A.64E</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈票] 殺手撿到槍特映會兩張</metadata>
+   </teiHeader>
+   <text>
+      <body author="happy50615 (Lung)">
+         <s>
+            <w type="Na">殺手</w>
+            <w type="VC">撿到</w>
+            <w type="Na">槍</w>
+            <w type="Na">特映會</w>
+         </s>
+         <s>
+            <w type="Na">時間</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">1/20</w>
+            <w type="Neu">（</w>
+            <w type="Neu">一</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Neu">19:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="Na">地點</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nd">今日</w>
+            <w type="Nb">秀泰</w>
+            <w type="Nc">影城</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">台北市</w>
+            <w type="Nc">峨嵋街</w>
+            <w type="Nc">62號</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="VC">約</w>
+            <w type="Na">捷運</w>
+            <w type="Nc">行天宮站</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="D">可</w>
+            <w type="D">不</w>
+            <w type="VCL">出</w>
+            <w type="Nc">站</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Na">面</w>
+            <w type="VD">交</w>
+         </s>
+         <s>
+            <w type="D">可</w>
+            <w type="Na">面</w>
+            <w type="VD">交</w>
+            <w type="Na">意者</w>
+            <w type="VF">請</w>
+            <w type="VH">直接</w>
+            <w type="Na">站內信</w>
+            <w type="VE">詢問</w>
+         </s>
+      </body>
+      <title author="happy50615 (Lung)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">殺手</w>
+            <w type="VC">撿到</w>
+            <w type="Na">槍</w>
+            <w type="Na">特映會</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">張</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

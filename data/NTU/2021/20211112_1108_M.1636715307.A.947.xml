@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">maozz (香菜鼠鼠)</metadata>
+      <metadata name="post_id">M.1636715307.A.947</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 洗腦</metadata>
+   </teiHeader>
+   <text>
+      <body author="maozz (香菜鼠鼠)">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">天</w>
+            <w type="DE">的</w>
+            <w type="VB">洗腦</w>
+            <w type="Na">歌</w>
+         </s>
+         <s>
+            <w type="VH">莫名其妙</w>
+         </s>
+         <s>
+            <w type="VH">好</w>
+            <w type="VH">好笑</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=ab</w>
+            <w type="FW">KWD9</w>
+            <w type="FW">ne</w>
+            <w type="FW">Q5</w>
+            <w type="Nf">g</w>
+         </s>
+      </body>
+      <title author="maozz (香菜鼠鼠)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VB">洗腦</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

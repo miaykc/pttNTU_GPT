@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">BASEGO (壘包狗)</metadata>
+      <metadata name="post_id">M.1619020756.A.A37</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 派對</metadata>
+   </teiHeader>
+   <text>
+      <body author="BASEGO (壘包狗)">
+         <s>
+            <w type="VHC">斷</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my HTC </w>
+            <w type="FW">Desire</w>
+            <w type="FW"> 19+</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="BASEGO (壘包狗)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">派對</w>
+         </s>
+      </title>
+      <comment author="IllMOR" c_type="pos">
+         <s>
+            <w type="D">沒有</w>
+         </s>
+      </comment>
+      <comment author="BASEGO" c_type="neu">
+         <s>
+            <w type="VE">算</w>
+            <w type="Nh">你</w>
+            <w type="VH">厲害</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ericcompal (Eric)</metadata>
+      <metadata name="post_id">M.1633269092.A.85A</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 生死交戰 片尾  M所念的詩詞</metadata>
+   </teiHeader>
+   <text>
+      <body author="ericcompal (Eric)">
+         <s>
+            <w type="FW">========</w>
+            <w type="VC">防</w>
+            <w type="Na">雷</w>
+         </s>
+         <s>
+            <w type="Nd">最後</w>
+            <w type="Nb">龐德</w>
+            <w type="VA">走</w>
+            <w type="Ng">後</w>
+         </s>
+         <s>
+            <w type="FW">M</w>
+            <w type="P">在</w>
+            <w type="Nc">辦公室</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">拿出</w>
+            <w type="Neu">一</w>
+            <w type="Nf">本</w>
+            <w type="Na">書</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">念</w>
+            <w type="Di">了</w>
+            <w type="Neu">一</w>
+            <w type="Nf">首</w>
+            <w type="Na">詩</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">悼念</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="VC">看過</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="VK">知道</w>
+            <w type="Na">出處</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </body>
+      <title author="ericcompal (Eric)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">生死交戰</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">片尾</w>
+            <w type="FW">  M</w>
+            <w type="D">所</w>
+            <w type="VC">念</w>
+            <w type="DE">的</w>
+            <w type="Na">詩詞</w>
+         </s>
+      </title>
+      <comment author="lgng66133" c_type="neu">
+         <s>
+            <w type="VF">請</w>
+            <w type="VC">補</w>
+            <w type="P">至</w>
+            <w type="Neu">30</w>
+            <w type="Na">字</w>
+            <w type="Caa">及</w>
+            <w type="Neu">三</w>
+            <w type="Nf">行</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">如</w>
+            <w type="D">會</w>
+            <w type="VE">提到</w>
+            <w type="Na">電影</w>
+            <w type="Nb">雷</w>
+            <w type="D">也</w>
+            <w type="VF">請</w>
+            <w type="VC">防</w>
+            <w type="Na">雷</w>
+         </s>
+      </comment>
+      <comment author="jeancathy" c_type="pos">
+         <s>
+            <w type="FW">"</w>
+            <w type="FW">The</w>
+            <w type="FW"> proper</w>
+            <w type="FW"> function</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> man</w>
+            <w type="FW"> is</w>
+            <w type="FW"> to</w>
+            <w type="FW"> live</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> not</w>
+            <w type="FW"> to</w>
+            <w type="FW"> e</w>
+         </s>
+      </comment>
+      <comment author="jeancathy" c_type="neu">
+         <s>
+            <w type="FW">xist</w>
+            <w type="PERIODCATEGORY">. I shall</w>
+            <w type="FW"> not</w>
+            <w type="FW"> waste</w>
+            <w type="FW"> my</w>
+            <w type="FW"> days</w>
+            <w type="FW"> in</w>
+            <w type="FW"> trying</w>
+            <w type="FW"> to</w>
+            <w type="FW"> pro</w>
+         </s>
+      </comment>
+      <comment author="jeancathy" c_type="neu">
+         <s>
+            <w type="FW">long</w>
+            <w type="FW"> them. I shall</w>
+            <w type="FW"> use</w>
+            <w type="FW"> my</w>
+            <w type="FW"> time</w>
+            <w type="DOTCATEGORY">.</w>
+            <w type="FW">" Jack</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">London</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

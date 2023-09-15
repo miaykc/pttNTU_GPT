@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">dzan1025 (涼麵)</metadata>
+      <metadata name="post_id">M.1587223504.A.CE2</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 只記得臺詞一句</metadata>
+   </teiHeader>
+   <text>
+      <body author="dzan1025 (涼麵)">
+         <s>
+            <w type="Na">女生</w>
+            <w type="VE">說</w>
+            <w type="WHITESPACE"> </w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="WHITESPACE"> </w>
+            <w type="I">哦</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="D">剛剛</w>
+            <w type="VE">發現</w>
+            <w type="Nh">我</w>
+            <w type="Dfa">最</w>
+            <w type="VK">喜歡</w>
+            <w type="DE">的</w>
+            <w type="Neu">一</w>
+            <w type="Nf">首</w>
+            <w type="Na">情歌</w>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="VE">講</w>
+            <w type="Neu">一</w>
+            <w type="Nf">片</w>
+            <w type="Na">披薩</w>
+         </s>
+         <s>
+            <w type="Na">情緒</w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">恍然大悟</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">卻</w>
+            <w type="D">又</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">失望</w>
+            <w type="Dfb">透頂</w>
+         </s>
+         <s>
+            <w type="Na">原文</w>
+            <w type="D">大概</w>
+            <w type="SHI">是</w>
+         </s>
+         <s>
+            <w type="FW">I just</w>
+            <w type="FW"> realized</w>
+            <w type="FW"> that</w>
+            <w type="FW"> my</w>
+            <w type="FW"> favorite</w>
+            <w type="FW"> love</w>
+            <w type="FW"> song</w>
+            <w type="FW"> is</w>
+            <w type="FW"> writing</w>
+            <w type="FW"> about</w>
+            <w type="FW">...</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my Asus ASUS_Z00</w>
+            <w type="FW">LD</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="dzan1025 (涼麵)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Da">只</w>
+            <w type="VK">記得</w>
+            <w type="Na">臺詞</w>
+            <w type="Neu">一</w>
+            <w type="Nf">句</w>
+         </s>
+      </title>
+      <comment author="littlebonnie" c_type="pos">
+         <s>
+            <w type="Neu">27</w>
+            <w type="FW"> dresses</w>
+         </s>
+      </comment>
+      <comment author="dzan1025" c_type="neu">
+         <s>
+            <w type="VK">感謝</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="deliverable" c_type="pos">
+         <s>
+            <w type="Nc">1樓</w>
+            <w type="VH">好強</w>
+         </s>
+      </comment>
+      <comment author="chewthelife8" c_type="neu">
+         <s>
+            <w type="Nc">1樓</w>
+            <w type="Dfa">太</w>
+            <w type="VH">強</w>
+            <w type="T">了</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

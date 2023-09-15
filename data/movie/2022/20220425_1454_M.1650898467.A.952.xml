@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">wu0h96 (喜感)</metadata>
+      <metadata name="post_id">M.1650898467.A.952</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈票] 4/26 西門真善美《鳶》特映</metadata>
+   </teiHeader>
+   <text>
+      <body author="wu0h96 (喜感)">
+         <s>
+            <w type="VH">多</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">張</w>
+         </s>
+         <s>
+            <w type="Nd">4/26</w>
+            <w type="Cbb">(</w>
+            <w type="Neu">二</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> 21</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="Na">真善美</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">鳶</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VA">特映</w>
+         </s>
+         <s>
+            <w type="VD">送給</w>
+            <w type="Na">有緣人</w>
+         </s>
+         <s>
+            <w type="Na">站內信</w>
+            <w type="VC">附上</w>
+            <w type="FW">line</w>
+            <w type="FW"> ID</w>
+            <w type="VC">聯絡</w>
+         </s>
+         <s>
+            <w type="Nd">明天</w>
+            <w type="Nh">我</w>
+            <w type="D">也</w>
+            <w type="D">會</w>
+            <w type="P">在</w>
+            <w type="Nc">現場</w>
+         </s>
+      </body>
+      <title author="wu0h96 (喜感)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 4/26 </w>
+            <w type="Nc">西門</w>
+            <w type="Na">真善美</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">鳶</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VA">特映</w>
+         </s>
+      </title>
+      <comment author="wu0h96" c_type="neu">
+         <s>
+            <w type="VD">贈出</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

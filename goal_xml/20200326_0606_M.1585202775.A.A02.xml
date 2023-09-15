@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ggcip0514 (衣櫥裡汪汪 貓咪吃魚乾)</metadata>
+      <metadata name="post_id">M.1585202775.A.A02</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 柴柴大賽</metadata>
+   </teiHeader>
+   <text>
+      <body author="ggcip0514 (衣櫥裡汪汪 貓咪吃魚乾)">
+         <s>
+            <w type="Na">柴柴</w>
+         </s>
+         <s>
+            <w type="FW">@marutaro</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Mksj</w>
+            <w type="FW">Wrg.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/KcBpQh4.jpg</w>
+         </s>
+         <s>
+            <w type="FW">@acoshiba</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/HG4zcNB.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/3</w>
+            <w type="FW">Ah9</w>
+            <w type="FW">lG6</w>
+            <w type="FW">.jpg</w>
+         </s>
+      </body>
+      <title author="ggcip0514 (衣櫥裡汪汪 貓咪吃魚乾)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">柴柴</w>
+            <w type="Na">大賽</w>
+         </s>
+      </title>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="VH">可愛</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

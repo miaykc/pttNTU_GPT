@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ann141414 (海底撈火鍋)</metadata>
+      <metadata name="post_id">M.1624284788.A.604</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 芷婷正嗎</metadata>
+   </teiHeader>
+   <text>
+      <body author="ann141414 (海底撈火鍋)">
+         <s>
+            <w type="P">如</w>
+            <w type="Na">題</w>
+         </s>
+         <s>
+            <w type="Nc">樓下</w>
+            <w type="VE">回答</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/TPPaMd</w>
+            <w type="FW">P.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/f</w>
+            <w type="FW">UCmiTe.jpg</w>
+         </s>
+      </body>
+      <title author="ann141414 (海底撈火鍋)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="Nb"> 芷婷</w>
+            <w type="VH">正</w>
+            <w type="T">嗎</w>
+         </s>
+      </title>
+      <comment author="capsspac" c_type="pos">
+         <s>
+            <w type="Nb">張恩公</w>
+            <w type="P">被</w>
+            <w type="FW">ban</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="Imotucc" c_type="neg">
+         <s>
+            <w type="VJ">沒</w>
+            <w type="Na">錯</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">胖</w>
+            <w type="VH">呆</w>
+         </s>
+      </comment>
+      <comment author="yangchenggg" c_type="pos">
+         <s>
+            <w type="Na">大拇芷</w>
+         </s>
+      </comment>
+      <comment author="chung0817" c_type="pos">
+         <s>
+            <w type="D">一定</w>
+            <w type="SHI">是</w>
+            <w type="Na">大姆芷</w>
+         </s>
+      </comment>
+      <comment author="dumdumdum" c_type="pos">
+         <s>
+            <w type="D">正</w>
+         </s>
+      </comment>
+      <comment author="blastGG" c_type="pos">
+         <s>
+            <w type="Nep">哪</w>
+            <w type="Nf">次</w>
+            <w type="VH">不正</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

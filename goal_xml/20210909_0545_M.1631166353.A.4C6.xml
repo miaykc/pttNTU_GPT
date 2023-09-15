@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">匿名</metadata>
+      <metadata name="post_id">M.1631166353.A.4C6</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title" />
+   </teiHeader>
+   <text>
+      <body author="匿名">
+         <s>
+            <w type="FW">◆ </w>
+            <w type="VA">投票</w>
+            <w type="Na">名稱</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> NTU</w>
+            <w type="Na">板</w>
+            <w type="Neu">第二十二</w>
+            <w type="Nf">次</w>
+            <w type="Na">板主</w>
+            <w type="Na">選舉</w>
+         </s>
+         <s>
+            <w type="FW">◆ </w>
+            <w type="VA">投票</w>
+            <w type="VHC">中</w>
+            <w type="VJ">止於</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> 09/09/2021</w>
+            <w type="FW"> 13</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">22</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">26</w>
+            <w type="FW"> Thu</w>
+         </s>
+         <s>
+            <w type="FW">◆ </w>
+            <w type="Nv">票選</w>
+            <w type="Na">題目</w>
+            <w type="VC">描述</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="Nes">本</w>
+            <w type="Nf">次</w>
+            <w type="Da">共</w>
+            <w type="FW"> 1 </w>
+            <w type="Nf">位</w>
+            <w type="Na">候選人</w>
+            <w type="FW"> jerejesse </w>
+            <w type="VC">參選</w>
+         </s>
+         <s>
+            <w type="VJ">歡迎</w>
+            <w type="Nh">大家</w>
+            <w type="VCL">移駕</w>
+            <w type="P">至</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.ptt.cc/bbs/NTU/M.1630409783</w>
+            <w type="PERIODCATEGORY">.A.533</w>
+            <w type="PERIODCATEGORY">.html</w>
+         </s>
+         <s>
+            <w type="VC">參考</w>
+            <w type="FW"> jerejesse</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">政見</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">資格</w>
+            <w type="VG">為</w>
+            <w type="VCL">登入</w>
+            <w type="Na">次數</w>
+            <w type="FW"> 60 </w>
+            <w type="Nf">次</w>
+            <w type="Neqb">以上</w>
+         </s>
+         <s>
+            <w type="Nes">每</w>
+            <w type="Na">人</w>
+            <w type="VJ">限</w>
+            <w type="VC">投</w>
+            <w type="Neu">一</w>
+            <w type="Nf">票</w>
+         </s>
+         <s>
+            <w type="VE">認為</w>
+            <w type="FW"> jeresse</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">適任</w>
+            <w type="Na">者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VC">投</w>
+            <w type="Na">同意票</w>
+         </s>
+         <s>
+            <w type="VE">認為</w>
+            <w type="FW"> jeresse</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">不</w>
+            <w type="VJ">適任</w>
+            <w type="Na">者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VC">投</w>
+            <w type="D">不</w>
+            <w type="Na">同意票</w>
+         </s>
+         <s>
+            <w type="FW">◆</w>
+            <w type="VA">投票</w>
+            <w type="Na">結果</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VJ">共</w>
+            <w type="V_2">有</w>
+            <w type="FW"> 27 </w>
+            <w type="Na">人</w>
+            <w type="VA">投票</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Nes">每</w>
+            <w type="Na">人</w>
+            <w type="Da">最多</w>
+            <w type="D">可</w>
+            <w type="VC">投</w>
+            <w type="FW"> 1 </w>
+            <w type="Na">票</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="VC">選</w>
+            <w type="WHITESPACE">    </w>
+            <w type="Na">項</w>
+            <w type="WHITESPACE">                                   </w>
+            <w type="Na">總票數</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">得票率</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">得票</w>
+            <w type="VH">分布</w>
+         </s>
+         <s>
+            <w type="VK">同意</w>
+            <w type="FW">                                        25</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">票</w>
+            <w type="WHITESPACE">  </w>
+            <w type="Neu">92.59%</w>
+            <w type="WHITESPACE">   </w>
+            <w type="Neu">92.59%</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VK">同意</w>
+            <w type="FW">                                       2 票</w>
+            <w type="WHITESPACE">   </w>
+            <w type="Neu">7.41%</w>
+            <w type="WHITESPACE">    </w>
+            <w type="Neu">7.41%</w>
+         </s>
+         <s>
+            <w type="FW">◆ </w>
+            <w type="VC">使用</w>
+            <w type="Na">者</w>
+            <w type="VE">建議</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Neu">○</w>
+            <w type="VC">使用</w>
+            <w type="Na">者</w>
+            <w type="FW"> cute</w>
+            <w type="FW">Squirrel</w>
+            <w type="WHITESPACE"> </w>
+            <w type="DE">的</w>
+            <w type="Na">建議</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Neu">○</w>
+            <w type="VC">使用</w>
+            <w type="Na">者</w>
+            <w type="FW"> RUOld </w>
+            <w type="DE">的</w>
+            <w type="Na">建議</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="FW">hihihihihihihihi</w>
+         </s>
+         <s>
+            <w type="Neu">○</w>
+            <w type="VC">使用</w>
+            <w type="Na">者</w>
+            <w type="FW"> ann141414 </w>
+            <w type="DE">的</w>
+            <w type="Na">建議</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Na">火狐狸</w>
+            <w type="VH">可愛</w>
+         </s>
+         <s>
+            <w type="Neu">○</w>
+            <w type="VC">使用</w>
+            <w type="Na">者</w>
+            <w type="FW"> wcnoname</w>
+            <w type="Neu">5 </w>
+            <w type="DE">的</w>
+            <w type="Na">建議</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="VC">帶來</w>
+            <w type="Dfa">更</w>
+            <w type="VH">好</w>
+            <w type="DE">的</w>
+            <w type="FW">NTU..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+         <s>
+            <w type="Neu">○</w>
+            <w type="VC">使用</w>
+            <w type="Na">者</w>
+            <w type="FW"> lanreless</w>
+            <w type="WHITESPACE"> </w>
+            <w type="DE">的</w>
+            <w type="Na">建議</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Cbb">雖然</w>
+            <w type="Nep">這</w>
+            <w type="Na">版</w>
+            <w type="D">還是</w>
+            <w type="P">在</w>
+            <w type="VH">凋零</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="VE">看到</w>
+            <w type="D">仍</w>
+            <w type="V_2">有</w>
+            <w type="Na">新血</w>
+            <w type="VK">願意</w>
+            <w type="VG">接任</w>
+            <w type="D">一定</w>
+            <w type="VC">支持</w>
+         </s>
+         <s>
+            <w type="FW">◆ </w>
+            <w type="Na">總票數</w>
+            <w type="Neu"> = 27 </w>
+            <w type="Na">票</w>
+         </s>
+         <s>
+            <w type="FW">◆ </w>
+            <w type="VA">投票</w>
+            <w type="Na">紀錄</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Da">僅</w>
+            <w type="VF">供</w>
+            <w type="VC">參考</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 118.169.5.176</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 114.34.113.90</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">2</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 114.37.230.16</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 114.34.245.118</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 59.120.35.111</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 42.74.128.51</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">2</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 140.118.145.101</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 59.115.232.115</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 118.165.56.146</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 36.228.79.250</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 111.71.78.131</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 111.241.170.85</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 36.236.66.233</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 49.159.74.131</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 140.112.87.238</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 140.112.7.188</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 114.27.110.111</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 118.168.235.75</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 1.174.73.213</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 140.112.87.41</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 180.214.183.155</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 101.9.202.69</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 123.194.217.115</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 111.249.152.180</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 114.45.4.155</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 140.112.225.111</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">來源</w>
+            <w type="FW"> 140.112.4.184</w>
+         </s>
+         <s>
+            <w type="VA">投票</w>
+            <w type="Na">選項</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">1</w>
+         </s>
+      </body>
+      <comment author="Sibelius26" c_type="neu">
+         <s>
+            <w type="FW">who</w>
+            <w type="FW"> cares</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

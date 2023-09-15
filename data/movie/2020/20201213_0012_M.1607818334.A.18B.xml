@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">PrinceKanto (生田絵梨花は俺の嫁)</metadata>
+      <metadata name="post_id">M.1607818334.A.18B</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 《黑寡婦》不同步上串流 《黑豹2》不換人</metadata>
+   </teiHeader>
+   <text>
+      <body author="PrinceKanto (生田絵梨花は俺の嫁)">
+         <s>
+            <w type="Na">新聞</w>
+            <w type="Na">網址</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//ent.ltn.com.tw/news/paper/1418393</w>
+         </s>
+         <s>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="Na">標題</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VH">不同</w>
+            <w type="VCL">步上</w>
+            <w type="VA">串流</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">黑豹</w>
+            <w type="Neu">2</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="D">不</w>
+            <w type="VA">換人</w>
+            <w type="VC">演</w>
+            <w type="Nb">帝查拉</w>
+         </s>
+         <s>
+            <w type="Na">新聞</w>
+            <w type="Na">來源</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nb">自由時報</w>
+         </s>
+         <s>
+            <w type="Na">記者</w>
+            <w type="Nb">許世穎</w>
+            <w type="FW">/</w>
+            <w type="VC">綜合</w>
+            <w type="VE">報導</w>
+         </s>
+         <s>
+            <w type="Na">新聞</w>
+            <w type="Na">內文</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="Nb">迪士尼</w>
+            <w type="Nd">昨</w>
+            <w type="D">一口氣</w>
+            <w type="VE">宣布</w>
+            <w type="Nd">未來</w>
+            <w type="Neu">50</w>
+            <w type="Nf">部</w>
+            <w type="VH">全新</w>
+            <w type="Na">影視</w>
+            <w type="Na">作品</w>
+            <w type="Na">消息</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">包括</w>
+            <w type="Na">院線</w>
+            <w type="Na">新片</w>
+            <w type="Caa">及</w>
+            <w type="D">將</w>
+            <w type="P">在</w>
+            <w type="Nc">自家</w>
+            <w type="VC">串流</w>
+            <w type="Na">平台</w>
+         </s>
+         <s>
+            <w type="FW">Disney+</w>
+            <w type="VC">推出</w>
+            <w type="DE">的</w>
+            <w type="Na">影集</w>
+            <w type="Caa">及</w>
+            <w type="Na">電影</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Ncd">外界</w>
+            <w type="VH">好奇</w>
+            <w type="Nd">明年</w>
+            <w type="P">備受</w>
+            <w type="VB">矚目</w>
+            <w type="DE">的</w>
+            <w type="Nb">漫威</w>
+            <w type="Na">頭炮</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="D">是否</w>
+            <w type="D">會</w>
+            <w type="VH">同步上</w>
+         </s>
+         <s>
+            <w type="VA">串流</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">漫威</w>
+            <w type="Na">影業</w>
+            <w type="Na">主席</w>
+            <w type="Nb">凱文費吉</w>
+            <w type="Nd">昨</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="D">將</w>
+            <w type="VK">堅持</w>
+            <w type="Na">院線</w>
+            <w type="VAC">上映</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不會</w>
+            <w type="VH">直接</w>
+            <w type="Ng">上</w>
+            <w type="VC">串流</w>
+            <w type="Na">平台</w>
+         </s>
+         <s>
+            <w type="VJ">受</w>
+            <w type="Nc">武漢</w>
+            <w type="Na">肺炎</w>
+            <w type="Na">疫情</w>
+            <w type="VC">影響</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">今年</w>
+            <w type="SHI">是</w>
+            <w type="Neu">10</w>
+            <w type="Nf">年</w>
+            <w type="Ng">來</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">次</w>
+            <w type="Neqa">全</w>
+            <w type="Nf">年</w>
+            <w type="D">都</w>
+            <w type="VJ">沒有</w>
+            <w type="Nb">漫威</w>
+            <w type="Na">電影</w>
+            <w type="Na">宇宙</w>
+            <w type="Na">作品</w>
+            <w type="VAC">上映</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="D">已</w>
+            <w type="VC">延到</w>
+            <w type="Nd">明年</w>
+            <w type="Nd">5月</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">凱文費吉</w>
+            <w type="VE">表示</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">影迷</w>
+            <w type="Na">們</w>
+            <w type="Dfa">很</w>
+            <w type="V_2">有</w>
+            <w type="Na">耐心</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我們</w>
+            <w type="D">已經</w>
+            <w type="VH">充分</w>
+            <w type="VC">準備好</w>
+            <w type="VL">讓</w>
+            <w type="Nep">這</w>
+            <w type="Nf">名</w>
+            <w type="VB">復仇</w>
+         </s>
+         <s>
+            <w type="Na">者</w>
+            <w type="VC">推出</w>
+            <w type="Nh">她</w>
+            <w type="DE">的</w>
+            <w type="Nh">個人</w>
+            <w type="Na">電影</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+         </s>
+         <s>
+            <w type="Cbb">此外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">飾演</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">黑豹</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="DE">的</w>
+            <w type="Nb">查維克博斯曼</w>
+            <w type="Nd">今年</w>
+            <w type="Nd">8月</w>
+            <w type="P">因</w>
+            <w type="Na">結腸癌</w>
+            <w type="VH">去世</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">凱文費吉</w>
+            <w type="D">也</w>
+            <w type="VE">強調</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">續集</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">黑</w>
+         </s>
+         <s>
+            <w type="Na">豹2</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="D">將</w>
+            <w type="D">不會</w>
+            <w type="VA">換人</w>
+            <w type="VC">扮演</w>
+            <w type="Nh">他</w>
+            <w type="D">所</w>
+            <w type="VC">飾演</w>
+            <w type="DE">的</w>
+            <w type="Nb">帝查拉</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">電影</w>
+            <w type="Na">重心</w>
+            <w type="D">會</w>
+            <w type="VG">轉為</w>
+            <w type="VC">挖掘</w>
+            <w type="Nc">瓦干達</w>
+            <w type="Neqa">更多</w>
+            <w type="Na">秘密</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">該</w>
+            <w type="Na">片</w>
+            <w type="VG">計</w>
+         </s>
+         <s>
+            <w type="VC">畫</w>
+            <w type="Nd">明年</w>
+            <w type="Nd">7月</w>
+            <w type="VC">開拍</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">2022年</w>
+            <w type="Nd">7月</w>
+            <w type="Nd">8日</w>
+            <w type="VAC">上映</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </body>
+      <title author="PrinceKanto (生田絵梨花は俺の嫁)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VH">不同</w>
+            <w type="VCL">步上</w>
+            <w type="VC">串流</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">黑豹</w>
+            <w type="Neu">2</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="D">不</w>
+            <w type="VA">換人</w>
+         </s>
+      </title>
+      <comment author="darkholy" c_type="pos">
+         <s>
+            <w type="Nb">黑豹</w>
+            <w type="Neu">2</w>
+            <w type="D">就</w>
+            <w type="VH">直接</w>
+            <w type="VC">演</w>
+            <w type="Nb">帝查拉</w>
+            <w type="DE">得</w>
+            <w type="Na">癌症</w>
+            <w type="VH">死</w>
+            <w type="Di">了</w>
+            <w type="D">不</w>
+            <w type="D">就</w>
+            <w type="VH">好</w>
+            <w type="T">嘍</w>
+         </s>
+      </comment>
+      <comment author="phix" c_type="pos">
+         <s>
+            <w type="Nd">五月</w>
+            <w type="D">應該</w>
+            <w type="D">還是</w>
+            <w type="D">會</w>
+            <w type="VC">延 </w>
+            <w type="Na">肺炎</w>
+            <w type="VH">無解</w>
+         </s>
+      </comment>
+      <comment author="x4685153" c_type="pos">
+         <s>
+            <w type="D">幸好</w>
+            <w type="Nh">你</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Na">編劇</w>
+         </s>
+      </comment>
+      <comment author="lowlow1980" c_type="pos">
+         <s>
+            <w type="Nb">黑豹</w>
+            <w type="Neu">二</w>
+            <w type="VK">感覺</w>
+            <w type="D">就</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="sunsirr" c_type="pos">
+         <s>
+            <w type="VJ">沒有</w>
+            <w type="Na">黑豹</w>
+            <w type="DE">的</w>
+            <w type="Na">黑豹</w>
+            <w type="Neu">二0.0</w>
+         </s>
+      </comment>
+      <comment author="SINW" c_type="pos">
+         <s>
+            <w type="Na">太陽餅</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="leo1715s" c_type="pos">
+         <s>
+            <w type="Na">嬰兒油</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="NICKSHOW" c_type="pos">
+         <s>
+            <w type="Nd">明年</w>
+            <w type="Nd">五月</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="hTcCherWang" c_type="pos">
+         <s>
+            <w type="Nb">黑豹</w>
+            <w type="Neu">二</w>
+            <w type="D">就</w>
+            <w type="VH">直接</w>
+            <w type="VC">演</w>
+            <w type="Na">國王</w>
+            <w type="VC">隱藏</w>
+            <w type="Na">病情</w>
+            <w type="VH">暴斃</w>
+            <w type="D">就</w>
+            <w type="T">好</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="bth060104" c_type="neu">
+         <s>
+            <w type="Nb">漫威</w>
+            <w type="Na">感覺</w>
+            <w type="D">就</w>
+            <w type="D">不會</w>
+            <w type="P">把</w>
+            <w type="Nb">帝查拉</w>
+            <w type="Na">角色</w>
+            <w type="VC">寫</w>
+            <w type="VH">死</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">要</w>
+            <w type="VH">圓</w>
+            <w type="DE">的</w>
+            <w type="Na">方式</w>
+            <w type="Neu">一</w>
+            <w type="Nf">堆</w>
+         </s>
+      </comment>
+      <comment author="zw000ooo009" c_type="neu">
+         <s>
+            <w type="Nd">明年</w>
+            <w type="Nd">七月</w>
+            <w type="Da">才</w>
+            <w type="VC">開拍</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">半</w>
+            <w type="Nf">年</w>
+            <w type="Na">時間</w>
+            <w type="D">可以</w>
+            <w type="VH">煩惱</w>
+            <w type="Nb">帝查拉</w>
+            <w type="DE">的</w>
+            <w type="Na">問題</w>
+         </s>
+      </comment>
+      <comment author="will8149" c_type="pos">
+         <s>
+            <w type="I">查拉</w>
+            <w type="I">嘿</w>
+            <w type="I">查拉</w>
+         </s>
+      </comment>
+      <comment author="yehlin1985" c_type="pos">
+         <s>
+            <w type="Nc">樓上</w>
+            <w type="D">不要</w>
+            <w type="VA">偷渡</w>
+            <w type="Na">七龍珠</w>
+            <w type="FW">xd</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

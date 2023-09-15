@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">cwh0105 (Ex咖哩棒)</metadata>
+      <metadata name="post_id">M.1610380922.A.91A</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 去年的今天已經在放寒假了</metadata>
+   </teiHeader>
+   <text>
+      <body author="cwh0105 (Ex咖哩棒)">
+         <s>
+            <w type="Nd">去年</w>
+            <w type="DE">的</w>
+            <w type="Nd">今天</w>
+            <w type="D">已經</w>
+            <w type="D">在</w>
+            <w type="VC">放</w>
+            <w type="Nd">寒假</w>
+            <w type="T">了</w>
+         </s>
+         <s>
+            <w type="Nd">今年</w>
+            <w type="Na">期末考</w>
+            <w type="D">還</w>
+            <w type="D">沒</w>
+            <w type="VC">考完</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/Vrgo</w>
+            <w type="FW">Vm4</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/Y0</w>
+            <w type="FW">AcuDb</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/nq5COfn</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/1</w>
+            <w type="Nf">goa</w>
+            <w type="FW">U9</w>
+            <w type="FW">f</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/Y2</w>
+            <w type="FW">hO3</w>
+            <w type="FW">ic</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/vd</w>
+            <w type="FW">fWww</w>
+            <w type="ETCCATEGORY">K</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/1</w>
+            <w type="FW">Vot</w>
+            <w type="FW">S1</w>
+            <w type="FW">F https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/GDj20</w>
+            <w type="FW">pw</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/D2ammn</w>
+            <w type="FW">Q https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/mc0YAEf</w>
+         </s>
+      </body>
+      <title author="cwh0105 (Ex咖哩棒)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">去年</w>
+            <w type="DE">的</w>
+            <w type="Nd">今天</w>
+            <w type="D">已經</w>
+            <w type="D">在</w>
+            <w type="VC">放</w>
+            <w type="Nd">寒假</w>
+            <w type="T">了</w>
+         </s>
+      </title>
+      <comment author="Lyu7" c_type="pos">
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="Nd">前年</w>
+            <w type="Nd">9/9</w>
+            <w type="VH">開學</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">去年</w>
+            <w type="Nd">9/14</w>
+            <w type="VH">開學</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+         </s>
+      </comment>
+      <comment author="jsstarlight" c_type="pos">
+         <s>
+            <w type="Na">動態</w>
+            <w type="VE">回顧</w>
+            <w type="SHI">是</w>
+            <w type="Neu">2018年</w>
+            <w type="DE">的</w>
+            <w type="Nd">寒假</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">天</w>
+            <w type="FW">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ning1212 (黛綠)</metadata>
+      <metadata name="post_id">M.1617194435.A.045</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[失物] 拾獲一串鑰匙</metadata>
+   </teiHeader>
+   <text>
+      <body author="ning1212 (黛綠)">
+         <s>
+            <w type="Nd">今日</w>
+            <w type="Neu">19</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">00</w>
+            <w type="Ng">左右</w>
+            <w type="P">在</w>
+            <w type="Nc">舟山路</w>
+            <w type="Caa">與</w>
+            <w type="Nb">鹿鳴</w>
+            <w type="Nc">廣場</w>
+            <w type="Na">斜坡道</w>
+            <w type="Nc">附近</w>
+            <w type="DE">的</w>
+            <w type="VH">交叉</w>
+            <w type="Nc">路口</w>
+            <w type="VC">拾獲</w>
+            <w type="Neu">一</w>
+            <w type="Nf">串</w>
+            <w type="Na">鑰匙</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">如</w>
+            <w type="Na">圖</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">已</w>
+            <w type="VC">送去</w>
+            <w type="Na">舟</w>
+         </s>
+         <s>
+            <w type="Na">山路</w>
+            <w type="DE">的</w>
+            <w type="Na">駐警隊</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/V8</w>
+            <w type="FW">fTjTx.jpg</w>
+         </s>
+      </body>
+      <title author="ning1212 (黛綠)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">失物</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">拾獲</w>
+            <w type="Neu">一</w>
+            <w type="Nf">串</w>
+            <w type="Na">鑰匙</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

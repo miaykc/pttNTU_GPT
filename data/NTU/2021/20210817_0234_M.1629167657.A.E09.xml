@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Jelos (蘆屋冬夜)</metadata>
+      <metadata name="post_id">M.1629167657.A.E09</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[徵求] 教務處資訊組誠徵碩士級專任助理 (2年期)</metadata>
+   </teiHeader>
+   <text>
+      <body author="Jelos (蘆屋冬夜)">
+         <s>
+            <w type="Neu">一</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">應徵</w>
+            <w type="Na">條件</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Neu">1</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">資訊</w>
+            <w type="VH">相關</w>
+            <w type="Na">科系</w>
+            <w type="Na">碩士</w>
+            <w type="VH">畢業</w>
+            <w type="D">尤</w>
+            <w type="VH">佳</w>
+         </s>
+         <s>
+            <w type="Cbb">2</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VJ">具備有</w>
+            <w type="FW"> php</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Caa">或</w>
+            <w type="FW"> asp.net</w>
+            <w type="FW"> c# </w>
+            <w type="Na">程式</w>
+            <w type="VC">設計</w>
+            <w type="Na">經驗</w>
+            <w type="Na">者</w>
+         </s>
+         <s>
+            <w type="Neu">3</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VJ">具備有</w>
+            <w type="FW"> MS SQL </w>
+            <w type="Na">經驗</w>
+            <w type="Na">者</w>
+         </s>
+         <s>
+            <w type="Cbb">4</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VJ">具有</w>
+            <w type="Na">教務</w>
+            <w type="VH">相關</w>
+            <w type="Na">系統</w>
+            <w type="VC">開發</w>
+            <w type="Na">經驗</w>
+            <w type="Na">者</w>
+            <w type="D">尤佳</w>
+         </s>
+         <s>
+            <w type="Neu">二</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nv">甄選</w>
+            <w type="Na">方式</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Nv">面試</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VC">擇</w>
+            <w type="Na">書面</w>
+            <w type="Nv">審查</w>
+            <w type="Na">表現</w>
+            <w type="VH">優秀</w>
+            <w type="Na">者</w>
+            <w type="VC">參加</w>
+            <w type="VC">面試</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VC">錄取</w>
+            <w type="Nv">面試</w>
+            <w type="Na">表現</w>
+            <w type="Dfa">最</w>
+            <w type="VH">優</w>
+            <w type="Na">者</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">三</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">工作</w>
+            <w type="Na">內容</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Neu">1. </w>
+            <w type="Na">教務</w>
+            <w type="Na">系統</w>
+            <w type="VC">開發</w>
+            <w type="Caa">與</w>
+            <w type="VC">維護</w>
+         </s>
+         <s>
+            <w type="Cbb">2. </w>
+            <w type="VC">協助</w>
+            <w type="Nes">本</w>
+            <w type="Nc">處</w>
+            <w type="VA">教學</w>
+            <w type="Na">平台</w>
+            <w type="VC">移轉</w>
+         </s>
+         <s>
+            <w type="Neu">3. </w>
+            <w type="VC">協助</w>
+            <w type="VC">修改</w>
+            <w type="FW"> CEIBA </w>
+            <w type="VG">為</w>
+            <w type="A">唯讀</w>
+            <w type="Na">模式</w>
+            <w type="Da">僅</w>
+            <w type="VD">提供</w>
+            <w type="VE">查詢</w>
+            <w type="Caa">及</w>
+            <w type="VC">下載</w>
+            <w type="Na">功能</w>
+         </s>
+         <s>
+            <w type="Cbb">4. </w>
+            <w type="VC">協助</w>
+            <w type="VC">管理</w>
+            <w type="Nc">機房</w>
+            <w type="Caa">和</w>
+            <w type="Na">資安</w>
+            <w type="Na">業務</w>
+         </s>
+         <s>
+            <w type="FW">5. </w>
+            <w type="Neqa">其他</w>
+            <w type="VD">交辦</w>
+            <w type="Na">業務</w>
+         </s>
+         <s>
+            <w type="Cbb">四</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">薪資</w>
+            <w type="Na">待遇</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="P">依</w>
+            <w type="A">國立</w>
+            <w type="Nc">臺灣</w>
+            <w type="Nc">大學</w>
+            <w type="Na">計畫</w>
+            <w type="A">專任</w>
+            <w type="Nv">研究</w>
+            <w type="Na">助理</w>
+            <w type="VD">支給</w>
+            <w type="Na">參考表</w>
+            <w type="Na">薪資</w>
+            <w type="Na">標準</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Na">碩士級</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">年</w>
+            <w type="Dfa">最</w>
+            <w type="VH">低</w>
+            <w type="FW"> 51132</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nf">元</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">碩士級</w>
+            <w type="A">專任</w>
+            <w type="Na">助理</w>
+            <w type="VA">敘薪</w>
+            <w type="Dfa">最</w>
+            <w type="VH">低</w>
+            <w type="FW"> 37132</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nf">元</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VC">試用</w>
+            <w type="VH">期滿</w>
+            <w type="Nes">另</w>
+            <w type="V_2">有</w>
+            <w type="VH">特殊</w>
+            <w type="VD">加給</w>
+            <w type="FW"> 14000</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nf">元</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">視</w>
+            <w type="Nh">個人</w>
+            <w type="VA">工作</w>
+            <w type="Na">年資</w>
+            <w type="VC">採計</w>
+         </s>
+         <s>
+            <w type="Na">情況</w>
+            <w type="VC">調整</w>
+            <w type="Na">薪資</w>
+            <w type="Na">待遇</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">曾</w>
+            <w type="P">在</w>
+            <w type="Nc">臺大</w>
+            <w type="Nc">計中</w>
+            <w type="Caa">或</w>
+            <w type="Nc">教務處</w>
+            <w type="Nc">資訊組</w>
+            <w type="VC">服務</w>
+            <w type="VJ">滿</w>
+            <w type="Neu">一</w>
+            <w type="Nf">年</w>
+            <w type="Na">者</w>
+            <w type="VJ">免</w>
+            <w type="VC">試用期</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">五</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">工作</w>
+            <w type="Na">地點</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Nc">臺灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nc">教務處</w>
+            <w type="Nc">資訊組</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">台北市</w>
+            <w type="Nc">羅斯福路</w>
+            <w type="Nc">四段</w>
+            <w type="Nc">1號</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Neu">六</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="D">應</w>
+            <w type="VC">備</w>
+            <w type="Na">文件</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Nb">1. </w>
+            <w type="Na">履歷表</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">格式</w>
+            <w type="VJ">不拘</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">內含</w>
+            <w type="Na">自傳</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Cbb">2. </w>
+            <w type="Nd">歷年</w>
+            <w type="VH">在學</w>
+            <w type="Na">成績單</w>
+            <w type="Na">影本</w>
+         </s>
+         <s>
+            <w type="Neu">3</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">學</w>
+            <w type="Nv">經歷</w>
+            <w type="Na">證明</w>
+            <w type="Na">影本</w>
+         </s>
+         <s>
+            <w type="Neu">七</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nv">收件</w>
+            <w type="Na">期限</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Nd">即日</w>
+            <w type="Ng">起</w>
+            <w type="P">至</w>
+            <w type="FW"> 110 年</w>
+            <w type="FW"> 8 </w>
+            <w type="Na">月</w>
+            <w type="FW"> 31 </w>
+            <w type="Nd">日</w>
+            <w type="Ng">前</w>
+            <w type="D">將</w>
+            <w type="VC">應徵</w>
+            <w type="Na">資料</w>
+            <w type="VCL">寄達</w>
+         </s>
+         <s>
+            <w type="Neu">106</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台北市</w>
+            <w type="Nc">羅斯福路</w>
+            <w type="Nc">四段</w>
+            <w type="Nc"> 1 號</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="A">國立</w>
+            <w type="Nc">臺灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nc">教務處</w>
+            <w type="Nc">資訊組</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nes">本</w>
+            <w type="Nf">次</w>
+            <w type="VA">徵才</w>
+            <w type="P">以</w>
+            <w type="Na">紙本</w>
+            <w type="Na">郵戳</w>
+            <w type="VH">為憑</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">信件</w>
+            <w type="VF">請</w>
+            <w type="VE">註明</w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VC">應徵</w>
+            <w type="Na">碩士級</w>
+            <w type="A">專任</w>
+            <w type="Na">助理</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">2年期</w>
+            <w type="Na">程式</w>
+            <w type="Na">設計師</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VH">隨</w>
+            <w type="VCL">到</w>
+            <w type="D">隨</w>
+            <w type="VC">審</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">書面</w>
+            <w type="Nv">審查</w>
+            <w type="VH">合適</w>
+            <w type="Na">者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">將</w>
+            <w type="D">盡快</w>
+            <w type="P">以</w>
+            <w type="Na">電話</w>
+            <w type="Caa">或</w>
+            <w type="Na">電郵</w>
+            <w type="VC">通知</w>
+            <w type="VC">面談</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">無論</w>
+            <w type="D">是否</w>
+            <w type="VC">錄用</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">所</w>
+            <w type="VC">附</w>
+            <w type="Na">文件</w>
+            <w type="VL">恕不</w>
+            <w type="VD">退還</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Neu">八</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">聯絡</w>
+            <w type="Na">資訊</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Na">聯絡人</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">張嘉欣</w>
+            <w type="Na">先生</w>
+         </s>
+         <s>
+            <w type="Nv">聯絡</w>
+            <w type="Na">電話</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">02-33662388</w>
+            <w type="Nf">#603</w>
+         </s>
+         <s>
+            <w type="FW">email</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">[email</w>
+            <w type="FW"> protected</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+         </s>
+      </body>
+      <title author="Jelos (蘆屋冬夜)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VC">徵求</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">教務處</w>
+            <w type="Nc">資訊組</w>
+            <w type="VC">誠徵</w>
+            <w type="Na">碩士級</w>
+            <w type="A">專任</w>
+            <w type="Na">助理</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">2</w>
+            <w type="Nf">年期</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

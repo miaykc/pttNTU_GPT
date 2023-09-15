@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Gavatzky (My Prince)</metadata>
+      <metadata name="post_id">M.1671282569.A.563</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[討論] 緯來電影台 12/17 貝克街的亡靈 live</metadata>
+   </teiHeader>
+   <text>
+      <body author="Gavatzky (My Prince)">
+         <s>
+            <w type="D">頻道</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">緯來</w>
+            <w type="Nc">電影台</w>
+         </s>
+         <s>
+            <w type="Na">日期</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">12/17 </w>
+            <w type="Nd">禮拜六</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">晚間</w>
+            <w type="Nd">9點</w>
+         </s>
+         <s>
+            <w type="Na">節目</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">柯南</w>
+            <w type="Na">劇場版</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">貝克街</w>
+            <w type="DE">的</w>
+            <w type="Na">亡靈</w>
+         </s>
+      </body>
+      <title author="Gavatzky (My Prince)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">緯來</w>
+            <w type="Nc">電影台</w>
+            <w type="FW"> 12/17</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">貝克街</w>
+            <w type="DE">的</w>
+            <w type="Na">亡靈</w>
+            <w type="FW"> live</w>
+         </s>
+      </title>
+      <comment author="wafiea708" c_type="pos">
+         <s>
+            <w type="Nc">貝克街</w>
+            <w type="DE">的</w>
+            <w type="Na">亡靈</w>
+            <w type="VH">好看</w>
+            <w type="FW">~</w>
+            <w type="Nep">這</w>
+            <w type="SHI">是</w>
+            <w type="Neu">第6</w>
+            <w type="Na">作</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">明年</w>
+            <w type="Neu">第26</w>
+            <w type="VC">作</w>
+            <w type="Na">黑鐵</w>
+            <w type="DE">的</w>
+            <w type="Na">魚影</w>
+         </s>
+      </comment>
+      <comment author="eternalmi16" c_type="pos">
+         <s>
+            <w type="Nd">最後</w>
+            <w type="DE">的</w>
+            <w type="Nb">弘樹</w>
+            <w type="D">到底</w>
+            <w type="SHI">是</w>
+            <w type="Nh">本人</w>
+            <w type="DE">的</w>
+            <w type="Na">靈魂</w>
+            <w type="Caa">還是</w>
+            <w type="Nb">諾亞方舟</w>
+            <w type="VC">模仿</w>
+            <w type="Nb">弘樹</w>
+         </s>
+      </comment>
+      <comment author="eternalmi16" c_type="neu">
+         <s>
+            <w type="DE">的</w>
+            <w type="Na">意識</w>
+            <w type="VC">仿造出</w>
+            <w type="DE">的</w>
+            <w type="Na">幻影</w>
+         </s>
+      </comment>
+      <comment author="a80568911" c_type="neu">
+         <s>
+            <w type="Nh">個人</w>
+            <w type="Dfa">最愛</w>
+            <w type="DE">的</w>
+            <w type="Na">劇場版</w>
+         </s>
+      </comment>
+      <comment author="okwapblue" c_type="pos">
+         <s>
+            <w type="VH">神</w>
+            <w type="VC">作</w>
+            <w type="T">呀</w>
+         </s>
+      </comment>
+      <comment author="wayne5992" c_type="neu">
+         <s>
+            <w type="VH">好看</w>
+         </s>
+      </comment>
+      <comment author="comemust" c_type="pos">
+         <s>
+            <w type="Neu">2002</w>
+            <w type="D">就</w>
+            <w type="V_2">有</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">刀劍</w>
+            <w type="Nc">神域</w>
+            <w type="DE">的</w>
+            <w type="Na">概念</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">XD</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

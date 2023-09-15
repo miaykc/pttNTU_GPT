@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">FragrantJo (Frangrantjomo)</metadata>
+      <metadata name="post_id">M.1628262537.A.58B</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 自殺突擊隊一句台詞？（有雷）</metadata>
+   </teiHeader>
+   <text>
+      <body author="FragrantJo (Frangrantjomo)">
+         <s>
+            <w type="VE">請問</w>
+            <w type="D">剛</w>
+            <w type="VH">開始</w>
+            <w type="VJ">沒</w>
+            <w type="Nd">多久</w>
+         </s>
+         <s>
+            <w type="VK">記得</w>
+            <w type="D">好像</w>
+            <w type="SHI">是</w>
+            <w type="P">在</w>
+            <w type="VA">登岸</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+         </s>
+         <s>
+            <w type="Na">小丑女</w>
+            <w type="Na">衣服</w>
+            <w type="Nc">背後</w>
+            <w type="Na">衣服</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+            <w type="Na">字</w>
+         </s>
+         <s>
+            <w type="Na">中文</w>
+            <w type="SHI">是</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="P">像</w>
+            <w type="Na">瘋子</w>
+            <w type="Ng">般</w>
+            <w type="VA">生活</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">像</w>
+            <w type="Na">小丑</w>
+            <w type="Ng">般</w>
+            <w type="VH">死去</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VK">記得</w>
+            <w type="Na">原文</w>
+            <w type="SHI">是</w>
+            <w type="D">怎麼說</w>
+            <w type="T">的</w>
+            <w type="T">嗎</w>
+         </s>
+         <s>
+            <w type="VA">上網</w>
+            <w type="FW">google</w>
+            <w type="D">都</w>
+            <w type="VC">找</w>
+            <w type="D">不</w>
+            <w type="P">到</w>
+         </s>
+         <s>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="V_2">有</w>
+            <w type="D">沒</w>
+            <w type="V_2">有</w>
+            <w type="Na">神人</w>
+            <w type="VK">記得</w>
+            <w type="Na">原文</w>
+         </s>
+         <s>
+            <w type="VK">感謝</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">位</w>
+            <w type="VH">大大</w>
+         </s>
+      </body>
+      <title author="FragrantJo (Frangrantjomo)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">自殺</w>
+            <w type="Na">突擊隊</w>
+            <w type="Neu">一</w>
+            <w type="Nf">句</w>
+            <w type="Na">台詞</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="V_2">有</w>
+            <w type="Nb">雷</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </title>
+      <comment author="shen0348" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/KyOwAb8</w>
+            <w type="FW">.jpg</w>
+         </s>
+      </comment>
+      <comment author="Spade" c_type="pos">
+         <s>
+            <w type="FW">James</w>
+            <w type="FW"> Gunn</w>
+            <w type="WHITESPACE"> </w>
+            <w type="DE">的</w>
+            <w type="FW">IG</w>
+            <w type="V_2">有</w>
+         </s>
+      </comment>
+      <comment author="Spade" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.instagram.com/p/CSKGjmKgJXK/?</w>
+            <w type="FW">utm_me</w>
+         </s>
+      </comment>
+      <comment author="Spade" c_type="neu">
+         <s>
+            <w type="FW">dium</w>
+            <w type="FW">=copy_link</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

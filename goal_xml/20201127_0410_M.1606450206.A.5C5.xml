@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">xhakiboo (xhakiboo)</metadata>
+      <metadata name="post_id">M.1606450206.A.5C5</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園]從大門駛進兩台救護車</metadata>
+   </teiHeader>
+   <text>
+      <body author="xhakiboo (xhakiboo)">
+         <s>
+            <w type="D">剛剛</w>
+            <w type="P">從</w>
+            <w type="Na">大門</w>
+            <w type="VA">進來</w>
+            <w type="Neu">一</w>
+            <w type="Nf">台</w>
+            <w type="VA">鳴笛</w>
+            <w type="DE">的</w>
+            <w type="Na">救護車</w>
+         </s>
+         <s>
+            <w type="Ncd">前面</w>
+            <w type="V_2">有</w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="Na">校警</w>
+            <w type="VC">騎</w>
+            <w type="Na">機車</w>
+            <w type="VA">開道</w>
+         </s>
+         <s>
+            <w type="VCL">過</w>
+            <w type="Neu">10</w>
+            <w type="Nf">秒</w>
+            <w type="D">又</w>
+            <w type="Neu">一</w>
+            <w type="Nf">台</w>
+            <w type="D">沒</w>
+            <w type="Na">鳴笛</w>
+            <w type="DE">的</w>
+            <w type="Na">救護車</w>
+            <w type="VCL">開進來</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VK">知道</w>
+            <w type="SHI">是</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">事</w>
+            <w type="T">嗎</w>
+         </s>
+      </body>
+      <title author="xhakiboo (xhakiboo)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="P">從</w>
+            <w type="Na">大門</w>
+            <w type="VCL">駛進</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">台</w>
+            <w type="Na">救護車</w>
+         </s>
+      </title>
+      <comment author="colock246" c_type="pos">
+         <s>
+            <w type="Na">卡</w>
+         </s>
+      </comment>
+      <comment author="cwh0105" c_type="pos">
+         <s>
+            <w type="Na">門</w>
+         </s>
+      </comment>
+      <comment author="ccatter" c_type="pos">
+         <s>
+            <w type="Na">渦</w>
+         </s>
+      </comment>
+      <comment author="flyuhigh" c_type="pos">
+         <s>
+            <w type="Na">蟲</w>
+         </s>
+      </comment>
+      <comment author="PCSH120" c_type="pos">
+         <s>
+            <w type="Na">洞</w>
+         </s>
+      </comment>
+      <comment author="seand8088503" c_type="pos">
+         <s>
+            <w type="Na">穴</w>
+         </s>
+      </comment>
+      <comment author="Blueskyc" c_type="pos">
+         <s>
+            <w type="VG">居</w>
+         </s>
+      </comment>
+      <comment author="usercode" c_type="pos">
+         <s>
+            <w type="VH">軟</w>
+         </s>
+      </comment>
+      <comment author="dyadi" c_type="pos">
+         <s>
+            <w type="Na">體</w>
+         </s>
+      </comment>
+      <comment author="nodnarb1027" c_type="pos">
+         <s>
+            <w type="D">初</w>
+         </s>
+      </comment>
+      <comment author="installbtien" c_type="pos">
+         <s>
+            <w type="Na">音</w>
+         </s>
+      </comment>
+      <comment author="Volibear" c_type="pos">
+         <s>
+            <w type="Na">道</w>
+         </s>
+      </comment>
+      <comment author="jason90814" c_type="pos">
+         <s>
+            <w type="Nc">士</w>
+         </s>
+      </comment>
+      <comment author="Akkusaii3741" c_type="pos">
+         <s>
+            <w type="Nb">林</w>
+         </s>
+      </comment>
+      <comment author="turmerone" c_type="pos">
+         <s>
+            <w type="Nd">夜</w>
+         </s>
+      </comment>
+      <comment author="Adrenaline" c_type="pos">
+         <s>
+            <w type="VC">露</w>
+         </s>
+      </comment>
+      <comment author="Soodesu" c_type="pos">
+         <s>
+            <w type="Nc">營</w>
+         </s>
+      </comment>
+      <comment author="eunhailoveu" c_type="pos">
+         <s>
+            <w type="VA">蕩</w>
+         </s>
+      </comment>
+      <comment author="fan74" c_type="pos">
+         <s>
+            <w type="Na">鞦</w>
+         </s>
+      </comment>
+      <comment author="triumphant10" c_type="neg">
+         <s>
+            <w type="I">韆ㄋㄇㄐㄅ</w>
+         </s>
+      </comment>
+      <comment author="orgysolitude" c_type="pos">
+         <s>
+            <w type="Na">韆</w>
+         </s>
+      </comment>
+      <comment author="bmpss95156" c_type="pos">
+         <s>
+            <w type="Na">牛</w>
+         </s>
+      </comment>
+      <comment author="aquariuschi" c_type="neu">
+         <s>
+            <w type="VF">逼</w>
+         </s>
+      </comment>
+      <comment author="josLynYa" c_type="pos">
+         <s>
+            <w type="VC">吃</w>
+         </s>
+      </comment>
+      <comment author="SuzukiFeiya" c_type="pos">
+         <s>
+            <w type="Na">案</w>
+         </s>
+      </comment>
+      <comment author="MyersLi" c_type="pos">
+         <s>
+            <w type="Nh">你</w>
+         </s>
+      </comment>
+      <comment author="eunhailoveu" c_type="pos">
+         <s>
+            <w type="VH">好</w>
+         </s>
+      </comment>
+      <comment author="NTUmsefat" c_type="pos">
+         <s>
+            <w type="VH">胖</w>
+         </s>
+      </comment>
+      <comment author="amichaell" c_type="pos">
+         <s>
+            <w type="Nes">次</w>
+         </s>
+      </comment>
+      <comment author="typangpang" c_type="pos">
+         <s>
+            <w type="Na">豬</w>
+         </s>
+      </comment>
+      <comment author="Sibelius26" c_type="neg">
+         <s>
+            <w type="I">嗯</w>
+            <w type="I">嗯</w>
+            <w type="I">嗯</w>
+            <w type="I">嗯</w>
+            <w type="I">嗯</w>
+            <w type="I">嗯</w>
+            <w type="I">嗯</w>
+            <w type="I">嗯</w>
+            <w type="I">嗯</w>
+            <w type="I">嗯</w>
+         </s>
+      </comment>
+      <comment author="serotonin" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">時間點</w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="Nes">敝</w>
+            <w type="Nf">班</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">期中考</w>
+            <w type="P">到</w>
+            <w type="Neqa">一半</w>
+            <w type="V_2">有</w>
+            <w type="Na">同學</w>
+            <w type="VG">貌似</w>
+            <w type="SHI">是</w>
+            <w type="Na">癲癇</w>
+            <w type="VH">發</w>
+         </s>
+      </comment>
+      <comment author="serotonin" c_type="neu">
+         <s>
+            <w type="VC">作</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </comment>
+      <comment author="xBox1Pro" c_type="pos">
+         <s>
+            <w type="VL">愛</w>
+         </s>
+      </comment>
+      <comment author="how870927" c_type="pos">
+         <s>
+            <w type="Na">心</w>
+         </s>
+      </comment>
+      <comment author="s92033888" c_type="pos">
+         <s>
+            <w type="Na">手</w>
+         </s>
+      </comment>
+      <comment author="halfmoon6" c_type="pos">
+         <s>
+            <w type="Na">槍</w>
+         </s>
+      </comment>
+      <comment author="IokUdiefirst" c_type="pos">
+         <s>
+            <w type="VH">瘋</w>
+         </s>
+      </comment>
+      <comment author="thenolet" c_type="pos">
+         <s>
+            <w type="Na">魔</w>
+         </s>
+      </comment>
+      <comment author="ya870323" c_type="pos">
+         <s>
+            <w type="Na">物</w>
+         </s>
+      </comment>
+      <comment author="Bighand007" c_type="pos">
+         <s>
+            <w type="Na">理</w>
+         </s>
+      </comment>
+      <comment author="Soodesu" c_type="pos">
+         <s>
+            <w type="Na">工</w>
+         </s>
+      </comment>
+      <comment author="Akkusaii3741" c_type="pos">
+         <s>
+            <w type="VJ">具</w>
+         </s>
+      </comment>
+      <comment author="seand8088503" c_type="pos">
+         <s>
+            <w type="Na">人</w>
+         </s>
+      </comment>
+      <comment author="PCSH120" c_type="pos">
+         <s>
+            <w type="Nh">之</w>
+         </s>
+      </comment>
+      <comment author="eunhailoveu" c_type="pos">
+         <s>
+            <w type="D">初</w>
+         </s>
+      </comment>
+      <comment author="Creeperforev" c_type="pos">
+         <s>
+            <w type="Na">牛</w>
+         </s>
+      </comment>
+      <comment author="excusezmoi" c_type="pos">
+         <s>
+            <w type="VC">鞭</w>
+         </s>
+      </comment>
+      <comment author="BaGaJone" c_type="pos">
+         <s>
+            <w type="Na">刑</w>
+         </s>
+      </comment>
+      <comment author="typangpang" c_type="pos">
+         <s>
+            <w type="Na">事</w>
+         </s>
+      </comment>
+      <comment author="eunhailoveu" c_type="pos">
+         <s>
+            <w type="Nd">後</w>
+         </s>
+      </comment>
+      <comment author="star07" c_type="pos">
+         <s>
+            <w type="Na">門</w>
+         </s>
+      </comment>
+      <comment author="FoxtailMille" c_type="pos">
+         <s>
+            <w type="Na">鈴</w>
+         </s>
+      </comment>
+      <comment author="gogopacer" c_type="pos">
+         <s>
+            <w type="D">鐺</w>
+         </s>
+      </comment>
+      <comment author="cal28802672" c_type="pos">
+         <s>
+            <w type="VCL">入</w>
+         </s>
+      </comment>
+      <comment author="Chieen" c_type="pos">
+         <s>
+            <w type="VH">瘋魔</w>
+            <w type="Na">物理</w>
+            <w type="Na">工具</w>
+            <w type="Na">人</w>
+            <w type="D">聽起來</w>
+            <w type="Dfa">很</w>
+            <w type="VH">狂</w>
+         </s>
+      </comment>
+      <comment author="ben870818" c_type="pos">
+         <s>
+            <w type="Na">珠</w>
+         </s>
+      </comment>
+      <comment author="ann141414" c_type="pos">
+         <s>
+            <w type="Na">帝</w>
+         </s>
+      </comment>
+      <comment author="JHua2015" c_type="pos">
+         <s>
+            <w type="Nb">王</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

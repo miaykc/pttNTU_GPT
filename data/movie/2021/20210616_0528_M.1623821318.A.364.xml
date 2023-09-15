@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">accommodate (珍惜生命,遠離台男)</metadata>
+      <metadata name="post_id">M.1623821318.A.364</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 越南電影 標題有春天 劇情有三姐妹</metadata>
+   </teiHeader>
+   <text>
+      <body author="accommodate (珍惜生命,遠離台男)">
+         <s>
+            <w type="Na">老爸</w>
+            <w type="VE">想</w>
+            <w type="VC">找</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">越南片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">不過</w>
+            <w type="Nh">他</w>
+            <w type="Da">只</w>
+            <w type="VK">記得</w>
+            <w type="Na">片名</w>
+            <w type="V_2">有</w>
+            <w type="Nd">春天</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Ncd">裡面</w>
+            <w type="V_2">有</w>
+            <w type="Neu">三</w>
+            <w type="Na">姐妹</w>
+            <w type="VC">嫁</w>
+            <w type="Di">了</w>
+            <w type="Neu">三</w>
+            <w type="Nf">個</w>
+            <w type="Na">丈夫</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="A">個別</w>
+            <w type="VE">敘述</w>
+            <w type="Nh">她們</w>
+            <w type="DE">的</w>
+            <w type="Na">人生</w>
+         </s>
+         <s>
+            <w type="VH">隨便</w>
+            <w type="VE">問</w>
+            <w type="Nd">一下</w>
+            <w type="Neqa">哪些</w>
+            <w type="Na">平台</w>
+            <w type="Ncd">上</w>
+            <w type="V_2">有</w>
+         </s>
+         <s>
+            <w type="VK">感謝</w>
+         </s>
+      </body>
+      <title author="accommodate (珍惜生命,遠離台男)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問</w>
+            <w type="Na">片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">越南</w>
+            <w type="Na">電影</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">標題</w>
+            <w type="V_2">有</w>
+            <w type="Nd">春天</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">劇情</w>
+            <w type="V_2">有</w>
+            <w type="Neu">三</w>
+            <w type="Na">姐妹</w>
+         </s>
+      </title>
+      <comment author="itohchen" c_type="pos">
+         <s>
+            <w type="Nd">夏天</w>
+            <w type="DE">的</w>
+            <w type="Na">滋味</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="aehvtleo" c_type="pos">
+         <s>
+            <w type="Nc">越南</w>
+            <w type="Na">電影</w>
+            <w type="Na">大師</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">陳英雄</w>
+            <w type="Na">導演</w>
+         </s>
+      </comment>
+      <comment author="l81311i" c_type="neu">
+         <s>
+            <w type="Nb">陳英雄</w>
+            <w type="SHI">是</w>
+            <w type="Na">法國人</w>
+            <w type="T">喔</w>
+         </s>
+      </comment>
+      <comment author="aehvtleo" c_type="pos">
+         <s>
+            <w type="D">就</w>
+            <w type="P">像</w>
+            <w type="Nb">蔡明亮</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">你</w>
+            <w type="D">會</w>
+            <w type="VE">說</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">大師</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">人家</w>
+            <w type="D">也</w>
+            <w type="D">沒</w>
+            <w type="VC">拍</w>
+            <w type="Di">過</w>
+            <w type="Nc">馬來</w>
+            <w type="Na">電影</w>
+         </s>
+      </comment>
+      <comment author="Takanohana" c_type="pos">
+         <s>
+            <w type="SHI">是</w>
+            <w type="Nd">夏天</w>
+            <w type="DE">的</w>
+            <w type="Na">滋味</w>
+            <w type="D">沒</w>
+            <w type="VH">錯</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

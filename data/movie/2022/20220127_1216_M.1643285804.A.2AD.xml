@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">aweak (好酸洋芋片)</metadata>
+      <metadata name="post_id">M.1643285804.A.2AD</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 舞台劇形式的電影</metadata>
+   </teiHeader>
+   <text>
+      <body author="aweak (好酸洋芋片)">
+         <s>
+            <w type="VE">想</w>
+            <w type="VC">找</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Nc">歐美</w>
+            <w type="Na">電影</w>
+         </s>
+         <s>
+            <w type="VA">轉場</w>
+            <w type="Na">方式</w>
+            <w type="Dfa">很</w>
+            <w type="VG">像</w>
+            <w type="Nc">劇場</w>
+            <w type="Na">道具</w>
+            <w type="VC">轉換</w>
+            <w type="Na">佈景</w>
+         </s>
+         <s>
+            <w type="Nep">其中</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Nc">車站</w>
+            <w type="DE">的</w>
+            <w type="Na">場景</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="VC">騎</w>
+            <w type="Na">馬</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="Na">雪景</w>
+         </s>
+         <s>
+            <w type="Na">主角</w>
+            <w type="SHI">是</w>
+            <w type="VG">類似</w>
+            <w type="Nb">休傑克曼</w>
+            <w type="Na">風格</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+         </s>
+         <s>
+            <w type="D">已經</w>
+            <w type="VE">確認</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Neu">千</w>
+            <w type="Nf">年</w>
+            <w type="Na">女優</w>
+         </s>
+         <s>
+            <w type="VE">想</w>
+            <w type="VA">碰運氣</w>
+            <w type="VE">問</w>
+            <w type="Di">看</w>
+            <w type="VC">看版</w>
+            <w type="Ncd">上</w>
+            <w type="A">眾</w>
+            <w type="Na">神</w>
+            <w type="Na">人</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> Google</w>
+            <w type="FW"> Pixel</w>
+            <w type="FW"> 4a</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="aweak (好酸洋芋片)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問</w>
+            <w type="Na">片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">舞台劇</w>
+            <w type="Na">形式</w>
+            <w type="DE">的</w>
+            <w type="Na">電影</w>
+         </s>
+      </title>
+      <comment author="aweak" c_type="neu">
+         <s>
+            <w type="Nh">自己</w>
+            <w type="VC">找到</w>
+            <w type="Di">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="SHI">是</w>
+            <w type="Nb">安娜卡列尼娜</w>
+         </s>
+      </comment>
+      <comment author="butmyass" c_type="neg">
+         <s>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

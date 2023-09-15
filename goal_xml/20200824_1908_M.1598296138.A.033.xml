@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">marshmallowH (人民陣線瘟疫青年會抽3?5)</metadata>
+      <metadata name="post_id">M.1598296138.A.033</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[失物] 臺北大學學生證一張</metadata>
+   </teiHeader>
+   <text>
+      <body author="marshmallowH (人民陣線瘟疫青年會抽3?5)">
+         <s>
+            <w type="D">已</w>
+            <w type="VC">尋得</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">謝謝</w>
+            <w type="VH">神通廣大</w>
+            <w type="FW">ptt</w>
+         </s>
+         <s>
+            <w type="Na">物品</w>
+            <w type="Na">名稱</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">北大</w>
+            <w type="Na">學生證</w>
+            <w type="Neu">一</w>
+            <w type="Nf">張</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="VH">遺失</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="VH">遺失</w>
+            <w type="FW">/</w>
+            <w type="VC">拾獲</w>
+            <w type="Na">地點</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Nb">新生南</w>
+            <w type="VCL">到</w>
+            <w type="Na">後門</w>
+            <w type="Nb">星巴克</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">櫻花樹</w>
+            <w type="Nc">附近</w>
+         </s>
+         <s>
+            <w type="VH">遺失</w>
+            <w type="FW">/</w>
+            <w type="VC">拾獲</w>
+            <w type="Na">時間</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Nd">8/24 </w>
+            <w type="Nd">下午</w>
+            <w type="Nd">6</w>
+            <w type="DASHCATEGORY">-7</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+         <s>
+            <w type="Na">物品</w>
+            <w type="VC">描述</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/CANzTAs.jpg</w>
+         </s>
+         <s>
+            <w type="Nv">聯絡</w>
+            <w type="Na">方式</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">站</w>
+            <w type="Ncd">內</w>
+            <w type="Na">信</w>
+         </s>
+         <s>
+            <w type="Neqa">其他</w>
+            <w type="VE">說明</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="VK">願</w>
+            <w type="P">以</w>
+            <w type="FW">Cama</w>
+            <w type="Caa">或</w>
+            <w type="Neqa">其他</w>
+            <w type="VH">等價</w>
+            <w type="Na">飲料</w>
+            <w type="VC">答謝</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">謝謝</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> iPhone</w>
+         </s>
+      </body>
+      <title author="marshmallowH (人民陣線瘟疫青年會抽3?5)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">失物</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">臺北</w>
+            <w type="Nc">大學</w>
+            <w type="Na">學生證</w>
+            <w type="Neu">一</w>
+            <w type="Nf">張</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

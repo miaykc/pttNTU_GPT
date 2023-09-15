@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">generalfungi (香菇將軍)</metadata>
+      <metadata name="post_id">M.1647914766.A.7C1</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[討論] 電影票房金額是怎麼算的？</metadata>
+   </teiHeader>
+   <text>
+      <body author="generalfungi (香菇將軍)">
+         <s>
+            <w type="P">比如</w>
+            <w type="Na">咒術</w>
+            <w type="Na">迴戰</w>
+            <w type="DE">的</w>
+            <w type="Neqa">全</w>
+            <w type="Nc">台</w>
+            <w type="Na">票房</w>
+            <w type="VC">破</w>
+            <w type="Neu">2億</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Neu">2億</w>
+            <w type="D">怎麼</w>
+            <w type="VA">來</w>
+            <w type="T">的</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="Nes">每</w>
+            <w type="Neu">一</w>
+            <w type="Nf">家</w>
+            <w type="Na">電影</w>
+            <w type="DE">的</w>
+            <w type="Na">票價</w>
+            <w type="D">不</w>
+            <w type="VH">一樣</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">搭</w>
+            <w type="Na">信用卡</w>
+            <w type="VJ">優惠</w>
+            <w type="D">也</w>
+            <w type="VH">不同</w>
+         </s>
+         <s>
+            <w type="Na">票種</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="VC">分</w>
+            <w type="Neu">2D IMAX 4DX</w>
+            <w type="Nep">什麼</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">價差</w>
+            <w type="D">又</w>
+            <w type="Dfa">很</w>
+            <w type="VH">大</w>
+         </s>
+         <s>
+            <w type="P">像</w>
+            <w type="Nh">我</w>
+            <w type="D">去</w>
+            <w type="VC">看</w>
+            <w type="Na">咒術</w>
+            <w type="Na">迴戰</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="SHI">是</w>
+            <w type="Nd">平日</w>
+            <w type="D">又</w>
+            <w type="VC">配合</w>
+            <w type="Na">信用卡</w>
+            <w type="VC">花</w>
+            <w type="Di">了</w>
+            <w type="Neu">168</w>
+            <w type="Nf">元</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VC">看</w>
+            <w type="Neu">4DX版</w>
+            <w type="VC">花</w>
+            <w type="Di">了</w>
+            <w type="Neu">520</w>
+            <w type="Nf">元</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="Nh">我們</w>
+            <w type="Neu">兩</w>
+            <w type="Na">人</w>
+            <w type="DE">的</w>
+            <w type="Na">票房</w>
+            <w type="Na">貢獻</w>
+            <w type="SHI">是</w>
+            <w type="Neu">168+520</w>
+            <w type="Nf">元</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="VH">疑惑</w>
+            <w type="Dfa">很</w>
+            <w type="VH">久</w>
+            <w type="T">了</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VK">知道</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> iPhone</w>
+         </s>
+      </body>
+      <title author="generalfungi (香菇將軍)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">電影</w>
+            <w type="Na">票房</w>
+            <w type="Na">金額</w>
+            <w type="SHI">是</w>
+            <w type="D">怎麼</w>
+            <w type="VE">算</w>
+            <w type="T">的</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </title>
+      <comment author="KKKKKvs333" c_type="neu">
+         <s>
+            <w type="SHI">是</w>
+            <w type="Nes">每</w>
+            <w type="Nf">個</w>
+            <w type="Nc">戲院</w>
+            <w type="DE">的</w>
+            <w type="Na">工讀生</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">下班</w>
+            <w type="Ng">後</w>
+            <w type="P">到</w>
+            <w type="Nes">每</w>
+            <w type="Nf">張</w>
+            <w type="Na">票</w>
+            <w type="VH">慢慢</w>
+            <w type="VE">算</w>
+         </s>
+      </comment>
+      <comment author="KKKKKvs333" c_type="neu">
+         <s>
+            <w type="D">再</w>
+            <w type="P">用</w>
+            <w type="FW">line</w>
+            <w type="VD">傳</w>
+            <w type="Na">訊息</w>
+            <w type="VD">給</w>
+            <w type="Nc">戲院</w>
+            <w type="Na">主管</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">主管</w>
+            <w type="D">再</w>
+            <w type="VD">傳</w>
+            <w type="FW">line</w>
+            <w type="VD">給</w>
+            <w type="Na">片商</w>
+         </s>
+      </comment>
+      <comment author="phantom78626" c_type="pos">
+         <s>
+            <w type="P">用</w>
+            <w type="Na">信用卡</w>
+            <w type="VJ">優惠</w>
+            <w type="DE">的</w>
+            <w type="D">應該</w>
+            <w type="VD">發</w>
+            <w type="Na">卡</w>
+            <w type="Nc">銀行</w>
+            <w type="D">會</w>
+            <w type="VD">補貼</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">所以</w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="P">以</w>
+            <w type="Neu">一</w>
+         </s>
+      </comment>
+      <comment author="phantom78626" c_type="neu">
+         <s>
+            <w type="Ng">般</w>
+            <w type="Na">票價</w>
+            <w type="D">來</w>
+            <w type="VE">算</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="P">像</w>
+            <w type="Nc">美國</w>
+            <w type="FW">AMC</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">月</w>
+            <w type="Neu">24</w>
+            <w type="Na">美金</w>
+            <w type="D">可以</w>
+            <w type="Nf">週</w>
+            <w type="VC">看</w>
+            <w type="Neu">三</w>
+            <w type="Nf">部</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+      </comment>
+      <comment author="phantom78626" c_type="neu">
+         <s>
+            <w type="D">不可能</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">片</w>
+            <w type="P">用</w>
+            <w type="Neu">$2</w>
+            <w type="D">去</w>
+            <w type="VE">算</w>
+         </s>
+      </comment>
+      <comment author="IwasHappy" c_type="neu">
+         <s>
+            <w type="Nc">一樓</w>
+            <w type="SHI">是</w>
+            <w type="VH">真</w>
+            <w type="T">的</w>
+            <w type="T">嗎</w>
+            <w type="ETCCATEGORY">XD </w>
+            <w type="D">沒有</w>
+            <w type="VHC">電腦化</w>
+            <w type="T">喔</w>
+         </s>
+      </comment>
+      <comment author="yungju" c_type="pos">
+         <s>
+            <w type="Nc">一樓</w>
+            <w type="VE">說</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="VH">真</w>
+            <w type="DE">的</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Cbb">而且</w>
+            <w type="D">還是</w>
+            <w type="P">用</w>
+            <w type="Na">計算機</w>
+            <w type="VC">按</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="chihwei739" c_type="pos">
+         <s>
+            <w type="Nv">售票</w>
+            <w type="Na">系統</w>
+            <w type="VJ">沒有</w>
+            <w type="Na">數據</w>
+            <w type="T">嗎</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">竟然</w>
+            <w type="D">還</w>
+            <w type="VE">要</w>
+            <w type="Na">人工</w>
+            <w type="VE">算</w>
+         </s>
+      </comment>
+      <comment author="Birdy" c_type="pos">
+         <s>
+            <w type="Nc">台灣</w>
+            <w type="Na">樂透</w>
+            <w type="Dfa">還</w>
+            <w type="VE">要</w>
+            <w type="FW"> delay</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neqa">半</w>
+            <w type="Na">小時</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">你</w>
+            <w type="VK">覺得</w>
+            <w type="Na">票房</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+            <w type="VB">連線</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="XZXie" c_type="neu">
+         <s>
+            <w type="Na">資訊</w>
+            <w type="D">不</w>
+            <w type="VH">透明</w>
+            <w type="D">不</w>
+            <w type="P">就</w>
+            <w type="Na">大人</w>
+            <w type="DE">的</w>
+            <w type="Na">原因</w>
+            <w type="T">嗎</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">計算</w>
+            <w type="V_2">有</w>
+            <w type="Nep">什麼</w>
+            <w type="VH">難</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="ramier" c_type="pos">
+         <s>
+            <w type="Nc">一樓</w>
+            <w type="VC">反串</w>
+            <w type="T">啦</w>
+            <w type="D">都</w>
+            <w type="Na">電腦</w>
+            <w type="VA">計票</w>
+            <w type="Di">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">數字</w>
+            <w type="VH">簡單</w>
+            <w type="D">來</w>
+            <w type="VE">說</w>
+            <w type="D">就</w>
+            <w type="P">像</w>
+            <w type="A">原</w>
+            <w type="FW">PO</w>
+            <w type="VE">講</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="ramier" c_type="neu">
+         <s>
+            <w type="Cbb">只是</w>
+            <w type="Neqa">有</w>
+            <w type="Nf">些</w>
+            <w type="Na">優惠票</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">片商</w>
+            <w type="D">會</w>
+            <w type="VF">要求</w>
+            <w type="D">不可以</w>
+            <w type="P">用</w>
+            <w type="Na">票面</w>
+            <w type="VC">拆</w>
+         </s>
+      </comment>
+      <comment author="ramier" c_type="neu">
+         <s>
+            <w type="Nc">戲院</w>
+            <w type="D">就</w>
+            <w type="VE">看</w>
+            <w type="D">要</w>
+            <w type="Nh">自己</w>
+            <w type="VC">吸收</w>
+            <w type="Caa">還是</w>
+            <w type="Nh">別人</w>
+            <w type="P">幫</w>
+            <w type="Nh">他</w>
+            <w type="VC">吸收</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nc">銀行</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+      <comment author="ramier" c_type="neu">
+         <s>
+            <w type="Cbb">但</w>
+            <w type="Nc">台灣</w>
+            <w type="D">沒有</w>
+            <w type="VB">連線</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="D">真</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">某</w>
+            <w type="Na">程度</w>
+            <w type="Ng">上</w>
+            <w type="D">都</w>
+            <w type="SHI">是</w>
+            <w type="Na">大人</w>
+            <w type="DE">的</w>
+            <w type="Na">理由</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

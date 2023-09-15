@@ -1,0 +1,660 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">a031405 (a031405)</metadata>
+      <metadata name="post_id">M.1643373435.A.917</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 鬥陣俱樂部的肉捲過世 Meat Loaf</metadata>
+   </teiHeader>
+   <text>
+      <body author="a031405 (a031405)">
+         <s>
+            <w type="Na">新聞</w>
+            <w type="Na">網址</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//edition.cnn.com/2022/01/21/entertainment/meat-loaf-obit/index.html</w>
+         </s>
+         <s>
+            <w type="Neu">2022.1.20</w>
+            <w type="VH">過世</w>
+         </s>
+         <s>
+            <w type="Na">肉塊</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">英語</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">Meat</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Loaf</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">本名</w>
+            <w type="Nb">麥可</w>
+            <w type="PERIODCATEGORY">·</w>
+            <w type="FW"> 李</w>
+            <w type="PERIODCATEGORY">· 艾德</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Michael</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Lee</w>
+            <w type="FW"> Aday</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">1947年</w>
+            <w type="Nd">9月</w>
+            <w type="Nd">27日</w>
+            <w type="DASHCATEGORY">－</w>
+         </s>
+         <s>
+            <w type="Neu">2022年</w>
+            <w type="Nd">1月</w>
+            <w type="Neu">20日</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">其</w>
+            <w type="VG">原名</w>
+            <w type="P">為</w>
+            <w type="Nb">馬文</w>
+            <w type="PERIODCATEGORY">·</w>
+            <w type="FW"> 李</w>
+            <w type="PERIODCATEGORY">· 艾德</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Marvin</w>
+            <w type="FW"> Lee</w>
+            <w type="FW"> Aday</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="SHI">是</w>
+            <w type="Nc">美國</w>
+            <w type="VH">知名</w>
+            <w type="DE">的</w>
+            <w type="Na">男</w>
+         </s>
+         <s>
+            <w type="Na">歌手</w>
+            <w type="Caa">及</w>
+            <w type="Na">演員</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">地獄</w>
+            <w type="Na">蝙蝠</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">三步曲</w>
+            <w type="Nc">全球</w>
+            <w type="D">已經</w>
+            <w type="VC">銷售</w>
+            <w type="Neu">4.3千萬</w>
+            <w type="Nf">張</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="Na">唱片</w>
+            <w type="VC">發行</w>
+            <w type="Neu">35</w>
+            <w type="Nf">年</w>
+            <w type="Ng">之後</w>
+            <w type="P">依</w>
+         </s>
+         <s>
+            <w type="Cbb">然</w>
+            <w type="VC">錄得</w>
+            <w type="Nes">每</w>
+            <w type="Nf">年</w>
+            <w type="Neu">2萬</w>
+            <w type="Nf">張</w>
+            <w type="DE">的</w>
+            <w type="Na">銷量</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">連續</w>
+            <w type="Neu">9</w>
+            <w type="Nf">年</w>
+            <w type="VH">穩</w>
+            <w type="P">據</w>
+            <w type="Na">音樂</w>
+            <w type="Na">排行榜</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="SHI">是</w>
+            <w type="D">有史以來</w>
+            <w type="Dfa">最</w>
+            <w type="VH">暢銷</w>
+            <w type="DE">的</w>
+            <w type="Na">專輯</w>
+            <w type="DE">之</w>
+            <w type="Neu">一</w>
+         </s>
+         <s>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nh">我</w>
+            <w type="VK">願意</w>
+            <w type="P">為</w>
+            <w type="Na">愛</w>
+            <w type="VC">付出</w>
+            <w type="Neqa">一切</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Cbb">但</w>
+            <w type="Nh">我</w>
+            <w type="D">不會</w>
+            <w type="VH">那樣</w>
+            <w type="VC">做</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Neu">一</w>
+            <w type="Nf">曲</w>
+            <w type="Dfa">更加</w>
+            <w type="P">為</w>
+            <w type="Nh">他</w>
+            <w type="VC">帶來</w>
+            <w type="Di">了</w>
+            <w type="Nb">葛萊美獎</w>
+            <w type="DE">的</w>
+            <w type="Na">殊榮</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nh">他</w>
+         </s>
+         <s>
+            <w type="SHI">是</w>
+            <w type="Nc">全球</w>
+            <w type="Dfa">最</w>
+            <w type="VH">暢銷</w>
+            <w type="DE">的</w>
+            <w type="Na">歌手</w>
+            <w type="DE">之</w>
+            <w type="Neu">一</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">累計</w>
+            <w type="VC">銷售</w>
+            <w type="VJ">超過</w>
+            <w type="Neu">8千萬</w>
+            <w type="Nf">張</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="D">亦</w>
+            <w type="D">曾經</w>
+            <w type="VC">參與</w>
+            <w type="VCL">越</w>
+            <w type="Neu">50</w>
+            <w type="Nf">部</w>
+            <w type="Na">電視</w>
+            <w type="Caa">或</w>
+            <w type="Na">電影</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="VC">演出</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/Jg</w>
+            <w type="FW">Lkdth</w>
+            <w type="Neu">62</w>
+            <w type="FW">e</w>
+            <w type="ETCCATEGORY">I</w>
+         </s>
+         <s>
+            <w type="Nh">他</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="VA">鬥陣</w>
+            <w type="Nc">俱樂部</w>
+            <w type="Ncd">中</w>
+            <w type="DE">的</w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+         </s>
+         <s>
+            <w type="VC">演出</w>
+            <w type="Na">作品</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Na">豆豆</w>
+            <w type="Na">先生</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">真愛</w>
+            <w type="Na">奇蹟</w>
+            <w type="Cab">等</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/gk</w>
+            <w type="FW">FVLqK.jpg</w>
+         </s>
+         <s>
+            <w type="D">可以</w>
+            <w type="VE">看到</w>
+            <w type="Nh">他</w>
+            <w type="VE">談</w>
+            <w type="D">鬥陣</w>
+            <w type="Nc">俱樂部</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/HXfp7F5</w>
+            <w type="FW">N-cw</w>
+         </s>
+         <s>
+            <w type="D">真的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="D">有</w>
+            <w type="VC">演</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nh">我</w>
+            <w type="D">倒是</w>
+            <w type="D">沒</w>
+            <w type="VC">看</w>
+            <w type="Dfa">這麼</w>
+            <w type="VH">仔細</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="VC">改</w>
+            <w type="Di">了</w>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="a031405 (a031405)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">鬥陣</w>
+            <w type="Nc">俱樂部</w>
+            <w type="DE">的</w>
+            <w type="Na">肉捲</w>
+            <w type="VH">過世</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Meat</w>
+            <w type="FW"> Loaf</w>
+         </s>
+      </title>
+      <comment author="Julian9x9x9" c_type="pos">
+         <s>
+            <w type="FW">When</w>
+            <w type="FW"> Eddie</w>
+            <w type="FW"> said</w>
+            <w type="FW"> he</w>
+            <w type="FW"> didn't</w>
+            <w type="FW"> like</w>
+            <w type="FW"> his</w>
+            <w type="FW"> teddy</w>
+         </s>
+      </comment>
+      <comment author="ron7" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="sunnyyoung" c_type="pos">
+         <s>
+            <w type="FW">RIP </w>
+            <w type="Cbb">但</w>
+            <w type="D">不</w>
+            <w type="D">都</w>
+            <w type="VG">翻成</w>
+            <w type="Na">肉塊</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="icesweater" c_type="pos">
+         <s>
+            <w type="FW">He's</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+         </s>
+      </comment>
+      <comment author="bigbowl" c_type="pos">
+         <s>
+            <w type="VJ">超愛洛基</w>
+            <w type="Na">恐怖秀</w>
+            <w type="FW">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+      <comment author="bigbowl" c_type="neu">
+         <s>
+            <w type="VC">看</w>
+            <w type="FW">wiki</w>
+            <w type="VE">說</w>
+            <w type="SHI">是</w>
+            <w type="VH">死</w>
+            <w type="P">於</w>
+            <w type="Nc">武漢</w>
+            <w type="Na">肺炎</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Nc">支那</w>
+            <w type="D">又</w>
+            <w type="VC">報</w>
+            <w type="Di">了</w>
+            <w type="Na">八國聯軍</w>
+            <w type="DE">的</w>
+            <w type="Na">仇</w>
+         </s>
+      </comment>
+      <comment author="cingguy" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="ooic" c_type="neu">
+         <s>
+            <w type="FW">goo</w>
+            <w type="T">了</w>
+            <w type="Nd">一下</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">反</w>
+            <w type="Na">口罩</w>
+            <w type="VC">反</w>
+            <w type="Na">疫苗</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="D">還</w>
+            <w type="VE">說</w>
+            <w type="D">會</w>
+            <w type="P">跟</w>
+            <w type="VH">染</w>
+            <w type="Na">疫</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="VC">擁抱</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+      <comment author="michaelch" c_type="pos">
+         <s>
+            <w type="FW">He's</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+         </s>
+      </comment>
+      <comment author="raura" c_type="pos">
+         <s>
+            <w type="Nc">台灣</w>
+            <w type="SHI">是</w>
+            <w type="VC">譯</w>
+            <w type="Na">肉塊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">專輯</w>
+            <w type="P">在</w>
+            <w type="Nc">台灣</w>
+            <w type="D">一直</w>
+            <w type="SHI">是</w>
+            <w type="P">用</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">譯名</w>
+         </s>
+      </comment>
+      <comment author="Alexiel" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="teaball" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+         </s>
+      </comment>
+      <comment author="uramf" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="xx2468" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+         </s>
+      </comment>
+      <comment author="geniuskai" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+         </s>
+      </comment>
+      <comment author="denden1231" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="GodMuii" c_type="pos">
+         <s>
+            <w type="VHC">斷</w>
+         </s>
+      </comment>
+      <comment author="scarecrow112" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="deray" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="devilmanamon" c_type="pos">
+         <s>
+            <w type="Nh">他</w>
+            <w type="D">真的</w>
+            <w type="VD">輸</w>
+            <w type="P">在</w>
+            <w type="Na">外表</w>
+            <w type="D">不</w>
+            <w type="Dfa">太</w>
+            <w type="VH">出眾</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">歌</w>
+            <w type="D">真的</w>
+            <w type="D">都</w>
+            <w type="Dfa">很</w>
+            <w type="VH">讚</w>
+         </s>
+      </comment>
+      <comment author="MJJ" c_type="pos">
+         <s>
+            <w type="P">除了</w>
+            <w type="FW">I'd</w>
+            <w type="FW"> do</w>
+            <w type="FW"> any</w>
+            <w type="FW">thing</w>
+            <w type="FW"> for</w>
+            <w type="FW"> love</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">but</w>
+            <w type="FW"> I </w>
+            <w type="FW">won't</w>
+            <w type="FW"> do</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">tha</w>
+         </s>
+      </comment>
+      <comment author="MJJ" c_type="neu">
+         <s>
+            <w type="FW">t</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="D">也</w>
+            <w type="VC">推</w>
+            <w type="FW">I'd</w>
+            <w type="FW"> lie</w>
+            <w type="FW"> for</w>
+            <w type="FW"> you</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">and</w>
+            <w type="FW"> that</w>
+            <w type="FW">'s</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">the</w>
+            <w type="FW"> truth</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+      <comment author="MJJ" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//music.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=h</w>
+            <w type="FW">DWOHcWour</w>
+            <w type="FW">M</w>
+            <w type="FW">&amp;amp;fe</w>
+         </s>
+      </comment>
+      <comment author="MJJ" c_type="neu">
+         <s>
+            <w type="FW">ature=share</w>
+         </s>
+      </comment>
+      <comment author="sparkqoo" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="homechen1990" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="dora1027" c_type="pos">
+         <s>
+            <w type="FW">He's</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+         </s>
+      </comment>
+      <comment author="jojoslife" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+         </s>
+      </comment>
+      <comment author="eyesnsd" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="ocf951753" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+         </s>
+      </comment>
+      <comment author="Corydoras" c_type="neu">
+         <s>
+            <w type="FW">Shut</w>
+            <w type="FW"> up</w>
+         </s>
+      </comment>
+      <comment author="playerunknow" c_type="pos">
+         <s>
+            <w type="FW">His</w>
+            <w type="FW"> name</w>
+            <w type="FW"> is</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Paulson</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

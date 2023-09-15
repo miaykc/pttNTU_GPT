@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Lyu7 (鯉魚旗禮盒)</metadata>
+      <metadata name="post_id">M.1610800374.A.C1A</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 今天</metadata>
+   </teiHeader>
+   <text>
+      <body author="Lyu7 (鯉魚旗禮盒)">
+         <s>
+            <w type="D">應該</w>
+            <w type="D">還</w>
+            <w type="VG">算是</w>
+            <w type="P">在</w>
+            <w type="Nd">廢文週</w>
+            <w type="Ng">內</w>
+            <w type="T">吧</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="Nd">今天</w>
+            <w type="Da">只</w>
+            <w type="VE">看到</w>
+            <w type="Neu">一</w>
+            <w type="Nf">篇</w>
+         </s>
+         <s>
+            <w type="VE">以為</w>
+            <w type="Cbb">如果</w>
+            <w type="VJ">限</w>
+            <w type="Neu">一</w>
+            <w type="Nf">天</w>
+            <w type="Neu">十</w>
+            <w type="Nf">篇</w>
+         </s>
+         <s>
+            <w type="Nh">大家</w>
+            <w type="D">都</w>
+            <w type="D">會</w>
+            <w type="VD">發</w>
+            <w type="Dfa">好</w>
+            <w type="Na">發滿</w>
+         </s>
+         <s>
+            <w type="D">看來</w>
+            <w type="SHI">是</w>
+            <w type="Nh">大家</w>
+            <w type="D">都</w>
+            <w type="VC">登出</w>
+            <w type="Nep">這</w>
+            <w type="Na">學期</w>
+            <w type="T">了</w>
+            <w type="T">呢</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="Nh">我</w>
+            <w type="D">還</w>
+            <w type="VJ">沒</w>
+            <w type="FW"> Q_Q</w>
+         </s>
+         <s>
+            <w type="Cbb">不過</w>
+            <w type="D">還是</w>
+            <w type="D">來</w>
+            <w type="VA">捧場</w>
+            <w type="Nd">一下</w>
+            <w type="Nep">這</w>
+            <w type="Nf">次</w>
+            <w type="DE">的</w>
+            <w type="Nd">廢文週</w>
+            <w type="Na">活動</w>
+            <w type="T">好了</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nep">什麼</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="FW">\</w>
+            <w type="Na">香菜</w>
+            <w type="FW">/\</w>
+            <w type="Na">香菜</w>
+            <w type="FW">/\</w>
+            <w type="Na">香菜</w>
+            <w type="FW">/</w>
+         </s>
+      </body>
+      <title author="Lyu7 (鯉魚旗禮盒)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">今天</w>
+         </s>
+      </title>
+      <comment author="CorkiN" c_type="neu">
+         <s>
+            <w type="Nh">大家</w>
+            <w type="VC">考完</w>
+            <w type="Nd">期末</w>
+            <w type="D">都</w>
+            <w type="P">在</w>
+            <w type="VC">看</w>
+            <w type="FW">vt</w>
+            <w type="VH">沒空</w>
+            <w type="VD">發</w>
+            <w type="Na">廢文</w>
+            <w type="FW">peko</w>
+         </s>
+      </comment>
+      <comment author="loserfeizie" c_type="pos">
+         <s>
+            <w type="D">去</w>
+            <w type="VC">看</w>
+            <w type="Nc">星街</w>
+            <w type="Neu">70萬</w>
+            <w type="FW">peko</w>
+         </s>
+      </comment>
+      <comment author="maozz" c_type="pos">
+         <s>
+            <w type="FW">\</w>
+            <w type="Na">禮盒</w>
+            <w type="FW">/\</w>
+            <w type="Na">禮盒</w>
+            <w type="FW">/\</w>
+            <w type="Na">禮盒</w>
+            <w type="FW">/</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

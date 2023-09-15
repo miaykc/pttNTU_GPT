@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">vicc (小狗飛天打魔王)</metadata>
+      <metadata name="post_id">M.1616822219.A.C3E</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[選片] HBO go 播放問題</metadata>
+   </teiHeader>
+   <text>
+      <body author="vicc (小狗飛天打魔王)">
+         <s>
+            <w type="Na">手機</w>
+            <w type="FW"> iPhone</w>
+         </s>
+         <s>
+            <w type="Na">電視</w>
+            <w type="FW"> Samsung</w>
+         </s>
+         <s>
+            <w type="Nd">目前</w>
+            <w type="P">用</w>
+            <w type="Na">手機</w>
+            <w type="VC">訂閱</w>
+            <w type="FW">HBO</w>
+            <w type="FW"> go</w>
+         </s>
+         <s>
+            <w type="Na">手機</w>
+            <w type="D">可以</w>
+            <w type="VH">正常</w>
+            <w type="VC">播放</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="Na">電視</w>
+            <w type="DE">的</w>
+            <w type="FW">app </w>
+            <w type="D">就</w>
+            <w type="D">一直</w>
+            <w type="VK">卡在</w>
+            <w type="VC">播放</w>
+            <w type="Na">畫面</w>
+            <w type="DE">的</w>
+            <w type="VH">藍圈圈</w>
+         </s>
+         <s>
+            <w type="VE">請問</w>
+            <w type="VH">有</w>
+            <w type="VC">解</w>
+            <w type="T">嗎</w>
+         </s>
+         <s>
+            <w type="VK">感謝</w>
+            <w type="Nh">各位</w>
+         </s>
+         <s>
+            <w type="Cbb">另外</w>
+            <w type="VE">想</w>
+            <w type="VE">請問</w>
+            <w type="Nh">我</w>
+            <w type="P">用</w>
+            <w type="FW">iPhone</w>
+            <w type="FW"> airplay</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">到</w>
+            <w type="Na">電視</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">畫質</w>
+         </s>
+         <s>
+            <w type="P">跟</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">電視</w>
+            <w type="FW">app</w>
+            <w type="VH">直接</w>
+            <w type="VC">播放</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">相同</w>
+            <w type="T">嗎</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="VA">跪</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+      </body>
+      <title author="vicc (小狗飛天打魔王)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VA">選片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> HBO go </w>
+            <w type="VC">播放</w>
+            <w type="Na">問題</w>
+         </s>
+      </title>
+      <comment author="erial" c_type="pos">
+         <s>
+            <w type="Ncd">這裡</w>
+            <w type="SHI">是</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">板</w>
+         </s>
+      </comment>
+      <comment author="hide0325" c_type="neu">
+         <s>
+            <w type="FW">HD</w>
+            <w type="Na">畫質</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">用</w>
+            <w type="FW">Air</w>
+            <w type="FW">Play</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">沒</w>
+            <w type="Nep">啥</w>
+            <w type="VH">差</w>
+         </s>
+      </comment>
+      <comment author="yuizero" c_type="neu">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VE">建議</w>
+            <w type="P">用</w>
+            <w type="Na">網頁</w>
+            <w type="FW">chathlay</w>
+            <w type="VC">收看</w>
+            <w type="PERIODCATEGORY">....</w>
+            <w type="Nh">我</w>
+            <w type="D">應該</w>
+            <w type="D">沒</w>
+            <w type="VC">拼錯</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="Nasta" c_type="pos">
+         <s>
+            <w type="Na">電視</w>
+            <w type="DE">的</w>
+            <w type="FW">HBO</w>
+            <w type="FW"> go</w>
+            <w type="D">可</w>
+            <w type="P">用</w>
+            <w type="Na">網頁</w>
+            <w type="VCL">登入</w>
+         </s>
+      </comment>
+      <comment author="sheng912" c_type="pos">
+         <s>
+            <w type="FW">HBO max</w>
+            <w type="V_2">有</w>
+            <w type="D">要</w>
+            <w type="VCL">進</w>
+            <w type="Nc">台灣</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="FW">GO</w>
+            <w type="DE">的</w>
+            <w type="Na">畫質</w>
+            <w type="VH">真的</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="nadekowang" c_type="pos">
+         <s>
+            <w type="FW">HBO GO</w>
+            <w type="VE">建議</w>
+            <w type="D">可以</w>
+            <w type="VC">重開</w>
+            <w type="Na">電視</w>
+            <w type="VF">試試</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="Ng">之前</w>
+            <w type="D">也</w>
+            <w type="VK">遇</w>
+            <w type="Di">過</w>
+            <w type="Neu">一樣</w>
+            <w type="Na">問題</w>
+         </s>
+      </comment>
+      <comment author="nadekowang" c_type="neu">
+         <s>
+            <w type="Na">電腦</w>
+            <w type="Na">手機</w>
+            <w type="D">可以</w>
+            <w type="VA">跑</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">電視</w>
+            <w type="D">一直</w>
+            <w type="VC">卡</w>
+            <w type="VH">藍圈圈</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">後來</w>
+            <w type="VC">重開</w>
+            <w type="D">就</w>
+            <w type="D">可以</w>
+         </s>
+      </comment>
+      <comment author="butmyass" c_type="neg">
+         <s>
+            <w type="VJ">關</w>
+            <w type="VA">選片</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">事</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="JonSnow" c_type="pos">
+         <s>
+            <w type="VA">左轉</w>
+            <w type="FW">ott</w>
+            <w type="Na">板</w>
+         </s>
+      </comment>
+      <comment author="glacierl" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Na">電視</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+            <w type="FW">APP</w>
+            <w type="SHI">是</w>
+            <w type="D">要</w>
+            <w type="P">用</w>
+            <w type="Na">手機</w>
+            <w type="VC">掃</w>
+            <w type="Nh">它</w>
+            <w type="DE">的</w>
+            <w type="FW">QR code</w>
+            <w type="VCL">登入</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">掃完</w>
+            <w type="D">就</w>
+         </s>
+      </comment>
+      <comment author="glacierl" c_type="neu">
+         <s>
+            <w type="D">可以</w>
+            <w type="VC">看</w>
+            <w type="Di">了</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+      </comment>
+      <comment author="d95272372" c_type="neu">
+         <s>
+            <w type="Na">電視</w>
+            <w type="Cba">的話</w>
+            <w type="VC">重開</w>
+            <w type="VH">小</w>
+            <w type="Na">盒子</w>
+            <w type="VC">看看</w>
+         </s>
+      </comment>
+      <comment author="burnsy0018" c_type="neg">
+         <s>
+            <w type="VB">分類</w>
+         </s>
+      </comment>
+      <comment author="sirius65482" c_type="neg">
+         <s>
+            <w type="VC">重開</w>
+            <w type="Na">數據機</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">NTULibrary (臺大圖書館)</metadata>
+      <metadata name="post_id">M.1588466663.A.924</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">5/3(日)總圖書館因照明故障臨時閉館一天</metadata>
+   </teiHeader>
+   <text>
+      <body author="NTULibrary (臺大圖書館)">
+         <s>
+            <w type="Nc">總圖書館</w>
+            <w type="Nd">5/3</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nd">日</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="Nd">臨時</w>
+            <w type="VA">閉</w>
+            <w type="Nc">館</w>
+            <w type="VE">公告</w>
+         </s>
+         <s>
+            <w type="Nd">今日</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nd">5/3</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="P">因</w>
+            <w type="Nc">圖書館</w>
+            <w type="Ncd">內</w>
+            <w type="VA">照明</w>
+            <w type="Na">電源</w>
+            <w type="VH">故障</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">緊急</w>
+            <w type="VA">閉</w>
+            <w type="Nc">館</w>
+            <w type="Neu">一</w>
+            <w type="Nf">天</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VC">含</w>
+            <w type="Nc">自習室</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Cbb">如</w>
+            <w type="D">須</w>
+            <w type="VD">歸還</w>
+            <w type="Na">館藏</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VC">投擲</w>
+         </s>
+         <s>
+            <w type="P">於</w>
+            <w type="VD">還</w>
+            <w type="Na">書箱</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nd">5/4</w>
+            <w type="Neu">(</w>
+            <w type="Neu">一</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="D">將</w>
+            <w type="P">視</w>
+            <w type="VC">檢修</w>
+            <w type="Na">狀況</w>
+            <w type="VA">開館</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VF">敬請</w>
+            <w type="Na">讀者</w>
+            <w type="VK">留意</w>
+            <w type="Nc">圖書館</w>
+            <w type="Nc">網站</w>
+            <w type="Caa">或</w>
+            <w type="Na">臉書</w>
+            <w type="Na">訊息</w>
+            <w type="VE">公告</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以免</w>
+         </s>
+         <s>
+            <w type="VH">向隅</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VK">造成</w>
+            <w type="VH">不便</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">敬請</w>
+            <w type="VA">見諒</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="Nc">閱覽組</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">謹啟</w>
+            <w type="FW"> 02-33662353</w>
+         </s>
+      </body>
+      <title author="NTULibrary (臺大圖書館)">
+         <s>
+            <w type="Nd">5/3</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nd">日</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="Nc">總圖書館</w>
+            <w type="P">因</w>
+            <w type="VA">照明</w>
+            <w type="VH">故障</w>
+            <w type="Nd">臨時</w>
+            <w type="VA">閉</w>
+            <w type="Nc">館</w>
+            <w type="Neu">一</w>
+            <w type="Nf">天</w>
+         </s>
+      </title>
+      <comment author="odsL1573" c_type="pos">
+         <s>
+            <w type="VH">太晚</w>
+            <w type="VE">看到</w>
+            <w type="FW"> 白</w>
+            <w type="VA">跑</w>
+            <w type="Neu">一</w>
+            <w type="Nf">趟</w>
+            <w type="FW">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+      <comment author="shishe" c_type="pos">
+         <s>
+            <w type="Nb">柏瑞</w>
+            <w type="Nh">你</w>
+            <w type="DE">的</w>
+            <w type="Na">分類</w>
+            <w type="VA">跑掉</w>
+            <w type="VC">惹</w>
+         </s>
+      </comment>
+      <comment author="KomiShousuke" c_type="pos">
+         <s>
+            <w type="Dfa">有點</w>
+            <w type="VH">難受</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="NTULibrary" c_type="neu">
+         <s>
+            <w type="I">呵呵</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Nb">柏瑞</w>
+            <w type="D">一早</w>
+            <w type="D">也</w>
+            <w type="Dfa">有點</w>
+            <w type="VA">奔波</w>
+            <w type="FW">@@</w>
+            <w type="Na">分類</w>
+            <w type="VC">補上</w>
+            <w type="Di">了</w>
+            <w type="FW">~</w>
+            <w type="VHC">辛苦</w>
+            <w type="Nh">大家</w>
+            <w type="VC">惹</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+      </comment>
+      <comment author="Agdanpanda" c_type="pos">
+         <s>
+            <w type="VHC">辛苦</w>
+            <w type="Nb">柏瑞</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="a031405" c_type="pos">
+         <s>
+            <w type="Neqa">顆顆</w>
+         </s>
+      </comment>
+      <comment author="hlhss89083" c_type="pos">
+         <s>
+            <w type="VC">推 </w>
+            <w type="D">還好</w>
+            <w type="V_2">有</w>
+            <w type="VE">看到</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">不然</w>
+            <w type="D">要</w>
+            <w type="VA">出門</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="hjkkk123" c_type="neu">
+         <s>
+            <w type="FW">Oh</w>
+            <w type="FW"> no</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

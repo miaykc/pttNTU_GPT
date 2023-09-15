@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">fendy0202 (西瓜)</metadata>
+      <metadata name="post_id">M.1676299827.A.20B</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">贈票 2/14 愛是自私X1</metadata>
+   </teiHeader>
+   <text>
+      <body author="fendy0202 (西瓜)">
+         <s>
+            <w type="Neu">2/14</w>
+            <w type="Cbb">（</w>
+            <w type="Neu">二</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Neu">19</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="PARENTHESISCATEGORY">[email</w>
+            <w type="FW"> protected</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="Na">光點</w>
+            <w type="Nc">華山</w>
+            <w type="Nc">電影館</w>
+            <w type="FW">A ONE</w>
+            <w type="Nc">廳</w>
+         </s>
+         <s>
+            <w type="Da">只</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">張</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="Na">意者</w>
+            <w type="VA">站內信</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">切勿</w>
+            <w type="VC">放</w>
+            <w type="Na">鳥</w>
+         </s>
+      </body>
+      <title author="fendy0202 (西瓜)">
+         <s>
+            <w type="VD">贈</w>
+            <w type="Na">票</w>
+            <w type="FW"> 2/14</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VL">愛</w>
+            <w type="SHI">是</w>
+            <w type="VH">自私</w>
+            <w type="FW">X1</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

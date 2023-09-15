@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jorry111111 (andy)</metadata>
+      <metadata name="post_id">M.1629600842.A.14A</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 西遊降魔的念經配樂</metadata>
+   </teiHeader>
+   <text>
+      <body author="jorry111111 (andy)">
+         <s>
+            <w type="Cbb">就是</w>
+            <w type="Nd">最後</w>
+            <w type="Nb">玄奘</w>
+            <w type="VH">大徹大悟</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nb">大日</w>
+            <w type="Nb">如來</w>
+            <w type="D">真經</w>
+            <w type="VH">出現</w>
+            <w type="Ng">時</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">背景</w>
+            <w type="VA">念經</w>
+            <w type="DE">的</w>
+            <w type="Na">配樂</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/kb</w>
+            <w type="FW">Ta8</w>
+            <w type="FW">qO.jpg</w>
+         </s>
+         <s>
+            <w type="VE">查</w>
+            <w type="Di">過</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">好像</w>
+            <w type="SHI">是</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">蓮花</w>
+            <w type="VC">生</w>
+            <w type="Na">大士</w>
+            <w type="Na">心咒</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="D">就</w>
+            <w type="VC">找</w>
+            <w type="D">不</w>
+            <w type="VC">到</w>
+            <w type="Na">電影</w>
+            <w type="Ng">中</w>
+            <w type="DE">的</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">版本</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VE">請問</w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="VK">知道</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="VK">感謝</w>
+            <w type="FW">～</w>
+         </s>
+      </body>
+      <title author="jorry111111 (andy)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">西遊</w>
+            <w type="VA">降</w>
+            <w type="Na">魔</w>
+            <w type="DE">的</w>
+            <w type="VC">念經</w>
+            <w type="Na">配樂</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

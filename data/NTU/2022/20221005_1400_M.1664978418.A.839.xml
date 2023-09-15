@@ -1,0 +1,821 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">AAAB ()</metadata>
+      <metadata name="post_id">M.1664978418.A.839</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 諾貝爾物理獎得主艾斯佩特 曾應邀到台大</metadata>
+   </teiHeader>
+   <text>
+      <body author="AAAB ()">
+         <s>
+            <w type="Cbb">1</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Na">媒體</w>
+            <w type="Na">來源</w>
+            <w type="COLONCATEGORY">︰</w>
+            <w type="VH">自由</w>
+         </s>
+         <s>
+            <w type="Cbb">2</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="Na">標題</w>
+            <w type="COLONCATEGORY">︰</w>
+            <w type="Nb">諾貝爾</w>
+            <w type="Na">物理獎</w>
+            <w type="Na">得主</w>
+            <w type="Nb">艾斯佩特 </w>
+            <w type="D">曾</w>
+            <w type="VCL">應邀到</w>
+            <w type="Nc">台大</w>
+            <w type="VA">演講</w>
+         </s>
+         <s>
+            <w type="Cbb">3</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Na">日期</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">署名</w>
+            <w type="COLONCATEGORY">︰</w>
+            <w type="Neu">2022年</w>
+            <w type="Neu">10月</w>
+            <w type="Neu">4日</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">楊媛婷</w>
+         </s>
+         <s>
+            <w type="Cbb">4</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="Na">內文</w>
+            <w type="COLONCATEGORY">︰</w>
+         </s>
+         <s>
+            <w type="Neu">2022年</w>
+            <w type="Nb">諾貝爾</w>
+            <w type="Na">物理獎</w>
+            <w type="VH">獲獎</w>
+            <w type="Na">者</w>
+            <w type="D">分別</w>
+            <w type="SHI">是</w>
+            <w type="Nc">法國</w>
+            <w type="Na">物理學家</w>
+            <w type="Nb">艾斯佩特</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Alain</w>
+            <w type="FW"> Aspect</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">美國</w>
+            <w type="Na">理論</w>
+            <w type="Caa">和</w>
+         </s>
+         <s>
+            <w type="VE">實驗</w>
+            <w type="Na">物理學家</w>
+            <w type="Nb">柯羅瑟</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">John</w>
+            <w type="FW"> Francis</w>
+            <w type="FW"> Clauser</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Caa">及</w>
+            <w type="Nc">奧地利</w>
+            <w type="Na">量子論</w>
+            <w type="Na">物理學家</w>
+            <w type="Nb">吉林哲</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="FW">Anton</w>
+         </s>
+         <s>
+            <w type="FW">Zeilinger</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nc">中研院</w>
+            <w type="Nc">物理所</w>
+            <w type="Na">研究員</w>
+            <w type="Nb">陳啟東</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">3</w>
+            <w type="Na">人</w>
+            <w type="DE">的</w>
+            <w type="Na">研究</w>
+            <w type="VG">為</w>
+            <w type="D">無法</w>
+            <w type="VK">竊聽</w>
+            <w type="DE">的</w>
+            <w type="Na">量子</w>
+            <w type="Na">通訊</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">計算</w>
+         </s>
+         <s>
+            <w type="Na">力</w>
+            <w type="Dfa">更</w>
+            <w type="VH">強</w>
+            <w type="DE">的</w>
+            <w type="Na">量子</w>
+            <w type="Na">電腦</w>
+            <w type="VB">奠基</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">中研院</w>
+            <w type="Na">原子</w>
+            <w type="Caa">與</w>
+            <w type="Na">分子</w>
+            <w type="Na">科學</w>
+            <w type="Nc">研究所</w>
+            <w type="Na">研究員</w>
+            <w type="Nb">陳應誠</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">艾斯佩特</w>
+            <w type="D">曾</w>
+            <w type="P">受</w>
+         </s>
+         <s>
+            <w type="VF">邀</w>
+            <w type="P">於</w>
+            <w type="Nc">台大</w>
+            <w type="VA">演講</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">當時</w>
+            <w type="VH">座無虛席</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台灣</w>
+            <w type="Na">科技</w>
+            <w type="Na">媒體</w>
+            <w type="Nc">中心</w>
+            <w type="VC">舉辦</w>
+            <w type="Nb">諾貝爾</w>
+            <w type="Na">物理獎</w>
+            <w type="Na">記者會</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">邀請</w>
+            <w type="Nc">成大</w>
+            <w type="Nc">物理系</w>
+            <w type="A">特聘</w>
+            <w type="Na">教授</w>
+            <w type="Nb">陳岳男</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">物理</w>
+         </s>
+         <s>
+            <w type="Na">學系</w>
+            <w type="Na">教授</w>
+            <w type="Nb">管希聖</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">清大</w>
+            <w type="Nc">物理系</w>
+            <w type="Na">教授</w>
+            <w type="Nb">牟中瑜</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">中研院</w>
+            <w type="Na">原子</w>
+            <w type="Caa">與</w>
+            <w type="Na">分子</w>
+            <w type="Na">科學</w>
+            <w type="Nc">研究所</w>
+            <w type="Na">研究員</w>
+            <w type="Nb">陳應誠</w>
+            <w type="VC">解</w>
+         </s>
+         <s>
+            <w type="VC">析</w>
+            <w type="D">新</w>
+            <w type="VH">出爐</w>
+            <w type="Na">得主</w>
+            <w type="P">在</w>
+            <w type="Na">量子</w>
+            <w type="Na">科學</w>
+            <w type="DE">的</w>
+            <w type="Na">貢獻</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">管希聖</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">愛因斯坦</w>
+            <w type="VE">質疑</w>
+            <w type="P">以</w>
+            <w type="Nb">波耳</w>
+            <w type="VI">為首</w>
+            <w type="DE">的</w>
+            <w type="Na">物理學家</w>
+            <w type="VC">提出</w>
+            <w type="DE">的</w>
+            <w type="Na">隨機性</w>
+            <w type="Na">量子</w>
+            <w type="Na">力學</w>
+            <w type="Na">理論</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="P">於</w>
+            <w type="Nd">1935年</w>
+         </s>
+         <s>
+            <w type="VC">提出</w>
+            <w type="FW">EPR</w>
+            <w type="Na">悖論</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">愛因斯坦</w>
+            <w type="VE">主張</w>
+            <w type="Na">量子</w>
+            <w type="Na">力學</w>
+            <w type="P">對</w>
+            <w type="Nc">世界</w>
+            <w type="DE">的</w>
+            <w type="Na">描述</w>
+            <w type="D">並</w>
+            <w type="D">不</w>
+            <w type="VH">完整</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">而</w>
+            <w type="Neqa">這些</w>
+            <w type="Na">爭論</w>
+            <w type="Dfa">很</w>
+            <w type="D">難以</w>
+            <w type="Na">實驗驗</w>
+         </s>
+         <s>
+            <w type="VE">證</w>
+            <w type="Nh">誰</w>
+            <w type="VH">對</w>
+            <w type="Nh">誰</w>
+            <w type="VH">錯</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nes">另</w>
+            <w type="Nf">名</w>
+            <w type="Na">物理學家</w>
+            <w type="Nb">貝爾</w>
+            <w type="P">於</w>
+            <w type="Neu">1965年</w>
+            <w type="VC">提出</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VE">驗證</w>
+            <w type="DE">的</w>
+            <w type="Na">方法</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可</w>
+            <w type="VG">歸結為</w>
+            <w type="P">以</w>
+            <w type="Nh">他</w>
+            <w type="Na">名字</w>
+            <w type="VG">命名</w>
+            <w type="T">的</w>
+         </s>
+         <s>
+            <w type="Nb">貝爾</w>
+            <w type="Na">不等式</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">若</w>
+            <w type="Na">量子</w>
+            <w type="Na">力學</w>
+            <w type="SHI">是</w>
+            <w type="VH">正確</w>
+            <w type="DE">的</w>
+            <w type="D">則</w>
+            <w type="Nes">該</w>
+            <w type="Na">不等式</w>
+            <w type="D">將</w>
+            <w type="VJ">違反</w>
+            <w type="Na">實驗</w>
+            <w type="Na">結果</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">陳岳男</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">這些</w>
+            <w type="Na">量子</w>
+            <w type="Na">力學</w>
+            <w type="Na">理論</w>
+            <w type="DE">的</w>
+            <w type="Na">漏洞</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">則</w>
+            <w type="P">被</w>
+            <w type="Neu">3</w>
+            <w type="Nf">名</w>
+            <w type="Na">得主</w>
+            <w type="Cab">等</w>
+            <w type="DE">的</w>
+            <w type="Na">研究</w>
+            <w type="VC">補全</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nb">柯羅瑟</w>
+            <w type="D">首度</w>
+            <w type="VC">提出</w>
+            <w type="Na">實驗</w>
+         </s>
+         <s>
+            <w type="Ncd">上</w>
+            <w type="Dfa">較為</w>
+            <w type="VH">可行</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">利用</w>
+            <w type="Nv">糾纏</w>
+            <w type="Na">光子</w>
+            <w type="P">對</w>
+            <w type="D">來</w>
+            <w type="VE">驗證</w>
+            <w type="Nb">貝爾</w>
+            <w type="Na">不等式</w>
+            <w type="DE">的</w>
+            <w type="Na">想法</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Nb">艾斯佩特</w>
+            <w type="VF">帶領</w>
+            <w type="DE">的</w>
+            <w type="Na">團隊</w>
+            <w type="D">則</w>
+            <w type="SHI">是</w>
+            <w type="P">於</w>
+            <w type="Neu">1982</w>
+         </s>
+         <s>
+            <w type="Nf">年</w>
+            <w type="D">首度</w>
+            <w type="VE">證實</w>
+            <w type="VE">實驗</w>
+            <w type="Na">結果</w>
+            <w type="VJ">違反</w>
+            <w type="Nb">貝爾</w>
+            <w type="Na">不等式</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="A">間接</w>
+            <w type="VE">說明</w>
+            <w type="Di">了</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">個</w>
+            <w type="VH">遠距</w>
+            <w type="Na">粒子</w>
+            <w type="D">可</w>
+            <w type="VJ">擁有</w>
+            <w type="Na">超光速</w>
+            <w type="DE">的</w>
+            <w type="Nv">關聯</w>
+            <w type="Na">存</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">該</w>
+            <w type="Na">現象</w>
+            <w type="VG">即為</w>
+            <w type="Na">世人</w>
+            <w type="VK">熟知</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">量子</w>
+            <w type="VC">糾纏</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Nb">吉林哲</w>
+            <w type="P">於</w>
+            <w type="Neu">1998年</w>
+            <w type="Ng">後</w>
+            <w type="VG">成為</w>
+            <w type="Neu">第1</w>
+            <w type="Nf">個</w>
+            <w type="D">可</w>
+            <w type="VC">做出</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">量子</w>
+            <w type="VC">糾</w>
+         </s>
+         <s>
+            <w type="Na">纏態</w>
+            <w type="VC">交換</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Na">樣態</w>
+            <w type="DE">的</w>
+            <w type="Na">學者</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">陳應誠</w>
+            <w type="D">進一步</w>
+            <w type="VE">解釋</w>
+            <w type="VG">何謂</w>
+            <w type="Na">量子</w>
+            <w type="VC">糾纏</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">2</w>
+            <w type="Nf">顆</w>
+            <w type="Na">粒子</w>
+            <w type="D">就</w>
+            <w type="D">彷彿</w>
+            <w type="Neu">兩</w>
+            <w type="Na">人</w>
+            <w type="Nh">各自</w>
+            <w type="VE">約定</w>
+            <w type="D">要</w>
+            <w type="VC">穿</w>
+            <w type="Na">黑色</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">紅色</w>
+            <w type="Na">衣</w>
+         </s>
+         <s>
+            <w type="Na">物</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">若</w>
+            <w type="VC">觀測到</w>
+            <w type="Neu">一</w>
+            <w type="Na">人</w>
+            <w type="VC">穿黑</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">瞬間</w>
+            <w type="D">就</w>
+            <w type="VK">知道</w>
+            <w type="Dfa">很</w>
+            <w type="VH">遠</w>
+            <w type="DE">的</w>
+            <w type="Nes">另</w>
+            <w type="Neu">一</w>
+            <w type="Na">人</w>
+            <w type="D">就</w>
+            <w type="D">一定</w>
+            <w type="VC">穿紅</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">這</w>
+            <w type="Nf">種</w>
+            <w type="VI">關聯</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="VC">糾纏</w>
+            <w type="DE">的</w>
+            <w type="Na">特性</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">且</w>
+            <w type="Na">速度</w>
+            <w type="VG">為</w>
+            <w type="Na">超光速</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">而</w>
+            <w type="Na">量子</w>
+            <w type="Na">科技</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="VC">運用</w>
+            <w type="VC">糾纏</w>
+            <w type="Na">特性</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">陳啟東</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">3</w>
+            <w type="Nf">位</w>
+            <w type="Na">得主</w>
+            <w type="DE">的</w>
+            <w type="VE">研究</w>
+            <w type="VC">締造</w>
+            <w type="Na">量子</w>
+            <w type="Na">通訊</w>
+            <w type="Na">科技</w>
+            <w type="VH">重要</w>
+            <w type="Na">基礎</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">量子</w>
+            <w type="Na">通訊</w>
+            <w type="Caa">和</w>
+            <w type="A">一般</w>
+            <w type="Na">通訊</w>
+            <w type="Dfa">最</w>
+            <w type="VH">大</w>
+         </s>
+         <s>
+            <w type="DE">的</w>
+            <w type="VH">不同</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="D">無法</w>
+            <w type="VK">竊聽</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">大多</w>
+            <w type="VC">用</w>
+            <w type="P">在</w>
+            <w type="Na">軍事</w>
+            <w type="Na">國防</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">銀行</w>
+            <w type="Na">帳號</w>
+            <w type="VA">往來</w>
+            <w type="Cab">等</w>
+            <w type="Na">用途</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">目前</w>
+            <w type="D">已</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">部分</w>
+            <w type="VH">實際</w>
+            <w type="VC">運用</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="D">仍</w>
+            <w type="D">無法</w>
+            <w type="VH">長</w>
+            <w type="Na">距離</w>
+            <w type="VC">傳輸</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">得主</w>
+            <w type="DE">的</w>
+            <w type="Na">研究</w>
+            <w type="D">也</w>
+            <w type="VL">讓</w>
+            <w type="Na">量子</w>
+            <w type="Na">電腦</w>
+            <w type="VC">取得</w>
+            <w type="VC">突破</w>
+            <w type="Na">進展</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可</w>
+            <w type="D">更</w>
+            <w type="VH">快速</w>
+            <w type="VC">處理</w>
+            <w type="Neqa">大量</w>
+            <w type="DE">的</w>
+            <w type="Na">資</w>
+         </s>
+         <s>
+            <w type="Na">訊</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Nb">牟中瑜</w>
+            <w type="VE">評估</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">這些</w>
+            <w type="Na">技術</w>
+            <w type="Cbb">若要</w>
+            <w type="D">更</w>
+            <w type="VHC">普遍化</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">突破</w>
+            <w type="Na">距離</w>
+            <w type="Na">限制</w>
+            <w type="Nv">運用</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可能</w>
+            <w type="D">還</w>
+            <w type="D">會</w>
+            <w type="VK">需要</w>
+            <w type="Neu">5</w>
+            <w type="Caa">到</w>
+            <w type="Neu">10</w>
+            <w type="Nf">年</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Na">時間</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">陳應誠</w>
+            <w type="VE">透露</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">3</w>
+            <w type="Nf">名</w>
+            <w type="Na">得主</w>
+            <w type="P">於</w>
+            <w type="Neu">2010年</w>
+            <w type="VC">拿</w>
+            <w type="Di">過</w>
+            <w type="Nb">沃爾夫獎</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">一直</w>
+            <w type="D">都</w>
+            <w type="P">被</w>
+            <w type="Ncd">外界</w>
+            <w type="VE">認為</w>
+            <w type="SHI">是</w>
+            <w type="Nb">諾貝爾</w>
+            <w type="Na">物理獎</w>
+            <w type="VH">熱門</w>
+            <w type="DE">得</w>
+         </s>
+         <s>
+            <w type="Na">主</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">物理系</w>
+            <w type="P">於</w>
+            <w type="Nd">2014年</w>
+            <w type="D">曾</w>
+            <w type="VF">邀</w>
+            <w type="Nb">艾斯佩特</w>
+            <w type="VA">來</w>
+            <w type="Nc">台</w>
+            <w type="VA">演講</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">當時</w>
+            <w type="Nc">物理系</w>
+            <w type="DE">的</w>
+            <w type="Nc">演講廳</w>
+            <w type="VH">座無虛席</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nh">他</w>
+            <w type="P">向</w>
+            <w type="Nb">艾斯佩特</w>
+            <w type="VC">提問</w>
+            <w type="Na">量子</w>
+            <w type="DE">的</w>
+            <w type="Na">隨機性</w>
+            <w type="P">從</w>
+            <w type="Nes">何</w>
+            <w type="Cbb">而</w>
+            <w type="VA">來</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">艾斯佩特</w>
+            <w type="VC">回應</w>
+            <w type="VE">說</w>
+            <w type="Na">量子</w>
+            <w type="Na">力學</w>
+            <w type="Na">本質</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="D">隨機</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Nb">管希</w>
+         </s>
+         <s>
+            <w type="Na">聖</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台大</w>
+            <w type="D">曾</w>
+            <w type="P">於</w>
+            <w type="Neu">10</w>
+            <w type="Nf">年</w>
+            <w type="Ng">前</w>
+            <w type="VK">欲</w>
+            <w type="VF">邀</w>
+            <w type="Nb">吉林哲</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VB">開玩笑</w>
+            <w type="VE">說</w>
+            <w type="D">可能</w>
+            <w type="Nb">吉林哲</w>
+            <w type="Nd">當年</w>
+            <w type="D">沒</w>
+            <w type="VA">得獎</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">最後</w>
+            <w type="VC">取消</w>
+            <w type="Na">台灣行</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="P">隨著</w>
+            <w type="Na">獎項</w>
+            <w type="VA">加身</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">應</w>
+            <w type="V_2">有</w>
+            <w type="Dfa">很</w>
+            <w type="VH">大</w>
+            <w type="Na">機會</w>
+            <w type="VA">來</w>
+            <w type="Nc">台</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">陳岳男</w>
+            <w type="VE">說</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="V_2">有</w>
+            <w type="Neu">1</w>
+            <w type="Nf">名</w>
+            <w type="Na">學生</w>
+            <w type="Nd">現在</w>
+            <w type="D">就</w>
+            <w type="P">在</w>
+            <w type="Nc">吉林哲</w>
+            <w type="VC">服務</w>
+            <w type="DE">的</w>
+            <w type="Nc">奧地利</w>
+            <w type="Na">量子</w>
+            <w type="Na">光學</w>
+            <w type="Caa">及</w>
+            <w type="Na">量子</w>
+            <w type="Na">資訊</w>
+            <w type="Nc">中心</w>
+            <w type="VE">研究</w>
+            <w type="VF">繼續</w>
+         </s>
+         <s>
+            <w type="VA">深造</w>
+            <w type="Ng">外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">成大</w>
+            <w type="D">也</w>
+            <w type="P">和</w>
+            <w type="Nes">該</w>
+            <w type="Nc">中心</w>
+            <w type="VH">合作</w>
+            <w type="VE">研究</w>
+            <w type="Na">量子</w>
+            <w type="VC">操縱</w>
+            <w type="Na">理論</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">5</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="VC">連結</w>
+            <w type="COLONCATEGORY">︰</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//news.ltn.com.tw/news/Taipei/breaking</w>
+            <w type="FW">news/4078988</w>
+         </s>
+      </body>
+      <title author="AAAB ()">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">諾貝爾</w>
+            <w type="Na">物理獎</w>
+            <w type="Na">得主</w>
+            <w type="Nb">艾斯佩特 </w>
+            <w type="D">曾</w>
+            <w type="VCL">應邀到</w>
+            <w type="Nc">台大</w>
+         </s>
+      </title>
+      <comment author="notredray" c_type="neg">
+         <s>
+            <w type="FW">so</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">what</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="nestealee" c_type="neg">
+         <s>
+            <w type="Nep">這</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Dfa">很</w>
+            <w type="VH">正常</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="jzoethai" c_type="pos">
+         <s>
+            <w type="VHC">平衡</w>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="Nb">樂</w>
+            <w type="Nb">沙</w>
+            <w type="D">特列</w>
+            <w type="VHC">平衡</w>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="shaqiantsai" c_type="pos">
+         <s>
+            <w type="Nc">一二樓</w>
+            <w type="D">幹嘛</w>
+            <w type="I">噓</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

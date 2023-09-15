@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">joseph40 (五樓笨蛋)</metadata>
+      <metadata name="post_id">M.1585285684.A.70B</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 打雷了塊陶阿阿阿</metadata>
+   </teiHeader>
+   <text>
+      <body author="joseph40 (五樓笨蛋)">
+         <s>
+            <w type="Na">乳題</w>
+            <w type="I">阿阿阿</w>
+         </s>
+         <s>
+            <w type="Nh">你</w>
+            <w type="Nh">各位</w>
+            <w type="D">剛剛</w>
+            <w type="VC">打</w>
+            <w type="Di">了</w>
+            <w type="Dfa">好</w>
+            <w type="VH">大</w>
+            <w type="DE">的</w>
+            <w type="Na">雷</w>
+            <w type="D">還</w>
+            <w type="D">不塊</w>
+            <w type="Nb">陶</w>
+            <w type="T">阿</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from JPTT on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> Samsung</w>
+            <w type="FW"> SM-G965</w>
+            <w type="FW">F</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="joseph40 (五樓笨蛋)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">打雷</w>
+            <w type="Di">了</w>
+            <w type="Nf">塊陶</w>
+            <w type="T">阿阿阿</w>
+         </s>
+      </title>
+      <comment author="shibasun" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="P">在</w>
+            <w type="Na">夢</w>
+            <w type="Ng">裡</w>
+            <w type="VC">做</w>
+            <w type="Di">了</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="D">沒有</w>
+            <w type="VA">打雷</w>
+            <w type="DE">的</w>
+            <w type="Na">夢</w>
+         </s>
+      </comment>
+      <comment author="joseph40" c_type="neu">
+         <s>
+            <w type="Nh">你</w>
+            <w type="V_2">有</w>
+            <w type="P">在</w>
+            <w type="VJ">沒有</w>
+            <w type="VA">打雷</w>
+            <w type="DE">的</w>
+            <w type="Na">夢</w>
+            <w type="Ncd">裡面</w>
+            <w type="D">再</w>
+            <w type="VC">做</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VA">打雷</w>
+            <w type="DE">的</w>
+            <w type="Na">夢</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="shibasun" c_type="neu">
+         <s>
+            <w type="Nh">你</w>
+            <w type="VA">出來</w>
+            <w type="VC">看</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">只有</w>
+            <w type="Na">閃電</w>
+            <w type="D">沒有</w>
+            <w type="VA">打雷</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

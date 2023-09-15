@@ -1,0 +1,761 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">coldplay5566 (酷玩56)</metadata>
+      <metadata name="post_id">M.1642136431.A.EAC</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 張清溪搭捷運昏倒送醫不治 享壽74歲</metadata>
+   </teiHeader>
+   <text>
+      <body author="coldplay5566 (酷玩56)">
+         <s>
+            <w type="Cbb">1</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Na">媒體</w>
+            <w type="Na">來源</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">例如</w>
+            <w type="Nb">蘋果日報</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">奇摩</w>
+            <w type="Na">新聞</w>
+         </s>
+         <s>
+            <w type="Nc">中央社</w>
+         </s>
+         <s>
+            <w type="Cbb">2</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="Na">標題</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">標題</w>
+            <w type="D">沒有</w>
+            <w type="VB">寫出來</w>
+            <w type="FW"> ---&amp;gt; </w>
+            <w type="P">依照</w>
+            <w type="Na">板規</w>
+            <w type="VC">刪除</w>
+            <w type="Na">文章</w>
+         </s>
+         <s>
+            <w type="Nb">張清溪</w>
+            <w type="VC">搭</w>
+            <w type="Na">捷運</w>
+            <w type="VH">昏倒</w>
+            <w type="VB">送醫</w>
+            <w type="VH">不治</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">享壽</w>
+            <w type="Neu">74</w>
+            <w type="Nf">歲</w>
+         </s>
+         <s>
+            <w type="Cbb">3</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="Na">內文</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="FW">※ </w>
+            <w type="Na">社論</w>
+            <w type="Na">特稿</w>
+            <w type="D">都</w>
+            <w type="D">不能</w>
+            <w type="VC">貼</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+            <w type="P"> 違</w>
+            <w type="Na">者</w>
+            <w type="Na">退文</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">貼</w>
+            <w type="Na">廣告</w>
+            <w type="D">也</w>
+            <w type="D">會</w>
+            <w type="P">被</w>
+            <w type="Na">退文</w>
+            <w type="T">喔</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">中央社</w>
+            <w type="Na">記者</w>
+            <w type="Nb">劉建邦</w>
+            <w type="Nc">台北</w>
+            <w type="Neu">14日</w>
+            <w type="VC">電</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="A">國立</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nc">經濟</w>
+            <w type="Na">學系</w>
+            <w type="Na">教授</w>
+            <w type="Nb">張清溪</w>
+            <w type="Nd">昨天</w>
+            <w type="VC">搭</w>
+            <w type="Na">捷運</w>
+            <w type="Ng">時</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">忽然</w>
+         </s>
+         <s>
+            <w type="VH">昏倒</w>
+            <w type="VJ">沒</w>
+            <w type="Na">意識</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">警消</w>
+            <w type="VC">接獲</w>
+            <w type="VE">通報</w>
+            <w type="VCL">趕到</w>
+            <w type="Nc">現場</w>
+            <w type="P">將</w>
+            <w type="Nb">張清溪</w>
+            <w type="VB">送醫</w>
+            <w type="VB">急救</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="P">經</w>
+            <w type="VC">搶救</w>
+            <w type="D">仍</w>
+            <w type="VH">不治</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">享壽</w>
+            <w type="Neu">74</w>
+            <w type="Nf">歲</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="P">根據</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">經濟系</w>
+            <w type="Na">官網</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">張清溪</w>
+            <w type="VG">為</w>
+            <w type="Nc">美國</w>
+            <w type="Nc">俄亥俄</w>
+            <w type="A">州立</w>
+            <w type="Nc">大學</w>
+            <w type="Na">經濟學</w>
+            <w type="Na">博士</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nv">研究</w>
+            <w type="Na">專長</w>
+            <w type="VG">為</w>
+            <w type="Nc">中國</w>
+            <w type="Na">經濟</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">台北市</w>
+            <w type="Na">警消</w>
+            <w type="Nd">昨天</w>
+            <w type="Nd">下午</w>
+            <w type="Nd">2時</w>
+            <w type="Neqb">許</w>
+            <w type="VE">獲報</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">張清溪</w>
+            <w type="VC">搭</w>
+            <w type="Na">捷運</w>
+            <w type="Ng">時</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">疑</w>
+            <w type="Na">身體</w>
+            <w type="VH">不適</w>
+            <w type="VH">昏倒</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">其他</w>
+            <w type="Na">旅客</w>
+            <w type="VE">發現</w>
+            <w type="Ng">後</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="D">隨即</w>
+            <w type="VE">告知</w>
+            <w type="Na">捷運</w>
+            <w type="Nv">服務</w>
+            <w type="Na">人員</w>
+            <w type="VC">協助</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">通報</w>
+            <w type="Na">警消</w>
+            <w type="VA">到場</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">警消</w>
+            <w type="VE">獲報</w>
+            <w type="VA">到場</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="Nb">張清溪</w>
+            <w type="D">已</w>
+            <w type="Na">心</w>
+            <w type="Na">肺</w>
+            <w type="Na">功能</w>
+            <w type="VF">停止</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">立即</w>
+            <w type="VC">送往</w>
+            <w type="Nb">國泰</w>
+            <w type="A">綜合</w>
+            <w type="Nc">醫院</w>
+            <w type="VC">醫治</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">經</w>
+            <w type="VC">搶救</w>
+            <w type="D">仍</w>
+            <w type="VH">不治</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">編輯</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">李明宗</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Neu">1110114</w>
+         </s>
+         <s>
+            <w type="Cbb">4</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VH">完整</w>
+            <w type="Na">新聞</w>
+            <w type="VC">連結</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Caa">或</w>
+            <w type="VH">短網址</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">當</w>
+            <w type="Na">新聞</w>
+            <w type="VC">連結</w>
+            <w type="Di">過</w>
+            <w type="VH">長</w>
+            <w type="Ng">時</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">需</w>
+            <w type="VD">提供</w>
+            <w type="VH">短網址</w>
+            <w type="VH">方便</w>
+            <w type="Na">網友</w>
+            <w type="VC">點擊</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.cna.com.tw/news/ahel/202201145007</w>
+            <w type="PERIODCATEGORY">.aspx</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">fbclid</w>
+            <w type="FW">=IwAR0sXRrVFLDuXmArvh</w>
+         </s>
+         <s>
+            <w type="FW">upKFtDqE7</w>
+            <w type="FW">biHk5R-Y50</w>
+            <w type="FW">nVHTZcO0STNVS8yWLopk</w>
+            <w type="FW">GQ</w>
+         </s>
+         <s>
+            <w type="FW">5</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="VE">備註</w>
+            <w type="COLONCATEGORY">:</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">人</w>
+            <w type="Neu">一</w>
+            <w type="Nf">天</w>
+            <w type="Da">只</w>
+            <w type="D">能</w>
+            <w type="VC">張貼</w>
+            <w type="Neu">一</w>
+            <w type="Nf">則</w>
+            <w type="Na">新聞</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">被</w>
+            <w type="VC">刪</w>
+            <w type="Caa">或</w>
+            <w type="P">自刪</w>
+            <w type="D">也</w>
+            <w type="VG">算</w>
+            <w type="Na">額度</w>
+            <w type="Ncd">內</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">超</w>
+            <w type="VC">貼</w>
+            <w type="Na">者</w>
+            <w type="Na">水桶</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VK">注意</w>
+         </s>
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="Na">老師</w>
+            <w type="P">對</w>
+            <w type="Na">經濟學</w>
+            <w type="DE">的</w>
+            <w type="Na">貢獻</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="D">也</w>
+            <w type="VC">祝福</w>
+            <w type="Na">老師</w>
+            <w type="DASHCATEGORY">QQ</w>
+         </s>
+         <s>
+            <w type="Na">天</w>
+            <w type="VH">冷</w>
+            <w type="Nh">大家</w>
+            <w type="D">要</w>
+            <w type="VK">注意</w>
+            <w type="Na">身體</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </body>
+      <title author="coldplay5566 (酷玩56)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">張清溪</w>
+            <w type="VC">搭</w>
+            <w type="Na">捷運</w>
+            <w type="VH">昏倒</w>
+            <w type="VB">送醫</w>
+            <w type="VH">不治</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">享壽</w>
+            <w type="Neu">74</w>
+            <w type="Nf">歲</w>
+         </s>
+      </title>
+      <comment author="jason3610" c_type="pos">
+         <s>
+            <w type="FW">RIP.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="Jasonfm89" c_type="pos">
+         <s>
+            <w type="Na">老師</w>
+            <w type="VH">好</w>
+            <w type="VA">走</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">謝謝</w>
+            <w type="Na">老師</w>
+         </s>
+      </comment>
+      <comment author="yongxchen" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="gincod" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="saturday5566" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="spw050693" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="samnel1234" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="vbhook89" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="neu">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="t128595" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P. </w>
+            <w type="VC">修</w>
+            <w type="Di">過</w>
+            <w type="Na">教授</w>
+            <w type="DE">的</w>
+            <w type="Na">課</w>
+            <w type="FW">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+      <comment author="Barefoot24" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="hsin627" c_type="pos">
+         <s>
+            <w type="FW">RIP </w>
+            <w type="VJ">謝謝</w>
+            <w type="Na">老師</w>
+            <w type="DE">的</w>
+            <w type="Nv">教導</w>
+         </s>
+      </comment>
+      <comment author="mugicha" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="chung0817" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="abacada" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="Cochran" c_type="pos">
+         <s>
+            <w type="FW">QQ... RIP</w>
+         </s>
+      </comment>
+      <comment author="how870927" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+         </s>
+      </comment>
+      <comment author="jesuschristo" c_type="pos">
+         <s>
+            <w type="FW">RIP QQ</w>
+         </s>
+      </comment>
+      <comment author="asdfqwer" c_type="pos">
+         <s>
+            <w type="Na">老師</w>
+            <w type="FW">RIP QQ</w>
+         </s>
+      </comment>
+      <comment author="cal28802672" c_type="pos">
+         <s>
+            <w type="Na">老師</w>
+            <w type="FW">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+      <comment author="shaoshao0827" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+         </s>
+      </comment>
+      <comment author="ycl6042" c_type="pos">
+         <s>
+            <w type="Na">老師</w>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="kikiandlala" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="QQ138" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+         </s>
+      </comment>
+      <comment author="InDer5566" c_type="pos">
+         <s>
+            <w type="Na">老師</w>
+            <w type="FW"> R.I.P.</w>
+         </s>
+      </comment>
+      <comment author="anarch" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P. Q_Q</w>
+         </s>
+      </comment>
+      <comment author="CHRyan0127" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P. QQ</w>
+         </s>
+      </comment>
+      <comment author="bicdyueh1212" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="wcnoname5" c_type="pos">
+         <s>
+            <w type="FW">RIP..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="ann141414" c_type="pos">
+         <s>
+            <w type="FW">rip</w>
+         </s>
+      </comment>
+      <comment author="a21096" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P. QQ</w>
+         </s>
+      </comment>
+      <comment author="transferlife" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="jzoethai" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="steven0508" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="divaxxxx" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="DerTod" c_type="pos">
+         <s>
+            <w type="Na">教授</w>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="stcr3011" c_type="pos">
+         <s>
+            <w type="FW">QQ</w>
+         </s>
+      </comment>
+      <comment author="stoiclogic" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="KurtZouma" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="hyscout" c_type="pos">
+         <s>
+            <w type="VCL">上</w>
+            <w type="Di">過</w>
+            <w type="P">經原</w>
+            <w type="FW"> R.I.P.</w>
+         </s>
+      </comment>
+      <comment author="Kao0502" c_type="pos">
+         <s>
+            <w type="Nes">前</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">天</w>
+            <w type="Na">考試</w>
+            <w type="Da">才</w>
+            <w type="D">在</w>
+            <w type="VC">看</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Na">文章</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="howard2451" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="meishiln" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="krixxsss" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="sheep00123" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="yonan0527" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="YCL13" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="johnjohn3930" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="kneeeeez" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="arrenwu" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P. </w>
+            <w type="VH">好</w>
+            <w type="D">突然</w>
+         </s>
+      </comment>
+      <comment author="suspect" c_type="neu">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="billliu14" c_type="pos">
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="Na">老師</w>
+         </s>
+      </comment>
+      <comment author="liawtina19" c_type="pos">
+         <s>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="ShaEric63ck" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+         </s>
+      </comment>
+      <comment author="jeff88123392" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="geraldliu98" c_type="pos">
+         <s>
+            <w type="FW">Rest</w>
+            <w type="FW"> in</w>
+            <w type="FW"> peace</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="swyoung" c_type="pos">
+         <s>
+            <w type="Na">老師</w>
+            <w type="FW">RIP</w>
+         </s>
+      </comment>
+      <comment author="Alex548291" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P. </w>
+            <w type="D">還</w>
+            <w type="VE">想</w>
+            <w type="Di">著</w>
+            <w type="VH">畢業</w>
+            <w type="Ng">前</w>
+            <w type="D">要</w>
+            <w type="VC">修</w>
+            <w type="Na">老師</w>
+            <w type="DE">的</w>
+            <w type="Na">課</w>
+            <w type="ETCCATEGORY">Q</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </comment>
+      <comment author="rosehedgehog" c_type="pos">
+         <s>
+            <w type="Na">老師</w>
+            <w type="FW">RIP</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">很</w>
+            <w type="VJ">懷念</w>
+            <w type="Na">老師</w>
+            <w type="DE">的</w>
+            <w type="Na">課</w>
+         </s>
+      </comment>
+      <comment author="myislet" c_type="pos">
+         <s>
+            <w type="Nb">R.I.P. </w>
+            <w type="VJ">謝謝</w>
+            <w type="Na">老師</w>
+            <w type="DE">的</w>
+            <w type="Na">貢獻</w>
+         </s>
+      </comment>
+      <comment author="Burtgang" c_type="pos">
+         <s>
+            <w type="FW">Rest</w>
+            <w type="FW"> in</w>
+            <w type="FW"> peace</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VE">想起</w>
+            <w type="Nd">當年</w>
+            <w type="DE">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">三</w>
+            <w type="Na">心</w>
+            <w type="Neu">二</w>
+            <w type="Na">意</w>
+            <w type="FW"> vs. </w>
+            <w type="VH">顛三倒四</w>
+            <w type="FW"> QQ</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

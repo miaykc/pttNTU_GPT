@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">wclaa ()</metadata>
+      <metadata name="post_id">M.1673201629.A.021</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] 計資中心網路設備更新公告－112/01/15（</metadata>
+   </teiHeader>
+   <text>
+      <body author="wclaa ()">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//ann.cc.ntu.edu.tw/asp/Show.asp</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">num</w>
+            <w type="Neu">=</w>
+            <w type="Neu">92465</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VE">公告</w>
+            <w type="Na">主旨</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="Na">計資</w>
+            <w type="Nc">中心</w>
+            <w type="Na">網路</w>
+            <w type="Na">設備</w>
+            <w type="VC">更新</w>
+            <w type="Na">公告</w>
+            <w type="FW">－112/01/15</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nd">星期日</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Neu">7:</w>
+            <w type="Neu">00</w>
+            <w type="FW">~</w>
+            <w type="Neu">9</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="Neqa">部分</w>
+            <w type="Nc">系所</w>
+            <w type="Caa">及</w>
+            <w type="A">單</w>
+         </s>
+         <s>
+            <w type="Na">位</w>
+            <w type="Na">網路</w>
+            <w type="VC">中斷</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">公告</w>
+            <w type="Na">單位</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="Na">計算機</w>
+            <w type="Caa">及</w>
+            <w type="Na">資訊</w>
+            <w type="Na">網路</w>
+            <w type="Nc">中心</w>
+            <w type="DASHCATEGORY">--</w>
+            <w type="Na">資訊</w>
+            <w type="Nc">網路</w>
+            <w type="Nc">組</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VE">公告</w>
+            <w type="Na">時間</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="Neu">2023/1/7</w>
+            <w type="Nd">上午</w>
+            <w type="Neu">11:</w>
+            <w type="Neu">51</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">11</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VE">公告</w>
+            <w type="Na">內容</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="VA">敬啟</w>
+            <w type="Na">者</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Neu">1. </w>
+            <w type="VA">計資</w>
+            <w type="Nc">中心</w>
+            <w type="VC">預訂</w>
+            <w type="P">於</w>
+            <w type="Neu">112/01/15</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nd">星期日</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Nd">上午</w>
+            <w type="Neu">7:</w>
+            <w type="Neu">00</w>
+            <w type="FW">~</w>
+            <w type="Neu">9</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+            <w type="VC">更新</w>
+            <w type="Na">骨幹</w>
+            <w type="Na">網路</w>
+            <w type="Na">設備</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">屆時</w>
+            <w type="Neqa">部分</w>
+            <w type="Nc">系</w>
+         </s>
+         <s>
+            <w type="Cbb">所及</w>
+            <w type="Na">單位</w>
+            <w type="Na">網路</w>
+            <w type="VC">中斷</w>
+            <w type="Neu">5－10</w>
+            <w type="Nf">分鐘</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">2. </w>
+            <w type="VC">影響</w>
+            <w type="Na">範圍</w>
+            <w type="VJ">包含</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（1）</w>
+            <w type="Nc">禮賢樓</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nb">卓聯</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">行政</w>
+            <w type="Na">大樓</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">學生</w>
+            <w type="Na">心理</w>
+            <w type="Nv">輔導</w>
+            <w type="Nc">中心</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">管理</w>
+            <w type="Nc">學院</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">資訊</w>
+            <w type="Na">管理</w>
+            <w type="Na">學系</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">管院</w>
+         </s>
+         <s>
+            <w type="Neu">一館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">二館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">教研館</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">工商</w>
+            <w type="Nv">管理</w>
+            <w type="Na">學系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">國企系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">財金系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">會計系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">地理</w>
+            <w type="Na">環境</w>
+            <w type="Na">資源</w>
+            <w type="Na">學系</w>
+            <w type="PAUSECATEGORY">、</w>
+         </s>
+         <s>
+            <w type="Nc">園藝系</w>
+            <w type="Nc">加工館</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">加工館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">造園館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VH">精密</w>
+            <w type="Nc">溫室</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nv">轉殖</w>
+            <w type="Nc">溫室</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">食品</w>
+            <w type="Nc">科技</w>
+            <w type="Nc">所</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">生命</w>
+            <w type="Na">科學</w>
+            <w type="Nc">系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">生</w>
+         </s>
+         <s>
+            <w type="Na">態</w>
+            <w type="Nc">演化所</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">生命</w>
+            <w type="Nc">科學</w>
+            <w type="Nc">館</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nv">進修</w>
+            <w type="Nv">推廣</w>
+            <w type="Nc">學院</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">建築</w>
+            <w type="Caa">與</w>
+            <w type="Nc">城鄉</w>
+            <w type="Nc">所</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">公館</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Na">農業</w>
+            <w type="Nv">推廣</w>
+            <w type="Na">學系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">農業</w>
+         </s>
+         <s>
+            <w type="Na">經濟學系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">生物</w>
+            <w type="Na">環境</w>
+            <w type="Na">系統</w>
+            <w type="Na">工程</w>
+            <w type="Na">學系</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">農業</w>
+            <w type="Nc">綜合館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">原委會</w>
+            <w type="Nc">五六七樓</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">五號館</w>
+            <w type="Caa">及</w>
+            <w type="Nc">農工系</w>
+            <w type="Na">實驗</w>
+         </s>
+         <s>
+            <w type="Na">大樓</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">農業</w>
+            <w type="Nc">化學系</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">農化</w>
+            <w type="VH">舊館</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">生化</w>
+            <w type="Na">科技</w>
+            <w type="Na">學系</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">農化</w>
+            <w type="Nc">二館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">三號館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">行政</w>
+            <w type="Na">大樓</w>
+            <w type="Ncd">後側</w>
+            <w type="Nc">紅</w>
+         </s>
+         <s>
+            <w type="Na">磚屋</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">展書樓</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">高分子</w>
+            <w type="Nc">研究所</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">醫學</w>
+            <w type="Na">工程</w>
+            <w type="Na">學系</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">基隆路</w>
+            <w type="Nc">停車場</w>
+            <w type="Na">攝影機</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nv">推廣</w>
+            <w type="Na">教育</w>
+            <w type="Nc">中心</w>
+         </s>
+         <s>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">國際</w>
+            <w type="Na">學術</w>
+            <w type="VH">交流</w>
+            <w type="Nc">中心</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">保管組</w>
+            <w type="Nc">倉庫</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neu">2）</w>
+            <w type="Na">機械</w>
+            <w type="Nc">工程系</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">工綜館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">新舊</w>
+            <w type="Nc">數學館</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">材料</w>
+            <w type="Na">科學</w>
+            <w type="Caa">與</w>
+            <w type="Na">工程</w>
+            <w type="Na">學系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">應用</w>
+            <w type="Nc">力學所</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">電機</w>
+            <w type="VH">舊</w>
+         </s>
+         <s>
+            <w type="Nc">館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">物理系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nes">次震</w>
+            <w type="Nc">宇宙館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">凝態</w>
+            <w type="Na">科學</w>
+            <w type="VE">研究</w>
+            <w type="Nc">中心</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">全球</w>
+            <w type="VH">變遷</w>
+            <w type="Nc">中心</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">地質系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">海洋</w>
+            <w type="Na">科學</w>
+            <w type="VE">研究</w>
+            <w type="Ng">中</w>
+         </s>
+         <s>
+            <w type="Na">心</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">大氣系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="A">課外</w>
+            <w type="Na">活動</w>
+            <w type="Nc">指導組</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">新數館</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">配電室</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">體育館</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">新舊</w>
+            <w type="Nc">館</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">生化</w>
+            <w type="Na">科學</w>
+            <w type="Nv">研</w>
+         </s>
+         <s>
+            <w type="Nc">究所</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">圖書館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">社會學系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">心理系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="A">藝文</w>
+            <w type="Nc">中心</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">學生</w>
+            <w type="Na">活動</w>
+            <w type="Nc">中心</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Neu">一</w>
+            <w type="VH">活</w>
+            <w type="Caa">&amp;amp;</w>
+            <w type="Neu">二</w>
+            <w type="VH">活</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">法律學系</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="VH">新館</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">漁科所</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">科學</w>
+            <w type="Na">教育</w>
+            <w type="VC">發展</w>
+            <w type="Nc">中心</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">理學院</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">化學系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="A">視聽</w>
+            <w type="Nc">教育館</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">語文</w>
+            <w type="Nc">中心</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">數學</w>
+         </s>
+         <s>
+            <w type="Nv">研究</w>
+            <w type="Nc">中心</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">癌醫</w>
+            <w type="Nc">中心</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">PTT</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">資工</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Cbb">如</w>
+            <w type="VA">施工</w>
+            <w type="VB">提前</w>
+            <w type="VC">完成</w>
+            <w type="D">將</w>
+            <w type="D">盡快</w>
+            <w type="VHC">恢復</w>
+            <w type="VH">相關</w>
+            <w type="VC">服務</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">不便</w>
+            <w type="DE">之</w>
+            <w type="Na">處</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">尚</w>
+            <w type="VK">祈</w>
+            <w type="VA">見諒</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </body>
+      <title author="wclaa ()">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">計資</w>
+            <w type="Nc">中心</w>
+            <w type="Na">網路</w>
+            <w type="Na">設備</w>
+            <w type="Nv">更新</w>
+            <w type="Na">公告</w>
+            <w type="Neu">－112/01/15</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

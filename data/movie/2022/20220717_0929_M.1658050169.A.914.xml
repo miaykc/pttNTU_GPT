@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">BlueHsiang (布魯香)</metadata>
+      <metadata name="post_id">M.1658050169.A.914</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 尋人啟弒bug</metadata>
+   </teiHeader>
+   <text>
+      <body author="BlueHsiang (布魯香)">
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">雷</w>
+         </s>
+         <s>
+            <w type="Na">女兒</w>
+            <w type="D">會</w>
+            <w type="VCL">去</w>
+            <w type="Na">小島</w>
+            <w type="SHI">是</w>
+            <w type="Cbb">因為</w>
+            <w type="P">在</w>
+            <w type="VC">追殺</w>
+            <w type="Na">人魔</w>
+            <w type="DE">的</w>
+            <w type="Nc">途中</w>
+            <w type="VE">看到</w>
+            <w type="Na">船票</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="Na">爸爸</w>
+            <w type="P">跟</w>
+            <w type="Na">殺人魔</w>
+            <w type="D">會</w>
+            <w type="VCL">去</w>
+            <w type="Na">小島</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Nd">臨時</w>
+            <w type="VC">改變</w>
+            <w type="DE">的</w>
+            <w type="Na">主意</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="D">本來</w>
+            <w type="Nh">他們</w>
+            <w type="VF">打算</w>
+            <w type="P">在</w>
+            <w type="Nc">球館</w>
+            <w type="VA">殺人</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Cbb">所以</w>
+            <w type="Na">殺人魔</w>
+            <w type="Da">才</w>
+            <w type="VA">睡</w>
+            <w type="P">在</w>
+            <w type="Nc">球館</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="P">在</w>
+            <w type="Nc">球館</w>
+            <w type="P">被</w>
+            <w type="Na">女兒</w>
+            <w type="VE">看到</w>
+            <w type="P">被</w>
+            <w type="Na">女兒</w>
+            <w type="VC">追</w>
+            <w type="Da">才</w>
+            <w type="VL">被迫</w>
+            <w type="VC">改變</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="D">應該</w>
+            <w type="D">沒有</w>
+            <w type="D">少</w>
+            <w type="VC">看</w>
+            <w type="Nep">什麼</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="SHI">是</w>
+            <w type="FW">bug</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> Google</w>
+            <w type="FW"> Pixel</w>
+            <w type="FW"> 6 Pro</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="BlueHsiang (布魯香)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">尋人</w>
+            <w type="VC">啟</w>
+            <w type="VC">弒</w>
+            <w type="FW">bug</w>
+         </s>
+      </title>
+      <comment author="J7565J" c_type="pos">
+         <s>
+            <w type="Nh">你</w>
+            <w type="VE">說</w>
+            <w type="DE">的</w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="VJ">沒</w>
+            <w type="Na">錯</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">應該</w>
+            <w type="VG">算是</w>
+            <w type="FW">bug</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="Midiya" c_type="pos">
+         <s>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="Na">船票</w>
+            <w type="SHI">是</w>
+            <w type="Na">殺人魔</w>
+            <w type="VC">殺</w>
+            <w type="Na">白頭翁</w>
+            <w type="VH">不成</w>
+            <w type="Ng">後</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">逃亡</w>
+            <w type="Ng">時</w>
+            <w type="VC">買</w>
+            <w type="DE">的</w>
+            <w type="Nep">那</w>
+            <w type="Nf">次</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="Midiya" c_type="neu">
+         <s>
+            <w type="D">就是</w>
+            <w type="Na">殺人魔</w>
+            <w type="VA">逃亡</w>
+            <w type="P">到</w>
+            <w type="Na">小島</w>
+            <w type="Ncd">上</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">後來</w>
+            <w type="VC">殺掉</w>
+            <w type="Na">橘子</w>
+            <w type="Na">爺爺</w>
+            <w type="Nep">那</w>
+            <w type="Nf">次</w>
+         </s>
+      </comment>
+      <comment author="Midiya" c_type="neu">
+         <s>
+            <w type="Nd">後來</w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="P">把</w>
+            <w type="Ncd">那邊</w>
+            <w type="VG">當</w>
+            <w type="Na">根據地</w>
+            <w type="DE">之</w>
+            <w type="Neu">一</w>
+            <w type="T">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">所以</w>
+            <w type="VI">沒辦法</w>
+            <w type="P">在</w>
+            <w type="Nc">球館</w>
+         </s>
+      </comment>
+      <comment author="Midiya" c_type="neu">
+         <s>
+            <w type="VC">殺人 </w>
+            <w type="Da">才</w>
+            <w type="VF">叫</w>
+            <w type="Na">爸爸</w>
+            <w type="VC">帶</w>
+            <w type="Na">白頭翁</w>
+            <w type="VA">來</w>
+            <w type="Na">島</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="nojoe" c_type="pos">
+         <s>
+            <w type="D">都</w>
+            <w type="VJ">沒</w>
+            <w type="Na">人</w>
+            <w type="VE">發現</w>
+            <w type="Na">橘子</w>
+            <w type="Na">爺爺</w>
+            <w type="P">被</w>
+            <w type="VC">殺</w>
+            <w type="D">也</w>
+            <w type="VG">算是</w>
+            <w type="FW">bug</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

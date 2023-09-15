@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">arsl400 (dark hatter)</metadata>
+      <metadata name="post_id">M.1649914329.A.3DC</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">Re: [新聞] 麥可貝：索尼不相信黑人電影會賺錢</metadata>
+   </teiHeader>
+   <text>
+      <body author="arsl400 (dark hatter)">
+         <s>
+            <w type="D">其實</w>
+            <w type="Na">亞裔</w>
+            <w type="VC">主演</w>
+            <w type="Na">電影</w>
+            <w type="D">通常</w>
+            <w type="D">也</w>
+            <w type="D">會</w>
+            <w type="D">硬塞</w>
+            <w type="Na">黑人</w>
+         </s>
+         <s>
+            <w type="SHI">像是</w>
+            <w type="A">尖峰</w>
+            <w type="Na">時刻</w>
+            <w type="Nb">成龍</w>
+            <w type="Caa">和</w>
+            <w type="Nb">克里斯塔克</w>
+         </s>
+         <s>
+            <w type="Nc">美國</w>
+            <w type="SHI">是</w>
+            <w type="Neqa">少數</w>
+            <w type="Na">族群</w>
+            <w type="Nc">市場</w>
+            <w type="D">會</w>
+            <w type="Nh">自己</w>
+            <w type="VA">聚</w>
+            <w type="VH">在一起</w>
+         </s>
+         <s>
+            <w type="D">甚至</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Nc">美國</w>
+            <w type="VC">排</w>
+            <w type="DE">的</w>
+            <w type="D">也</w>
+            <w type="VH">一樣</w>
+         </s>
+         <s>
+            <w type="Cbb">不然</w>
+            <w type="Nh">你</w>
+            <w type="D">去</w>
+            <w type="VC">找</w>
+            <w type="Nb">葉問</w>
+            <w type="Neqa">任何</w>
+            <w type="Neu">一</w>
+            <w type="Nf">支</w>
+            <w type="Nc">美國</w>
+            <w type="VE">預告</w>
+         </s>
+         <s>
+            <w type="D">都</w>
+            <w type="VC">配</w>
+            <w type="Na">黑人</w>
+            <w type="VH">饒舌</w>
+            <w type="Na">歌</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="SHI">是</w>
+            <w type="VH">不爭</w>
+            <w type="DE">的</w>
+            <w type="Na">事實</w>
+         </s>
+      </body>
+      <title author="arsl400 (dark hatter)">
+         <s>
+            <w type="FW">Re</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">麥可貝</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">索尼</w>
+            <w type="D">不</w>
+            <w type="VK">相信</w>
+            <w type="Na">黑人</w>
+            <w type="Na">電影</w>
+            <w type="D">會</w>
+            <w type="VA">賺錢</w>
+         </s>
+      </title>
+      <comment author="darkbrigher" c_type="neu">
+         <s>
+            <w type="VH">好笑</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="Na">黑人</w>
+            <w type="D">其實</w>
+            <w type="VJ">瞧不起</w>
+            <w type="Na">亞裔</w>
+         </s>
+      </comment>
+      <comment author="nwoyao" c_type="pos">
+         <s>
+            <w type="VH">白</w>
+            <w type="Na">皮膚</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nh">我們</w>
+            <w type="VJ">沒</w>
+            <w type="Nep">這</w>
+            <w type="Nf">種</w>
+            <w type="Na">困擾</w>
+         </s>
+      </comment>
+      <comment author="nwoyao" c_type="neu">
+         <s>
+            <w type="Nh">你們</w>
+            <w type="VH">慢慢</w>
+            <w type="VC">吵</w>
+         </s>
+      </comment>
+      <comment author="ssarc" c_type="pos">
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="Na">黑人</w>
+            <w type="VC">賺</w>
+            <w type="DE">的</w>
+            <w type="VJ">沒</w>
+            <w type="Na">亞裔</w>
+            <w type="VH">多</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ann141414 (海底撈火鍋)</metadata>
+      <metadata name="post_id">M.1624284857.A.176</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 好黑</metadata>
+   </teiHeader>
+   <text>
+      <body author="ann141414 (海底撈火鍋)">
+         <s>
+            <w type="Ncd">外面</w>
+            <w type="Dfa">好</w>
+            <w type="VH">黑</w>
+         </s>
+         <s>
+            <w type="D">偶</w>
+            <w type="Dfa">好</w>
+            <w type="VK">怕</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/TPPaMd</w>
+            <w type="FW">P.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/f</w>
+            <w type="FW">UCmiTe.jpg</w>
+         </s>
+      </body>
+      <title author="ann141414 (海底撈火鍋)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dfa">好</w>
+            <w type="VH">黑</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

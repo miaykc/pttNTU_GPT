@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">AprilMight (AM。)</metadata>
+      <metadata name="post_id">M.1591025533.A.60E</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] 本校防疫訊息～6月2日起各館舍防疫措施</metadata>
+   </teiHeader>
+   <text>
+      <body author="AprilMight (AM。)">
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Nes">本</w>
+            <w type="Nc">校</w>
+            <w type="VA">防疫</w>
+            <w type="Na">訊息</w>
+            <w type="FW">～</w>
+            <w type="Nd">6月</w>
+            <w type="Nd">2日</w>
+            <w type="Ng">起</w>
+            <w type="Nes">各</w>
+            <w type="Na">館舍</w>
+            <w type="VA">防疫</w>
+            <w type="Na">措施</w>
+            <w type="Caa">及</w>
+            <w type="VA">防疫</w>
+            <w type="Na">物資</w>
+            <w type="VC">管理</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="FW">Anti-COVID-19 Measures</w>
+            <w type="FW"> Updated</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Starting</w>
+            <w type="FW"> June</w>
+            <w type="FW"> 2</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Building</w>
+            <w type="FW"> Access</w>
+            <w type="FW"> Control</w>
+            <w type="FW"> and</w>
+            <w type="FW"> Ep</w>
+         </s>
+         <s>
+            <w type="FW">idemic</w>
+            <w type="FW"> Resource</w>
+            <w type="FW"> Management</w>
+         </s>
+         <s>
+            <w type="Nes">各位</w>
+            <w type="Na">教職</w>
+            <w type="Na">員工</w>
+            <w type="VH">生</w>
+            <w type="Nh">您</w>
+            <w type="VH">好</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Nes">本</w>
+            <w type="Nc">校</w>
+            <w type="P">於</w>
+            <w type="Nd">6月</w>
+            <w type="Nd">2日</w>
+            <w type="Ng">起</w>
+            <w type="VC">放寬</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">外</w>
+            <w type="Na">人士</w>
+            <w type="VCL">進入</w>
+            <w type="Nes">各</w>
+            <w type="Na">館舍</w>
+            <w type="Na">措施</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">包括</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="D">免</w>
+            <w type="VC">持</w>
+            <w type="Na">工作證</w>
+            <w type="Caa">或</w>
+            <w type="Na">訪客證</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="D">免</w>
+            <w type="VC">填</w>
+            <w type="VH">健康</w>
+            <w type="VJ">關懷</w>
+         </s>
+         <s>
+            <w type="Na">問卷</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="D">仍</w>
+            <w type="D">需</w>
+            <w type="VC">刷</w>
+            <w type="Na">身分證</w>
+            <w type="Caa">或</w>
+            <w type="VC">填寫</w>
+            <w type="Na">訪客簿</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">量測</w>
+            <w type="Na">體溫</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以</w>
+            <w type="VJ">達到</w>
+            <w type="Na">實名制</w>
+            <w type="Caa">與</w>
+            <w type="VH">相關</w>
+            <w type="VA">防疫</w>
+            <w type="Na">規範</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">此外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="Nes">各</w>
+            <w type="Na">單位</w>
+            <w type="VC">盤點</w>
+            <w type="Caa">及</w>
+            <w type="VA">造冊</w>
+            <w type="VC">管理</w>
+            <w type="Nep">此</w>
+            <w type="Nf">次</w>
+            <w type="VA">防疫</w>
+            <w type="D">所</w>
+            <w type="VC">購置</w>
+            <w type="DE">之</w>
+            <w type="Na">物資</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Cbb">如</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">額</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">耳</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Na">溫</w>
+            <w type="Na">槍</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">酒精</w>
+            <w type="VC">消毒</w>
+            <w type="A">噴霧</w>
+         </s>
+         <s>
+            <w type="Na">器</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Na">掃描器</w>
+            <w type="Cab">等</w>
+            <w type="VH">相關</w>
+            <w type="VA">防疫</w>
+            <w type="Na">物品</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以</w>
+            <w type="VC">備</w>
+            <w type="Na">疫情</w>
+            <w type="Na">變化</w>
+            <w type="Na">不時之需</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">避免</w>
+            <w type="VC">重複</w>
+            <w type="VC">購置</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="D">再次</w>
+            <w type="VE">提醒</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">中央</w>
+            <w type="VH">流行</w>
+            <w type="Na">疫情</w>
+            <w type="VC">指揮</w>
+            <w type="Nc">中心</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VA">防疫</w>
+            <w type="VH">新</w>
+            <w type="Na">生活</w>
+            <w type="Na">運動</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VF">指引</w>
+            <w type="VK">包括</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VJ">保持</w>
+            <w type="Na">社交</w>
+            <w type="Na">距離</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">室</w>
+            <w type="Ncd">內</w>
+            <w type="VJ">保持</w>
+         </s>
+         <s>
+            <w type="Neu">1.5</w>
+            <w type="Nf">公尺</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nc">室</w>
+            <w type="Ncd">外</w>
+            <w type="Neu">1</w>
+            <w type="Nf">公尺</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="D">無法</w>
+            <w type="VJ">維持</w>
+            <w type="Na">社交</w>
+            <w type="Na">距離</w>
+            <w type="Ng">時</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">應</w>
+            <w type="VC">戴</w>
+            <w type="Na">口罩</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">採取</w>
+            <w type="Na">實名制</w>
+            <w type="Caa">及</w>
+            <w type="VC">量測</w>
+            <w type="Na">體溫</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="D">確實</w>
+            <w type="VC">執</w>
+         </s>
+         <s>
+            <w type="VC">行</w>
+            <w type="Na">人流</w>
+            <w type="Nv">管制</w>
+            <w type="Caa">及</w>
+            <w type="Na">環境</w>
+            <w type="VC">清消</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">秘書室</w>
+            <w type="VA">敬啟</w>
+         </s>
+         <s>
+            <w type="FW">Dear</w>
+            <w type="FW"> students</w>
+            <w type="FW"> and</w>
+            <w type="FW"> colleagues</w>
+            <w type="COMMACATEGORY">,</w>
+         </s>
+         <s>
+            <w type="FW">We</w>
+            <w type="FW"> are</w>
+            <w type="FW"> going</w>
+            <w type="FW"> to</w>
+            <w type="FW"> loosen</w>
+            <w type="FW"> the</w>
+            <w type="FW"> restrictions</w>
+            <w type="FW"> on</w>
+            <w type="FW"> building</w>
+            <w type="FW"> access</w>
+            <w type="FW"> control</w>
+            <w type="PERIODCATEGORY">. Starting</w>
+            <w type="FW"> Jun</w>
+         </s>
+         <s>
+            <w type="FW">e 2</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> non-NTU members will</w>
+            <w type="FW"> not</w>
+            <w type="FW"> have</w>
+            <w type="FW"> to</w>
+            <w type="FW"> present</w>
+            <w type="FW"> a work/visitor</w>
+            <w type="FW"> pass</w>
+            <w type="FW"> or fill</w>
+            <w type="FW"> out</w>
+            <w type="FW"> th</w>
+         </s>
+         <s>
+            <w type="FW">e NTU COVID-19 Prevention</w>
+            <w type="FW"> Form</w>
+            <w type="FW"> before</w>
+            <w type="FW"> entering</w>
+            <w type="FW"> a building</w>
+            <w type="FW"> on</w>
+            <w type="FW"> campus</w>
+            <w type="SEMICOLONCATEGORY">;</w>
+            <w type="FW"> however</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> th</w>
+         </s>
+         <s>
+            <w type="FW">ey</w>
+            <w type="FW"> are</w>
+            <w type="FW"> still</w>
+            <w type="FW"> required</w>
+            <w type="FW"> to</w>
+            <w type="FW"> swipe</w>
+            <w type="FW"> ID card</w>
+            <w type="FW"> barcode</w>
+            <w type="FW"> or</w>
+            <w type="FW"> leave</w>
+            <w type="FW"> personal</w>
+            <w type="FW"> information</w>
+            <w type="FW"> on</w>
+         </s>
+         <s>
+            <w type="FW">a visitor</w>
+            <w type="FW"> log</w>
+            <w type="FW"> book</w>
+            <w type="FW"> and</w>
+            <w type="FW"> have</w>
+            <w type="FW"> body</w>
+            <w type="FW"> temperature</w>
+            <w type="FW"> measured</w>
+            <w type="FW"> to</w>
+            <w type="FW"> meet</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">the</w>
+            <w type="FW"> real-name</w>
+            <w type="FW"> regi</w>
+         </s>
+         <s>
+            <w type="FW">stration</w>
+            <w type="FW"> and</w>
+            <w type="FW"> related</w>
+            <w type="FW"> anti-COVID-19</w>
+            <w type="FW"> guidelines.</w>
+         </s>
+         <s>
+            <w type="FW">In</w>
+            <w type="FW"> addition</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> all</w>
+            <w type="FW"> departments/institutes/</w>
+            <w type="FW">of</w>
+            <w type="FW">fices</w>
+            <w type="FW"> are</w>
+            <w type="FW"> required</w>
+            <w type="FW"> to</w>
+            <w type="FW"> inventory</w>
+            <w type="FW"> the</w>
+            <w type="FW"> pr</w>
+         </s>
+         <s>
+            <w type="FW">oducts</w>
+            <w type="FW"> and</w>
+            <w type="FW"> devices</w>
+            <w type="FW"> purchased</w>
+            <w type="FW"> for</w>
+            <w type="FW"> epidemic</w>
+            <w type="FW"> prevention</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">e.g.</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> forehead/ear</w>
+            <w type="FW"> thermom</w>
+         </s>
+         <s>
+            <w type="FW">eters</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> hand</w>
+            <w type="FW"> sanitizer</w>
+            <w type="DASHCATEGORY"> dispensers</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> and</w>
+            <w type="FW"> scanners</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> to</w>
+            <w type="FW"> prepare</w>
+            <w type="FW"> for</w>
+            <w type="FW"> future</w>
+            <w type="FW"> epidemic</w>
+            <w type="FW"> e</w>
+         </s>
+         <s>
+            <w type="FW">mergency</w>
+            <w type="FW"> and</w>
+            <w type="FW"> avoid</w>
+            <w type="FW"> repeated</w>
+            <w type="FW"> purchases</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+         <s>
+            <w type="FW">We</w>
+            <w type="FW"> would</w>
+            <w type="FW"> also</w>
+            <w type="FW"> like</w>
+            <w type="FW"> to</w>
+            <w type="FW"> remind</w>
+            <w type="FW"> all</w>
+            <w type="FW"> NTU members</w>
+            <w type="FW"> that</w>
+            <w type="FW"> the</w>
+            <w type="FW"> Central</w>
+            <w type="FW"> Epidemic</w>
+            <w type="FW"> Command</w>
+            <w type="FW"> C</w>
+         </s>
+         <s>
+            <w type="FW">enter’s </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">CECC</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> daily</w>
+            <w type="FW"> COVID-19</w>
+            <w type="FW"> precautions</w>
+            <w type="FW"> include</w>
+            <w type="FW"> keeping</w>
+            <w type="FW"> social</w>
+            <w type="FW"> distance </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">1.5</w>
+            <w type="FW">m</w>
+         </s>
+         <s>
+            <w type="FW">indoors</w>
+            <w type="SEMICOLONCATEGORY">;</w>
+            <w type="FW"> 1</w>
+            <w type="FW">m</w>
+            <w type="FW"> out</w>
+            <w type="FW">doors</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> wearing</w>
+            <w type="FW"> a mask</w>
+            <w type="FW"> when</w>
+            <w type="FW"> social</w>
+            <w type="FW"> dist</w>
+            <w type="FW">ancing</w>
+            <w type="FW"> cannot</w>
+            <w type="FW"> be</w>
+            <w type="FW"> followed</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> conducting</w>
+            <w type="FW"> real-name</w>
+            <w type="FW"> registration</w>
+            <w type="FW"> and</w>
+            <w type="FW"> temperature</w>
+            <w type="FW"> check</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> implementing</w>
+            <w type="FW"> crowd</w>
+            <w type="FW"> co</w>
+         </s>
+         <s>
+            <w type="FW">ntrol</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> and</w>
+            <w type="FW"> enhancing</w>
+            <w type="FW"> environmental</w>
+            <w type="FW"> disinfection</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+         <s>
+            <w type="FW">Sincerely</w>
+            <w type="FW"> yours</w>
+            <w type="COMMACATEGORY">,</w>
+         </s>
+         <s>
+            <w type="FW">NTU Secretariat</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/l</w>
+            <w type="FW">Zy</w>
+            <w type="FW">Bnmx.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.facebook.com/208450679333899</w>
+            <w type="FW">/posts/1466690826843205</w>
+            <w type="FW">/</w>
+         </s>
+         <s>
+            <w type="VH">無聊</w>
+            <w type="VC">轉貼</w>
+            <w type="Di">個</w>
+            <w type="Nc">學校</w>
+            <w type="DE">的</w>
+            <w type="Na">愛心</w>
+            <w type="Na">公告</w>
+         </s>
+         <s>
+            <w type="VK">相信</w>
+            <w type="Nh">大家</w>
+            <w type="D">已經</w>
+            <w type="P">從</w>
+            <w type="Nd">週末</w>
+            <w type="Ng">開始</w>
+            <w type="VE">看到</w>
+            <w type="VH">源源不絕</w>
+            <w type="DE">的</w>
+            <w type="FW">customers </w>
+            <w type="T">了</w>
+            <w type="FW">～</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nd">今天</w>
+            <w type="Nd">早上</w>
+            <w type="D">還</w>
+            <w type="VE">看到</w>
+            <w type="Neqa">超多</w>
+            <w type="Nf">組</w>
+            <w type="Na">婚紗</w>
+            <w type="P">在</w>
+            <w type="VC">趕</w>
+            <w type="Na">進度</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="VA">笑</w>
+         </s>
+         <s>
+            <w type="Nc">臺大</w>
+            <w type="DE">的</w>
+            <w type="Na">景象</w>
+            <w type="D">真是</w>
+            <w type="VH">勃勃蓬蓬</w>
+            <w type="FW">♪</w>
+         </s>
+      </body>
+      <title author="AprilMight (AM。)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nes">本</w>
+            <w type="Nc">校</w>
+            <w type="VA">防疫</w>
+            <w type="Na">訊息</w>
+            <w type="FW">～</w>
+            <w type="Nd">6月</w>
+            <w type="Nd">2日</w>
+            <w type="Ng">起</w>
+            <w type="Nes">各</w>
+            <w type="Na">館舍</w>
+            <w type="VA">防疫</w>
+            <w type="Na">措施</w>
+         </s>
+      </title>
+      <comment author="a031405" c_type="neg">
+         <s>
+            <w type="FW">ZZZZZZZ</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

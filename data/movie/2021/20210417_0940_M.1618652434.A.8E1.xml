@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jackwills (.com)</metadata>
+      <metadata name="post_id">M.1618652434.A.8E1</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[討論] 4/17 20:40 鐵幕行動 大直美麗華</metadata>
+   </teiHeader>
+   <text>
+      <body author="jackwills (.com)">
+         <s>
+            <w type="VD">贈</w>
+            <w type="Na">票</w>
+            <w type="Neu">一</w>
+            <w type="Nf">張</w>
+            <w type="Na">鐵幕</w>
+            <w type="Na">行動</w>
+            <w type="Neu">4/17 20</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">40</w>
+            <w type="Nc">大直</w>
+            <w type="VH">美麗華</w>
+            <w type="Na">意者</w>
+            <w type="Nc">站</w>
+            <w type="Ncd">內</w>
+         </s>
+      </body>
+      <title author="jackwills (.com)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 4/17 20</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">40 </w>
+            <w type="Na">鐵幕</w>
+            <w type="Na">行動</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">大直</w>
+            <w type="Nb">美麗華</w>
+         </s>
+      </title>
+      <comment author="yannjiunlin" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="penny905015" c_type="pos">
+         <s>
+            <w type="D">私</w>
+         </s>
+      </comment>
+      <comment author="chris81176" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="VC">推推</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

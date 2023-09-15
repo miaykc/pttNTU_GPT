@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">cactus99 (XCIX)</metadata>
+      <metadata name="post_id">M.1624610259.A.E62</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 下什麼呢</metadata>
+   </teiHeader>
+   <text>
+      <body author="cactus99 (XCIX)">
+         <s>
+            <w type="VC">下</w>
+            <w type="Nep">什麼</w>
+            <w type="T">呢</w>
+         </s>
+         <s>
+            <w type="Na">落雨</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Caa">或是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">太陽花</w>
+         </s>
+         <s>
+            <w type="VC">要</w>
+            <w type="FW">☂ </w>
+            <w type="Caa">或是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">要</w>
+            <w type="FW">☼</w>
+         </s>
+         <s>
+            <w type="VC">下</w>
+            <w type="Nep">什麼</w>
+            <w type="T">呢</w>
+         </s>
+         <s>
+            <w type="Na">老師</w>
+            <w type="Na">音樂</w>
+            <w type="VF">請下</w>
+         </s>
+      </body>
+      <title author="cactus99 (XCIX)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 下</w>
+            <w type="Nep">什麼</w>
+            <w type="T">呢</w>
+         </s>
+      </title>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="FW">XDDDD </w>
+            <w type="V_2">有</w>
+            <w type="Na">龍兄</w>
+            <w type="Na">虎弟</w>
+            <w type="DE">的</w>
+            <w type="Na">畫面</w>
+            <w type="FW"> ♪ ♬</w>
+            <w type="FW"> ♪ ♬</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/zq</w>
+            <w type="FW">Ko</w>
+            <w type="FW">XP</w>
+            <w type="FW">Hhms</w>
+            <w type="FW">M </w>
+            <w type="Na">音樂</w>
+            <w type="VA">來</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="cactus99" c_type="neu">
+         <s>
+            <w type="VA">出太陽</w>
+            <w type="VC">拉</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/gzu</w>
+            <w type="FW">Evkk-eg8</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

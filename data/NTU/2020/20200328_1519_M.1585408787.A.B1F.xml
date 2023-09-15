@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">alex8725 (近鉄バファローズ魂不滅)</metadata>
+      <metadata name="post_id">M.1585408787.A.B1F</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 太空人</metadata>
+   </teiHeader>
+   <text>
+      <body author="alex8725 (近鉄バファローズ魂不滅)">
+         <s>
+            <w type="Neu">第一</w>
+            <w type="Nf">次</w>
+            <w type="VE">看到</w>
+            <w type="VA">作弊</w>
+            <w type="D">還</w>
+            <w type="Dfa">這麼</w>
+            <w type="VH">囂張</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="D">真的</w>
+            <w type="VH">厲害</w>
+         </s>
+         <s>
+            <w type="VF">要求</w>
+            <w type="VC">嚴懲</w>
+            <w type="VE">爆料</w>
+            <w type="Na">者</w>
+            <w type="VC">勒 </w>
+            <w type="VHC">笑死</w>
+         </s>
+      </body>
+      <title author="alex8725 (近鉄バファローズ魂不滅)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">太空人</w>
+         </s>
+      </title>
+      <comment author="loserfeizie" c_type="pos">
+         <s>
+            <w type="Dfa">太鼓人</w>
+         </s>
+      </comment>
+      <comment author="anomic24" c_type="neg">
+         <s>
+            <w type="VHC">笑死</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">垃圾球隊</w>
+         </s>
+      </comment>
+      <comment author="StanleyQT" c_type="neg">
+         <s>
+            <w type="FW">#fakenews</w>
+         </s>
+      </comment>
+      <comment author="ganhua" c_type="neu">
+         <s>
+            <w type="Na">垃圾球隊</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+         </s>
+      </comment>
+      <comment author="hippo130" c_type="pos">
+         <s>
+            <w type="Nd">今年</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="D">還</w>
+            <w type="D">能</w>
+            <w type="VC">打</w>
+            <w type="Neqa">多少</w>
+            <w type="Nf">場</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="VE">想</w>
+            <w type="VC">看</w>
+            <w type="Nes">每</w>
+            <w type="Nf">場</w>
+            <w type="D">都</w>
+            <w type="V_2">有</w>
+            <w type="Na">觸身球</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

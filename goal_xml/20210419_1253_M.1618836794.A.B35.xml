@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">maozz (香菜小老鼠)</metadata>
+      <metadata name="post_id">M.1618836794.A.B35</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 我要練習</metadata>
+   </teiHeader>
+   <text>
+      <body author="maozz (香菜小老鼠)">
+         <s>
+            <w type="P">如</w>
+            <w type="Na">題</w>
+         </s>
+         <s>
+            <w type="Nd">最近</w>
+            <w type="VE">想</w>
+            <w type="VL">開始</w>
+            <w type="VC">練習</w>
+            <w type="Na">噓文</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="Nh">我</w>
+            <w type="D">好少</w>
+            <w type="VC">噓</w>
+            <w type="Nh">別人</w>
+            <w type="T">喔</w>
+         </s>
+         <s>
+            <w type="Nd">最近</w>
+            <w type="VE">想說</w>
+            <w type="D">要</w>
+            <w type="VL">開始</w>
+            <w type="VC">練習</w>
+         </s>
+         <s>
+            <w type="D">大概</w>
+            <w type="SHI">是</w>
+            <w type="VH">這樣</w>
+         </s>
+      </body>
+      <title author="maozz (香菜小老鼠)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="D">要</w>
+            <w type="VC">練習</w>
+         </s>
+      </title>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="VH">好</w>
+            <w type="T">喔</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">支持</w>
+            <w type="FW">～</w>
+         </s>
+      </comment>
+      <comment author="Imotucc" c_type="neg">
+         <s>
+            <w type="VH">凶宅</w>
+            <w type="Da">才</w>
+            <w type="VC">噓</w>
+            <w type="Na">文</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">不要</w>
+            <w type="VH">好</w>
+            <w type="DE">的</w>
+            <w type="D">不</w>
+            <w type="VC">學</w>
+            <w type="VA">學</w>
+            <w type="VH">壞</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

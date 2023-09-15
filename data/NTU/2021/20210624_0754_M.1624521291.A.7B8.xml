@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jun059 (好想睡覺)</metadata>
+      <metadata name="post_id">M.1624521291.A.7B8</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 大家都不見了QAQ</metadata>
+   </teiHeader>
+   <text>
+      <body author="jun059 (好想睡覺)">
+         <s>
+            <w type="Na">大哥</w>
+            <w type="VA">走</w>
+            <w type="DE">的</w>
+            <w type="Neu">第7</w>
+            <w type="Nf">天</w>
+         </s>
+         <s>
+            <w type="Na">二哥</w>
+            <w type="D">也</w>
+            <w type="VA">走</w>
+            <w type="Di">了</w>
+         </s>
+         <s>
+            <w type="VJ">剩下</w>
+            <w type="Neu">162</w>
+            <w type="T">了</w>
+         </s>
+         <s>
+            <w type="VH">怎麼辦</w>
+            <w type="DASHCATEGORY">QQQQ</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> iPhone</w>
+         </s>
+      </body>
+      <title author="jun059 (好想睡覺)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">大家</w>
+            <w type="D">都</w>
+            <w type="VH">不見了</w>
+            <w type="ETCCATEGORY">Q</w>
+            <w type="ETCCATEGORY">A</w>
+            <w type="ETCCATEGORY">Q</w>
+         </s>
+      </title>
+      <comment author="Imotucc" c_type="neg">
+         <s>
+            <w type="Neu">2ㄏ2ㄏ</w>
+         </s>
+      </comment>
+      <comment author="Floweyflower" c_type="neu">
+         <s>
+            <w type="Na">地下</w>
+            <w type="VH">團圓</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="chung0817" c_type="pos">
+         <s>
+            <w type="Na">世祖</w>
+            <w type="VC">倒</w>
+            <w type="Di">了</w>
+            <w type="Neu">2</w>
+            <w type="FW">ㄏ</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

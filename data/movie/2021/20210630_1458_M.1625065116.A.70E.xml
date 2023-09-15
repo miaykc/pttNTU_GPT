@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Gotham (萬惡之城)</metadata>
+      <metadata name="post_id">M.1625065116.A.70E</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 金主拱2億上門「黑寡婦」變企業董事長</metadata>
+   </teiHeader>
+   <text>
+      <body author="Gotham (萬惡之城)">
+         <s>
+            <w type="Na">金主</w>
+            <w type="VC">拱</w>
+            <w type="Neu">2億</w>
+            <w type="VA">上門</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VG">變</w>
+            <w type="Na">企業</w>
+            <w type="Na">董事長</w>
+         </s>
+         <s>
+            <w type="Neu">2021</w>
+            <w type="DASHCATEGORY">-06</w>
+            <w type="FW">-30 19</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">07</w>
+            <w type="Nb">聯合報</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">記者</w>
+            <w type="Nb">陳建嘉</w>
+            <w type="FW">／</w>
+            <w type="D">即時</w>
+            <w type="VE">報導</w>
+         </s>
+         <s>
+            <w type="Nb">思嘉莉約翰森</w>
+            <w type="P">因</w>
+            <w type="P">在</w>
+            <w type="Nb">漫威</w>
+            <w type="Na">系列</w>
+            <w type="Na">電影</w>
+            <w type="VC">演出</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VJ">紅遍</w>
+            <w type="Nc">全球</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">單片</w>
+            <w type="Na">片酬</w>
+            <w type="VJ">高達</w>
+            <w type="Neu">2000萬</w>
+            <w type="Nf">美元</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Da">約</w>
+         </s>
+         <s>
+            <w type="Na">新台幣</w>
+            <w type="Neu">5億6000萬</w>
+            <w type="Nf">元</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">資產</w>
+            <w type="D">初</w>
+            <w type="VC">估</w>
+            <w type="VJ">高達</w>
+            <w type="Neu">1億6500萬</w>
+            <w type="Nf">美元</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Da">約</w>
+            <w type="Na">新台幣</w>
+            <w type="Neu">46億2000萬</w>
+            <w type="Nf">元</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">她</w>
+            <w type="Nd">近期</w>
+         </s>
+         <s>
+            <w type="VCL">轉戰</w>
+            <w type="Nc">商界</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">與</w>
+            <w type="Na">企業家</w>
+            <w type="Nb">凱特福斯特</w>
+            <w type="A">共同</w>
+            <w type="VC">成立</w>
+            <w type="VC">護</w>
+            <w type="Na">膚</w>
+            <w type="Na">品牌</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VG">擔任</w>
+            <w type="Na">品牌</w>
+            <w type="Na">董事長</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">思嘉莉約翰森</w>
+            <w type="D">曾</w>
+            <w type="VA">代言</w>
+            <w type="Di">過</w>
+            <w type="Neqa">不少</w>
+            <w type="Na">彩妝</w>
+            <w type="Na">品牌</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">多</w>
+            <w type="Nf">次</w>
+            <w type="P">被</w>
+            <w type="VG">評選為</w>
+            <w type="Nc">全球</w>
+            <w type="Dfa">最</w>
+            <w type="VH">美麗</w>
+            <w type="Na">女人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="SHI">是</w>
+            <w type="A">最佳</w>
+            <w type="Na">代言人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">雖</w>
+         </s>
+         <s>
+            <w type="Cbb">然</w>
+            <w type="Nh">她</w>
+            <w type="D">並</w>
+            <w type="D">未</w>
+            <w type="VE">透露</w>
+            <w type="Nc">公司</w>
+            <w type="Na">名稱</w>
+            <w type="Caa">以及</w>
+            <w type="Na">產品</w>
+            <w type="VC">規劃</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="P">根據</w>
+            <w type="Na">外媒</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="FW">Allure</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Cab">等</w>
+            <w type="Neqa">多</w>
+            <w type="Nf">家</w>
+            <w type="Na">媒體</w>
+            <w type="VE">報導</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">私人</w>
+            <w type="VC">投資</w>
+         </s>
+         <s>
+            <w type="Nc">公司</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="FW">The</w>
+            <w type="FW"> Najafi</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="D">將</w>
+            <w type="D">會</w>
+            <w type="VC">砸下</w>
+            <w type="Da">約</w>
+            <w type="Neu">500萬</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Da">約</w>
+            <w type="Na">新台幣</w>
+            <w type="Neu">1億4000萬</w>
+            <w type="Nf">元</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="P">到</w>
+            <w type="Neu">1000萬</w>
+            <w type="Na">美金</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Da">約</w>
+            <w type="Na">新台幣</w>
+         </s>
+         <s>
+            <w type="Neu">2億8000萬</w>
+            <w type="Nf">元</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="DE">的</w>
+            <w type="Na">重金</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">讓</w>
+            <w type="Nb">思嘉莉</w>
+            <w type="VG">擔任</w>
+            <w type="Na">董事長</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">凱特</w>
+            <w type="D">則</w>
+            <w type="SHI">是</w>
+            <w type="Na">執行長</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="FW">The</w>
+            <w type="FW"> Najafi</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="DE">的</w>
+            <w type="VC">創辦</w>
+         </s>
+         <s>
+            <w type="Na">人</w>
+            <w type="Nb">哈姆納哈菲</w>
+            <w type="D">也</w>
+            <w type="P">在</w>
+            <w type="Na">新聞稿</w>
+            <w type="Ng">中</w>
+            <w type="VE">盛讚</w>
+            <w type="Nb">思嘉莉</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">凱特</w>
+            <w type="D">都</w>
+            <w type="SHI">是</w>
+            <w type="VH">完美</w>
+            <w type="Na">搭檔</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nb">思嘉莉</w>
+            <w type="P">對</w>
+            <w type="Na">工作</w>
+            <w type="DE">的</w>
+            <w type="Na">熱忱</w>
+            <w type="Cbb">不但</w>
+         </s>
+         <s>
+            <w type="VC">鼓舞</w>
+            <w type="Na">人心</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">又</w>
+            <w type="VJ">擁有</w>
+            <w type="D">能</w>
+            <w type="VC">改變</w>
+            <w type="Neqa">整</w>
+            <w type="Nf">個</w>
+            <w type="Nc">市場</w>
+            <w type="DE">的</w>
+            <w type="Na">潛力</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">好萊塢</w>
+            <w type="Na">女星</w>
+            <w type="Nd">近年</w>
+            <w type="D">頻頻</w>
+            <w type="VC">轉換</w>
+            <w type="Na">跑道</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VG">當上</w>
+            <w type="Na">女</w>
+            <w type="Na">企業家</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">證明</w>
+            <w type="Nh">她們</w>
+            <w type="Cbb">不僅</w>
+            <w type="V_2">有</w>
+            <w type="Na">美貌</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="V_2">有</w>
+            <w type="Na">商業</w>
+            <w type="Na">頭腦</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">近</w>
+         </s>
+         <s>
+            <w type="Nf">年</w>
+            <w type="VA">拍片</w>
+            <w type="Na">產量</w>
+            <w type="VH">銳減</w>
+            <w type="DE">的</w>
+            <w type="Nb">葛妮絲派楚</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">潔西卡艾芭</w>
+            <w type="Caa">以及</w>
+            <w type="Nb">茱兒芭莉摩</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">皆</w>
+            <w type="VC">開設</w>
+            <w type="Nh">個人</w>
+            <w type="Na">彩妝</w>
+            <w type="Na">品牌</w>
+            <w type="Caa">或是</w>
+            <w type="VC">購</w>
+         </s>
+         <s>
+            <w type="Na">物</w>
+            <w type="Nc">網站</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">順利</w>
+            <w type="P">為</w>
+            <w type="Nh">自己</w>
+            <w type="Na">事業</w>
+            <w type="VC">開啟</w>
+            <w type="Na">第二春</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">思嘉莉</w>
+            <w type="VG">身為</w>
+            <w type="Nd">當今</w>
+            <w type="Na">片酬</w>
+            <w type="Dfa">最</w>
+            <w type="VH">高</w>
+            <w type="DE">的</w>
+            <w type="Na">女</w>
+            <w type="Na">明星</w>
+            <w type="DE">之</w>
+            <w type="Neu">一</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">接下來</w>
+            <w type="Na">勢</w>
+         </s>
+         <s>
+            <w type="D">必</w>
+            <w type="P">對</w>
+            <w type="Na">彩妝</w>
+            <w type="Nc">市場</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+            <w type="D">不</w>
+            <w type="VH">小</w>
+            <w type="Na">影響力</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">思嘉莉</w>
+            <w type="VC">主演</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="P">受</w>
+            <w type="Na">疫情</w>
+            <w type="VC">影響</w>
+            <w type="VB">延檔</w>
+            <w type="Neu">1</w>
+            <w type="Nf">年</w>
+            <w type="Neqb">多</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">好不容易</w>
+            <w type="D">將</w>
+            <w type="P">在</w>
+            <w type="Nd">7月</w>
+            <w type="VH">正式</w>
+            <w type="VAC">上映</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">28日</w>
+            <w type="Nd">晚間</w>
+            <w type="P">在</w>
+            <w type="Nc">倫</w>
+         </s>
+         <s>
+            <w type="Nc">敦</w>
+            <w type="VC">舉辦</w>
+            <w type="Nc">全球</w>
+            <w type="Na">首映會</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">思嘉莉</w>
+            <w type="D">並</w>
+            <w type="D">未</w>
+            <w type="VC">出席</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">改由</w>
+            <w type="Na">片</w>
+            <w type="Ng">中</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">妹妹</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Nb">佛蘿倫絲普伊</w>
+            <w type="VA">上陣</w>
+            <w type="VB">代打</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">性感</w>
+            <w type="VC">造</w>
+         </s>
+         <s>
+            <w type="Na">型</w>
+            <w type="VJ">獲得</w>
+            <w type="Neqa">全</w>
+            <w type="Nf">場</w>
+            <w type="Na">青睞</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">該</w>
+            <w type="Nf">片</w>
+            <w type="D">也</w>
+            <w type="P">在</w>
+            <w type="Nc">歐美</w>
+            <w type="VC">開出</w>
+            <w type="VH">亮麗</w>
+            <w type="Na">好評</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">外媒</w>
+            <w type="Nb">普片</w>
+            <w type="VE">認為</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VH">有望</w>
+            <w type="VC">問鼎</w>
+            <w type="Nd">今年</w>
+         </s>
+         <s>
+            <w type="Na">年度</w>
+            <w type="Na">票房</w>
+            <w type="Na">冠軍</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Na">電影</w>
+            <w type="VE">暫定</w>
+            <w type="Nd">7月</w>
+            <w type="Nd">14日</w>
+            <w type="P">在</w>
+            <w type="Nc">台</w>
+            <w type="VAC">上映</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">新聞</w>
+            <w type="Na">網址</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//stars.udn.com/star/story</w>
+            <w type="FW">/10090</w>
+            <w type="FW">/5569097</w>
+         </s>
+      </body>
+      <title author="Gotham (萬惡之城)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="Nb"> 金主</w>
+            <w type="VC">拱</w>
+            <w type="Neu">2億</w>
+            <w type="VA">上門</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="VG">變</w>
+            <w type="Na">企業</w>
+            <w type="Na">董事長</w>
+         </s>
+      </title>
+      <comment author="movieghost" c_type="pos">
+         <s>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+            <w type="VG">變</w>
+            <w type="Na">金拱門</w>
+            <w type="Na">董事長</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="Turas" c_type="pos">
+         <s>
+            <w type="VG">看成</w>
+            <w type="Na">金拱門</w>
+            <w type="Neu">+1</w>
+         </s>
+      </comment>
+      <comment author="rasputin" c_type="neu">
+         <s>
+            <w type="Nb">漫威</w>
+            <w type="Na">電影</w>
+            <w type="Na">片酬</w>
+            <w type="D">大概</w>
+            <w type="P">把</w>
+            <w type="Na">明星</w>
+            <w type="Na">改名權</w>
+            <w type="D">都</w>
+            <w type="VB">算進去</w>
+            <w type="Di">了</w>
+            <w type="D">難怪</w>
+            <w type="D">這麼</w>
+         </s>
+      </comment>
+      <comment author="rasputin" c_type="neu">
+         <s>
+            <w type="Nb">高</w>
+         </s>
+      </comment>
+      <comment author="lockeyman" c_type="pos">
+         <s>
+            <w type="D">忽</w>
+            <w type="VH">大</w>
+            <w type="D">忽</w>
+            <w type="VH">小</w>
+            <w type="T">的</w>
+            <w type="ETCCATEGORY">…</w>
+         </s>
+      </comment>
+      <comment author="toyamaK52" c_type="neu">
+         <s>
+            <w type="Nb">荷莉貝瑞</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nh">我</w>
+            <w type="VK">知道</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Nh">我</w>
+            <w type="D">會</w>
+            <w type="VC">演</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">貓</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="galaxysec" c_type="pos">
+         <s>
+            <w type="Na">金拱門</w>
+            <w type="Neu">+1</w>
+         </s>
+      </comment>
+      <comment author="laiyuhao" c_type="neu">
+         <s>
+            <w type="VJ">靠</w>
+            <w type="Na">錢</w>
+            <w type="VH">多</w>
+            <w type="Da">才</w>
+            <w type="VG">當</w>
+            <w type="Na">董事長</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

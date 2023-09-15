@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">unmolk (UJ)</metadata>
+      <metadata name="post_id">M.1637064393.A.9B8</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] NICO NICO</metadata>
+   </teiHeader>
+   <text>
+      <body author="unmolk (UJ)">
+         <s>
+            <w type="FW">NI~</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> iPhone</w>
+         </s>
+      </body>
+      <title author="unmolk (UJ)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> NICO NICO</w>
+         </s>
+      </title>
+      <comment author="steven56138" c_type="neu">
+         <s>
+            <w type="VH">臭</w>
+         </s>
+      </comment>
+      <comment author="jzoethai" c_type="neu">
+         <s>
+            <w type="Na">油</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

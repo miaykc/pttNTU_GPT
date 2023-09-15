@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">sixx (SIX)</metadata>
+      <metadata name="post_id">M.1580716027.A.F18</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] Walmart廣告電影梗</metadata>
+   </teiHeader>
+   <text>
+      <body author="sixx (SIX)">
+         <s>
+            <w type="Nd">今年</w>
+            <w type="FW">walmart</w>
+            <w type="D">又</w>
+            <w type="VC">玩起</w>
+            <w type="Na">電影</w>
+            <w type="Na">梗</w>
+            <w type="T">啦</w>
+         </s>
+         <s>
+            <w type="VC">找來</w>
+            <w type="Neqa">很多</w>
+            <w type="FW">"</w>
+            <w type="FW">Famous</w>
+            <w type="FW"> Visitors</w>
+            <w type="FW">"</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=qZqD-gSbUGY</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="SHI">是</w>
+            <w type="Nes">上</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=whp</w>
+            <w type="FW">JBY5W7</w>
+            <w type="FW">xo</w>
+         </s>
+      </body>
+      <title author="sixx (SIX)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> Walmart</w>
+            <w type="Na">廣告</w>
+            <w type="Na">電影</w>
+            <w type="Na">梗</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

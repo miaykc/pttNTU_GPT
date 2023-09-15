@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">free2345 (一步天旅)</metadata>
+      <metadata name="post_id">M.1601791677.A.DE1</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 一部非洲片</metadata>
+   </teiHeader>
+   <text>
+      <body author="free2345 (一步天旅)">
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Nb">問片</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="V_2">有</w>
+            <w type="Nf">個</w>
+            <w type="P">在</w>
+            <w type="Nc">美國</w>
+            <w type="VH">長大</w>
+            <w type="DE">的</w>
+            <w type="Na">黑人</w>
+            <w type="Na">教授</w>
+            <w type="VC">帶</w>
+            <w type="Di">著</w>
+            <w type="Na">老婆</w>
+            <w type="Na">小孩</w>
+            <w type="VCL">移居</w>
+            <w type="Nc">非洲</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="VC">尋</w>
+            <w type="Na">根</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="Nh">他</w>
+            <w type="Na">老婆</w>
+            <w type="VK">受不了</w>
+            <w type="Nep">那</w>
+         </s>
+         <s>
+            <w type="Nf">個</w>
+            <w type="VH">髒亂</w>
+            <w type="DE">的</w>
+            <w type="Na">地方</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">一直</w>
+            <w type="VE">想</w>
+            <w type="VA">回去</w>
+            <w type="DASHCATEGORY">…</w>
+            <w type="DASHCATEGORY">…</w>
+            <w type="Da">只</w>
+            <w type="VK">記得</w>
+            <w type="Neqa">這些</w>
+            <w type="FW">@@</w>
+         </s>
+      </body>
+      <title author="free2345 (一步天旅)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Na">非洲片</w>
+         </s>
+      </title>
+      <comment author="a00avito" c_type="pos">
+         <s>
+            <w type="Nc">何處</w>
+            <w type="SHI">是</w>
+            <w type="Nh">我</w>
+            <w type="Nc">家</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

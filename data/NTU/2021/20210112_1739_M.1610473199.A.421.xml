@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jasonliao89 (宅宅)</metadata>
+      <metadata name="post_id">M.1610473199.A.421</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 咩噗</metadata>
+   </teiHeader>
+   <text>
+      <body author="jasonliao89 (宅宅)">
+         <s>
+            <w type="D">咩噗</w>
+         </s>
+      </body>
+      <title author="jasonliao89 (宅宅)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 咩噗</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

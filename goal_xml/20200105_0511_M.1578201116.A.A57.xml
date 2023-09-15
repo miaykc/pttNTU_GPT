@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">misaka0120 (野格炸彈)</metadata>
+      <metadata name="post_id">M.1578201116.A.A57</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 善子</metadata>
+   </teiHeader>
+   <text>
+      <body author="misaka0120 (野格炸彈)">
+         <s>
+            <w type="Na">善子</w>
+            <w type="Dfa">好</w>
+            <w type="VH">可愛</w>
+            <w type="T">喔</w>
+         </s>
+         <s>
+            <w type="FW">http</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/I9</w>
+            <w type="FW">Az</w>
+            <w type="FW">KnA.jpg</w>
+         </s>
+         <s>
+            <w type="D">嘻嘻</w>
+         </s>
+         <s>
+            <w type="Nb">丸善</w>
+            <w type="VH">香香</w>
+            <w type="VH">香香</w>
+            <w type="VH">香</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="FW"> JPTT</w>
+            <w type="FW"> on</w>
+            <w type="FW"> my</w>
+            <w type="FW"> Sony</w>
+            <w type="FW"> H</w>
+            <w type="Neu">9493</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="misaka0120 (野格炸彈)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">善子</w>
+         </s>
+      </title>
+      <comment author="laitao" c_type="pos">
+         <s>
+            <w type="Na">善子</w>
+            <w type="Dfa">最</w>
+            <w type="VH">Q</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="amichaell" c_type="neg">
+         <s>
+            <w type="FW">ヨハネ</w>
+         </s>
+      </comment>
+      <comment author="howard0113" c_type="neg">
+         <s>
+            <w type="VH">臭</w>
+         </s>
+      </comment>
+      <comment author="mtyk10100" c_type="neg">
+         <s>
+            <w type="I">噓</w>
+            <w type="ETCCATEGORY">L</w>
+            <w type="ETCCATEGORY">L</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

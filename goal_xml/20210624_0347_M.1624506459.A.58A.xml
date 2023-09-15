@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">cactus99 (XCIX)</metadata>
+      <metadata name="post_id">M.1624506459.A.58A</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 喝什麼呢</metadata>
+   </teiHeader>
+   <text>
+      <body author="cactus99 (XCIX)">
+         <s>
+            <w type="D">這麼</w>
+            <w type="VH">陰</w>
+            <w type="DE">的</w>
+            <w type="Na">天</w>
+         </s>
+         <s>
+            <w type="D">這麼</w>
+            <w type="VE">想</w>
+            <w type="VA">睡</w>
+            <w type="DE">的</w>
+            <w type="Na">天</w>
+         </s>
+         <s>
+            <w type="Nh">大家</w>
+            <w type="VE">說說</w>
+            <w type="VJ">抗</w>
+         </s>
+         <s>
+            <w type="D">要</w>
+            <w type="VC">喝</w>
+            <w type="Nep">什麼</w>
+            <w type="VH">好</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="D">來</w>
+            <w type="VC">煮</w>
+            <w type="Na">沸水</w>
+         </s>
+         <s>
+            <w type="VC">看</w>
+            <w type="Di">著</w>
+            <w type="Na">文章</w>
+         </s>
+         <s>
+            <w type="VC">泡</w>
+            <w type="Nf">杯</w>
+            <w type="Na">咖啡</w>
+            <w type="T">囉</w>
+         </s>
+      </body>
+      <title author="cactus99 (XCIX)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">喝</w>
+            <w type="Nep">什麼</w>
+            <w type="T">呢</w>
+         </s>
+      </title>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="Na">長島冰茶</w>
+            <w type="FW"> &amp;gt;//&amp;lt;</w>
+         </s>
+      </comment>
+      <comment author="cactus99" c_type="neu">
+         <s>
+            <w type="VD">給</w>
+            <w type="Nc">1樓</w>
+            <w type="VA">來</w>
+            <w type="Neu">2</w>
+            <w type="Nf">杯</w>
+            <w type="FW"> B</w>
+            <w type="Neu">52</w>
+            <w type="T">吧</w>
+            <w type="FW">~</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="VH">好</w>
+            <w type="T">唷</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nb">尼</w>
+            <w type="FW">~</w>
+         </s>
+      </comment>
+      <comment author="jzoethai" c_type="pos">
+         <s>
+            <w type="P">給</w>
+            <w type="VC">開司</w>
+            <w type="Neu">一</w>
+            <w type="Nf">罐</w>
+            <w type="Na">啤酒</w>
+         </s>
+      </comment>
+      <comment author="fatbean" c_type="pos">
+         <s>
+            <w type="D">吱吱</w>
+            <w type="Na">系列</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

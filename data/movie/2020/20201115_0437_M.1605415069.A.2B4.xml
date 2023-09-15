@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">wu0h96 (喜感)</metadata>
+      <metadata name="post_id">M.1605415069.A.2B4</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈票] 今天金馬影展《聽見心聲音》《災星少</metadata>
+   </teiHeader>
+   <text>
+      <body author="wu0h96 (喜感)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/6</w>
+            <w type="FW">Gf0ljy.jpg</w>
+         </s>
+         <s>
+            <w type="VD">贈送</w>
+            <w type="Neu">四</w>
+            <w type="Nf">張</w>
+            <w type="Nd">今天</w>
+            <w type="Nd">下午</w>
+            <w type="DE">的</w>
+            <w type="Na">票</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nd">一點半</w>
+            <w type="Nc">南京</w>
+            <w type="Nb">復興</w>
+            <w type="Nc">捷運站</w>
+            <w type="Nc">五號</w>
+            <w type="Nc">出口</w>
+            <w type="Ncd">下面</w>
+            <w type="Na">面</w>
+            <w type="VD">交</w>
+         </s>
+      </body>
+      <title author="wu0h96 (喜感)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">今天</w>
+            <w type="Na">金馬</w>
+            <w type="Na">影展</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VE">聽見</w>
+            <w type="Na">心</w>
+            <w type="Na">聲音</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">災星</w>
+            <w type="VH">少</w>
+         </s>
+      </title>
+      <comment author="wu0h96" c_type="neu">
+         <s>
+            <w type="VD">送出</w>
+         </s>
+      </comment>
+      <comment author="riddlerkuo" c_type="pos">
+         <s>
+            <w type="Na">佛</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

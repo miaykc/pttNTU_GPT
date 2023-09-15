@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">cwh0105 (Ex咖哩棒)</metadata>
+      <metadata name="post_id">M.1624551304.A.EF4</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 漢左將軍宜城亭侯領豫州牧皇叔劉備</metadata>
+   </teiHeader>
+   <text>
+      <body author="cwh0105 (Ex咖哩棒)">
+         <s>
+            <w type="Dfa">太</w>
+            <w type="VH">長</w>
+            <w type="T">了</w>
+         </s>
+      </body>
+      <title author="cwh0105 (Ex咖哩棒)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 漢</w>
+            <w type="Na">左將軍</w>
+            <w type="Nc">宜城亭侯</w>
+            <w type="VC">領</w>
+            <w type="Na">豫州牧</w>
+            <w type="Na">皇叔</w>
+            <w type="Nb">劉備</w>
+         </s>
+      </title>
+      <comment author="abcde2048" c_type="pos">
+         <s>
+            <w type="Nd">漢</w>
+            <w type="Na">丞相</w>
+            <w type="Nc">武鄉侯</w>
+            <w type="Nb">諸葛亮</w>
+         </s>
+      </comment>
+      <comment author="DorkKnight" c_type="pos">
+         <s>
+            <w type="Na">忠義</w>
+            <w type="Na">神武</w>
+            <w type="VH">靈佑</w>
+            <w type="Na">仁勇</w>
+            <w type="VA">顯威</w>
+            <w type="VC">護國</w>
+            <w type="VC">保民</w>
+            <w type="Na">精誠</w>
+            <w type="VC">綏靖</w>
+            <w type="Na">翊贊</w>
+            <w type="Nb">宣德</w>
+            <w type="Nb">關聖</w>
+            <w type="Na">大</w>
+         </s>
+      </comment>
+      <comment author="DorkKnight" c_type="neu">
+         <s>
+            <w type="Na">帝</w>
+         </s>
+      </comment>
+      <comment author="daye87" c_type="pos">
+         <s>
+            <w type="Nd">魏</w>
+            <w type="Na">丞相</w>
+            <w type="Nb">武皇帝</w>
+            <w type="VC">戲</w>
+            <w type="Na">人妻</w>
+            <w type="Nb">阿瞞</w>
+            <w type="Nb">曹操</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

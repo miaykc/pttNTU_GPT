@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">kylefan (柚子)</metadata>
+      <metadata name="post_id">M.1587789016.A.7CB</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[討論] 索尼及漫威部分電影檔期調整</metadata>
+   </teiHeader>
+   <text>
+      <body author="kylefan (柚子)">
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">蜘蛛人</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VH">新</w>
+            <w type="Na">宇宙</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">續集</w>
+         </s>
+         <s>
+            <w type="P">由</w>
+            <w type="Neu">2022/4/8</w>
+            <w type="VC">延後</w>
+            <w type="P">至</w>
+            <w type="Neu">2022/10/7</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">蜘蛛人</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="VA">離家日</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">續集</w>
+         </s>
+         <s>
+            <w type="P">由</w>
+            <w type="Neu">2021/7/16</w>
+            <w type="VC">延後</w>
+            <w type="P">至</w>
+            <w type="Neu">2021/11/5</w>
+         </s>
+         <s>
+            <w type="VC">配合</w>
+            <w type="Na">前述</w>
+            <w type="Na">電影</w>
+            <w type="VB">延期</w>
+         </s>
+         <s>
+            <w type="Nb">迪士尼</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Nb">漫威</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VH">奇異</w>
+            <w type="Na">博士</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">續集</w>
+         </s>
+         <s>
+            <w type="Neu">數</w>
+            <w type="Nf">週</w>
+            <w type="Ng">前</w>
+            <w type="D">甫</w>
+            <w type="VB">延期</w>
+            <w type="P">至</w>
+            <w type="Neu">2021/11/5</w>
+            <w type="Nd">如今</w>
+            <w type="D">再</w>
+            <w type="VC">延後</w>
+            <w type="P">至</w>
+            <w type="Neu">2022/3/25</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">雷神</w>
+            <w type="Nb">索爾</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Neu">第四</w>
+            <w type="Nf">集</w>
+         </s>
+         <s>
+            <w type="Neu">數</w>
+            <w type="Nf">週</w>
+            <w type="Ng">前</w>
+            <w type="D">甫</w>
+            <w type="VB">延期</w>
+            <w type="P">至</w>
+            <w type="Neu">2022/2/18</w>
+            <w type="Nd">如今</w>
+            <w type="D">稍</w>
+            <w type="VB">提前</w>
+            <w type="P">至</w>
+            <w type="Neu">2022/2/11</w>
+         </s>
+         <s>
+            <w type="Nb">索尼</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">秘境</w>
+            <w type="VA">探險</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="P">由</w>
+            <w type="Neu">2021/10/8</w>
+            <w type="VB">提前</w>
+            <w type="P">至</w>
+            <w type="Neu">2021/7/16</w>
+         </s>
+         <s>
+            <w type="Nb">索尼</w>
+            <w type="Nd">同時</w>
+            <w type="D">也</w>
+            <w type="VB">延期</w>
+            <w type="Di">了</w>
+            <w type="VK">如下</w>
+            <w type="Na">電影</w>
+         </s>
+         <s>
+            <w type="FW">Connected</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Sony</w>
+            <w type="FW"> Pictures</w>
+            <w type="FW"> Animation</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> – </w>
+            <w type="Neu">10/23/2020</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">from</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">9/18/2020</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">Escape</w>
+            <w type="FW"> Room</w>
+            <w type="FW"> 2 </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Columbia </w>
+            <w type="FW">Pictures</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> – 1/1/2021</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">from</w>
+            <w type="FW"> 12/3</w>
+            <w type="Neu">0/2020</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">Fatherhood</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Columbia</w>
+            <w type="FW"> Pictures</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> – </w>
+            <w type="Neu">4/2/2021</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">from</w>
+            <w type="FW"> 10/23/2020</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">Vivo </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Sony</w>
+            <w type="FW"> Pictures</w>
+            <w type="FW"> Animation</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> – </w>
+            <w type="Neu">6/4/2021</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">from</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">4/16</w>
+            <w type="FW">/2021</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">Hotel</w>
+            <w type="FW"> Transylvania</w>
+            <w type="FW"> 4 </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Sony</w>
+            <w type="FW"> Pictures Animation</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> – 8/6/2021</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">from</w>
+            <w type="FW"> 12/22/2021</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">Man</w>
+            <w type="FW"> from</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Toronto</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Columbia</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Pictures</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> – </w>
+            <w type="Neu">9/1</w>
+            <w type="Neu">7/2021</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">from</w>
+            <w type="FW"> 11/2</w>
+            <w type="Neu">0/2020</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">The</w>
+            <w type="FW"> Nightingale</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">TriStar</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Pictures</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> – TBD </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">from</w>
+            <w type="FW"> 12/25</w>
+            <w type="FW">/2020</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//bit.ly/3bEDjLp</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//bit.ly/3bE5</w>
+            <w type="FW">Gt0</w>
+         </s>
+      </body>
+      <title author="kylefan (柚子)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">索尼</w>
+            <w type="Caa">及</w>
+            <w type="Nb">漫威</w>
+            <w type="Neqa">部分</w>
+            <w type="Na">電影</w>
+            <w type="Na">檔期</w>
+            <w type="VC">調整</w>
+         </s>
+      </title>
+      <comment author="xd987" c_type="pos">
+         <s>
+            <w type="FW">Nooo</w>
+            <w type="FW">oo</w>
+         </s>
+      </comment>
+      <comment author="shen0348" c_type="pos">
+         <s>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">中共</w>
+            <w type="Na">肺炎</w>
+         </s>
+      </comment>
+      <comment author="boris0610" c_type="pos">
+         <s>
+            <w type="VJ">謝囉 </w>
+            <w type="Nb">中共</w>
+            <w type="Na">病毒</w>
+         </s>
+      </comment>
+      <comment author="acn88205" c_type="pos">
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="Nb">漫威</w>
+            <w type="Neu">2020</w>
+            <w type="D">完全</w>
+            <w type="VJ">沒有</w>
+            <w type="Na">電影</w>
+            <w type="Na">計畫</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="o0991758566" c_type="pos">
+         <s>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="andersonlin" c_type="pos">
+         <s>
+            <w type="Neu">2020</w>
+            <w type="VJ">剩</w>
+            <w type="VH">黑</w>
+            <w type="Na">寡婦</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

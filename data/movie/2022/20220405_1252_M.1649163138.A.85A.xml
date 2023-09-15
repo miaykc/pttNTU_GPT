@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">hong1126 (股板廢文王)</metadata>
+      <metadata name="post_id">M.1649163138.A.85A</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">Re: [討論] 開戰時刻</metadata>
+   </teiHeader>
+   <text>
+      <body author="hong1126 (股板廢文王)">
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Dfa">太</w>
+            <w type="Na">經典</w>
+            <w type="T">了</w>
+         </s>
+         <s>
+            <w type="Cbb">所以</w>
+            <w type="Nh">我</w>
+            <w type="Nd">今天</w>
+            <w type="D">又</w>
+            <w type="VC">重看</w>
+            <w type="Di">了</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="FW">~</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="D">又</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">疑問</w>
+            <w type="FW">~</w>
+         </s>
+         <s>
+            <w type="Nb">瑞秋</w>
+            <w type="D">去</w>
+            <w type="VC">找</w>
+            <w type="Na">稻草人</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="FW">~</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">蝙蝠俠</w>
+            <w type="D">明明</w>
+            <w type="D">就</w>
+            <w type="VK">知道</w>
+            <w type="V_2">有</w>
+            <w type="VH">危險</w>
+         </s>
+         <s>
+            <w type="D">為什麼</w>
+            <w type="D">不</w>
+            <w type="D">一</w>
+            <w type="VH">開始</w>
+            <w type="D">就</w>
+            <w type="P">幫</w>
+            <w type="Nb">瑞秋</w>
+            <w type="VC">注射</w>
+            <w type="Na">抗體</w>
+            <w type="FW">~</w>
+         </s>
+         <s>
+            <w type="Cbb">而是</w>
+            <w type="P">等</w>
+            <w type="Nb">瑞秋</w>
+            <w type="VH">中毒</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="Da">才</w>
+            <w type="P">幫</w>
+            <w type="Nh">她</w>
+            <w type="VC">注射</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="P">至於</w>
+            <w type="Na">抗體</w>
+            <w type="P">跟</w>
+            <w type="VC">治療</w>
+            <w type="VH">中毒</w>
+            <w type="SHI">是</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">種</w>
+            <w type="VH">不同</w>
+            <w type="DE">的</w>
+            <w type="Na">事情</w>
+            <w type="DE">的</w>
+            <w type="FW">bug</w>
+            <w type="Nh">我</w>
+            <w type="D">就</w>
+            <w type="D">先</w>
+            <w type="VJ">忽略</w>
+            <w type="T">了</w>
+            <w type="FW">~</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </body>
+      <title author="hong1126 (股板廢文王)">
+         <s>
+            <w type="FW">Re</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VE">討論</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nv">開戰</w>
+            <w type="Na">時刻</w>
+         </s>
+      </title>
+      <comment author="Layase" c_type="neu">
+         <s>
+            <w type="VK">記得</w>
+            <w type="SHI">是</w>
+            <w type="Nb">摩根費里曼</w>
+            <w type="P">幫</w>
+            <w type="Nh">他</w>
+            <w type="VC">做</w>
+            <w type="DE">的</w>
+            <w type="T">吧</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nep">那</w>
+            <w type="Na">時候</w>
+            <w type="D">還</w>
+            <w type="D">沒</w>
+            <w type="VC">做好</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="faramirl" c_type="pos">
+         <s>
+            <w type="Na">蛇毒</w>
+            <w type="Na">血清</w>
+            <w type="Na">抗體</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="VH">中毒</w>
+            <w type="Da">才</w>
+            <w type="VC">打</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

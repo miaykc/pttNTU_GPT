@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">WadeKuo ()</metadata>
+      <metadata name="post_id">M.1610336593.A.AA4</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 電動世界被火車撞</metadata>
+   </teiHeader>
+   <text>
+      <body author="WadeKuo ()">
+         <s>
+            <w type="Na">印象</w>
+            <w type="Ng">中</w>
+            <w type="SHI">是</w>
+            <w type="Neu">2020</w>
+            <w type="Nes">下</w>
+            <w type="Neqa">半</w>
+            <w type="Nf">年</w>
+            <w type="VCL">去</w>
+            <w type="Nb">美麗華</w>
+            <w type="VC">看</w>
+            <w type="Na">電影</w>
+            <w type="DE">的</w>
+            <w type="Na">預告片</w>
+         </s>
+         <s>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="Na">動畫</w>
+            <w type="Na">電影</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">男</w>
+            <w type="Na">主角</w>
+            <w type="P">在</w>
+            <w type="Na">現實</w>
+            <w type="Nc">世界</w>
+            <w type="VA">打電動</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Na">遊戲</w>
+            <w type="Nc">世界</w>
+            <w type="Ncd">中</w>
+            <w type="Nes">每</w>
+            <w type="Nf">次</w>
+            <w type="VC">遇到</w>
+            <w type="Na">女</w>
+            <w type="Na">主角</w>
+            <w type="Ng">時</w>
+            <w type="D">就</w>
+            <w type="P">被</w>
+            <w type="Na">火車</w>
+            <w type="VC">撞</w>
+         </s>
+         <s>
+            <w type="D">然後</w>
+            <w type="Nes">下</w>
+            <w type="Neu">一</w>
+            <w type="Nf">幕</w>
+            <w type="D">又</w>
+            <w type="D">從頭</w>
+            <w type="VA">來過</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">用盡</w>
+            <w type="Na">辦法</w>
+            <w type="VJ">認識</w>
+            <w type="Na">女</w>
+            <w type="Na">主角</w>
+         </s>
+         <s>
+            <w type="D">大概</w>
+            <w type="Da">只</w>
+            <w type="VK">記得</w>
+            <w type="VH">這樣</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">想</w>
+            <w type="VE">問</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Na">片名</w>
+            <w type="SHI">是</w>
+            <w type="Nep">什麼</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="VJ">謝謝</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </body>
+      <title author="WadeKuo ()">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">電動</w>
+            <w type="Nc">世界</w>
+            <w type="P">被</w>
+            <w type="Na">火車</w>
+            <w type="VC">撞</w>
+         </s>
+      </title>
+      <comment author="madeathmao" c_type="neu">
+         <s>
+            <w type="Nb">萊恩雷諾斯</w>
+            <w type="DE">的</w>
+            <w type="VA">脫稿</w>
+            <w type="Na">玩家</w>
+            <w type="T">吧</w>
+         </s>
+      </comment>
+      <comment author="WadeKuo" c_type="neu">
+         <s>
+            <w type="VJ">沒</w>
+            <w type="Na">錯</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+      <comment author="WadeKuo" c_type="neu">
+         <s>
+            <w type="Cbb">不過</w>
+            <w type="D">剛</w>
+            <w type="FW">Google</w>
+            <w type="VJ">無</w>
+            <w type="Na">限期</w>
+            <w type="VA">撤檔</w>
+            <w type="Di">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">時候</w>
+            <w type="Da">才</w>
+            <w type="VE">看</w>
+            <w type="DE">得</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

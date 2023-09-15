@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">lgng66133 (臭猴子)</metadata>
+      <metadata name="post_id">M.1647842614.A.2AE</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 2022 美國攝影師協會 得獎名單</metadata>
+   </teiHeader>
+   <text>
+      <body author="lgng66133 (臭猴子)">
+         <s>
+            <w type="Na">劇情</w>
+            <w type="Na">長片</w>
+         </s>
+         <s>
+            <w type="FW">Greig</w>
+            <w type="FW"> Fraser</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">沙丘</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Nb">聚光燈獎</w>
+         </s>
+         <s>
+            <w type="FW">Pat</w>
+            <w type="FW"> Scola</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">豬殺令</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="Na">紀錄片</w>
+         </s>
+         <s>
+            <w type="FW">Jessica </w>
+            <w type="FW">Beshir</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Faya</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Dayi</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+      </body>
+      <title author="lgng66133 (臭猴子)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 2022</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">美國</w>
+            <w type="Na">攝影師</w>
+            <w type="Nc">協會</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">得獎</w>
+            <w type="Na">名單</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

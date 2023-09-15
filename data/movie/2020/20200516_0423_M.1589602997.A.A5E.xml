@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">cmo123123 (海派大田心)</metadata>
+      <metadata name="post_id">M.1589602997.A.A5E</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[問片] 近期一部香港大成本科幻片</metadata>
+   </teiHeader>
+   <text>
+      <body author="cmo123123 (海派大田心)">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VK">記得</w>
+            <w type="Nes">前</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">個</w>
+            <w type="Na">月</w>
+            <w type="V_2">有</w>
+            <w type="VC">看過</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Nc">香港</w>
+            <w type="Na">科幻片</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="VE">預告</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="SHI">是</w>
+            <w type="Na">科技</w>
+            <w type="Na">戰爭</w>
+            <w type="Na">內容</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">好像</w>
+            <w type="SHI">是</w>
+            <w type="Nb">古天樂</w>
+            <w type="D">還</w>
+         </s>
+         <s>
+            <w type="SHI">是</w>
+            <w type="Nb">劉青雲</w>
+            <w type="VC">演</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="Na">片名</w>
+            <w type="VK">忘記</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="VE">想</w>
+            <w type="VK">知道</w>
+            <w type="SHI">是</w>
+         </s>
+         <s>
+            <w type="T">否</w>
+            <w type="VAC">上映</w>
+            <w type="Di">了</w>
+            <w type="T">呢</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+         <s>
+            <w type="VC">求</w>
+            <w type="Na">片名</w>
+         </s>
+      </body>
+      <title author="cmo123123 (海派大田心)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問片</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">近期</w>
+            <w type="Neu">一</w>
+            <w type="Nf">部</w>
+            <w type="Nc">香港</w>
+            <w type="VH">大</w>
+            <w type="Na">成本</w>
+            <w type="Na">科幻片</w>
+         </s>
+      </title>
+      <comment author="Hans14" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/l</w>
+            <w type="FW">MFJijxmU</w>
+            <w type="FW">Fo</w>
+         </s>
+      </comment>
+      <comment author="Apologize924" c_type="pos">
+         <s>
+            <w type="Na">機器</w>
+            <w type="DE">之</w>
+            <w type="Na">血</w>
+         </s>
+      </comment>
+      <comment author="w854105" c_type="pos">
+         <s>
+            <w type="Nd">明日戰記</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">還</w>
+            <w type="D">沒</w>
+            <w type="VAC">上映</w>
+         </s>
+      </comment>
+      <comment author="scores" c_type="neu">
+         <s>
+            <w type="VK">感覺</w>
+            <w type="D">還</w>
+            <w type="VH">不錯</w>
+            <w type="DE">的</w>
+            <w type="Na">商業片</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">希望</w>
+            <w type="D">不要</w>
+            <w type="Cbb">因為</w>
+            <w type="Na">疫情</w>
+            <w type="VCL">回不了</w>
+            <w type="Nes">本</w>
+         </s>
+      </comment>
+      <comment author="KaPo2013" c_type="neu">
+         <s>
+            <w type="Na">特效</w>
+            <w type="VC">做</w>
+            <w type="DE">得</w>
+            <w type="VH">不錯</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

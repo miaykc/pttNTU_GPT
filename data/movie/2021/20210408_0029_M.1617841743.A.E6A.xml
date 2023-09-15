@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jjolm221 (JOHN三小)</metadata>
+      <metadata name="post_id">M.1617841743.A.E6A</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈票] 今晚七點半 辣個艾莉絲 信義威秀</metadata>
+   </teiHeader>
+   <text>
+      <body author="jjolm221 (JOHN三小)">
+         <s>
+            <w type="D">已</w>
+            <w type="VD">贈出</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">在</w>
+            <w type="Neu">14廳</w>
+         </s>
+         <s>
+            <w type="VF">請</w>
+            <w type="VE">確認</w>
+            <w type="VH">有空</w>
+            <w type="Ng">後</w>
+            <w type="VK">私信</w>
+            <w type="Nh">我</w>
+         </s>
+      </body>
+      <title author="jjolm221 (JOHN三小)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">今晚</w>
+            <w type="Nd">七點半</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">辣</w>
+            <w type="Di">個</w>
+            <w type="Nb">艾莉絲</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">信義</w>
+            <w type="Nc">威秀</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

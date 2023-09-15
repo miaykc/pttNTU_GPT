@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">zqAI3yGOAT (洨霸丸)</metadata>
+      <metadata name="post_id">M.1636571165.A.DFF</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 準備期中很累的請進</metadata>
+   </teiHeader>
+   <text>
+      <body author="zqAI3yGOAT (洨霸丸)">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Neu">一</w>
+            <w type="Nf">科</w>
+            <w type="Nd">期中</w>
+            <w type="D">都</w>
+            <w type="VJ">沒有</w>
+            <w type="T">喔</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">嘻嘻</w>
+         </s>
+      </body>
+      <title author="zqAI3yGOAT (洨霸丸)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">準備</w>
+            <w type="Nd">期中</w>
+            <w type="Dfa">很</w>
+            <w type="VHC">累</w>
+            <w type="DE">的</w>
+            <w type="VF">請</w>
+            <w type="VC">進</w>
+         </s>
+      </title>
+      <comment author="chun10396974" c_type="neu">
+         <s>
+            <w type="VA">滾</w>
+         </s>
+      </comment>
+      <comment author="maozz" c_type="neg">
+         <s>
+            <w type="COLONCATEGORY">：</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="neu">
+         <s>
+            <w type="VH">讚</w>
+            <w type="T">喔</w>
+         </s>
+      </comment>
+      <comment author="Inglenook" c_type="neg">
+         <s>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">^_^</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </comment>
+      <comment author="Evan41311" c_type="neg">
+         <s>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="jzoethai" c_type="neg">
+         <s>
+            <w type="VC">幹</w>
+         </s>
+      </comment>
+      <comment author="tek5615" c_type="neu">
+         <s>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VA">握手</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

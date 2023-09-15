@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">MarcW ( )</metadata>
+      <metadata name="post_id">M.1665132729.A.2D6</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 《每天上班總是累得要死》電影預告</metadata>
+   </teiHeader>
+   <text>
+      <body author="MarcW ( )">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/AHg</w>
+            <w type="FW">Bqn0aq</w>
+            <w type="FW">S0</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nes">每</w>
+            <w type="Nf">天</w>
+            <w type="VA">回家</w>
+            <w type="Na">老婆</w>
+            <w type="D">都</w>
+            <w type="P">在</w>
+            <w type="VC">裝</w>
+            <w type="VH">死</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VC">編導</w>
+            <w type="FW">+</w>
+            <w type="Na">男主</w>
+         </s>
+         <s>
+            <w type="Nb">安田顯</w>
+            <w type="P">跟</w>
+            <w type="Nb">小池榮子</w>
+            <w type="D">又</w>
+            <w type="VC">演</w>
+            <w type="Na">夫妻</w>
+            <w type="T">啦</w>
+         </s>
+         <s>
+            <w type="Dk">話說</w>
+            <w type="Nep">這</w>
+            <w type="Na">片名</w>
+            <w type="D">應該</w>
+            <w type="Neqa">很多</w>
+            <w type="Na">人</w>
+            <w type="VH">心</w>
+            <w type="V_2">有戚戚</w>
+            <w type="T">焉</w>
+         </s>
+      </body>
+      <title author="MarcW ( )">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nes">每</w>
+            <w type="Nf">天</w>
+            <w type="VA">上班</w>
+            <w type="D">總是</w>
+            <w type="VHC">累</w>
+            <w type="DE">得</w>
+            <w type="D">要</w>
+            <w type="VH">死</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">電影</w>
+            <w type="VE">預告</w>
+         </s>
+      </title>
+      <comment author="ace168168" c_type="neu">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">縮圖</w>
+            <w type="Dfa">太</w>
+            <w type="VG">像</w>
+            <w type="Na">母湯</w>
+            <w type="DE">的</w>
+            <w type="Na">片</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="Bastille" c_type="pos">
+         <s>
+            <w type="Nc">全聯</w>
+            <w type="Na">員工</w>
+            <w type="D">應該</w>
+            <w type="Neu">一</w>
+            <w type="Na">人</w>
+            <w type="VD">發</w>
+            <w type="Neu">一</w>
+            <w type="Nf">張</w>
+            <w type="Na">電影票</w>
+         </s>
+      </comment>
+      <comment author="Presider" c_type="pos">
+         <s>
+            <w type="VE">請問</w>
+            <w type="Na">主題曲</w>
+            <w type="SHI">是</w>
+            <w type="Nh">誰</w>
+            <w type="VC">唱</w>
+            <w type="T">的</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

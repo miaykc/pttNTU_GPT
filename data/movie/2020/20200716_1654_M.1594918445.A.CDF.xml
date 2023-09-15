@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">qpr322 (龍魚)</metadata>
+      <metadata name="post_id">M.1594918445.A.CDF</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[新聞] 中國宣布電影院開放營業！開出19項規定「片長不能超過2小時</metadata>
+   </teiHeader>
+   <text>
+      <body author="qpr322 (龍魚)">
+         <s>
+            <w type="Na">新聞</w>
+            <w type="Na">網址</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//bit.ly/30jWWE2</w>
+         </s>
+         <s>
+            <w type="Nc">中國</w>
+            <w type="Cbb">因為</w>
+            <w type="Na">肺炎</w>
+            <w type="Na">疫情</w>
+            <w type="Nc">電影院</w>
+            <w type="VC">關閉</w>
+            <w type="VJ">超過</w>
+            <w type="Neqa">半</w>
+            <w type="Nf">年</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">隨著</w>
+            <w type="Neqa">部分</w>
+            <w type="Nc">地區</w>
+            <w type="Na">疫情</w>
+            <w type="VH">趨緩</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">中國</w>
+            <w type="Na">國家</w>
+            <w type="Nc">電影局</w>
+            <w type="Nd">16日</w>
+            <w type="VE">宣</w>
+         </s>
+         <s>
+            <w type="Na">布</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Na">疫情</w>
+            <w type="VC">防控</w>
+            <w type="VHC">常態化</w>
+            <w type="Na">條件</w>
+            <w type="Ng">下</w>
+            <w type="V_2">有序</w>
+            <w type="VAC">推進</w>
+            <w type="Nc">電影院</w>
+            <w type="VHC">恢復</w>
+            <w type="VC">開放</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">低風險</w>
+            <w type="Nc">地區</w>
+            <w type="P">在</w>
+            <w type="Nc">電影院</w>
+            <w type="Nes">各</w>
+            <w type="Nf">項</w>
+            <w type="Nv">防控</w>
+         </s>
+         <s>
+            <w type="Na">措施</w>
+            <w type="VH">有效</w>
+            <w type="VHC">落實</w>
+            <w type="VH">到位</w>
+            <w type="Na">前提</w>
+            <w type="Ng">下</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可</w>
+            <w type="P">於</w>
+            <w type="Nd">7月</w>
+            <w type="Nd">20日</w>
+            <w type="V_2">有序</w>
+            <w type="VHC">恢復</w>
+            <w type="VC">開放</w>
+            <w type="VA">營業</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="A">中高風險</w>
+            <w type="Nc">地區</w>
+            <w type="D">暫不</w>
+            <w type="VC">開放</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+         </s>
+         <s>
+            <w type="Nc">中國</w>
+            <w type="Na">電影</w>
+            <w type="VC">發行</w>
+            <w type="VC">放映</w>
+            <w type="Nc">協會</w>
+            <w type="D">也</w>
+            <w type="VE">公布</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">電影</w>
+            <w type="VC">放映</w>
+            <w type="Na">場所</w>
+            <w type="VHC">恢復</w>
+            <w type="VC">開放</w>
+            <w type="Na">疫情</w>
+            <w type="VE">防控</w>
+            <w type="Na">指南</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">包含</w>
+            <w type="Neu">19</w>
+            <w type="Nf">項</w>
+            <w type="Na">規範</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="P">除了</w>
+            <w type="Nc">電影院</w>
+            <w type="D">要</w>
+            <w type="D">定期</w>
+            <w type="VH">清潔</w>
+            <w type="VC">消毒</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VJ">保持</w>
+            <w type="VH">良好</w>
+            <w type="VH">通風</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">做好</w>
+            <w type="Na">員工</w>
+            <w type="VH">健康</w>
+            <w type="VC">管理</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VC">加強</w>
+            <w type="VA">防疫</w>
+            <w type="VC">宣傳</w>
+            <w type="Ng">外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">觀眾</w>
+         </s>
+         <s>
+            <w type="D">也</w>
+            <w type="D">必須</w>
+            <w type="D">全</w>
+            <w type="Na">程</w>
+            <w type="VC">配戴</w>
+            <w type="Na">口罩</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">且</w>
+            <w type="Na">體溫</w>
+            <w type="Neu">37.3</w>
+            <w type="Nf">度</w>
+            <w type="Neqb">以上</w>
+            <w type="Na">者</w>
+            <w type="D">不得</w>
+            <w type="VCL">進入</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="VD">售票</w>
+            <w type="Na">方式</w>
+            <w type="D">也</w>
+            <w type="VC">做</w>
+            <w type="Di">了</w>
+            <w type="VC">調整</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neqa">全部</w>
+            <w type="VC">採取</w>
+            <w type="Na">網</w>
+         </s>
+         <s>
+            <w type="Na">路</w>
+            <w type="VA">實名</w>
+            <w type="VC">預約</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VJ">無</w>
+            <w type="VC">接觸</w>
+            <w type="Na">方式</w>
+            <w type="VA">售票</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VC">實行</w>
+            <w type="Nb">梅花座</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">保證</w>
+            <w type="VI">陌生</w>
+            <w type="Na">觀眾</w>
+            <w type="Na">間距</w>
+            <w type="Neu">1</w>
+            <w type="Nf">米</w>
+            <w type="Neqb">以上</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">且</w>
+            <w type="Nes">每</w>
+            <w type="Nf">場</w>
+            <w type="Na">上座</w>
+         </s>
+         <s>
+            <w type="Na">率</w>
+            <w type="D">不得</w>
+            <w type="VJ">超過</w>
+            <w type="Neu">30%</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">此外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="VHC">減少</w>
+            <w type="Nv">放映</w>
+            <w type="Na">場次</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">日排片</w>
+            <w type="VJ">減至</w>
+            <w type="VH">正常</w>
+            <w type="Na">時期</w>
+            <w type="DE">的</w>
+            <w type="Neqa">一半</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">控制</w>
+            <w type="VA">觀影</w>
+            <w type="Na">時間</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nes">每</w>
+            <w type="Nf">場</w>
+            <w type="D">不</w>
+            <w type="VJ">超過</w>
+            <w type="Neu">2</w>
+            <w type="Nf">個</w>
+         </s>
+         <s>
+            <w type="Nd">小時</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">且</w>
+            <w type="VC">延長</w>
+            <w type="Nc">場間</w>
+            <w type="VA">休息</w>
+            <w type="Na">時間</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以</w>
+            <w type="P">對</w>
+            <w type="Nc">影廳</w>
+            <w type="VH">充分</w>
+            <w type="VH">清潔</w>
+            <w type="Caa">與</w>
+            <w type="VC">消毒</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">不同</w>
+            <w type="Nc">影廳</w>
+            <w type="DE">得</w>
+            <w type="VC">錯開</w>
+            <w type="Na">排場</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">避免</w>
+            <w type="VCL">進出</w>
+         </s>
+         <s>
+            <w type="Nc">場</w>
+            <w type="Na">觀眾</w>
+            <w type="VAC">聚集</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">原則上</w>
+            <w type="D">不</w>
+            <w type="VC">售賣</w>
+            <w type="Na">零食</w>
+            <w type="Caa">和</w>
+            <w type="Na">飲料</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">影廳</w>
+            <w type="Ncd">內</w>
+            <w type="D">也</w>
+            <w type="VE">禁止</w>
+            <w type="Na">飲食</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/K1</w>
+            <w type="FW">oOd</w>
+            <w type="FW">Ga.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/nky</w>
+            <w type="FW">PBNC.jpg</w>
+         </s>
+         <s>
+            <w type="VC">補充</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">目前</w>
+            <w type="VA">復工</w>
+            <w type="Nes">首</w>
+            <w type="Nf">波</w>
+            <w type="VB">定檔</w>
+            <w type="Na">電影</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/hc</w>
+            <w type="FW">GQzEj.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/4</w>
+            <w type="FW">h0pho</w>
+            <w type="Neu">6</w>
+            <w type="Nf">.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/4</w>
+            <w type="FW">lNtL5Y.jpg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/E8</w>
+            <w type="FW">daR2</w>
+            <w type="FW">O.jpg</w>
+         </s>
+      </body>
+      <title author="qpr322 (龍魚)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">中國</w>
+            <w type="VE">宣布</w>
+            <w type="Nc">電影院</w>
+            <w type="VC">開放</w>
+            <w type="VA">營業</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="VC">開出</w>
+            <w type="Neu">19</w>
+            <w type="Nf">項</w>
+            <w type="Na">規定</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">片長</w>
+            <w type="D">不能</w>
+            <w type="VJ">超過</w>
+            <w type="Neu">2</w>
+            <w type="Na">小時</w>
+         </s>
+      </title>
+      <comment author="StarLeauge" c_type="neu">
+         <s>
+            <w type="Nep">那</w>
+            <w type="Nf">個</w>
+            <w type="Na">屍速</w>
+            <w type="Na">列車</w>
+            <w type="Neu">1</w>
+            <w type="Na">小時</w>
+            <w type="Neu">54</w>
+            <w type="Nf">分</w>
+         </s>
+      </comment>
+      <comment author="zitoneverwin" c_type="neg">
+         <s>
+            <w type="Nc">他國</w>
+            <w type="Na">事務</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Ncd">這邊</w>
+            <w type="VH">長</w>
+            <w type="DE">得</w>
+            <w type="VG">像</w>
+            <w type="Na">微博</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="nwoyao" c_type="neg">
+         <s>
+            <w type="VJ">關</w>
+            <w type="Nh">我們</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">事</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="D">要</w>
+            <w type="VJ">遵守</w>
+            <w type="T">嗎</w>
+         </s>
+      </comment>
+      <comment author="yupei" c_type="neu">
+         <s>
+            <w type="Nc">電影院</w>
+            <w type="D">沒有</w>
+            <w type="P">被</w>
+            <w type="Na">洪水</w>
+            <w type="VC">淹掉</w>
+            <w type="T">喔</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="nintenblo" c_type="neu">
+         <s>
+            <w type="Na">天</w>
+            <w type="D">能</w>
+            <w type="VH">首當其衝</w>
+         </s>
+      </comment>
+      <comment author="kevinfort" c_type="pos">
+         <s>
+            <w type="Nb">李鴻其</w>
+            <w type="VCL">去</w>
+            <w type="Nc">對岸</w>
+            <w type="Ng">後</w>
+            <w type="D">怎麼</w>
+            <w type="D">都</w>
+            <w type="VC">演</w>
+            <w type="Nf">些</w>
+            <w type="VK">奇怪</w>
+            <w type="DE">的</w>
+            <w type="Na">片</w>
+         </s>
+      </comment>
+      <comment author="TPhow" c_type="neu">
+         <s>
+            <w type="Nc">大陸</w>
+            <w type="Neqa">很多</w>
+            <w type="Na">院線</w>
+            <w type="P">在</w>
+            <w type="Na">臺</w>
+            <w type="D">也</w>
+            <w type="D">沒有</w>
+            <w type="VAC">上映</w>
+         </s>
+      </comment>
+      <comment author="Zsanou" c_type="neu">
+         <s>
+            <w type="VE">祝</w>
+            <w type="Na">疫情</w>
+            <w type="D">再</w>
+            <w type="VJ">爆發</w>
+         </s>
+      </comment>
+      <comment author="buchholiz" c_type="neu">
+         <s>
+            <w type="D">還</w>
+            <w type="D">沒</w>
+            <w type="VC">開放</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+      </comment>
+      <comment author="bjOWD" c_type="pos">
+         <s>
+            <w type="VE">想</w>
+            <w type="VC">看</w>
+            <w type="Nb">八佰 </w>
+            <w type="Nd">有生之年</w>
+            <w type="VE">看</w>
+            <w type="DE">得</w>
+            <w type="VE">到</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="fanchi703" c_type="neg">
+         <s>
+            <w type="Nep">這</w>
+            <w type="VC">干</w>
+            <w type="Na">電影版</w>
+            <w type="Na">屁事</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

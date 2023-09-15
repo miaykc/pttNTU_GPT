@@ -1,1 +1,1 @@
-# pttNTU_GPT_withLangChain_CLLT
+# prejudice_detection_CLLT

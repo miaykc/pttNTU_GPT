@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jasonliao89 (宅宅)</metadata>
+      <metadata name="post_id">M.1618719780.A.286</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] ntu peap 網速</metadata>
+   </teiHeader>
+   <text>
+      <body author="jasonliao89 (宅宅)">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Nd">今天</w>
+            <w type="Cbb">連</w>
+            <w type="FW">ntupeap</w>
+            <w type="VC">看</w>
+            <w type="FW">ntucool</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+            <w type="Na">影片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dk">結果</w>
+            <w type="Cbb">連</w>
+            <w type="VC">看</w>
+            <w type="Neu">360p</w>
+            <w type="DE">的</w>
+            <w type="Na">影片</w>
+            <w type="D">都</w>
+            <w type="Neqa">卡卡</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">所以</w>
+            <w type="D">去</w>
+            <w type="VC">測</w>
+            <w type="Nd">一下</w>
+            <w type="Na">網速</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">發現</w>
+            <w type="VC">下載</w>
+            <w type="Na">速度</w>
+            <w type="D">只</w>
+            <w type="V_2">有</w>
+            <w type="Neu">四</w>
+            <w type="Nf">點</w>
+            <w type="Neqb">多</w>
+            <w type="FW">Mpbs...</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">請問</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">網速</w>
+            <w type="SHI">是</w>
+            <w type="VH">正常</w>
+            <w type="T">的</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="VJ">謝謝</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="D">再</w>
+            <w type="VC">補充</w>
+            <w type="VE">問</w>
+            <w type="Nf">個</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">有時候</w>
+            <w type="D">明明</w>
+            <w type="FW">peap</w>
+            <w type="D">就</w>
+            <w type="V_2">有</w>
+            <w type="Na">訊號</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但是</w>
+            <w type="Nh">我</w>
+            <w type="D">卻</w>
+            <w type="D">一直</w>
+            <w type="VC">連</w>
+            <w type="D">不</w>
+            <w type="VC">上</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">請問</w>
+            <w type="Nh">大家</w>
+            <w type="D">會</w>
+            <w type="VH">這樣</w>
+            <w type="T">嗎</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">還是</w>
+         </s>
+         <s>
+            <w type="VE">說</w>
+            <w type="SHI">是</w>
+            <w type="Nh">我</w>
+            <w type="Nh">自己</w>
+            <w type="Na">電腦</w>
+            <w type="DE">的</w>
+            <w type="Na">問題</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </body>
+      <title author="jasonliao89 (宅宅)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> ntu</w>
+            <w type="FW"> peap</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">網速</w>
+         </s>
+      </title>
+      <comment author="social" c_type="pos">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Na">都市</w>
+            <w type="Na">傳說</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">NTU</w>
+            <w type="Dfa">比較</w>
+            <w type="VH">快</w>
+         </s>
+      </comment>
+      <comment author="cwh0105" c_type="neu">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VA">宿網</w>
+            <w type="Ncd">上</w>
+            <w type="VD">傳</w>
+            <w type="Da">只</w>
+            <w type="D">能</w>
+            <w type="Neu">100</w>
+            <w type="FW">kbps</w>
+         </s>
+      </comment>
+      <comment author="wholehearted" c_type="pos">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Na">網路</w>
+            <w type="D">一直</w>
+            <w type="D">都</w>
+            <w type="Dfa">很</w>
+            <w type="D">不</w>
+            <w type="VH">穩</w>
+            <w type="T">呀</w>
+         </s>
+      </comment>
+      <comment author="zouelephant" c_type="pos">
+         <s>
+            <w type="FW">eduroam</w>
+            <w type="VCL">路過</w>
+         </s>
+      </comment>
+      <comment author="cuteSquirrel" c_type="pos">
+         <s>
+            <w type="FW">tanet</w>
+            <w type="VCL">路過</w>
+         </s>
+      </comment>
+      <comment author="FuruyaRei" c_type="neu">
+         <s>
+            <w type="FW">Mbps</w>
+         </s>
+      </comment>
+      <comment author="jason90814" c_type="pos">
+         <s>
+            <w type="Nc">校</w>
+            <w type="Ncd">內</w>
+            <w type="Cbb">不管</w>
+            <w type="FW">ntu</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">ntupeap</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="FW">eduroam</w>
+            <w type="P">從</w>
+            <w type="Ncd">上</w>
+            <w type="Na">學期</w>
+            <w type="Ng">開始</w>
+            <w type="Nh">我</w>
+            <w type="D">就</w>
+            <w type="D">都</w>
+            <w type="Cbb">連</w>
+         </s>
+      </comment>
+      <comment author="jason90814" c_type="neu">
+         <s>
+            <w type="D">不</w>
+            <w type="Dfa">太</w>
+            <w type="Ncd">上</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="D">剛剛</w>
+            <w type="VC">測宿網</w>
+            <w type="D">倒是</w>
+            <w type="Dfa">很</w>
+            <w type="VH">順</w>
+         </s>
+      </comment>
+      <comment author="jason90814" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/QrvAGS8</w>
+            <w type="FW">.png</w>
+         </s>
+      </comment>
+      <comment author="qwezxc" c_type="pos">
+         <s>
+            <w type="VE">說</w>
+            <w type="Nf">個</w>
+            <w type="Na">笑話</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">百</w>
+            <w type="VH">大</w>
+            <w type="DE">的</w>
+            <w type="VH">三流</w>
+            <w type="Na">網路</w>
+         </s>
+      </comment>
+      <comment author="john668" c_type="neu">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Na">網路</w>
+            <w type="D">大概</w>
+            <w type="V_2">有</w>
+            <w type="Neu">10多</w>
+            <w type="Nf">年</w>
+            <w type="D">沒</w>
+            <w type="VC">加強</w>
+            <w type="Di">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">根本</w>
+            <w type="D">沒</w>
+            <w type="VH">進步</w>
+         </s>
+      </comment>
+      <comment author="john668" c_type="neu">
+         <s>
+            <w type="Neqa">很多</w>
+            <w type="Na">東西</w>
+            <w type="D">都</w>
+            <w type="Dfa">很</w>
+            <w type="VH">可笑</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">飲水機</w>
+            <w type="Neu">2010</w>
+            <w type="DE">的</w>
+            <w type="VC">寫</w>
+            <w type="VC">使用</w>
+            <w type="Na">年限</w>
+            <w type="Neu">3</w>
+            <w type="Nf">年</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dk">結果</w>
+            <w type="D">還</w>
+            <w type="D">在</w>
+            <w type="VC">用</w>
+         </s>
+      </comment>
+      <comment author="cwh0105" c_type="neu">
+         <s>
+            <w type="Nc">樓上</w>
+            <w type="Nep">那</w>
+            <w type="SHI">是</w>
+            <w type="VL">用來</w>
+            <w type="VG">算</w>
+            <w type="VH">折舊</w>
+            <w type="DE">的</w>
+            <w type="FW">==</w>
+         </s>
+      </comment>
+      <comment author="lunar" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VC">看過</w>
+            <w type="VJ">超過</w>
+            <w type="VC">使用</w>
+            <w type="Na">年限</w>
+            <w type="Neu">30</w>
+            <w type="Nf">年</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="baseballbin" c_type="pos">
+         <s>
+            <w type="Nep">那</w>
+            <w type="D">又</w>
+            <w type="SHI">是</w>
+            <w type="Nh">誰</w>
+            <w type="DE">的</w>
+            <w type="Na">問題</w>
+            <w type="T">呢</w>
+         </s>
+      </comment>
+      <comment author="daye87" c_type="pos">
+         <s>
+            <w type="Nh">你</w>
+            <w type="DE">的</w>
+            <w type="Na">單位</w>
+            <w type="D">還可以</w>
+            <w type="P">用</w>
+            <w type="FW">mbps</w>
+            <w type="D">要</w>
+            <w type="VH">知足 多</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="FW">kbps</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

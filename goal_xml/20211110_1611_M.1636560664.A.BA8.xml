@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">Kindle777 (Kindle777)</metadata>
+      <metadata name="post_id">M.1636560664.A.BA8</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 哈哈好爽喔</metadata>
+   </teiHeader>
+   <text>
+      <body author="Kindle777 (Kindle777)">
+         <s>
+            <w type="VC">發</w>
+            <w type="Na">廢文</w>
+            <w type="Dfa">好</w>
+            <w type="VH">快樂</w>
+         </s>
+      </body>
+      <title author="Kindle777 (Kindle777)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">哈哈</w>
+            <w type="Dfa">好</w>
+            <w type="VH">爽</w>
+            <w type="T">喔</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

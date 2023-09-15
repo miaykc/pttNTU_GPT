@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">jjolm221 (JOHN三小)</metadata>
+      <metadata name="post_id">M.1678197227.A.27C</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">［贈票］3/8熊蓋毒 美麗華 19：00</metadata>
+   </teiHeader>
+   <text>
+      <body author="jjolm221 (JOHN三小)">
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="D">已</w>
+            <w type="VD">送出</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">興趣</w>
+            <w type="Cba">的話</w>
+            <w type="VF">請</w>
+            <w type="VK">私信</w>
+            <w type="Nh">我</w>
+            <w type="VJ">謝謝</w>
+         </s>
+      </body>
+      <title author="jjolm221 (JOHN三小)">
+         <s>
+            <w type="PARENTHESISCATEGORY">［</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">］</w>
+            <w type="Nd">3/8</w>
+            <w type="Na">熊蓋</w>
+            <w type="Na">毒</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">美麗華</w>
+            <w type="Neu"> 19</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">00</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

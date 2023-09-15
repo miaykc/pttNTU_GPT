@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">daye87 (猴子)</metadata>
+      <metadata name="post_id">M.1618768923.A.539</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 推薦一個學日文頻道</metadata>
+   </teiHeader>
+   <text>
+      <body author="daye87 (猴子)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//youtu.be/spBTCWU-7</w>
+            <w type="FW">v0</w>
+         </s>
+         <s>
+            <w type="I">卡哇余</w>
+         </s>
+      </body>
+      <title author="daye87 (猴子)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">推薦</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="VC">學</w>
+            <w type="Na">日文</w>
+            <w type="Na">頻道</w>
+         </s>
+      </title>
+      <comment author="NTUmsefat" c_type="pos">
+         <s>
+            <w type="FW">かわ</w>
+            <w type="Nh">余</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

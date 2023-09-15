@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">a58524andy (就先這樣吧)</metadata>
+      <metadata name="post_id">M.1619021009.A.90E</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 今晚</metadata>
+   </teiHeader>
+   <text>
+      <body author="a58524andy (就先這樣吧)">
+         <s>
+            <w type="P">用</w>
+            <w type="Na">標題</w>
+            <w type="Na">接龍</w>
+            <w type="I">喔</w>
+            <w type="I">喔</w>
+            <w type="I">喔</w>
+         </s>
+      </body>
+      <title author="a58524andy (就先這樣吧)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">今晚</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

@@ -1,0 +1,1831 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">SSID2244 (ssid)</metadata>
+      <metadata name="post_id">M.1586248673.A.122</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[校園] 遠端課程&amp;直播教學的設定</metadata>
+   </teiHeader>
+   <text>
+      <body author="SSID2244 (ssid)">
+         <s>
+            <w type="Cbb">如果</w>
+            <w type="Na">圖片</w>
+            <w type="VC">連結</w>
+            <w type="V_2">有</w>
+            <w type="Na">問題</w>
+            <w type="Cba">的話</w>
+            <w type="D">可以</w>
+            <w type="VC">參考</w>
+            <w type="Na">網頁版</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//reurl.cc/20Z2</w>
+            <w type="FW">Zm</w>
+         </s>
+         <s>
+            <w type="Na">前言</w>
+         </s>
+         <s>
+            <w type="P">為了</w>
+            <w type="VJ">因應</w>
+            <w type="Nc">中國</w>
+            <w type="Nc">武漢</w>
+            <w type="Na">肺炎</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">所以</w>
+            <w type="P">從</w>
+            <w type="VH">開學</w>
+            <w type="P">到</w>
+            <w type="Nd">現在</w>
+            <w type="D">一直</w>
+            <w type="D">在</w>
+            <w type="P">跟</w>
+            <w type="Na">教授</w>
+            <w type="VE">研究</w>
+            <w type="D">怎麼</w>
+            <w type="P">把</w>
+            <w type="Na">課程</w>
+            <w type="VG">弄成</w>
+            <w type="Nc">線上</w>
+            <w type="Na">課程</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="P">從</w>
+         </s>
+         <s>
+            <w type="D">當然</w>
+            <w type="D">可能</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+            <w type="Nf">些</w>
+            <w type="Na">人</w>
+            <w type="VK">覺得</w>
+            <w type="Nc">遠端</w>
+            <w type="Na">課程</w>
+            <w type="D">不用</w>
+            <w type="VC">搞</w>
+            <w type="DE">的</w>
+            <w type="D">這麼</w>
+            <w type="VHC">麻煩</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="D">就</w>
+            <w type="VH">見仁見智</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">如果</w>
+            <w type="D">要</w>
+            <w type="VH">直接</w>
+            <w type="VC">用</w>
+            <w type="Neu">一</w>
+         </s>
+         <s>
+            <w type="Nc">台</w>
+         </s>
+         <s>
+            <w type="D">先</w>
+            <w type="VH">簡單</w>
+            <w type="VE">說</w>
+            <w type="Nd">一下</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">方法</w>
+            <w type="DE">的</w>
+            <w type="Na">優缺點</w>
+            <w type="Caa">以及</w>
+            <w type="Nv">呈現</w>
+            <w type="Na">方式</w>
+         </s>
+         <s>
+            <w type="Na">優點</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nh">我</w>
+            <w type="Nh">個人</w>
+            <w type="VK">覺得</w>
+            <w type="D">會</w>
+            <w type="P">比</w>
+            <w type="VH">直接</w>
+            <w type="VC">架</w>
+            <w type="Na">相機</w>
+            <w type="Caa">或</w>
+            <w type="FW">DV</w>
+            <w type="D">來的</w>
+            <w type="VH">清楚</w>
+            <w type="Neqa">很多</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">而且</w>
+            <w type="Dfa">比較</w>
+            <w type="VH">多</w>
+            <w type="Na">資訊</w>
+         </s>
+         <s>
+            <w type="Na">缺點</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">當然</w>
+            <w type="D">就</w>
+            <w type="SHI">是</w>
+            <w type="VC">架設</w>
+            <w type="Di">起來</w>
+            <w type="Dfa">有點</w>
+            <w type="VHC">麻煩</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">然後</w>
+            <w type="VK">需要</w>
+            <w type="DE">的</w>
+            <w type="Na">器材</w>
+            <w type="VH">不少</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Cbb">不過</w>
+            <w type="D">其實</w>
+            <w type="D">也</w>
+            <w type="Cbb">就是</w>
+            <w type="VK">需要</w>
+            <w type="VH">多</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">張</w>
+            <w type="VC">擷</w>
+         </s>
+         <s>
+            <w type="VC">取</w>
+         </s>
+         <s>
+            <w type="Na">畫面</w>
+            <w type="D">看起來</w>
+            <w type="D">會</w>
+            <w type="VG">像</w>
+            <w type="VH">這樣</w>
+         </s>
+         <s>
+            <w type="Na">畫面</w>
+            <w type="Neu">1</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">教授</w>
+            <w type="VE">講解</w>
+            <w type="Na">課程</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+            <w type="Na">投影片</w>
+            <w type="P">在</w>
+            <w type="Ncd">左下</w>
+            <w type="VC">輔助</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">並且</w>
+            <w type="Na">投影片</w>
+            <w type="SHI">是</w>
+            <w type="P">跟</w>
+            <w type="Nc">課堂</w>
+            <w type="Na">投影機</w>
+            <w type="DE">的</w>
+            <w type="Na">畫面</w>
+            <w type="SHI">是</w>
+         </s>
+         <s>
+            <w type="VJ">同</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/4uvzdy</w>
+            <w type="ETCCATEGORY">T</w>
+         </s>
+         <s>
+            <w type="Na">畫面</w>
+            <w type="Neu">2</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">因為</w>
+            <w type="Nh">我們</w>
+            <w type="P">在</w>
+            <w type="Nc">課堂</w>
+            <w type="Ncd">上</w>
+            <w type="D">會</w>
+            <w type="FW">coding</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">所以</w>
+            <w type="D">要</w>
+            <w type="P">把</w>
+            <w type="Na">老師</w>
+            <w type="FW">coding</w>
+            <w type="DE">的</w>
+            <w type="Na">話</w>
+            <w type="VC">放大到</w>
+            <w type="Neqa">全</w>
+            <w type="Na">螢幕</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/dcM6</w>
+            <w type="FW">cmi</w>
+         </s>
+         <s>
+            <w type="VC">使用</w>
+            <w type="Na">器材</w>
+         </s>
+         <s>
+            <w type="Na">擷取卡</w>
+            <w type="FW">x2</w>
+         </s>
+         <s>
+            <w type="Na">直播</w>
+            <w type="VC">用</w>
+            <w type="Na">筆電</w>
+         </s>
+         <s>
+            <w type="A">教學用</w>
+            <w type="Na">筆電</w>
+         </s>
+         <s>
+            <w type="Na">攝影</w>
+            <w type="Na">器材</w>
+         </s>
+         <s>
+            <w type="Ncd">這裡</w>
+            <w type="Nh">我們</w>
+            <w type="Na">擷取卡</w>
+            <w type="SHI">是</w>
+            <w type="VC">使用</w>
+            <w type="FW"> A</w>
+            <w type="FW">Ver</w>
+            <w type="FW">Media GC551</w>
+            <w type="FW"> + GC513</w>
+         </s>
+         <s>
+            <w type="FW">GC551</w>
+            <w type="SHI">是</w>
+            <w type="VK">需要</w>
+            <w type="VC">下載</w>
+            <w type="VC">驅動</w>
+            <w type="Na">程式</w>
+            <w type="DE">的</w>
+            <w type="FW"> GC513</w>
+            <w type="D">則</w>
+            <w type="D">可以</w>
+            <w type="VC">支援</w>
+            <w type="D">隨</w>
+            <w type="VC">插</w>
+            <w type="D">即</w>
+            <w type="VC">用</w>
+         </s>
+         <s>
+            <w type="A">教學用</w>
+            <w type="Na">筆電</w>
+            <w type="D">則</w>
+            <w type="SHI">是</w>
+            <w type="Na">助教</w>
+            <w type="Nh">自己</w>
+            <w type="DE">的</w>
+            <w type="Na">筆電</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">規格</w>
+            <w type="Ng">上</w>
+            <w type="D">應該</w>
+            <w type="D">不會</w>
+            <w type="V_2">有</w>
+            <w type="Dfa">太</w>
+            <w type="VH">大</w>
+            <w type="VC">影響</w>
+         </s>
+         <s>
+            <w type="Nh">我</w>
+            <w type="Ncd">這裡</w>
+            <w type="VC">使用</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="FW">HP ENVY-13</w>
+         </s>
+         <s>
+            <w type="Na">規格</w>
+            <w type="VG">如下</w>
+         </s>
+         <s>
+            <w type="FW">OS</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Windows</w>
+            <w type="FW"> 10</w>
+         </s>
+         <s>
+            <w type="FW">CPU</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Intel</w>
+            <w type="FW"> Core</w>
+            <w type="FW"> i5-8250</w>
+            <w type="ETCCATEGORY">U</w>
+         </s>
+         <s>
+            <w type="FW">RAM</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> 8G DDR4</w>
+         </s>
+         <s>
+            <w type="FW">GPU</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> Intel</w>
+            <w type="FW"> UHD Graphic</w>
+            <w type="FW">s </w>
+            <w type="Neu">620</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VH">內顯</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Na">攝影</w>
+            <w type="Na">器材</w>
+            <w type="VG">為</w>
+            <w type="FW"> Sony</w>
+            <w type="FW"> DSC-RX10</w>
+         </s>
+         <s>
+            <w type="VC">使用</w>
+            <w type="Na">軟體</w>
+         </s>
+         <s>
+            <w type="FW">OBS </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Link</w>
+            <w type="WHITESPACE"> </w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//obsproject.com/ </w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Dfa">比較</w>
+            <w type="VHC">麻煩</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="D">剛</w>
+            <w type="VL">開始</w>
+            <w type="VC">架設</w>
+            <w type="Na">設備</w>
+            <w type="DE">的</w>
+            <w type="Neqa">部分</w>
+         </s>
+         <s>
+            <w type="D">大致</w>
+            <w type="Na">流程</w>
+            <w type="VK">如</w>
+            <w type="Ncd">下</w>
+         </s>
+         <s>
+            <w type="Na">老師</w>
+            <w type="VA">上課</w>
+            <w type="P">用</w>
+            <w type="Na">筆電</w>
+            <w type="FW"> 接到</w>
+            <w type="FW"> GC513</w>
+         </s>
+         <s>
+            <w type="FW">GC513 </w>
+            <w type="P">將</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">個</w>
+            <w type="Na">訊號</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VD">轉給</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">投影機</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VD">給</w>
+            <w type="P">在</w>
+            <w type="Nc">課堂</w>
+            <w type="Ncd">上</w>
+            <w type="DE">的</w>
+            <w type="Na">同學</w>
+            <w type="VC">看</w>
+            <w type="DE">的</w>
+            <w type="Na">畫面</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">GC513 </w>
+            <w type="P">將</w>
+            <w type="Neu">第二</w>
+            <w type="Nf">個</w>
+            <w type="Na">訊號</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VD">轉給</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">助教</w>
+            <w type="DE">的</w>
+            <w type="Na">筆電</w>
+         </s>
+         <s>
+            <w type="Na">相機</w>
+            <w type="FW"> 接</w>
+            <w type="P">至</w>
+            <w type="FW"> GC551</w>
+         </s>
+         <s>
+            <w type="FW">GC 551</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">將</w>
+            <w type="Na">影像</w>
+            <w type="Na">訊號</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VD">轉給</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">助教</w>
+            <w type="DE">的</w>
+            <w type="Na">筆電</w>
+         </s>
+         <s>
+            <w type="Na">藍芽</w>
+            <w type="Na">耳機</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">直接</w>
+            <w type="P">用</w>
+            <w type="Na">助教</w>
+            <w type="DE">的</w>
+            <w type="Na">筆電</w>
+            <w type="Cbb">連</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nep">這</w>
+            <w type="Neqa">部分</w>
+            <w type="D">非</w>
+            <w type="VH">必要</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Ncd">下面</w>
+            <w type="D">會</w>
+            <w type="VE">說明</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="P">將</w>
+            <w type="Ncd">以上</w>
+            <w type="DE">的</w>
+            <w type="Na">素材</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">GC</w>
+            <w type="Neu">513+</w>
+            <w type="FW">GC551+</w>
+            <w type="Na">藍芽</w>
+            <w type="Na">耳機</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VCL">轉到</w>
+            <w type="Na">助教</w>
+            <w type="Na">直播用</w>
+            <w type="DE">的</w>
+            <w type="Na">筆電</w>
+            <w type="Ng">後</w>
+            <w type="D">再</w>
+            <w type="VC">利用</w>
+            <w type="FW">OBS</w>
+            <w type="Na">軟體</w>
+            <w type="VC">整合</w>
+            <w type="Di">起</w>
+         </s>
+         <s>
+            <w type="VA">來</w>
+         </s>
+         <s>
+            <w type="FW">Flowchart</w>
+            <w type="VK">如下</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/hiWQEa4</w>
+         </s>
+         <s>
+            <w type="FW">PS</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> A</w>
+            <w type="FW">VerMedia</w>
+            <w type="DE">的</w>
+            <w type="Na">擷取卡</w>
+            <w type="Da">只</w>
+            <w type="VC">支援</w>
+            <w type="FW">USB </w>
+            <w type="Neu">3.0</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">不</w>
+            <w type="VC">支援</w>
+            <w type="Neu">2.0</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">如果</w>
+            <w type="P">用</w>
+            <w type="Neu">2.0</w>
+            <w type="D">來</w>
+            <w type="VJ">連接</w>
+            <w type="Na">設備</w>
+            <w type="D">會</w>
+            <w type="VL">讓</w>
+            <w type="Na">電腦</w>
+            <w type="D">完全</w>
+         </s>
+         <s>
+            <w type="VC">抓</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="Cbb">另外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">擷取卡</w>
+            <w type="P">用</w>
+            <w type="Neqa">其他</w>
+            <w type="DE">的</w>
+            <w type="Na">牌子</w>
+            <w type="Caa">或是</w>
+            <w type="Na">型號</w>
+            <w type="D">應該</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="VH">可以</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">會</w>
+            <w type="VC">選</w>
+            <w type="FW">GC513</w>
+            <w type="Caa">和</w>
+            <w type="FW">GC551</w>
+            <w type="Cbb">只是</w>
+            <w type="Cbb">因為</w>
+            <w type="VH">開學</w>
+            <w type="P">到</w>
+            <w type="Nd">現</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+         </s>
+         <s>
+            <w type="FW">OBS</w>
+            <w type="VC">設定</w>
+            <w type="VK">如下</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/K6</w>
+            <w type="FW">nqiw</w>
+            <w type="ETCCATEGORY">L</w>
+         </s>
+         <s>
+            <w type="Neu">1</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">直播</w>
+            <w type="Nc">畫面</w>
+            <w type="Nc">區</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VG">即</w>
+            <w type="Na">觀眾</w>
+            <w type="VE">看到</w>
+            <w type="DE">的</w>
+            <w type="Na">畫面</w>
+         </s>
+         <s>
+            <w type="Neu">2</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">場景</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">一般</w>
+            <w type="VC">直播</w>
+            <w type="DE">的話</w>
+            <w type="A">單一</w>
+            <w type="Na">場景</w>
+            <w type="VH">即</w>
+            <w type="VH">可</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但</w>
+            <w type="Cbb">如果</w>
+            <w type="P">除了</w>
+            <w type="VC">撥放</w>
+            <w type="Na">投影片</w>
+            <w type="Ng">之外</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">其他</w>
+            <w type="Na">需求</w>
+            <w type="Cba">的話</w>
+            <w type="COMMACATEGORY">,</w>
+         </s>
+         <s>
+            <w type="Neu">3</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">來源</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dfa">有點</w>
+            <w type="VG">類似</w>
+            <w type="Nc">素材區</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> OBS</w>
+            <w type="DE">的</w>
+            <w type="Na">來源</w>
+            <w type="D">主要</w>
+            <w type="V_2">有</w>
+         </s>
+         <s>
+            <w type="Nb">A.      </w>
+            <w type="Na">圖片</w>
+         </s>
+         <s>
+            <w type="FW">B.      </w>
+            <w type="Na">媒體</w>
+            <w type="Na">來源</w>
+         </s>
+         <s>
+            <w type="FW">C.      </w>
+            <w type="VC">擷取</w>
+            <w type="Na">音訊</w>
+            <w type="VC">輸入</w>
+            <w type="FW">/</w>
+            <w type="VC">出</w>
+         </s>
+         <s>
+            <w type="FW">D.      </w>
+            <w type="Na">文字</w>
+         </s>
+         <s>
+            <w type="FW">E.      </w>
+            <w type="Na">視窗</w>
+            <w type="VC">擷取</w>
+         </s>
+         <s>
+            <w type="FW">F.      </w>
+            <w type="Na">視訊</w>
+            <w type="VC">擷取</w>
+            <w type="Na">裝置</w>
+         </s>
+         <s>
+            <w type="FW">G.      </w>
+            <w type="Na">遊戲</w>
+            <w type="VC">擷取</w>
+         </s>
+         <s>
+            <w type="FW">H.      </w>
+            <w type="Na">顯示器</w>
+            <w type="VC">擷取</w>
+         </s>
+         <s>
+            <w type="VC">做</w>
+            <w type="VC">直播</w>
+            <w type="VA">教學</w>
+            <w type="DE">的話</w>
+            <w type="Dfa">比較</w>
+            <w type="D">常</w>
+            <w type="VC">用到</w>
+            <w type="DE">的</w>
+            <w type="D">應該</w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">圖片</w>
+            <w type="FW">/</w>
+            <w type="Na">文字</w>
+            <w type="FW">/</w>
+            <w type="Na">視窗</w>
+            <w type="VC">擷取</w>
+            <w type="FW">/</w>
+            <w type="Na">視訊</w>
+            <w type="VC">擷取</w>
+            <w type="Na">裝置</w>
+            <w type="FW">/</w>
+            <w type="Na">顯示器</w>
+            <w type="VC">擷取</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="P">當</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="Ncd">以下</w>
+            <w type="Nh">我</w>
+            <w type="D">會</w>
+            <w type="P">用</w>
+            <w type="Nh">我們</w>
+            <w type="Na">課程</w>
+            <w type="DE">的</w>
+            <w type="Na">情況</w>
+            <w type="D">來</w>
+            <w type="VC">做</w>
+            <w type="Na">範例</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">由於</w>
+            <w type="Nh">我們</w>
+            <w type="DE">的</w>
+            <w type="Na">課程</w>
+            <w type="D">會</w>
+            <w type="VK">牽涉</w>
+            <w type="Na">半導體</w>
+            <w type="Na">物理</w>
+            <w type="FW">/</w>
+            <w type="A">線性</w>
+            <w type="Na">代數</w>
+            <w type="FW">/codi</w>
+         </s>
+         <s>
+            <w type="FW">ng</w>
+         </s>
+         <s>
+            <w type="Nh">我們</w>
+            <w type="DE">的</w>
+            <w type="Na">場景</w>
+            <w type="VC">設定</w>
+            <w type="V_2">有</w>
+            <w type="Neu">三</w>
+            <w type="Nf">個</w>
+         </s>
+         <s>
+            <w type="FW">1. </w>
+            <w type="VA">上課</w>
+            <w type="Na">場景</w>
+         </s>
+         <s>
+            <w type="Cbb">2. CODING</w>
+            <w type="Na">畫面</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Ncd">這裡</w>
+            <w type="VC">用</w>
+            <w type="FW">MATLAB</w>
+            <w type="VC">作</w>
+            <w type="Na">範例</w>
+         </s>
+         <s>
+            <w type="Neu">3. </w>
+            <w type="VH">下課</w>
+            <w type="Na">時間</w>
+            <w type="DE">的</w>
+            <w type="Na">圖片</w>
+         </s>
+         <s>
+            <w type="VA">上課</w>
+            <w type="Na">場景</w>
+            <w type="DE">的</w>
+            <w type="Neqa">部分</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">主要</w>
+            <w type="VK">需要</w>
+            <w type="VC">設定</w>
+            <w type="Neu">三</w>
+            <w type="Nf">個</w>
+            <w type="Na">來源</w>
+         </s>
+         <s>
+            <w type="Neu">1. </w>
+            <w type="Na">視訊</w>
+            <w type="VC">擷取</w>
+            <w type="Na">裝置</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">GC</w>
+            <w type="Neu">551</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Na">相機</w>
+            <w type="Na">影像</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="Nb"> - </w>
+            <w type="FW">Camera</w>
+         </s>
+         <s>
+            <w type="Cbb">2. </w>
+            <w type="Na">視訊</w>
+            <w type="VC">擷取</w>
+            <w type="Na">裝置</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">GC</w>
+            <w type="Neu">531</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Na">老師</w>
+            <w type="Na">電腦</w>
+            <w type="Na">畫面</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> - laptop</w>
+         </s>
+         <s>
+            <w type="Neu">3. </w>
+            <w type="Na">圖片</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Copyright</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Caa">或</w>
+            <w type="Neqa">其他</w>
+            <w type="Na">圖片</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">視</w>
+            <w type="Na">情況</w>
+            <w type="Cbb">而</w>
+            <w type="VC">定</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> - copyright</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/Bbu</w>
+            <w type="FW">C4u</w>
+            <w type="ETCCATEGORY">X</w>
+         </s>
+         <s>
+            <w type="P">把</w>
+            <w type="Ncd">上面</w>
+            <w type="DE">的</w>
+            <w type="Na">來源</w>
+            <w type="VC">設定好</w>
+            <w type="Ng">後</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">就</w>
+            <w type="P">在</w>
+            <w type="VC">直播</w>
+            <w type="Nc">畫面</w>
+            <w type="Nc">區</w>
+            <w type="VC">設定</w>
+            <w type="Nes">每</w>
+            <w type="Nf">個</w>
+            <w type="Na">來源</w>
+            <w type="DE">的</w>
+            <w type="Na">視窗</w>
+            <w type="Na">大小</w>
+         </s>
+         <s>
+            <w type="Cbb">由於</w>
+            <w type="Nh">我們</w>
+            <w type="DE">的</w>
+            <w type="Na">課程</w>
+            <w type="D">會</w>
+            <w type="VH">頻繁</w>
+            <w type="VC">使用</w>
+            <w type="FW">matlab</w>
+            <w type="VC">寫</w>
+            <w type="FW">code</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但是</w>
+            <w type="VC">寫</w>
+            <w type="FW">CODE</w>
+            <w type="Ng">時</w>
+            <w type="VC">看</w>
+            <w type="Na">子母</w>
+            <w type="Na">畫面</w>
+            <w type="D">其實</w>
+            <w type="Dfa">蠻</w>
+            <w type="D">不</w>
+            <w type="VH">清楚</w>
+            <w type="DE">地</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">所</w>
+         </s>
+         <s>
+            <w type="Cbb">以</w>
+         </s>
+         <s>
+            <w type="D">主要</w>
+            <w type="VK">需要</w>
+            <w type="VC">設定</w>
+            <w type="Neu">三</w>
+            <w type="Nf">個</w>
+            <w type="Na">來源</w>
+         </s>
+         <s>
+            <w type="Neu">1. </w>
+            <w type="Na">視訊</w>
+            <w type="VC">擷取</w>
+            <w type="Na">裝置</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">GC</w>
+            <w type="Neu">531</w>
+            <w type="DASHCATEGORY">-</w>
+            <w type="Na">老師</w>
+            <w type="Na">電腦</w>
+            <w type="Na">畫面</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Cbb">2. </w>
+            <w type="Na">視訊</w>
+            <w type="VC">擷取</w>
+            <w type="Na">裝置</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">GC</w>
+            <w type="Neu">551-</w>
+            <w type="Na">相機</w>
+            <w type="Na">影像</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Neu">3. </w>
+            <w type="Na">圖片</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">Copyright</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Caa">或</w>
+            <w type="Neqa">其他</w>
+            <w type="Na">圖片</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">視</w>
+            <w type="Na">情況</w>
+            <w type="Cbb">而</w>
+            <w type="VC">定</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Ncd">這裡</w>
+            <w type="D">要</w>
+            <w type="VK">注意</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="VC">加入</w>
+            <w type="Na">視訊</w>
+            <w type="VC">擷取</w>
+            <w type="Na">裝置</w>
+            <w type="DE">的</w>
+            <w type="Na">時候</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">因為</w>
+            <w type="FW">source</w>
+            <w type="P">在</w>
+            <w type="Neu">第一</w>
+            <w type="Nf">個</w>
+            <w type="Na">場景</w>
+            <w type="D">已經</w>
+            <w type="P">被</w>
+            <w type="VC">使用</w>
+            <w type="Di">過</w>
+            <w type="Di">了</w>
+         </s>
+         <s>
+            <w type="Ncd">這裡</w>
+            <w type="DE">的</w>
+            <w type="Nv">設定</w>
+            <w type="SHI">是</w>
+            <w type="P">把</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">老師</w>
+            <w type="Na">電腦</w>
+            <w type="Na">畫面</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">拉到</w>
+            <w type="Dfa">最</w>
+            <w type="VH">大</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">然後</w>
+            <w type="P">將</w>
+            <w type="Na">相機</w>
+            <w type="Na">影像</w>
+            <w type="VC">拉到</w>
+            <w type="Dfa">最</w>
+            <w type="VH">小</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">之後</w>
+            <w type="VC">調整</w>
+            <w type="Na">畫面</w>
+            <w type="Na">順序</w>
+         </s>
+         <s>
+            <w type="D">看起來</w>
+            <w type="D">就</w>
+            <w type="D">會</w>
+            <w type="VG">像</w>
+            <w type="VH">這樣子</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/e</w>
+            <w type="FW">LjSpFZ</w>
+         </s>
+         <s>
+            <w type="VH">這樣</w>
+            <w type="P">在</w>
+            <w type="VC">直</w>
+            <w type="VC">播</w>
+            <w type="DE">的</w>
+            <w type="Nc">途中</w>
+            <w type="D">就</w>
+            <w type="D">可以</w>
+            <w type="P">經由</w>
+            <w type="Ncd">左下</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Na">場景</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="DE">的</w>
+            <w type="VC">控制</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">來</w>
+            <w type="VC">調整</w>
+            <w type="VC">直播</w>
+            <w type="DE">的</w>
+            <w type="Na">畫面</w>
+            <w type="T">了</w>
+         </s>
+         <s>
+            <w type="Nd">最後</w>
+            <w type="Nh">我們</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+            <w type="Neu">第三</w>
+            <w type="Nf">個</w>
+            <w type="Na">場景</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="VH">下課</w>
+            <w type="Ng">時</w>
+            <w type="DE">的</w>
+            <w type="Na">畫面</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">基本</w>
+            <w type="Ng">上</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="VC">選</w>
+            <w type="Neu">一</w>
+            <w type="Nf">張</w>
+            <w type="Na">圖片</w>
+            <w type="VC">放到</w>
+            <w type="Dfa">最</w>
+            <w type="VH">大</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">然後</w>
+            <w type="VB">記</w>
+         </s>
+         <s>
+            <w type="D">得</w>
+         </s>
+         <s>
+            <w type="FW">Audio</w>
+            <w type="FW"> Setting</w>
+         </s>
+         <s>
+            <w type="Na">音源</w>
+            <w type="DE">的</w>
+            <w type="Neqa">部分</w>
+            <w type="VC">選擇</w>
+            <w type="Neqa">很多</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">因為</w>
+            <w type="Nh">我們</w>
+            <w type="VA">接線</w>
+            <w type="DE">的</w>
+            <w type="Na">關係</w>
+            <w type="Cbb">所以</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+         </s>
+         <s>
+            <w type="FW">1. </w>
+            <w type="Na">投影片</w>
+            <w type="Na">筆電</w>
+            <w type="DE">的</w>
+            <w type="FW">Mic</w>
+         </s>
+         <s>
+            <w type="Cbb">2. </w>
+            <w type="VC">直播</w>
+            <w type="Na">筆電</w>
+            <w type="DE">的</w>
+            <w type="FW">Mic</w>
+         </s>
+         <s>
+            <w type="Neu">3. </w>
+            <w type="Na">相機</w>
+            <w type="DE">的</w>
+            <w type="VA">收音</w>
+         </s>
+         <s>
+            <w type="Cbb">4. </w>
+            <w type="VC">外接</w>
+            <w type="Na">藍芽</w>
+            <w type="FW">Mic</w>
+         </s>
+         <s>
+            <w type="Nh">你</w>
+            <w type="D">可以</w>
+            <w type="VC">選</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Nh">你</w>
+            <w type="VE">想要</w>
+            <w type="DE">的</w>
+            <w type="Na">音源</w>
+            <w type="VC">放到</w>
+            <w type="D">直播</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">如下</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/p6</w>
+            <w type="FW">yJA9</w>
+            <w type="Nf">g</w>
+         </s>
+         <s>
+            <w type="FW">OBS</w>
+            <w type="Ng">中</w>
+            <w type="D">會</w>
+            <w type="VC">自帶</w>
+            <w type="Na">混音器</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">所以</w>
+            <w type="Nh">你</w>
+            <w type="D">可以</w>
+            <w type="VC">看</w>
+            <w type="Nh">你</w>
+            <w type="DE">的</w>
+            <w type="FW">source</w>
+            <w type="Neqa">那些</w>
+            <w type="V_2">有</w>
+            <w type="Na">音訊</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Nh">我們</w>
+            <w type="DE">的</w>
+            <w type="VC">設定</w>
+            <w type="Ng">中</w>
+            <w type="FW">Audio</w>
+            <w type="SHI">是</w>
+            <w type="P">用</w>
+            <w type="VH">藍</w>
+         </s>
+         <s>
+            <w type="Na">芽</w>
+         </s>
+         <s>
+            <w type="Cbb">另外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">最後</w>
+            <w type="Nh">我們</w>
+            <w type="SHI">是</w>
+            <w type="VC">選擇</w>
+            <w type="FW">Camera</w>
+            <w type="DE">的</w>
+            <w type="Na">音源</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">主要</w>
+            <w type="SHI">是</w>
+            <w type="Na">藍芽</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+            <w type="VHC">延遲</w>
+            <w type="DE">的</w>
+            <w type="Na">問題</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">會</w>
+            <w type="VG">造成</w>
+            <w type="Na">嘴型</w>
+            <w type="P">跟</w>
+            <w type="Na">聲音</w>
+            <w type="V_2">有</w>
+         </s>
+         <s>
+            <w type="VC">點</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/d</w>
+            <w type="FW">I41</w>
+            <w type="FW">Tc8</w>
+         </s>
+         <s>
+            <w type="FW">You</w>
+            <w type="FW">Tube</w>
+            <w type="FW"> Setting</w>
+         </s>
+         <s>
+            <w type="FW">You</w>
+            <w type="FW">Tube</w>
+         </s>
+         <s>
+            <w type="FW">1. </w>
+            <w type="P">在</w>
+            <w type="FW">YouTube</w>
+            <w type="Na">主頁面</w>
+            <w type="Ncd">右上角</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">選</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">進行</w>
+            <w type="D">直播</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/4NmMwgo</w>
+         </s>
+         <s>
+            <w type="Cbb">2. </w>
+            <w type="Cbb">如果</w>
+            <w type="Nh">你</w>
+            <w type="Nd">之前</w>
+            <w type="D">已經</w>
+            <w type="VC">設定</w>
+            <w type="Di">過</w>
+            <w type="Di">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可以</w>
+            <w type="VH">直接</w>
+            <w type="VC">沿用</w>
+            <w type="Nes">上</w>
+            <w type="Nf">次</w>
+            <w type="VC">直播</w>
+            <w type="DE">的</w>
+            <w type="VC">設定</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VK">如下</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/IMsib</w>
+            <w type="FW">KN</w>
+         </s>
+         <s>
+            <w type="Cbb">若</w>
+            <w type="D">沒</w>
+            <w type="VC">設定</w>
+            <w type="Di">過</w>
+            <w type="Cba">的話</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">選</w>
+            <w type="VJ">新增</w>
+            <w type="VC">直播</w>
+            <w type="D">會</w>
+            <w type="VCL">跳出</w>
+            <w type="Ncd">下面</w>
+            <w type="DE">的</w>
+            <w type="Na">視窗</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/t</w>
+            <w type="FW">KPh</w>
+            <w type="FW">SCz</w>
+         </s>
+         <s>
+            <w type="Na">標題</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">說明</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="Na">縮圖</w>
+            <w type="D">要</w>
+            <w type="VC">用</w>
+            <w type="Nep">什麼</w>
+         </s>
+         <s>
+            <w type="Ncd">這邊</w>
+            <w type="D">可以</w>
+            <w type="VE">安排</w>
+            <w type="VC">直</w>
+            <w type="VC">播</w>
+            <w type="Na">時間</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我們</w>
+            <w type="P">在</w>
+            <w type="VC">使用</w>
+            <w type="SHI">是</w>
+            <w type="D">會</w>
+            <w type="VE">預定</w>
+            <w type="VA">上課</w>
+            <w type="DE">的</w>
+            <w type="Na">時間</w>
+            <w type="VL">開始</w>
+            <w type="D">直播</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">然後</w>
+            <w type="D">會</w>
+            <w type="D">先</w>
+            <w type="VC">用</w>
+            <w type="FW">ceiba</w>
+            <w type="Caa">或</w>
+         </s>
+         <s>
+            <w type="SHI">是</w>
+            <w type="ETCCATEGORY">N</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/u3NZI4</w>
+            <w type="ETCCATEGORY">T</w>
+         </s>
+         <s>
+            <w type="VC">設定完</w>
+            <w type="Ng">後</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">就</w>
+            <w type="VCL">到</w>
+            <w type="Di">了</w>
+            <w type="VC">直播</w>
+            <w type="DE">的</w>
+            <w type="Nc">主控台</w>
+         </s>
+         <s>
+            <w type="Ncd">這裡</w>
+            <w type="Dfa">最</w>
+            <w type="VH">重要</w>
+            <w type="DE">的</w>
+            <w type="SHI">是</w>
+            <w type="VC">串流</w>
+            <w type="Na">金鑰</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="D">待會</w>
+            <w type="D">要</w>
+            <w type="VC">貼到</w>
+            <w type="FW">OBS</w>
+            <w type="Ng">中</w>
+         </s>
+         <s>
+            <w type="VHC">延遲</w>
+            <w type="DE">的</w>
+            <w type="Neqa">部分</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dk">一般來說</w>
+            <w type="VH">低</w>
+            <w type="Nv">延遲</w>
+            <w type="Na">效果</w>
+            <w type="D">會</w>
+            <w type="VH">好</w>
+            <w type="Dfb">點</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但是</w>
+            <w type="D">得</w>
+            <w type="VC">看</w>
+            <w type="Na">環境</w>
+            <w type="Na">網速</w>
+            <w type="Cbb">而</w>
+            <w type="VC">訂</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nh">我們</w>
+            <w type="SHI">是</w>
+            <w type="P">用</w>
+            <w type="Nc">明達館</w>
+            <w type="DE">的</w>
+            <w type="V_2">有</w>
+         </s>
+         <s>
+            <w type="Na">線</w>
+         </s>
+         <s>
+            <w type="Ncd">左側</w>
+            <w type="DE">的</w>
+            <w type="VH">紅框</w>
+            <w type="D">可以</w>
+            <w type="VC">管理</w>
+            <w type="Nh">你</w>
+            <w type="Nd">目前</w>
+            <w type="DE">的</w>
+            <w type="VC">直播</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">如果</w>
+            <w type="Nh">你</w>
+            <w type="D">有</w>
+            <w type="VC">設定好</w>
+            <w type="VE">預定</w>
+            <w type="D">直</w>
+            <w type="VC">播</w>
+            <w type="Cba">的話</w>
+            <w type="D">可以</w>
+            <w type="VH">直接</w>
+            <w type="P">從</w>
+            <w type="Ncd">這裡</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">點進</w>
+         </s>
+         <s>
+            <w type="VCL">去</w>
+         </s>
+         <s>
+            <w type="VC">瀏覽</w>
+            <w type="Na">權限</w>
+            <w type="D">則</w>
+            <w type="SHI">是</w>
+            <w type="Neqa">其他</w>
+            <w type="Na">人</w>
+            <w type="D">是否</w>
+            <w type="D">會</w>
+            <w type="VE">看到</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="VC">直播</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VHC">公開</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="Neqa">全部</w>
+            <w type="Na">人</w>
+            <w type="D">都</w>
+            <w type="VE">看</w>
+            <w type="DE">的</w>
+            <w type="VE">到</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Cbb">但</w>
+            <w type="D">其實</w>
+            <w type="D">也</w>
+            <w type="D">很少</w>
+            <w type="D">會</w>
+            <w type="V_2">有</w>
+         </s>
+         <s>
+            <w type="Na">人</w>
+            <w type="QUESTIONCATEGORY">?</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/p7PL</w>
+            <w type="FW">Yrb</w>
+         </s>
+         <s>
+            <w type="FW">OBS</w>
+            <w type="VC">設定</w>
+         </s>
+         <s>
+            <w type="VC">服務</w>
+            <w type="VC">選</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="FW">You</w>
+            <w type="DASHCATEGORY">Tube</w>
+            <w type="FW"> / </w>
+            <w type="FW">You</w>
+            <w type="FW">Tube</w>
+            <w type="FW"> Gaming</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+         </s>
+         <s>
+            <w type="VA">串流</w>
+            <w type="Na">金鑰</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">從</w>
+            <w type="FW">YouTube</w>
+            <w type="VC">直播</w>
+            <w type="Na">串流</w>
+            <w type="VC">複製</w>
+            <w type="Di">下來</w>
+            <w type="DE">的</w>
+            <w type="Nep">那</w>
+            <w type="Nf">串</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VK">如下</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/AErBkmg</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//imgur.com/0X5</w>
+            <w type="FW">hzlp</w>
+         </s>
+         <s>
+            <w type="D">接著</w>
+            <w type="D">就</w>
+            <w type="VC">選擇</w>
+            <w type="VL">開始</w>
+            <w type="VA">串流</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">就</w>
+            <w type="D">會</w>
+            <w type="VL">開始</w>
+            <w type="D">直播</w>
+            <w type="T">啦</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="Cbb">另外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="VC">直</w>
+            <w type="VC">播</w>
+            <w type="DE">的</w>
+            <w type="Nd">同時</w>
+            <w type="D">也</w>
+            <w type="D">可以</w>
+            <w type="VC">按</w>
+            <w type="VL">開始</w>
+            <w type="VC">錄製</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">OBS</w>
+            <w type="D">會</w>
+            <w type="P">把</w>
+            <w type="Na">影像</w>
+            <w type="VC">儲存</w>
+            <w type="Di">起來</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">這樣</w>
+            <w type="P">在</w>
+            <w type="Ncd">上</w>
+            <w type="VD">傳</w>
+            <w type="FW">NTUCOOL</w>
+            <w type="DE">的</w>
+            <w type="Na">時</w>
+         </s>
+         <s>
+            <w type="VC">候</w>
+         </s>
+         <s>
+            <w type="VC">總結</w>
+         </s>
+         <s>
+            <w type="Neu">1. </w>
+            <w type="VC">架設</w>
+            <w type="Na">器材</w>
+         </s>
+         <s>
+            <w type="Cbb">2. </w>
+            <w type="VC">設定</w>
+            <w type="FW">OBS</w>
+            <w type="Na">畫面</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">畫面</w>
+            <w type="Na">來源</w>
+            <w type="Caa">以及</w>
+            <w type="Na">音源</w>
+            <w type="VC">設定好</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Nb">3. </w>
+            <w type="VC">設定</w>
+            <w type="VC">直播</w>
+            <w type="Na">平台</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">把</w>
+            <w type="Na">平台</w>
+            <w type="VHC">產生</w>
+            <w type="DE">的</w>
+            <w type="Na">金鑰</w>
+            <w type="VC">貼到</w>
+            <w type="FW">OBS</w>
+            <w type="Ncd">上</w>
+         </s>
+         <s>
+            <w type="Cbb">4. </w>
+            <w type="VL">開始</w>
+            <w type="VC">串流</w>
+         </s>
+         <s>
+            <w type="Ncd">以上</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VD">給</w>
+            <w type="D">要</w>
+            <w type="VC">進行</w>
+            <w type="Nc">線上</w>
+            <w type="Na">課程</w>
+            <w type="DE">的</w>
+            <w type="Na">助教</w>
+            <w type="VC">參考</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">大家</w>
+            <w type="D">都</w>
+            <w type="VHC">辛苦</w>
+            <w type="T">啦</w>
+            <w type="FW">～</w>
+            <w type="Cbb">若</w>
+            <w type="V_2">有</w>
+            <w type="Na">問題</w>
+            <w type="Cba">的話</w>
+            <w type="D">可以</w>
+            <w type="P">在</w>
+            <w type="Nc">站</w>
+            <w type="Ncd">內</w>
+            <w type="VE">問</w>
+            <w type="Nh">我</w>
+         </s>
+         <s>
+            <w type="FW">OBS</w>
+            <w type="D">的確</w>
+            <w type="SHI">是</w>
+            <w type="VH">簡單</w>
+            <w type="DE">的</w>
+            <w type="Na">方法</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">不過</w>
+            <w type="P">在</w>
+            <w type="Na">設備</w>
+            <w type="Ng">上</w>
+            <w type="D">似乎</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Cbb">所以</w>
+            <w type="DE">的</w>
+            <w type="D">都</w>
+            <w type="D">能</w>
+            <w type="VC">支援</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">雖然</w>
+            <w type="Nh">我們</w>
+            <w type="Na">設備</w>
+            <w type="D">看起來</w>
+            <w type="D">不</w>
+            <w type="VH">多</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="D">其實</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+         </s>
+         <s>
+            <w type="VF">嘗試</w>
+            <w type="Di">了</w>
+            <w type="Neqa">不少</w>
+            <w type="Na">組合</w>
+            <w type="Da">才</w>
+            <w type="VK">確定</w>
+            <w type="FW">ok</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="SHI">像是</w>
+            <w type="Na">相機</w>
+            <w type="Nh">我們</w>
+            <w type="D">就</w>
+            <w type="VC">用</w>
+            <w type="Di">過</w>
+            <w type="FW">Go</w>
+            <w type="FW">Pro</w>
+            <w type="FW"> 8</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但是</w>
+            <w type="D">似乎</w>
+            <w type="FW">Go</w>
+            <w type="FW">Pro</w>
+            <w type="D">就</w>
+            <w type="VI">沒辦法</w>
+            <w type="VC">用</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="D">也</w>
+            <w type="D">可能</w>
+            <w type="SHI">是</w>
+            <w type="Nh">我們</w>
+            <w type="VC">設定</w>
+            <w type="DE">的</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+      </body>
+      <title author="SSID2244 (ssid)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Nc">校園</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">遠端</w>
+            <w type="Na">課程</w>
+            <w type="Caa">&amp;amp;</w>
+            <w type="VC">直播</w>
+            <w type="VA">教學</w>
+            <w type="DE">的</w>
+            <w type="VC">設定</w>
+         </s>
+      </title>
+      <comment author="AprilMight" c_type="pos">
+         <s>
+            <w type="Cbb">雖然</w>
+            <w type="VC">用</w>
+            <w type="D">不</w>
+            <w type="VC">到</w>
+            <w type="Cbb">但是</w>
+            <w type="D">看起來</w>
+            <w type="Dfa">很</w>
+            <w type="VH">厲害</w>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="unmolk" c_type="pos">
+         <s>
+            <w type="VH">詳細</w>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="NogiDD" c_type="pos">
+         <s>
+            <w type="VJ">看</w>
+            <w type="D">不</w>
+            <w type="VJ">懂</w>
+            <w type="Cbb">但是</w>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="IokUdiefirst" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="Nc">中國</w>
+            <w type="Nc">武漢</w>
+            <w type="Na">肺炎</w>
+         </s>
+      </comment>
+      <comment author="xhakiboo" c_type="pos">
+         <s>
+            <w type="FW">OBS</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dfa">最</w>
+            <w type="VH">簡單</w>
+            <w type="T">的</w>
+            <w type="T">了</w>
+            <w type="FW">@@</w>
+         </s>
+      </comment>
+      <comment author="MultiCam" c_type="pos">
+         <s>
+            <w type="VC">推 </w>
+            <w type="D">只是</w>
+            <w type="P">用</w>
+            <w type="FW">OBS</w>
+            <w type="Dfa">還</w>
+            <w type="D">要</w>
+            <w type="VC">切</w>
+            <w type="Na">場景</w>
+            <w type="Cba">的話</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">助教</w>
+            <w type="D">必須</w>
+            <w type="VH">專心</w>
+            <w type="Dfb">點</w>
+            <w type="T">了</w>
+            <w type="ETCCATEGORY">X</w>
+            <w type="ETCCATEGORY">D</w>
+         </s>
+      </comment>
+      <comment author="kangapoo" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="sunev" c_type="pos">
+         <s>
+            <w type="VH">專業</w>
+         </s>
+      </comment>
+      <comment author="pretenderme" c_type="pos">
+         <s>
+            <w type="FW">#</w>
+            <w type="Neu">一百</w>
+            <w type="Nf">種</w>
+            <w type="VC">逼死</w>
+            <w type="Na">助教</w>
+            <w type="DE">的</w>
+            <w type="Na">方法</w>
+         </s>
+      </comment>
+      <comment author="pretenderme" c_type="neu">
+         <s>
+            <w type="VC">推</w>
+            <w type="VH">專業</w>
+         </s>
+      </comment>
+      <comment author="greywagtail" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+      <comment author="kirarasun" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="VH">認真</w>
+         </s>
+      </comment>
+      <comment author="pipi8696044" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

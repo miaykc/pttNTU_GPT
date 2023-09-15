@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">n60213 (小安)</metadata>
+      <metadata name="post_id">M.1606876336.A.712</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[徵求] 眼動追蹤實驗誠徵實驗參與者</metadata>
+   </teiHeader>
+   <text>
+      <body author="n60213 (小安)">
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">實驗</w>
+            <w type="Na">名稱</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">眼</w>
+            <w type="VAC">動</w>
+            <w type="VC">追蹤</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Na">人類</w>
+            <w type="Na">因素</w>
+            <w type="Caa">與</w>
+            <w type="Na">應用</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">實驗</w>
+            <w type="Na">時間</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Nes">本</w>
+            <w type="Nf">次</w>
+            <w type="Na">實驗</w>
+            <w type="VE">預計</w>
+            <w type="P">於</w>
+            <w type="Neu">12/4</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">12/7-8</w>
+            <w type="VC">進行</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">實驗</w>
+            <w type="Da">約</w>
+            <w type="VK">需</w>
+            <w type="Neu">1</w>
+            <w type="Na">小時</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VH">詳細</w>
+            <w type="DE">的</w>
+            <w type="Na">時段</w>
+            <w type="VC">請見</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//forms.gle/iQHQEwwTUWDT</w>
+            <w type="FW">Srx</w>
+            <w type="Neu">39</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">*</w>
+            <w type="VA">報名</w>
+            <w type="D">亦</w>
+            <w type="VF">請</w>
+            <w type="P">透過</w>
+            <w type="Nep">此</w>
+            <w type="Na">表單</w>
+            <w type="D">來</w>
+            <w type="VC">進行</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VC">勾選</w>
+            <w type="Neqa">所有</w>
+            <w type="D">可以</w>
+            <w type="VC">進行</w>
+            <w type="VE">實驗</w>
+            <w type="DE">的</w>
+            <w type="Na">時段</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我們</w>
+            <w type="D">會</w>
+            <w type="D">再</w>
+            <w type="VCL">回</w>
+         </s>
+         <s>
+            <w type="Na">信</w>
+            <w type="VC">通知</w>
+            <w type="Nh">您</w>
+            <w type="VH">確切</w>
+            <w type="Na">時間</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Da">僅</w>
+            <w type="D">會</w>
+            <w type="VD">回覆</w>
+            <w type="VC">錄取</w>
+            <w type="Na">者</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">實驗</w>
+            <w type="Na">地點</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Nc">台大</w>
+            <w type="Nc">心理系</w>
+            <w type="Ncd">南館</w>
+            <w type="Nc">315室</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//goo.gl/maps/DZLZMyfy1YGYUTDG9</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Na">實驗</w>
+            <w type="Na">內容</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Nes">本</w>
+            <w type="Nf">次</w>
+            <w type="Na">實驗</w>
+            <w type="P">將</w>
+            <w type="Nd">同時</w>
+            <w type="VC">採用</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">台</w>
+            <w type="Na">眼動</w>
+            <w type="Nv">追蹤</w>
+            <w type="Na">裝置</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">偵測</w>
+            <w type="Nh">您</w>
+            <w type="Na">眼睛</w>
+            <w type="DE">的</w>
+            <w type="Na">動作</w>
+            <w type="Caa">及</w>
+            <w type="VC">凝視</w>
+            <w type="Na">位置</w>
+            <w type="DE">的</w>
+            <w type="Na">變化</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">實驗</w>
+            <w type="Na">過程</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">將</w>
+            <w type="VF">請</w>
+            <w type="Nh">您</w>
+            <w type="P">依照</w>
+            <w type="VE">實驗</w>
+            <w type="Na">者</w>
+            <w type="DE">的</w>
+            <w type="Na">指示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">對</w>
+            <w type="Na">螢幕</w>
+            <w type="Ncd">上</w>
+            <w type="VH">出現</w>
+            <w type="DE">的</w>
+            <w type="Na">影像</w>
+            <w type="FW">/</w>
+            <w type="Na">文字</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">進行</w>
+         </s>
+         <s>
+            <w type="Na">眼</w>
+            <w type="VAC">動</w>
+            <w type="FW">/</w>
+            <w type="Na">按鍵</w>
+            <w type="Na">反應</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="VH">詳細</w>
+            <w type="DE">的</w>
+            <w type="VE">實驗</w>
+            <w type="Na">流程</w>
+            <w type="D">將</w>
+            <w type="P">於</w>
+            <w type="Na">實驗</w>
+            <w type="Ng">前</w>
+            <w type="VE">說明</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">若</w>
+            <w type="Nh">您</w>
+            <w type="P">對於</w>
+            <w type="VE">實驗</w>
+            <w type="DE">的</w>
+            <w type="Na">內容</w>
+            <w type="Neqa">任何</w>
+            <w type="Na">疑問</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">亦</w>
+            <w type="D">可</w>
+            <w type="VC">私訊</w>
+            <w type="Caa">或</w>
+            <w type="VD">致</w>
+         </s>
+         <s>
+            <w type="Na">電</w>
+            <w type="Nv">研究</w>
+            <w type="Na">人員</w>
+            <w type="VE">詢問</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">若</w>
+            <w type="Nh">您</w>
+            <w type="VE">決定</w>
+            <w type="VC">參與</w>
+            <w type="Na">實驗</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">實驗</w>
+            <w type="Na">過程</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">您</w>
+            <w type="D">也</w>
+            <w type="D">都</w>
+            <w type="D">將</w>
+            <w type="VJ">保有</w>
+            <w type="VF">拒絕</w>
+            <w type="Caa">或</w>
+            <w type="VHC">終止</w>
+            <w type="VC">進行</w>
+            <w type="Na">實驗</w>
+            <w type="DE">的</w>
+            <w type="Na">權利</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VC">參與</w>
+            <w type="Na">報酬</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Neu">300</w>
+            <w type="Nf">元</w>
+            <w type="FW">/</w>
+            <w type="Nes">次</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VC">招募</w>
+            <w type="Na">人數</w>
+            <w type="Caa">與</w>
+            <w type="Na">限制</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Nes">本</w>
+            <w type="Nf">次</w>
+            <w type="Na">實驗</w>
+            <w type="VE">預計</w>
+            <w type="VC">招募</w>
+            <w type="Neu">5</w>
+            <w type="Na">人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nv">招募</w>
+            <w type="Na">條件</w>
+            <w type="VK">如</w>
+            <w type="Ncd">下</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="Neu">1. 20</w>
+            <w type="Nf">歲</w>
+            <w type="Neqb">以上</w>
+         </s>
+         <s>
+            <w type="Cbb">2. </w>
+            <w type="Na">視力</w>
+            <w type="VH">正常</w>
+            <w type="FW">/</w>
+            <w type="VC">矯正</w>
+            <w type="Ng">後</w>
+            <w type="VH">正常</w>
+         </s>
+         <s>
+            <w type="Cbb">3.</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">無</w>
+            <w type="Na">心理</w>
+            <w type="FW">/</w>
+            <w type="Na">神經</w>
+            <w type="Na">疾病</w>
+            <w type="Na">病史</w>
+         </s>
+         <s>
+            <w type="Cbb">4. </w>
+            <w type="VJ">無</w>
+            <w type="Na">癲癇</w>
+            <w type="Na">病史</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="Nv">注意</w>
+            <w type="Na">事項</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Cbb">1</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Cbb">由於</w>
+            <w type="Nes">本</w>
+            <w type="Na">研究會</w>
+            <w type="VC">使用</w>
+            <w type="A">穿戴式</w>
+            <w type="A">眼</w>
+            <w type="VAC">動</w>
+            <w type="Nv">追蹤</w>
+            <w type="Na">裝置</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">因此</w>
+            <w type="D">無法</w>
+            <w type="VC">配戴</w>
+            <w type="A">一般</w>
+            <w type="Na">眼鏡</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">若</w>
+            <w type="V_2">有</w>
+            <w type="Na">需求</w>
+            <w type="D">可</w>
+         </s>
+         <s>
+            <w type="VC">配戴</w>
+            <w type="Na">隱形眼鏡</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">2</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Cbb">由於</w>
+            <w type="Nc">實驗室</w>
+            <w type="Na">時間</w>
+            <w type="DE">的</w>
+            <w type="VE">安排</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VC">參與</w>
+            <w type="Na">者</w>
+            <w type="VH">準時</w>
+            <w type="P">於</w>
+            <w type="Nv">約定</w>
+            <w type="Na">時間</w>
+            <w type="VC">參與</w>
+            <w type="Na">實驗</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">若</w>
+            <w type="Cbb">因</w>
+            <w type="VC">參與</w>
+            <w type="Na">者</w>
+            <w type="VH">遲到</w>
+         </s>
+         <s>
+            <w type="Cbb">以致</w>
+            <w type="D">無法</w>
+            <w type="VC">執行</w>
+            <w type="Na">實驗</w>
+            <w type="Ng">時</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">將</w>
+            <w type="D">不會</w>
+            <w type="VD">給與</w>
+            <w type="Na">實驗</w>
+            <w type="Na">報酬</w>
+         </s>
+         <s>
+            <w type="Cbb">3</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Cbb">由於</w>
+            <w type="Na">經費</w>
+            <w type="VA">報</w>
+            <w type="Na">帳</w>
+            <w type="Na">需求</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">需</w>
+            <w type="VF">請</w>
+            <w type="Nh">您</w>
+            <w type="VC">參與</w>
+            <w type="Na">實驗</w>
+            <w type="Ng">時</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">攜帶</w>
+            <w type="Nh">您</w>
+            <w type="DE">的</w>
+            <w type="Na">身分證</w>
+            <w type="Na">正反面</w>
+            <w type="Na">影本</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">4</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="Na">實驗</w>
+            <w type="Na">過程</w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">需</w>
+            <w type="D">長時間</w>
+            <w type="VC">凝視</w>
+            <w type="Na">螢幕</w>
+            <w type="Caa">或</w>
+            <w type="VC">執行</w>
+            <w type="A">特定</w>
+            <w type="DE">的</w>
+            <w type="Na">眼</w>
+            <w type="VAC">動</w>
+            <w type="Na">行為</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="VC">校正</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">您</w>
+            <w type="V_2">有</w>
+            <w type="Na">可能</w>
+            <w type="D">會</w>
+            <w type="Cbb">因</w>
+         </s>
+         <s>
+            <w type="Nep">此</w>
+            <w type="VK">感到</w>
+            <w type="Na">眼睛</w>
+            <w type="VH">疲累</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">若</w>
+            <w type="V_2">有</w>
+            <w type="Na">上述</w>
+            <w type="DE">的</w>
+            <w type="Nv">不適</w>
+            <w type="Nh">您</w>
+            <w type="D">皆</w>
+            <w type="D">可</w>
+            <w type="P">於</w>
+            <w type="Na">實驗</w>
+            <w type="D">當下</w>
+            <w type="VE">告知</w>
+            <w type="VE">實驗</w>
+            <w type="Na">者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">實驗</w>
+            <w type="Na">者</w>
+            <w type="D">將</w>
+            <w type="P">視</w>
+         </s>
+         <s>
+            <w type="Na">情況</w>
+            <w type="VD">給予</w>
+            <w type="D">相</w>
+            <w type="VC">對應</w>
+            <w type="DE">的</w>
+            <w type="VA">休息</w>
+            <w type="Na">時間</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">【</w>
+            <w type="VC">聯絡</w>
+            <w type="Na">資料</w>
+            <w type="PARENTHESISCATEGORY">】</w>
+         </s>
+         <s>
+            <w type="Na">單位</w>
+            <w type="Na">名稱</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="A">國立</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Nc">心理系</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">見臻</w>
+            <w type="Na">科技</w>
+            <w type="Na">股份</w>
+            <w type="Nc">有限公司</w>
+         </s>
+         <s>
+            <w type="Na">計畫</w>
+            <w type="Na">主持人</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">簡韶逸</w>
+            <w type="Na">教授</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">葉素玲</w>
+            <w type="Na">教授</w>
+         </s>
+         <s>
+            <w type="VE">實驗</w>
+            <w type="Na">聯絡人</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">李</w>
+            <w type="Na">先生</w>
+            <w type="FW"> 0953295911</w>
+            <w type="FW">/</w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="FW">email</w>
+            <w type="FW"> protected</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+         </s>
+      </body>
+      <title author="n60213 (小安)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VC">徵求</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">眼</w>
+            <w type="VAC">動</w>
+            <w type="Nv">追蹤</w>
+            <w type="Na">實驗</w>
+            <w type="VC">誠</w>
+            <w type="VC">徵</w>
+            <w type="Na">實驗</w>
+            <w type="VC">參與</w>
+            <w type="Na">者</w>
+         </s>
+      </title>
+      <comment author="verdandy" c_type="pos">
+         <s>
+            <w type="D">一</w>
+            <w type="VC">嗅</w>
+            <w type="Neu">二</w>
+            <w type="VC">視</w>
+         </s>
+      </comment>
+      <comment author="ckmc" c_type="pos">
+         <s>
+            <w type="Neu">三</w>
+            <w type="VA">動眼</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

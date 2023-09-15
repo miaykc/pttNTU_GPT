@@ -1,0 +1,934 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">qpr322 (龍魚)</metadata>
+      <metadata name="post_id">M.1606840417.A.5DA</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[情報] 2020 澳洲影視藝術學院獎 得獎名單</metadata>
+   </teiHeader>
+   <text>
+      <body author="qpr322 (龍魚)">
+         <s>
+            <w type="Nd">之前</w>
+            <w type="VC">漏掉</w>
+            <w type="Di">了</w>
+            <w type="VJ">入圍</w>
+            <w type="Na">名單</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Ncd">這邊</w>
+            <w type="Neu">一</w>
+            <w type="Nf">次</w>
+            <w type="VC">補上</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">影片</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="VL">愛</w>
+            <w type="Di">過</w>
+            <w type="Nh">我</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">H Is For</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Happiness</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VG">生為</w>
+            <w type="Na">女人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">隱形人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">家靈</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">True</w>
+            <w type="FW"> History</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> the</w>
+            <w type="FW"> Kelly</w>
+            <w type="FW"> Gang</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="VH">獨立</w>
+            <w type="Na">電影</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">A </w>
+            <w type="FW">Boy</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Called</w>
+            <w type="FW"> Sail</w>
+            <w type="FW">boat</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Hot</w>
+            <w type="FW"> Mess</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Koko</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> A </w>
+            <w type="FW">Red</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Dog</w>
+            <w type="FW"> Story</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">A </w>
+            <w type="FW">Lion</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Returns</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Standing</w>
+            <w type="FW"> Up</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">For</w>
+            <w type="FW"> Sunny</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Unsound</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">導演</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="VL">愛</w>
+            <w type="Di">過</w>
+            <w type="Nh">我</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Shannon</w>
+            <w type="FW"> Murphy</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">H Is </w>
+            <w type="FW">For</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Happiness</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">John</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Sheedy</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">隱形人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Leigh</w>
+            <w type="FW"> Whannell</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">家靈</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Natalie</w>
+            <w type="FW"> Erika</w>
+            <w type="FW"> James</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">True</w>
+            <w type="FW"> History</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> the</w>
+            <w type="FW"> Kelly</w>
+            <w type="FW"> Gang</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Justin</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Kurzel</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">男</w>
+            <w type="Na">主角</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">True</w>
+            <w type="FW"> History</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> the</w>
+            <w type="FW"> Kelly</w>
+            <w type="FW"> Gang</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">George</w>
+            <w type="FW"> Mac</w>
+            <w type="FW">Kay</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Rams</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Sam </w>
+            <w type="FW">Neill</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">H Is </w>
+            <w type="FW">For</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Happiness</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Richard</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Roxburgh</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="VL">愛</w>
+            <w type="Di">過</w>
+            <w type="Nh">我</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Toby</w>
+            <w type="FW"> Wallace</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Measure</w>
+            <w type="FW"> for</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Measure</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Hugo</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Weaving</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">女</w>
+            <w type="Na">主角</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VG">生為</w>
+            <w type="Na">女人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Tilda Cobham-Hervey</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">贋母</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Laura</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Gordon</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">隱形人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Elisabeth</w>
+            <w type="FW"> Moss</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">外</w>
+            <w type="VA">打怪</w>
+            <w type="VA">教學</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Lupita</w>
+            <w type="FW"> Nyong</w>
+            <w type="FW">’o</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="VL">愛</w>
+            <w type="Di">過</w>
+            <w type="Nh">我</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Eliza</w>
+            <w type="FW"> Scanlen</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">男</w>
+            <w type="Na">配角</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Measure</w>
+            <w type="FW"> for</w>
+            <w type="FW"> Measure</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Fayssal</w>
+            <w type="FW"> Bazzi</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">True</w>
+            <w type="FW"> History</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> the</w>
+            <w type="FW"> Kelly</w>
+            <w type="FW"> Gang</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Russell</w>
+            <w type="FW"> Crowe</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">The</w>
+            <w type="FW"> Flood</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Aaron</w>
+            <w type="FW"> Jeffery</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="VL">愛</w>
+            <w type="Di">過</w>
+            <w type="Nh">我</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Ben</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Mendelsohn</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">H Is </w>
+            <w type="FW">For</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Happiness</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Wesley</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Patten</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">女</w>
+            <w type="Na">配角</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">H Is </w>
+            <w type="FW">For</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Happiness</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Emma</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Booth</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="VL">愛</w>
+            <w type="Di">過</w>
+            <w type="Nh">我</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Essie</w>
+            <w type="FW"> Davis</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">家靈</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Bella </w>
+            <w type="FW">Heathcote</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">H Is </w>
+            <w type="FW">For</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Happiness</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Deborah</w>
+            <w type="FW"> Mailman</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Measure</w>
+            <w type="FW"> for</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Measure</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Doris</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Younane</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">劇本</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="VL">愛</w>
+            <w type="Di">過</w>
+            <w type="Nh">我</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Rita</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Kalnejais</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nc">校</w>
+            <w type="Ncd">外</w>
+            <w type="VA">打怪</w>
+            <w type="VA">教學</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Abe</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Forsy</w>
+            <w type="FW">the</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">隱形人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Leigh</w>
+            <w type="FW"> Whannell</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">家靈</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Natalie</w>
+            <w type="FW"> Erika</w>
+            <w type="FW"> James</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Christian</w>
+            <w type="FW"> White</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">True</w>
+            <w type="FW"> History</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> the</w>
+            <w type="FW"> Kelly</w>
+            <w type="FW"> Gang</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Shaun</w>
+            <w type="FW"> Grant</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">攝影</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="VL">愛</w>
+            <w type="Di">過</w>
+            <w type="Nh">我</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Andrew</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Commis</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Bloody</w>
+            <w type="FW"> Hell</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Brad</w>
+            <w type="FW"> Shield</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">鑰命</w>
+            <w type="Nc">監獄</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Ge</w>
+            <w type="FW">of</w>
+            <w type="FW">frey</w>
+            <w type="FW"> Hall</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">H Is </w>
+            <w type="FW">For</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Happiness</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Bonnie</w>
+            <w type="FW"> Elliott</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">隱形人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Stefan</w>
+            <w type="FW"> Duscio</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="VC">剪輯</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="VL">愛</w>
+            <w type="Di">過</w>
+            <w type="Nh">我</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Steve</w>
+            <w type="FW"> Evans</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VG">生為</w>
+            <w type="Na">女人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Dany</w>
+            <w type="FW"> Cooper</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">隱形人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Andy</w>
+            <w type="FW"> Canny</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">True</w>
+            <w type="FW"> History</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> the</w>
+            <w type="FW"> Kelly</w>
+            <w type="FW"> Gang</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Nick</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Fenton</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">贋母</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Julie-Anne</w>
+            <w type="FW"> De</w>
+            <w type="FW"> Ruvo</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Nick</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Meyers</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">音效</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="VL">愛</w>
+            <w type="Di">過</w>
+            <w type="Nh">我</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Sam </w>
+            <w type="FW">Hayward</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Angus</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Robertson</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Rick</w>
+            <w type="FW"> Lisle</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Nick</w>
+            <w type="FW"> Emond</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VG">生為</w>
+            <w type="Na">女人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Mackenzie</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Ben</w>
+            <w type="FW"> Osmo</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Pete</w>
+            <w type="FW"> Smith</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Tara</w>
+            <w type="FW"> Webb</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">隱形人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">P.K </w>
+            <w type="FW">Hooker</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Will</w>
+            <w type="FW"> Files</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Paul</w>
+            <w type="FW"> “</w>
+            <w type="FW">Salty</w>
+            <w type="FW">” Brincat</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">家靈</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Robert</w>
+            <w type="FW"> Mackenzie</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> John</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Wilkinson</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Steve</w>
+            <w type="FW"> Burgess</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Glenn</w>
+            <w type="FW"> Newnham</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">True</w>
+            <w type="FW"> History</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> the</w>
+            <w type="FW"> Kelly</w>
+            <w type="FW"> Gang</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Frank</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Lipson</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Steve</w>
+            <w type="FW"> Single</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Andrew</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Neil</w>
+            <w type="COMMACATEGORY">,</w>
+         </s>
+         <s>
+            <w type="FW">Andrew</w>
+            <w type="FW"> Ramage</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">配樂</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="VL">愛</w>
+            <w type="Di">過</w>
+            <w type="Nh">我</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Amanda</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Brown</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Dirt</w>
+            <w type="FW"> Music</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Craig</w>
+            <w type="FW"> Armstrong</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">H Is For</w>
+            <w type="FW"> Happiness</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Nerida</w>
+            <w type="FW"> Tyson-Chew</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VG">生為</w>
+            <w type="Na">女人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Rafael</w>
+            <w type="FW"> May</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">True</w>
+            <w type="FW"> History</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> the</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Kelly</w>
+            <w type="FW"> Gang</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Jed</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Kurzel</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">美術</w>
+            <w type="VC">設計</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VJ">謝謝</w>
+            <w type="Nh">你</w>
+            <w type="VL">愛</w>
+            <w type="Di">過</w>
+            <w type="Nh">我</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Sherree</w>
+            <w type="FW"> Philips</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VG">生為</w>
+            <w type="Na">女人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Michael</w>
+            <w type="FW"> Turner</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Richie</w>
+            <w type="FW"> Dehne</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">隱形人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Alex</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Holmes</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Katie</w>
+            <w type="FW"> Sharrock</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Miss</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Fisher</w>
+            <w type="FW"> and</w>
+            <w type="FW"> the</w>
+            <w type="FW"> Crypt</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Tears</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Robert</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Perkins</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">True</w>
+            <w type="FW"> History</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> the</w>
+            <w type="FW"> Kelly</w>
+            <w type="FW"> Gang</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Karen</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Murphy</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Rebecca</w>
+            <w type="WHITESPACE"> </w>
+            <w type="DASHCATEGORY">Cohen</w>
+         </s>
+         <s>
+            <w type="FW">※</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">最佳</w>
+            <w type="Na">服裝</w>
+            <w type="Na">設計</w>
+            <w type="COLONCATEGORY">：</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">H Is For</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Happiness</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Terri</w>
+            <w type="FW"> Lamera</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="VG">生為</w>
+            <w type="Na">女人</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Emily</w>
+            <w type="FW"> Seresin</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Measure</w>
+            <w type="FW"> for</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Measure</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Zohie</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Castellano</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="FW"> Olivia</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Simpson</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">Standing</w>
+            <w type="FW"> Up</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">For</w>
+            <w type="FW"> Sunny</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Nina</w>
+            <w type="FW"> Edwards</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="FW">True</w>
+            <w type="FW"> History</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">of</w>
+            <w type="FW"> the</w>
+            <w type="FW"> Kelly</w>
+            <w type="FW"> Gang</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="FW">Alice</w>
+            <w type="FW"> Babidge</w>
+         </s>
+      </body>
+      <title author="qpr322 (龍魚)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">情報</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 2020</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">澳洲</w>
+            <w type="Na">影視</w>
+            <w type="Na">藝術</w>
+            <w type="Nc">學院</w>
+            <w type="Na">獎</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VA">得獎</w>
+            <w type="Na">名單</w>
+         </s>
+      </title>
+      <comment author="spaiwana" c_type="pos">
+         <s>
+            <w type="FW">wow </w>
+            <w type="Da">超</w>
+            <w type="D">不</w>
+            <w type="VL">愛</w>
+            <w type="Nep">這</w>
+            <w type="Nf">片</w>
+            <w type="DE">的</w>
+            <w type="D">沒想到</w>
+            <w type="VH">大</w>
+            <w type="VC">殺</w>
+            <w type="Ncd">四方</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

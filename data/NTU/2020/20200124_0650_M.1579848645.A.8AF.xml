@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">lovecutes (bb)</metadata>
+      <metadata name="post_id">M.1579848645.A.8AF</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[贈書]化工系原文用書</metadata>
+   </teiHeader>
+   <text>
+      <body author="lovecutes (bb)">
+         <s>
+            <w type="Na">工數</w>
+            <w type="FW"> KREYZIG</w>
+         </s>
+         <s>
+            <w type="VHC">熱傳</w>
+            <w type="FW"> Incropera</w>
+         </s>
+         <s>
+            <w type="Nb">吳哲夫</w>
+            <w type="Na">教授</w>
+            <w type="DE">的</w>
+            <w type="Na">科技</w>
+            <w type="Na">英文</w>
+            <w type="VC">寫作</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">本</w>
+            <w type="Na">書</w>
+         </s>
+         <s>
+            <w type="Na">程序</w>
+            <w type="VC">設計</w>
+            <w type="FW"> Seborg</w>
+         </s>
+         <s>
+            <w type="VHC">化動</w>
+            <w type="FW"> fogler</w>
+         </s>
+         <s>
+            <w type="Na">材料</w>
+            <w type="Na">科學</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Callister</w>
+         </s>
+         <s>
+            <w type="Na">工程</w>
+            <w type="Na">圖學</w>
+         </s>
+         <s>
+            <w type="Da">單操</w>
+            <w type="FW"> Coulson</w>
+            <w type="FW"> no</w>
+            <w type="PERIODCATEGORY">.2</w>
+         </s>
+         <s>
+            <w type="Na">意者</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">站</w>
+            <w type="Ncd">內</w>
+            <w type="Na">信</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">古亭站</w>
+            <w type="Nc">附近</w>
+            <w type="Na">面</w>
+            <w type="VD">交</w>
+         </s>
+      </body>
+      <title author="lovecutes (bb)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈書</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="Nc">化工系</w>
+            <w type="Na">原文</w>
+            <w type="P">用</w>
+            <w type="Na">書</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

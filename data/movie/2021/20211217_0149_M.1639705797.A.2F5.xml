@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">leobest (滷蛋)</metadata>
+      <metadata name="post_id">M.1639705797.A.2F5</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] 蜘蛛人 無家日 片尾曲</metadata>
+   </teiHeader>
+   <text>
+      <body author="leobest (滷蛋)">
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nep">此</w>
+            <w type="Nf">篇</w>
+            <w type="VJ">無</w>
+            <w type="Na">雷</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="VK">抱歉</w>
+            <w type="VE">想</w>
+            <w type="VE">請教</w>
+            <w type="VJ">無家日</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">片尾</w>
+            <w type="Na">演員</w>
+            <w type="VE">介紹</w>
+            <w type="Ng">時</w>
+            <w type="DE">的</w>
+            <w type="Na">歌曲</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nd">當時</w>
+            <w type="VK">覺得</w>
+            <w type="Dfa">很</w>
+            <w type="VH">好聽</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">後悔</w>
+            <w type="D">沒用</w>
+            <w type="FW">App查</w>
+            <w type="SHI">是</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">歌</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="VE">請教</w>
+            <w type="Nd">一下</w>
+            <w type="D">有無</w>
+            <w type="Na">強者</w>
+            <w type="VK">知道</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">十分</w>
+            <w type="VK">感謝</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Na">爬文</w>
+            <w type="Caa">和</w>
+            <w type="VCL">去</w>
+            <w type="Na">網路</w>
+            <w type="VC">找</w>
+            <w type="Na">資料</w>
+            <w type="T">了</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="D">沒</w>
+            <w type="VC">找到</w>
+         </s>
+      </body>
+      <title author="leobest (滷蛋)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">蜘蛛人</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VJ">無家日</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">片尾曲</w>
+         </s>
+      </title>
+      <comment author="f59952" c_type="pos">
+         <s>
+            <w type="Neu">二刷</w>
+            <w type="T">吧</w>
+            <w type="FW">~</w>
+         </s>
+      </comment>
+      <comment author="jacky3838" c_type="pos">
+         <s>
+            <w type="FW">The</w>
+            <w type="FW"> Magic</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Number</w>
+         </s>
+      </comment>
+      <comment author="jacky3838" c_type="neu">
+         <s>
+            <w type="FW">by</w>
+            <w type="FW"> De</w>
+            <w type="FW"> La </w>
+            <w type="FW">Soul</w>
+         </s>
+      </comment>
+      <comment author="leobest" c_type="neu">
+         <s>
+            <w type="VK">感謝</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">位</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">找到</w>
+            <w type="Di">了</w>
+         </s>
+      </comment>
+      <comment author="leobest" c_type="neu">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=</w>
+            <w type="FW">Ld4WasFSvm4</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

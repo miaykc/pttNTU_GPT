@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">oupu (cooling)</metadata>
+      <metadata name="post_id">M.1601268502.A.DA0</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈票]  讓 今日交響狂人特映卷*2</metadata>
+   </teiHeader>
+   <text>
+      <body author="oupu (cooling)">
+         <s>
+            <w type="Na">時間</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Neu">2020/09/28 21</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">00</w>
+         </s>
+         <s>
+            <w type="Na">地點</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nc">長春</w>
+            <w type="Na">國賓</w>
+         </s>
+         <s>
+            <w type="D">可</w>
+            <w type="P">在</w>
+            <w type="Nc">台中</w>
+            <w type="Nb">永豐棧</w>
+            <w type="Nc">飯店</w>
+            <w type="VD">面交</w>
+            <w type="Na">者</w>
+            <w type="D">優先</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="Nd">臨時</w>
+            <w type="VH">有事</w>
+            <w type="D">無法</w>
+            <w type="VCL">前往</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">故</w>
+            <w type="VD">讓出</w>
+         </s>
+         <s>
+            <w type="VK">希望</w>
+            <w type="VC">看完</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+            <w type="D">能</w>
+            <w type="VD">發</w>
+            <w type="Di">個</w>
+            <w type="Na">心得文</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+         </s>
+         <s>
+            <w type="Na">意者</w>
+            <w type="Na">私</w>
+         </s>
+      </body>
+      <title author="oupu (cooling)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE">  </w>
+            <w type="VL">讓</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">今日</w>
+            <w type="A">交響</w>
+            <w type="Na">狂人</w>
+            <w type="Na">特映卷</w>
+            <w type="Neu">*2</w>
+         </s>
+      </title>
+      <comment author="hooooola" c_type="pos">
+         <s>
+            <w type="VH">純</w>
+            <w type="VC">推 </w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Dfa">非常</w>
+            <w type="VH">好看</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

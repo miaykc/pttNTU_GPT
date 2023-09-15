@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">lovehan (尋找初衷...)</metadata>
+      <metadata name="post_id">M.1658771606.A.D45</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[LIVE] 人間失格:太宰治與他的3個女人</metadata>
+   </teiHeader>
+   <text>
+      <body author="lovehan (尋找初衷...)">
+         <s>
+            <w type="Nc">東森</w>
+            <w type="Na">洋片台</w>
+         </s>
+         <s>
+            <w type="Neu">7/26 </w>
+            <w type="Cbb">(</w>
+            <w type="Neu">二</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="FW"> 01</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">30 ~04</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Neu">05</w>
+         </s>
+         <s>
+            <w type="Neqa">全</w>
+            <w type="Nc">台</w>
+            <w type="D">首播</w>
+         </s>
+         <s>
+            <w type="Nb">太宰治</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">小栗旬</w>
+         </s>
+         <s>
+            <w type="Nb">津島美知子</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="FW">宮沢りえ</w>
+         </s>
+         <s>
+            <w type="Nb">太田静子</w>
+            <w type="WHITESPACE"> </w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> 沢尻エリカ</w>
+         </s>
+         <s>
+            <w type="Nb">山崎富栄</w>
+            <w type="WHITESPACE"> </w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">二階堂ふみ</w>
+         </s>
+         <s>
+            <w type="FW">&amp;lt;◢.  .◣    </w>
+            <w type="VH">野</w>
+            <w type="FW">ブタパワー ~~~</w>
+         </s>
+         <s>
+            <w type="FW">╰◥ @@ ◤              </w>
+            <w type="VC">注入</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+            <w type="EXCLAMATIONCATEGORY">!</w>
+         </s>
+      </body>
+      <title author="lovehan (尋找初衷...)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[LIVE</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">人間</w>
+            <w type="VJ">失格</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="Nb">太宰治</w>
+            <w type="Caa">與</w>
+            <w type="Nh">他</w>
+            <w type="DE">的</w>
+            <w type="Neu">3</w>
+            <w type="Nf">個</w>
+            <w type="Na">女人</w>
+         </s>
+      </title>
+      <comment author="power11811" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Cbb">就是</w>
+            <w type="VC">看</w>
+            <w type="Na">二階堂</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">絕</w>
+            <w type="VH">美</w>
+         </s>
+      </comment>
+      <comment author="killer4034" c_type="pos">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="Dfa">滿</w>
+            <w type="VH">好看</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">olmtw (olmtw)</metadata>
+      <metadata name="post_id">M.1600136716.A.C16</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 台科大校長參選人李篤中疑赴中國兼職 教</metadata>
+   </teiHeader>
+   <text>
+      <body author="olmtw (olmtw)">
+         <s>
+            <w type="Nc">台科大</w>
+            <w type="Na">校長</w>
+            <w type="Na">參選人</w>
+            <w type="Nb">李篤中</w>
+            <w type="VK">疑</w>
+            <w type="VCL">赴</w>
+            <w type="Nc">中國</w>
+            <w type="VA">兼職</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">教部</w>
+            <w type="VF">要求</w>
+            <w type="VC">揭露</w>
+            <w type="Na">資訊</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Nc">中央社</w>
+            <w type="Na">記者</w>
+            <w type="Nb">陳至中</w>
+            <w type="Nc">台北</w>
+            <w type="Neu">15日</w>
+            <w type="VC">電</w>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="Na">媒體</w>
+            <w type="VE">報導</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">有意</w>
+            <w type="VC">參與</w>
+            <w type="Nc">台灣</w>
+            <w type="Na">科技</w>
+            <w type="Nc">大學</w>
+            <w type="Na">校長</w>
+            <w type="VC">遴選</w>
+            <w type="DE">的</w>
+            <w type="Nb">李篤中</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="P">被</w>
+            <w type="VJ">爆出</w>
+            <w type="D">曾</w>
+            <w type="VG">受聘</w>
+            <w type="Nc">中國</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">長江</w>
+            <w type="Na">學者</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nc">教育部</w>
+            <w type="Nd">今天</w>
+            <w type="D">初步</w>
+            <w type="VC">回應</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">遴選</w>
+            <w type="Nc">委員會</w>
+            <w type="D">須</w>
+            <w type="VF">要求</w>
+            <w type="Nb">李篤中</w>
+            <w type="VH">充分</w>
+            <w type="VC">揭</w>
+         </s>
+         <s>
+            <w type="VC">露</w>
+            <w type="VH">相關</w>
+            <w type="Na">訊息</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以</w>
+            <w type="VE">確認</w>
+            <w type="D">有無</w>
+            <w type="VA">違法</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nb">鏡週刊</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Nd">今天</w>
+            <w type="VE">報導</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台科大</w>
+            <w type="Nd">近期</w>
+            <w type="VC">展開</w>
+            <w type="Na">校長</w>
+            <w type="VC">遴選</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">有意</w>
+            <w type="VC">參選</w>
+            <w type="Na">者</w>
+            <w type="DE">之</w>
+            <w type="Neu">一</w>
+            <w type="DE">的</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">化工系</w>
+            <w type="Na">教授</w>
+            <w type="Nb">李篤</w>
+         </s>
+         <s>
+            <w type="VJ">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">遭</w>
+            <w type="VE">控</w>
+            <w type="VG">疑似</w>
+            <w type="D">曾</w>
+            <w type="VG">名列</w>
+            <w type="Nd">2006年度</w>
+            <w type="Nc">中國</w>
+            <w type="Nc">長江</w>
+            <w type="Na">學者</w>
+            <w type="Na">獎勵</w>
+            <w type="Na">計畫</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">千</w>
+            <w type="Na">人</w>
+            <w type="Na">計畫</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">接受</w>
+            <w type="Nc">哈爾濱</w>
+            <w type="Na">工業</w>
+            <w type="Nc">大學</w>
+            <w type="VF">聘</w>
+         </s>
+         <s>
+            <w type="VG">任</w>
+            <w type="Da">至少</w>
+            <w type="Neu">3</w>
+            <w type="Nf">年</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">長年</w>
+            <w type="VC">拿</w>
+            <w type="Nc">中國</w>
+            <w type="Na">經費</w>
+            <w type="VC">做</w>
+            <w type="Nv">研究</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">遭</w>
+            <w type="Neqa">其他</w>
+            <w type="Na">學者</w>
+            <w type="VE">質疑</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">教育部</w>
+            <w type="Nd">今天</w>
+            <w type="D">初步</w>
+            <w type="VC">回應</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">台灣</w>
+            <w type="A">公私立</w>
+            <w type="Na">科研</w>
+            <w type="Na">機構</w>
+            <w type="Caa">及</w>
+            <w type="Nc">大專校院</w>
+            <w type="VG">現職</w>
+            <w type="A">專任</w>
+            <w type="Na">教師</w>
+            <w type="Caa">及</w>
+            <w type="VH">相關</w>
+            <w type="Na">人員</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">未</w>
+            <w type="P">經</w>
+            <w type="VE">許</w>
+         </s>
+         <s>
+            <w type="D">可</w>
+            <w type="D">不能</w>
+            <w type="VG">應聘到</w>
+            <w type="Nc">中國</w>
+            <w type="VA">任教</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="D">不得</w>
+            <w type="VC">參與</w>
+            <w type="Nc">中國</w>
+            <w type="Nes">各</w>
+            <w type="Nf">項</w>
+            <w type="Na">國家</w>
+            <w type="Na">基金</w>
+            <w type="Caa">及</w>
+            <w type="Na">國家</w>
+            <w type="Na">重點</w>
+            <w type="VC">研發</w>
+            <w type="Na">計畫</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="P">如</w>
+            <w type="Neu">千</w>
+            <w type="Na">人</w>
+            <w type="Na">計畫</w>
+         </s>
+         <s>
+            <w type="PARENTHESISCATEGORY">）</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">已</w>
+            <w type="Neqa">多</w>
+            <w type="Nf">次</w>
+            <w type="VC">發函</w>
+            <w type="Nes">各</w>
+            <w type="Nc">校</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">教育部</w>
+            <w type="Nd">目前</w>
+            <w type="D">未</w>
+            <w type="P">針對</w>
+            <w type="Na">個案</w>
+            <w type="VH">直接</w>
+            <w type="VC">回應</w>
+            <w type="Nb">李篤中</w>
+            <w type="D">是否</w>
+            <w type="VA">違法</w>
+            <w type="VCL">赴</w>
+            <w type="Nc">中</w>
+            <w type="VA">兼職</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Da">僅</w>
+            <w type="Na">通案</w>
+            <w type="VE">解釋</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">學者</w>
+            <w type="D">未</w>
+            <w type="D">依法</w>
+            <w type="VC">取得</w>
+         </s>
+         <s>
+            <w type="VE">許可</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可能</w>
+            <w type="VJ">違反</w>
+            <w type="PARENTHESISCATEGORY">「</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">地區</w>
+            <w type="Caa">與</w>
+            <w type="Nc">大陸</w>
+            <w type="Nc">地區</w>
+            <w type="Na">人民</w>
+            <w type="Na">關係</w>
+            <w type="Na">條例</w>
+            <w type="PARENTHESISCATEGORY">」</w>
+            <w type="Caa">或</w>
+            <w type="Na">教育</w>
+            <w type="Na">人員</w>
+            <w type="VC">任用</w>
+            <w type="Na">條例</w>
+            <w type="Neu">第34</w>
+            <w type="Nf">條</w>
+            <w type="VJ">有關</w>
+            <w type="VG">兼</w>
+         </s>
+         <s>
+            <w type="Na">職</w>
+            <w type="DE">的</w>
+            <w type="Na">規定</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nc">台灣</w>
+            <w type="VG">現職</w>
+            <w type="A">專任</w>
+            <w type="Na">教師</w>
+            <w type="VC">發表</w>
+            <w type="Na">論文</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nv">研究</w>
+            <w type="Na">經費</w>
+            <w type="Cbb">如果</w>
+            <w type="VJ">來自</w>
+            <w type="Nc">中國</w>
+            <w type="Nc">大陸</w>
+            <w type="Na">官方</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="D">須</w>
+            <w type="P">依法</w>
+            <w type="VC">報教</w>
+         </s>
+         <s>
+            <w type="Nc">育部</w>
+            <w type="VE">許可</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nd">民國</w>
+            <w type="Nd">107年</w>
+            <w type="Nc">台灣</w>
+            <w type="Nc">大學</w>
+            <w type="Na">校長</w>
+            <w type="VC">遴選</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">校長</w>
+            <w type="Na">當選人</w>
+            <w type="Nb">管中閔</w>
+            <w type="P">被</w>
+            <w type="VC">檢舉</w>
+            <w type="D">曾</w>
+            <w type="VCL">赴</w>
+            <w type="Nc">中國</w>
+            <w type="Nc">廈門</w>
+            <w type="Nc">大學</w>
+            <w type="VA">兼課</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VA">兼職</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="Nc">教育部</w>
+            <w type="Nd">當時</w>
+            <w type="VC">召開</w>
+            <w type="VC">跨</w>
+            <w type="Na">部會</w>
+            <w type="VE">諮詢</w>
+            <w type="Na">專案</w>
+            <w type="Na">小組</w>
+            <w type="VC">釐清</w>
+            <w type="Na">爭議</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">最後</w>
+            <w type="VE">認定</w>
+            <w type="D">並</w>
+            <w type="D">未</w>
+            <w type="VJ">違反</w>
+            <w type="Na">規範</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">教育部</w>
+            <w type="Nd">今天</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">參與</w>
+            <w type="Na">校長</w>
+            <w type="Nv">遴選</w>
+            <w type="DE">的</w>
+            <w type="Na">候選人</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">如</w>
+            <w type="D">可能</w>
+            <w type="D">曾</w>
+            <w type="VG">任</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="A">現任</w>
+            <w type="Nc">長江</w>
+            <w type="Na">學者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">或</w>
+            <w type="VG">名列</w>
+            <w type="Neu">千</w>
+            <w type="Na">人</w>
+            <w type="Na">計畫</w>
+         </s>
+         <s>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">都</w>
+            <w type="VK">須</w>
+            <w type="P">由</w>
+            <w type="VC">遴選</w>
+            <w type="Nc">委員會</w>
+            <w type="P">透過</w>
+            <w type="Na">決議</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">要求</w>
+            <w type="Na">候選人</w>
+            <w type="VH">充分</w>
+            <w type="VC">揭露</w>
+            <w type="VH">相關</w>
+            <w type="Na">訊息</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以</w>
+            <w type="VE">確認</w>
+            <w type="VJ">有無</w>
+            <w type="Nv">違法</w>
+            <w type="Na">情事</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nc">中央社</w>
+            <w type="Na">記者</w>
+            <w type="VE">詢問</w>
+            <w type="Nc">教育部</w>
+            <w type="D">是否</w>
+            <w type="V_2">有</w>
+            <w type="VC">掌握</w>
+            <w type="Nc">長江</w>
+            <w type="Na">學者</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Neu">千</w>
+            <w type="Na">人</w>
+            <w type="Na">計畫</w>
+            <w type="DE">的</w>
+            <w type="Na">台灣籍</w>
+            <w type="Na">學者</w>
+            <w type="Na">名單</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">以及</w>
+            <w type="Nc">大專</w>
+            <w type="Na">校長</w>
+         </s>
+         <s>
+            <w type="VC">遴選</w>
+            <w type="VCL">赴</w>
+            <w type="Nc">中</w>
+            <w type="VA">兼職</w>
+            <w type="DE">的</w>
+            <w type="Na">前例</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="VH">相關</w>
+            <w type="VE">認定</w>
+            <w type="Na">程序</w>
+            <w type="Cab">等</w>
+            <w type="Na">議題</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nd">目前</w>
+            <w type="D">並</w>
+            <w type="D">未</w>
+            <w type="VJ">獲得</w>
+            <w type="D">進一步</w>
+            <w type="VC">回應</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="PARENTHESISCATEGORY">（</w>
+            <w type="Na">編輯</w>
+            <w type="COLONCATEGORY">：</w>
+            <w type="Nb">陳俊碩</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.cna.com.tw/news/firstnews/202009155003</w>
+            <w type="FW">.</w>
+            <w type="FW">aspx</w>
+         </s>
+         <s>
+            <w type="FW">Sent</w>
+            <w type="FW"> from</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Google</w>
+            <w type="FW"> Chrome</w>
+            <w type="FW"> on</w>
+            <w type="FW"> Windows</w>
+            <w type="FW"> 10</w>
+            <w type="WHITESPACE"> </w>
+            <w type="FW">Pro</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </body>
+      <title author="olmtw (olmtw)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台科大</w>
+            <w type="Na">校長</w>
+            <w type="Na">參選人</w>
+            <w type="Nb">李篤中</w>
+            <w type="D">疑</w>
+            <w type="VCL">赴</w>
+            <w type="Nc">中國</w>
+            <w type="VA">兼職</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">教</w>
+         </s>
+      </title>
+      <comment author="AllenHuang" c_type="pos">
+         <s>
+            <w type="Na">名字</w>
+            <w type="D">都</w>
+            <w type="V_2">有</w>
+            <w type="Nc">中</w>
+         </s>
+      </comment>
+      <comment author="tom282f3" c_type="pos">
+         <s>
+            <w type="Nb">吳茂昆</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VHC">可憐</w>
+            <w type="T">哪</w>
+         </s>
+      </comment>
+      <comment author="cwh0105" c_type="neu">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">次</w>
+            <w type="D">會</w>
+            <w type="VC">換</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">個</w>
+            <w type="Na">部長</w>
+         </s>
+      </comment>
+      <comment author="Gauss" c_type="pos">
+         <s>
+            <w type="VG">改名</w>
+            <w type="Nb">李篤台</w>
+            <w type="D">即可</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

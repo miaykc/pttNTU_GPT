@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">dreamgirl (小糯米)</metadata>
+      <metadata name="post_id">M.1622169937.A.C7E</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] 台大總機轉台大醫院總機</metadata>
+   </teiHeader>
+   <text>
+      <body author="dreamgirl (小糯米)">
+         <s>
+            <w type="P">如</w>
+            <w type="Na">標題</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">人</w>
+            <w type="P">在</w>
+            <w type="Nc">國外</w>
+         </s>
+         <s>
+            <w type="Nd">目前</w>
+            <w type="D">都</w>
+            <w type="P">用</w>
+            <w type="FW">skype</w>
+            <w type="VC">打</w>
+            <w type="Nc">台大</w>
+            <w type="Na">總機</w>
+            <w type="P">按</w>
+            <w type="Neu">9</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">可以</w>
+            <w type="Na">人工</w>
+            <w type="VCL">轉到</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">醫院</w>
+            <w type="Na">總機</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="V_2">有</w>
+            <w type="D">不用</w>
+            <w type="VHC">麻煩</w>
+            <w type="Na">人工</w>
+            <w type="VC">轉接</w>
+            <w type="DE">的</w>
+            <w type="Na">辦法</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </body>
+      <title author="dreamgirl (小糯米)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台大</w>
+            <w type="Na">總機</w>
+            <w type="VC">轉</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">醫院</w>
+            <w type="Na">總機</w>
+         </s>
+      </title>
+      <comment author="gn01914712" c_type="pos">
+         <s>
+            <w type="V_2">有</w>
+            <w type="VC">對接</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">台大</w>
+            <w type="Nc">醫院</w>
+            <w type="Na">總機</w>
+            <w type="Nd">最近</w>
+            <w type="A">超級</w>
+            <w type="Na">忙</w>
+            <w type="Na">線</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">應該</w>
+            <w type="VC">打</w>
+            <w type="D">不</w>
+            <w type="VC">進去</w>
+         </s>
+      </comment>
+      <comment author="gn01914712" c_type="neu">
+         <s>
+            <w type="Nh">我</w>
+            <w type="D">都</w>
+            <w type="VH">直接</w>
+            <w type="VCL">去</w>
+            <w type="Nc">檢查室</w>
+            <w type="VC">找</w>
+            <w type="Nh">我</w>
+            <w type="D">要</w>
+            <w type="VC">找</w>
+            <w type="DE">的</w>
+            <w type="Na">人</w>
+         </s>
+      </comment>
+      <comment author="dreamgirl" c_type="neu">
+         <s>
+            <w type="V_2">有</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">人工</w>
+            <w type="VC">轉接</w>
+            <w type="VH">可以</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="VK">知道</w>
+            <w type="Dfa">很</w>
+            <w type="VH">難</w>
+            <w type="VC">打</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">但</w>
+            <w type="D">要</w>
+            <w type="P">幫</w>
+            <w type="Nc">家</w>
+            <w type="Ncd">中</w>
+            <w type="Na">長輩</w>
+            <w type="VG">改成</w>
+         </s>
+      </comment>
+      <comment author="dreamgirl" c_type="neu">
+         <s>
+            <w type="Nc">線上</w>
+            <w type="VA">看診</w>
+            <w type="Cbb">所以</w>
+            <w type="D">還是</w>
+            <w type="D">要</w>
+            <w type="VF">嘗試</w>
+         </s>
+      </comment>
+      <comment author="taipoo" c_type="pos">
+         <s>
+            <w type="D">為什麼</w>
+            <w type="D">不</w>
+            <w type="VH">直接</w>
+            <w type="VC">撥</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">醫院</w>
+            <w type="Na">電話</w>
+            <w type="D">就</w>
+            <w type="VH">好</w>
+            <w type="T">了</w>
+            <w type="T">呢</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="dreamgirl" c_type="neu">
+         <s>
+            <w type="Na">人</w>
+            <w type="P">在</w>
+            <w type="Nc">國外</w>
+            <w type="FW">qq</w>
+         </s>
+      </comment>
+      <comment author="celtics1997" c_type="neu">
+         <s>
+            <w type="FW">@taipoo</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">錢奴</w>
+            <w type="D">真</w>
+            <w type="VH">聰明</w>
+            <w type="T">耶</w>
+         </s>
+      </comment>
+      <comment author="celtics1997" c_type="neu">
+         <s>
+            <w type="FW">#1</w>
+            <w type="DASHCATEGORY">Vkkg-m6</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">NTU</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VC">等</w>
+            <w type="Nh">你</w>
+            <w type="Dfa">很</w>
+            <w type="VH">久</w>
+            <w type="T">囉</w>
+         </s>
+      </comment>
+      <comment author="xxuanxx" c_type="pos">
+         <s>
+            <w type="Neu">02-33663366</w>
+            <w type="VC">轉</w>
+            <w type="Neu">606 </w>
+            <w type="D">可以</w>
+            <w type="VC">接</w>
+            <w type="Nc">台大</w>
+            <w type="Nc">醫院</w>
+         </s>
+      </comment>
+      <comment author="taipoo" c_type="pos">
+         <s>
+            <w type="Nc">國外</w>
+            <w type="D">也</w>
+            <w type="D">可以</w>
+            <w type="VC">撥</w>
+            <w type="Na">電話</w>
+            <w type="DE">的</w>
+         </s>
+      </comment>
+      <comment author="dreamgirl" c_type="neu">
+         <s>
+            <w type="VK">感謝</w>
+            <w type="FW">x</w>
+            <w type="VH">大</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

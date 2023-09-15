@@ -1,0 +1,774 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">hazel0093 (飛龍がくる)</metadata>
+      <metadata name="post_id">M.1605501021.A.7DF</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[新聞] 黃仁勳獲頒臺大名譽博士 張忠謀親自引言</metadata>
+   </teiHeader>
+   <text>
+      <body author="hazel0093 (飛龍がくる)">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.youtube.com/watch</w>
+            <w type="QUESTIONCATEGORY">?</w>
+            <w type="FW">v=Bnuea</w>
+            <w type="FW">Brj</w>
+            <w type="FW">T7</w>
+            <w type="FW">k</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//news.cnyes.com/news/id/4542959</w>
+         </s>
+         <s>
+            <w type="FW">NVIDIA</w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">NVDA-US</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">創辦人</w>
+            <w type="Caa">暨</w>
+            <w type="Na">執行長</w>
+            <w type="Nb">黃仁勳</w>
+            <w type="Nd">今</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Neu">(15)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">日</w>
+            <w type="VJ">獲</w>
+            <w type="Nc">臺大</w>
+            <w type="VD">頒發</w>
+            <w type="Na">名譽博士</w>
+            <w type="Na">學位</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">以</w>
+            <w type="VC">表彰</w>
+            <w type="Nh">他</w>
+         </s>
+         <s>
+            <w type="P">在</w>
+            <w type="Na">人工</w>
+            <w type="Na">智慧</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="FW">AI)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Caa">與</w>
+            <w type="Na">高效能</w>
+            <w type="VC">運算</w>
+            <w type="Na">領域</w>
+            <w type="DE">的</w>
+            <w type="VH">重要</w>
+            <w type="Na">貢獻</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Caa">以及</w>
+            <w type="VL">持續</w>
+            <w type="VC">創新</w>
+            <w type="DE">的</w>
+            <w type="Na">精神</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">帶領</w>
+            <w type="FW"> NVIDIA </w>
+            <w type="VG">成</w>
+         </s>
+         <s>
+            <w type="VG">為</w>
+            <w type="Nc">全球</w>
+            <w type="Dfa">最</w>
+            <w type="VJ">具</w>
+            <w type="Na">影響力</w>
+            <w type="Nc">公司</w>
+            <w type="DE">之</w>
+            <w type="Neu">一</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">台積電</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">2330-TW</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">創辦人</w>
+            <w type="Nb">張忠謀</w>
+            <w type="D">也</w>
+            <w type="D">親自</w>
+            <w type="VC">錄製</w>
+            <w type="Na">引言</w>
+            <w type="VC">祝福</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">張忠謀</w>
+            <w type="Caa">與</w>
+            <w type="Nb">黃仁勳</w>
+            <w type="Na">交情</w>
+            <w type="VH">深厚</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">此</w>
+            <w type="Nf">次</w>
+            <w type="Na">典禮</w>
+            <w type="Ng">中</w>
+            <w type="Nb">張忠謀</w>
+            <w type="D">也</w>
+            <w type="VC">錄製</w>
+            <w type="Neu">一</w>
+            <w type="Nf">段</w>
+            <w type="Na">影片</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">讚許</w>
+            <w type="Nb">黃仁勳</w>
+            <w type="VG">為</w>
+            <w type="Neu">一</w>
+            <w type="Nf">位</w>
+            <w type="VH">非凡</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="VC">領導</w>
+            <w type="Na">者</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">更</w>
+            <w type="VJ">分享</w>
+            <w type="FW"> NVIDIA </w>
+            <w type="Caa">與</w>
+            <w type="Nb">台積電</w>
+            <w type="P">在</w>
+            <w type="Nd">過去</w>
+            <w type="VJ">超過</w>
+            <w type="FW"> 20 </w>
+            <w type="Nf">年</w>
+            <w type="DE">的</w>
+            <w type="VH">合作</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">創造</w>
+            <w type="VH">傲人</w>
+            <w type="DE">的</w>
+            <w type="Na">成績</w>
+            <w type="Cbb">並</w>
+            <w type="VH">蓬勃</w>
+            <w type="VC">發展</w>
+         </s>
+         <s>
+            <w type="Nb">張忠謀</w>
+            <w type="P">在</w>
+            <w type="VC">祝福</w>
+            <w type="Na">影片</w>
+            <w type="Ng">中</w>
+            <w type="VE">表示</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nb">黃仁勳</w>
+            <w type="VG">為</w>
+            <w type="Nc">臺大</w>
+            <w type="Dfa">最</w>
+            <w type="VH">年輕</w>
+            <w type="DE">的</w>
+            <w type="Na">名譽博士</w>
+            <w type="DE">之</w>
+            <w type="Neu">一</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">如果</w>
+            <w type="Nh">他</w>
+            <w type="P">和</w>
+            <w type="Nh">我</w>
+            <w type="VA">工作</w>
+            <w type="VH">一樣</w>
+            <w type="Dfa">多</w>
+         </s>
+         <s>
+            <w type="Na">年</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+            <w type="Da">至少</w>
+            <w type="D">還</w>
+            <w type="V_2">有</w>
+            <w type="FW"> 30 </w>
+            <w type="Nf">年</w>
+            <w type="DE">的</w>
+            <w type="Na">職業</w>
+            <w type="Na">生涯</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="Dfa">很</w>
+            <w type="VK">確定</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="D">接下來</w>
+            <w type="DE">的</w>
+            <w type="Neu">幾十</w>
+            <w type="Nf">年</w>
+            <w type="Ng">裡</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我們</w>
+            <w type="D">可以</w>
+            <w type="VK">期待</w>
+            <w type="Nb">黃仁</w>
+         </s>
+         <s>
+            <w type="Nb">勳</w>
+            <w type="DE">的</w>
+            <w type="VH">偉大</w>
+            <w type="Na">成就</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">黃仁勳</w>
+            <w type="VE">指出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">很</w>
+            <w type="VH">榮幸</w>
+            <w type="D">能</w>
+            <w type="VJ">獲頒</w>
+            <w type="Nc">臺大</w>
+            <w type="Na">名譽博士</w>
+            <w type="Na">學位</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nep">這</w>
+            <w type="Nf">項</w>
+            <w type="Na">榮譽</w>
+            <w type="D">也</w>
+            <w type="VJ">等同於</w>
+            <w type="P">對</w>
+            <w type="FW"> NVIDIA </w>
+            <w type="Neqa">數以千計</w>
+            <w type="VG">成</w>
+         </s>
+         <s>
+            <w type="D">就</w>
+            <w type="DE">的</w>
+            <w type="VC">認可</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">且</w>
+            <w type="Neqa">許多</w>
+            <w type="Nc">臺大</w>
+            <w type="Na">畢業生</w>
+            <w type="D">皆</w>
+            <w type="VC">加入</w>
+            <w type="Nc">全球</w>
+            <w type="VH">頂尖</w>
+            <w type="Na">企業</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VJ">包含</w>
+            <w type="Neqa">許多</w>
+            <w type="FW"> NVIDIA </w>
+            <w type="Na">長期</w>
+            <w type="DE">的</w>
+            <w type="VH">合作</w>
+            <w type="Na">夥伴</w>
+            <w type="COMMACATEGORY">，</w>
+         </s>
+         <s>
+            <w type="P">如</w>
+            <w type="Nb">台積電</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">廣達 </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">2382-TW</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">富士康</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">聯發科</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Neu">2454-TW</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">矽品</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">華碩</w>
+            <w type="PAUSECATEGORY">、</w>
+            <w type="Nb">微星</w>
+            <w type="Cab">等</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">黃仁勳</w>
+            <w type="D">也</w>
+            <w type="VE">指出</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">很</w>
+            <w type="VH">榮幸</w>
+            <w type="D">能</w>
+            <w type="P">與</w>
+            <w type="Nb">台積電</w>
+            <w type="Na">創辦人</w>
+            <w type="Nb">張忠謀</w>
+            <w type="Caa">及</w>
+            <w type="Nb">廣達</w>
+            <w type="Na">董事長</w>
+            <w type="Nb">林百里</w>
+            <w type="VJ">獲得</w>
+            <w type="VH">同樣</w>
+            <w type="DE">的</w>
+            <w type="Na">殊榮</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">他</w>
+         </s>
+         <s>
+            <w type="Na">們</w>
+            <w type="SHI">是</w>
+            <w type="Na">電腦業</w>
+            <w type="DE">的</w>
+            <w type="Na">巨頭</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">也</w>
+            <w type="SHI">是</w>
+            <w type="Nh">我</w>
+            <w type="DE">的</w>
+            <w type="Na">英雄</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nb">黃仁勳</w>
+            <w type="Neu"> 1999 年</w>
+            <w type="VC">開創</w>
+            <w type="Na">革命性</w>
+            <w type="DE">的</w>
+            <w type="FW"> GPU</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">不僅</w>
+            <w type="VC">定義</w>
+            <w type="VH">現代</w>
+            <w type="Na">電腦</w>
+            <w type="VA">繪圖</w>
+            <w type="Na">技術</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">更</w>
+            <w type="VH">徹底</w>
+            <w type="VC">改變</w>
+            <w type="VH">平行</w>
+            <w type="VC">運算</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="Nc">世界</w>
+            <w type="PERIODCATEGORY">。</w>
+            <w type="Nd">如今</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">更</w>
+            <w type="P">透過</w>
+            <w type="FW"> GPU </w>
+            <w type="VH">深度</w>
+            <w type="VC">學習</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">成功</w>
+            <w type="P">將</w>
+            <w type="FW"> NVIDIA </w>
+            <w type="VG">轉型成</w>
+            <w type="Neu">一</w>
+            <w type="Nf">間</w>
+            <w type="FW"> AI </w>
+            <w type="VC">運算</w>
+            <w type="Nc">公司</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">為</w>
+            <w type="Nd">當今</w>
+         </s>
+         <s>
+            <w type="Nes">各</w>
+            <w type="VC">運算</w>
+            <w type="Na">領域</w>
+            <w type="DE">的</w>
+            <w type="VC">發展</w>
+            <w type="Caa">與</w>
+            <w type="VE">研究</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">帶來</w>
+            <w type="VH">前所未有</w>
+            <w type="DE">的</w>
+            <w type="Na">突破</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nd">去年</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nc">全球</w>
+            <w type="Nc">商界</w>
+            <w type="VJ">享有</w>
+            <w type="Na">盛譽</w>
+            <w type="DE">的</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Nb">哈佛</w>
+            <w type="Na">商業</w>
+            <w type="Na">評論</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="VG">評選</w>
+            <w type="Nb">黃仁勳</w>
+            <w type="VG">為</w>
+            <w type="FW"> 2019 </w>
+            <w type="Na">年度</w>
+            <w type="A">最佳</w>
+            <w type="FW"> CEO</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Neu">2017</w>
+         </s>
+         <s>
+            <w type="Na">年</w>
+            <w type="Nc">美國</w>
+            <w type="PARENTHESISCATEGORY">《</w>
+            <w type="Na">財富</w>
+            <w type="PARENTHESISCATEGORY">》</w>
+            <w type="Na">雜誌</w>
+            <w type="D">也</w>
+            <w type="VG">評選</w>
+            <w type="Nh">他</w>
+            <w type="P">為</w>
+            <w type="Na">年度</w>
+            <w type="VH">傑出</w>
+            <w type="Na">商業</w>
+            <w type="Na">人士</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VE">強調</w>
+            <w type="FW"> NVIDIA </w>
+            <w type="DE">的</w>
+            <w type="Na">成就</w>
+            <w type="Caa">與</w>
+            <w type="VH">不凡</w>
+            <w type="DE">的</w>
+            <w type="Na">企業</w>
+            <w type="Na">文</w>
+         </s>
+         <s>
+            <w type="VH">化</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Cbb">此外</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="Nb">黃仁勳</w>
+            <w type="VF">帶領</w>
+            <w type="Ng">下</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="FW">NVIDIA </w>
+            <w type="VC">締造</w>
+            <w type="Neqa">多</w>
+            <w type="Nf">項</w>
+            <w type="Na">紀錄</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">2010 </w>
+            <w type="Nd">年</w>
+            <w type="VC">推出</w>
+            <w type="Nc">全球</w>
+            <w type="Dfa">最</w>
+            <w type="VH">快</w>
+            <w type="DE">的</w>
+            <w type="A">超級</w>
+            <w type="Na">電腦</w>
+         </s>
+         <s>
+            <w type="FW">Tianhe-1A</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Neu">2011 年</w>
+            <w type="Nc">全球</w>
+            <w type="FW"> GPU </w>
+            <w type="VA">出貨</w>
+            <w type="VC">突破</w>
+            <w type="Neu"> 10 億</w>
+            <w type="Nf">顆</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Neu">2016 年</w>
+            <w type="VC">推出</w>
+            <w type="VC">引領</w>
+            <w type="FW"> AI </w>
+            <w type="VA">革命</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="FW">Pascal</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">架構</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">打造</w>
+            <w type="Nc">全球</w>
+            <w type="Nes">首</w>
+            <w type="Nf">款</w>
+            <w type="Na">深度</w>
+            <w type="VC">學習</w>
+            <w type="A">超級</w>
+            <w type="Na">電腦</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Neu">2018 </w>
+            <w type="Nf">年</w>
+            <w type="VC">推出</w>
+            <w type="VC">開創</w>
+            <w type="Na">光線</w>
+            <w type="Nv">追蹤</w>
+            <w type="Na">世代</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="FW">Turing</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">架構</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Nd">今年</w>
+            <w type="Dfa">更</w>
+            <w type="VC">推出</w>
+            <w type="Nd">歷代</w>
+            <w type="FW"> GPU </w>
+            <w type="Ng">中</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Dfa">最</w>
+            <w type="VH">大</w>
+            <w type="Na">效能</w>
+            <w type="VA">躍進</w>
+            <w type="DE">的</w>
+            <w type="FW"> Ampere</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">架構</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Cbb">並</w>
+            <w type="VH">成功</w>
+            <w type="VC">收購</w>
+            <w type="VJ">專精</w>
+            <w type="P">於</w>
+            <w type="Na">高效能</w>
+            <w type="VJ">互連</w>
+         </s>
+         <s>
+            <w type="Na">技術</w>
+            <w type="DE">的</w>
+            <w type="Nb"> Mellanox</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nc">公司</w>
+            <w type="SEMICOLONCATEGORY">；</w>
+            <w type="Dk">顯見</w>
+            <w type="Nb">黃仁勳</w>
+            <w type="VL">持續</w>
+            <w type="P">透過</w>
+            <w type="Na">遠見</w>
+            <w type="Caa">與</w>
+            <w type="Na">執行力</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">在</w>
+            <w type="FW"> AI </w>
+            <w type="Na">領域</w>
+            <w type="VC">創造</w>
+            <w type="VH">驚人</w>
+            <w type="DE">的</w>
+            <w type="Na">成果</w>
+         </s>
+         <s>
+            <w type="Nep">這</w>
+            <w type="SHI">是</w>
+            <w type="Na">神</w>
+            <w type="Ncd">前</w>
+            <w type="Na">刀工</w>
+            <w type="VA">對決</w>
+            <w type="VC">打贏</w>
+            <w type="DE">的</w>
+            <w type="Na">獎品</w>
+            <w type="T">嗎</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+         <s>
+            <w type="Na">作者</w>
+            <w type="WHITESPACE">  </w>
+            <w type="FW">Elsie</w>
+            <w type="Neu">1999</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Nb">艾兒</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+            <w type="WHITESPACE">                                       </w>
+            <w type="Na">看板</w>
+            <w type="WHITESPACE">  </w>
+            <w type="FW">Gossiping</w>
+         </s>
+         <s>
+            <w type="Na">標題</w>
+            <w type="WHITESPACE"> </w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問卦</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">焦糖</w>
+            <w type="VH">白手起家</w>
+            <w type="VC">拿</w>
+            <w type="Neu">十萬</w>
+            <w type="VC">讚</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">鄉民</w>
+            <w type="P">在</w>
+            <w type="VJ">嫉妒</w>
+            <w type="Nep">什麼</w>
+         </s>
+         <s>
+            <w type="Nh">人家</w>
+            <w type="V_2">有</w>
+            <w type="Na">本事</w>
+            <w type="VC">拿到</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VL">讓</w>
+            <w type="Nh">他</w>
+            <w type="VA">入學</w>
+            <w type="V_2">有</w>
+            <w type="Nes">何</w>
+            <w type="D">不</w>
+            <w type="VH">可</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </body>
+      <title author="hazel0093 (飛龍がくる)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">新聞</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">黃仁勳</w>
+            <w type="VJ">獲頒</w>
+            <w type="Nc">臺大</w>
+            <w type="Na">名譽博士</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">張忠謀</w>
+            <w type="D">親自</w>
+            <w type="VA">引言</w>
+         </s>
+      </title>
+      <comment author="hsshkisskiss" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="FW">panpiano</w>
+            <w type="V_2">有</w>
+            <w type="Neu">一百零五萬</w>
+            <w type="SHI">是</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="D">應該</w>
+            <w type="D">去</w>
+            <w type="VG">當</w>
+            <w type="Na">教育部長</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="dogluckyno1" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="Nb">老黃</w>
+         </s>
+      </comment>
+      <comment author="pig8409" c_type="neu">
+         <s>
+            <w type="D">沒</w>
+            <w type="D">順便</w>
+            <w type="VC">推出</w>
+            <w type="Neu">3090</w>
+            <w type="FW">ti</w>
+         </s>
+      </comment>
+      <comment author="zzzz8931" c_type="pos">
+         <s>
+            <w type="VD">捐</w>
+            <w type="Di">了</w>
+            <w type="Neqa">多少</w>
+            <w type="Na">資源</w>
+            <w type="P">給</w>
+            <w type="Nc">台大</w>
+            <w type="T">了</w>
+         </s>
+      </comment>
+      <comment author="kevin600339" c_type="neu">
+         <s>
+            <w type="Nc">台大</w>
+            <w type="P">跟</w>
+            <w type="Nep">這</w>
+            <w type="Nf">個</w>
+            <w type="Na">人</w>
+            <w type="VC">要</w>
+            <w type="Di">了</w>
+            <w type="Neqa">多少</w>
+            <w type="Na">錢</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VH">這樣</w>
+            <w type="VE">說</w>
+            <w type="Dfa">比較</w>
+            <w type="VH">好</w>
+            <w type="I">呵</w>
+            <w type="I">呵</w>
+            <w type="I">呵</w>
+         </s>
+      </comment>
+      <comment author="mikebbb" c_type="neg">
+         <s>
+            <w type="Nh">他</w>
+            <w type="D">從小</w>
+            <w type="VC">接受</w>
+            <w type="Nc">美國</w>
+            <w type="Na">教育</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="P">跟</w>
+            <w type="FW">NTU</w>
+            <w type="Na">關係</w>
+            <w type="SHI">是</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="ekids1234" c_type="pos">
+         <s>
+            <w type="V_2">有</w>
+            <w type="D">沒</w>
+            <w type="V_2">有</w>
+            <w type="Na">校友</w>
+            <w type="Na">優惠價</w>
+         </s>
+      </comment>
+      <comment author="zouelephant" c_type="pos">
+         <s>
+            <w type="FW">The</w>
+            <w type="VA"> 蹭</w>
+         </s>
+      </comment>
+      <comment author="sjayyan" c_type="neu">
+         <s>
+            <w type="VA">蹭</w>
+         </s>
+      </comment>
+      <comment author="jaids" c_type="pos">
+         <s>
+            <w type="VA">蹭</w>
+         </s>
+      </comment>
+      <comment author="Apache" c_type="pos">
+         <s>
+            <w type="Nh">你</w>
+            <w type="Nc">校</w>
+            <w type="P">對</w>
+            <w type="Na">深度</w>
+            <w type="VC">學習</w>
+            <w type="Caa">和</w>
+            <w type="Na">計算機</w>
+            <w type="Na">結構</w>
+            <w type="VC">貢獻</w>
+            <w type="VH">良多</w>
+            <w type="T">阿</w>
+         </s>
+      </comment>
+      <comment author="TuringNTU" c_type="pos">
+         <s>
+            <w type="Nb">老黃</w>
+            <w type="Dfa">有夠</w>
+            <w type="VD">給面子</w>
+         </s>
+      </comment>
+      <comment author="divaxxxx" c_type="pos">
+         <s>
+            <w type="VH">莫名</w>
+            <w type="VH">尷尬</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

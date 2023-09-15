@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">saroku123 (橄欖綠)</metadata>
+      <metadata name="post_id">M.1578064231.A.A28</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[贈票] 1/4 兔嘲男孩兩張</metadata>
+   </teiHeader>
+   <text>
+      <body author="saroku123 (橄欖綠)">
+         <s>
+            <w type="D">已</w>
+            <w type="VD">讓出</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+         <s>
+            <w type="SHI">是</w>
+            <w type="Nd">明天</w>
+            <w type="Neu">19:</w>
+            <w type="Neu">10</w>
+            <w type="P">在</w>
+            <w type="Nc">台北</w>
+            <w type="Nb">新光</w>
+            <w type="Nc">影城</w>
+            <w type="DE">的</w>
+            <w type="Na">場次</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Da">共</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">張</w>
+            <w type="PERIODCATEGORY">。</w>
+         </s>
+         <s>
+            <w type="Na">意者</w>
+            <w type="VF">請</w>
+            <w type="Na">站內信</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VK">感謝</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+         </s>
+      </body>
+      <title author="saroku123 (橄欖綠)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VD">贈票</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> 1/4</w>
+            <w type="Na"> 兔</w>
+            <w type="VC">嘲</w>
+            <w type="Na">男孩</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">張</w>
+         </s>
+      </title>
+      <comment author="egg780820" c_type="pos">
+         <s>
+            <w type="VC">推</w>
+            <w type="VH">好心</w>
+         </s>
+      </comment>
+      <comment author="kachy" c_type="pos">
+         <s>
+            <w type="VH">可惜</w>
+         </s>
+      </comment>
+      <comment author="afrazhao" c_type="pos">
+         <s>
+            <w type="Dfa">超</w>
+            <w type="VE">想</w>
+            <w type="VC">看</w>
+            <w type="Nep">這</w>
+            <w type="Nf">部</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="Nd">明天</w>
+            <w type="Nc">公司</w>
+            <w type="V_2">有</w>
+            <w type="Na">活動</w>
+            <w type="VA">哭</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="hahaccc32" c_type="neu">
+         <s>
+            <w type="D">剛剛</w>
+            <w type="VC">看</w>
+            <w type="Di">了</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">真的</w>
+            <w type="Dfa">很</w>
+            <w type="VH">棒</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

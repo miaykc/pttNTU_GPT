@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">manchenlee (好吃好吃滷肉飯)</metadata>
+      <metadata name="post_id">M.1641233416.A.90A</metadata>
+      <metadata name="year">2022</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 在這夜深人靜的夜晚</metadata>
+   </teiHeader>
+   <text>
+      <body author="manchenlee (好吃好吃滷肉飯)">
+         <s>
+            <w type="D">好像</w>
+            <w type="D">該</w>
+            <w type="VC">放</w>
+            <w type="Nf">點</w>
+            <w type="VH">好吃</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="D">嘻嘻</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/Mr7JZRr.jpg</w>
+         </s>
+      </body>
+      <title author="manchenlee (好吃好吃滷肉飯)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="P">在</w>
+            <w type="Nep">這</w>
+            <w type="VH">夜深人靜</w>
+            <w type="DE">的</w>
+            <w type="Nd">夜晚</w>
+         </s>
+      </title>
+      <comment author="chun10396974" c_type="neg">
+         <s>
+            <w type="D">並</w>
+            <w type="VJ">沒有</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">看起來</w>
+            <w type="Dfa">超</w>
+            <w type="VJ">ㄆㄨ</w>
+            <w type="ETCCATEGORY">ㄣ</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

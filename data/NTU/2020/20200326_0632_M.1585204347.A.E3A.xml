@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">mmm87963 (tongue561651511)</metadata>
+      <metadata name="post_id">M.1585204347.A.E3A</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 某a某a啾啾</metadata>
+   </teiHeader>
+   <text>
+      <body author="mmm87963 (tongue561651511)">
+         <s>
+            <w type="Nes">某</w>
+            <w type="FW">a</w>
+            <w type="Nes">某</w>
+            <w type="FW">a</w>
+            <w type="D">啾啾</w>
+         </s>
+         <s>
+            <w type="Nes">某</w>
+            <w type="FW">a</w>
+            <w type="Nes">某</w>
+            <w type="FW">a</w>
+            <w type="D">啾啾</w>
+         </s>
+         <s>
+            <w type="Nes">某</w>
+            <w type="FW">a</w>
+            <w type="Nes">某</w>
+            <w type="FW">a</w>
+            <w type="D">啾啾</w>
+         </s>
+      </body>
+      <title author="mmm87963 (tongue561651511)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nes">某</w>
+            <w type="FW">a某</w>
+            <w type="FW">a</w>
+            <w type="D">啾啾</w>
+         </s>
+      </title>
+      <comment author="chung0817" c_type="pos">
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//i.imgur.com/asxIFOi.jpg</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

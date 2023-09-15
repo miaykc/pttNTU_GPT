@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">NFDTD (ty)</metadata>
+      <metadata name="post_id">M.1628159232.A.292</metadata>
+      <metadata name="year">2021</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[問題] 有人的Giant ESCAPE公路車被偷嗎</metadata>
+   </teiHeader>
+   <text>
+      <body author="NFDTD (ty)">
+         <s>
+            <w type="FW">Giant</w>
+            <w type="FW"> ESCAPE 3 </w>
+            <w type="Nb">平把</w>
+            <w type="Na">公路車</w>
+            <w type="WHITESPACE"> </w>
+            <w type="PARENTHESISCATEGORY">(</w>
+            <w type="Na">藍色</w>
+            <w type="PARENTHESISCATEGORY">)</w>
+         </s>
+         <s>
+            <w type="Na">特徵</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW"> 2021</w>
+            <w type="Na">年份</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dfa">非常</w>
+            <w type="VH">新</w>
+            <w type="DE">的</w>
+            <w type="Na">車</w>
+         </s>
+         <s>
+            <w type="Na">車</w>
+            <w type="Nd">目前</w>
+            <w type="P">在</w>
+            <w type="Na">頭前</w>
+            <w type="Nc">派出所</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VF">請</w>
+            <w type="VC">聯絡</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nb">許家揚</w>
+            <w type="FW">  0985119171</w>
+         </s>
+         <s>
+            <w type="FW">https</w>
+            <w type="COLONCATEGORY">:</w>
+            <w type="FW">//www.facebook.com/goinbike</w>
+            <w type="FW">Andrew/posts/4805114626169542</w>
+         </s>
+      </body>
+      <title author="NFDTD (ty)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+            <w type="DE">的</w>
+            <w type="FW">Giant</w>
+            <w type="FW"> ESCAPE</w>
+            <w type="Na">公路車</w>
+            <w type="P">被</w>
+            <w type="VD">偷</w>
+            <w type="T">嗎</w>
+         </s>
+      </title>
+   </text>
+</TEI.2>

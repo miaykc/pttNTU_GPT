@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">ItsMyWorld (())</metadata>
+      <metadata name="post_id">M.1588937295.A.B87</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">movie-ptt</metadata>
+      <metadata name="title">[請益] Netflix電視連不上</metadata>
+   </teiHeader>
+   <text>
+      <body author="ItsMyWorld (())">
+         <s>
+            <w type="FW">Hello</w>
+            <w type="VE">請教</w>
+            <w type="Nd">一下</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nd">昨天</w>
+            <w type="VL">開始</w>
+            <w type="Na">電視</w>
+            <w type="DE">的</w>
+            <w type="FW">netflix</w>
+            <w type="D">就</w>
+            <w type="VC">連</w>
+            <w type="D">不</w>
+            <w type="Ncd">上</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Cbb">但是</w>
+            <w type="VH">同樣</w>
+            <w type="FW">wifi</w>
+            <w type="DE">的</w>
+            <w type="Na">手機</w>
+            <w type="D">可以</w>
+            <w type="VH">正常</w>
+            <w type="VC">觀看</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+            <w type="Na">人</w>
+         </s>
+         <s>
+            <w type="V_2">有</w>
+            <w type="Nep">這</w>
+            <w type="Na">問題</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+            <w type="WHITESPACE"> </w>
+            <w type="V_2">有</w>
+            <w type="VJ">違反</w>
+            <w type="Na">版規</w>
+            <w type="VC">自刪</w>
+         </s>
+      </body>
+      <title author="ItsMyWorld (())">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="VB">請益</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="FW"> Netflix</w>
+            <w type="Na">電視</w>
+            <w type="VC">連</w>
+            <w type="D">不</w>
+            <w type="VC">上</w>
+         </s>
+      </title>
+      <comment author="xinyi101" c_type="pos">
+         <s>
+            <w type="FW">mod</w>
+            <w type="Cbb">連</w>
+            <w type="FW">netflex</w>
+            <w type="COMMACATEGORY">,</w>
+            <w type="P">用</w>
+            <w type="Na">手機</w>
+            <w type="VC">用</w>
+            <w type="Na">電腦</w>
+            <w type="D">都</w>
+            <w type="VH">正常</w>
+         </s>
+      </comment>
+      <comment author="mefifthfloor" c_type="neg">
+         <s>
+            <w type="VH">無關</w>
+            <w type="Na">電影</w>
+         </s>
+      </comment>
+      <comment author="maxw1102" c_type="neu">
+         <s>
+            <w type="Nb">LG</w>
+            <w type="Na">電視</w>
+            <w type="VC">內建</w>
+            <w type="FW">Netflix</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VH">正常</w>
+         </s>
+      </comment>
+      <comment author="xvited945" c_type="neu">
+         <s>
+            <w type="Na">電視</w>
+            <w type="Na">型號</w>
+            <w type="D">沒</w>
+            <w type="VD">給</w>
+            <w type="SHI">是</w>
+            <w type="D">要</w>
+            <w type="D">怎麼</w>
+            <w type="VE">回答</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="burnsy0018" c_type="neg">
+         <s>
+            <w type="D">沒有</w>
+         </s>
+      </comment>
+      <comment author="ice240805" c_type="neu">
+         <s>
+            <w type="Nh">我</w>
+            <w type="Nc">家</w>
+            <w type="FW">sony</w>
+            <w type="D">有</w>
+            <w type="VK">遇</w>
+            <w type="Di">過</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="VC">長</w>
+            <w type="VC">按</w>
+            <w type="Na">電視</w>
+            <w type="Na">電源</w>
+            <w type="Na">開關</w>
+            <w type="VA">關機</w>
+            <w type="Ng">後</w>
+            <w type="Neu">10</w>
+            <w type="Nf">分鐘</w>
+            <w type="D">再</w>
+            <w type="VC">開</w>
+         </s>
+      </comment>
+      <comment author="system303179" c_type="neu">
+         <s>
+            <w type="FW">Digitalhome</w>
+            <w type="Na">板</w>
+         </s>
+      </comment>
+      <comment author="LeonKuo" c_type="neu">
+         <s>
+            <w type="Nb">三星</w>
+            <w type="D">常</w>
+            <w type="VC">遇到</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">超鳥</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">解法</w>
+            <w type="SHI">是</w>
+            <w type="VC">關</w>
+            <w type="Na">電視</w>
+            <w type="FW"> 拔</w>
+            <w type="Na">插頭</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">分鐘</w>
+            <w type="VL">讓</w>
+            <w type="Nh">他</w>
+            <w type="D">重</w>
+         </s>
+      </comment>
+      <comment author="LeonKuo" c_type="neu">
+         <s>
+            <w type="VC">置</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">要</w>
+            <w type="VE">避免</w>
+            <w type="DE">的</w>
+            <w type="Na">方法</w>
+            <w type="Cbb">就</w>
+            <w type="SHI">是</w>
+            <w type="Nes">每</w>
+            <w type="Nf">次</w>
+            <w type="VC">看完</w>
+            <w type="D">都</w>
+            <w type="VC">登出</w>
+            <w type="WHITESPACE"> </w>
+            <w type="VK">感覺</w>
+            <w type="SHI">是</w>
+            <w type="Nes">同</w>
+            <w type="Na">帳號</w>
+            <w type="D">不</w>
+         </s>
+      </comment>
+      <comment author="LeonKuo" c_type="neu">
+         <s>
+            <w type="P">同</w>
+            <w type="Na">裝置</w>
+            <w type="VH">同步</w>
+            <w type="DE">的</w>
+            <w type="Na">問題</w>
+         </s>
+      </comment>
+      <comment author="arty" c_type="neu">
+         <s>
+            <w type="D">要不要</w>
+            <w type="VC">更新</w>
+            <w type="Na">電視</w>
+            <w type="DE">的</w>
+            <w type="Na">韌體</w>
+            <w type="Di">看看</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+      <comment author="MAGODAJAN" c_type="pos">
+         <s>
+            <w type="Nh">我</w>
+            <w type="VC">找</w>
+            <w type="VC">維修</w>
+            <w type="VC">服務</w>
+            <w type="SHI">是</w>
+            <w type="VC">更換</w>
+            <w type="Na">藍芽</w>
+            <w type="Na">接受器</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Neu">一</w>
+            <w type="Nf">條</w>
+            <w type="Na">藍色</w>
+            <w type="VH">扁扁</w>
+            <w type="DE">的</w>
+            <w type="Na">線</w>
+         </s>
+      </comment>
+      <comment author="MAGODAJAN" c_type="neu">
+         <s>
+            <w type="Na">路板</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>

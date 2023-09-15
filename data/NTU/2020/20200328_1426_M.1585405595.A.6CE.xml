@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">bw64046404 (阿真蛙)</metadata>
+      <metadata name="post_id">M.1585405595.A.6CE</metadata>
+      <metadata name="year">2020</metadata>
+      <metadata name="board">NTU-ptt</metadata>
+      <metadata name="title">[廢文] 那系隊也要停練嗎？</metadata>
+   </teiHeader>
+   <text>
+      <body author="bw64046404 (阿真蛙)">
+         <s>
+            <w type="Nc">學校</w>
+            <w type="VE">說</w>
+            <w type="Na">社團</w>
+            <w type="Na">活動</w>
+            <w type="D">一律</w>
+            <w type="VHC">暫停</w>
+            <w type="Neu">兩</w>
+            <w type="Nf">個</w>
+            <w type="Na">星期</w>
+         </s>
+         <s>
+            <w type="D">似乎</w>
+            <w type="D">不</w>
+            <w type="VC">分</w>
+            <w type="Nc">室</w>
+            <w type="Ncd">內室</w>
+            <w type="Ncd">外</w>
+            <w type="Na">活動</w>
+            <w type="D">都</w>
+            <w type="SHI">是</w>
+         </s>
+         <s>
+            <w type="Nep">那</w>
+            <w type="Na">系隊</w>
+            <w type="VA">練球</w>
+            <w type="SHI">是</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="D">也</w>
+            <w type="D">要</w>
+            <w type="VHC">停</w>
+            <w type="D">一</w>
+            <w type="VHC">停</w>
+            <w type="T">呢</w>
+         </s>
+         <s>
+            <w type="Neu">一</w>
+            <w type="VH">大</w>
+            <w type="Nf">堆</w>
+            <w type="Na">運動</w>
+            <w type="Na">明星</w>
+            <w type="D">都</w>
+            <w type="VJ">中</w>
+            <w type="Di">了</w>
+            <w type="Nh">我</w>
+            <w type="D">也</w>
+            <w type="Dfa">好</w>
+            <w type="VK">害怕</w>
+            <w type="T">啊</w>
+            <w type="I">啊</w>
+            <w type="I">啊</w>
+         </s>
+         <s>
+            <w type="D">還是</w>
+            <w type="VE">說</w>
+            <w type="Na">病毒</w>
+            <w type="D">根本</w>
+            <w type="VL">不屑</w>
+            <w type="Nh">我們</w>
+            <w type="Neqa">這些</w>
+            <w type="VH">爛</w>
+            <w type="Na">系隊仔</w>
+            <w type="D">嘻嘻</w>
+         </s>
+      </body>
+      <title author="bw64046404 (阿真蛙)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">廢文</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Nep">那</w>
+            <w type="Na">系隊</w>
+            <w type="D">也</w>
+            <w type="D">要</w>
+            <w type="VHC">停練</w>
+            <w type="T">嗎</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </title>
+      <comment author="aha8877" c_type="pos">
+         <s>
+            <w type="VH">對</w>
+            <w type="T">啦</w>
+            <w type="VC">幹</w>
+         </s>
+      </comment>
+      <comment author="alex8725" c_type="neu">
+         <s>
+            <w type="Na">藤浪</w>
+            <w type="PERIODCATEGORY">..</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="zzzz8931" c_type="pos">
+         <s>
+            <w type="VK">怕</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+            <w type="PERIODCATEGORY">.</w>
+         </s>
+      </comment>
+      <comment author="deltz" c_type="pos">
+         <s>
+            <w type="Na">桌球</w>
+            <w type="D">根本</w>
+            <w type="VJ">沒</w>
+            <w type="Na">地方</w>
+            <w type="VC">練</w>
+            <w type="FW">== </w>
+            <w type="Ncd">外面</w>
+            <w type="Neu">一</w>
+            <w type="Na">小時</w>
+            <w type="Neu">100</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Dfa">很</w>
+            <w type="VH">傷</w>
+         </s>
+      </comment>
+      <comment author="hippo130" c_type="neu">
+         <s>
+            <w type="Nep">這</w>
+            <w type="Nf">段</w>
+            <w type="Na">時間</w>
+            <w type="Cbb">就是</w>
+            <w type="VD">給</w>
+            <w type="Nh">你</w>
+            <w type="VG">當</w>
+            <w type="Na">肥宅</w>
+            <w type="DE">的</w>
+            <w type="WHITESPACE"> </w>
+            <w type="D">還</w>
+            <w type="VC">練</w>
+            <w type="Nep">什麼</w>
+            <w type="Na">球</w>
+            <w type="T">啦</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>
